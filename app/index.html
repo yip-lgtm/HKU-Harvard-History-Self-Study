@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>HKU + Harvard History 自動化自學系統</title>
+<style>
+  :root {
+    --bg: #0b0f14;
+    --panel: #121821;
+    --border: #1e2a38;
+    --text: #e6edf3;
+    --muted: #8b9bb0;
+    --accent: #3b82f6;
+    --accent2: #22c55e;
+    --star: #f59e0b;
+    --danger: #ef4444;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #0d1219;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+  header h1 { font-size: 18px; font-weight: 700; letter-spacing: 0.3px; }
+  header .sub { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .layout { display: grid; grid-template-columns: 320px 1fr; min-height: calc(100vh - 64px); }
+  .sidebar {
+    border-right: 1px solid var(--border);
+    background: var(--panel);
+    overflow-y: auto;
+    padding: 16px;
+  }
+  .main { padding: 24px; overflow-y: auto; }
+  .search {
+    width: 100%;
+    background: #0b0f14;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    outline: none;
+  }
+  .search:focus { border-color: var(--accent); }
+  .filters { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+  .chip {
+    font-size: 11px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    cursor: pointer;
+    user-select: none;
+  }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: white; }
+  .course-item {
+    padding: 10px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    margin-bottom: 4px;
+  }
+  .course-item:hover { background: #182230; }
+  .course-item.active { background: #182230; border-color: var(--accent); }
+  .course-item .code { font-size: 12px; color: var(--accent); font-weight: 600; }
+  .course-item .title { font-size: 13px; margin-top: 2px; line-height: 1.3; }
+  .course-item .stars { color: var(--star); font-size: 11px; margin-top: 4px; }
+  .badge {
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #1a2332;
+    color: var(--muted);
+    margin-left: 6px;
+  }
+  .badge.done { background: #12351f; color: #4ade80; }
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+  }
+  .panel h2 { font-size: 20px; margin-bottom: 4px; }
+  .panel .meta { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+  .section-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--accent2);
+    margin: 18px 0 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .qa-block {
+    background: #0d141d;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+  }
+  .qa-block strong { color: #93c5fd; }
+  textarea, input[type="text"] {
+    width: 100%;
+    background: #0b0f14;
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 13px;
+    outline: none;
+    resize: vertical;
+  }
+  textarea:focus, input[type="text"]:focus { border-color: var(--accent); }
+  .btn-row { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+  button {
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  button.secondary { background: #1e2a38; color: var(--text); }
+  button.success { background: #16a34a; }
+  button:hover { filter: brightness(1.1); }
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 80px 20px;
+    font-size: 14px;
+  }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .stat {
+    background: #0d141d;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px;
+    text-align: center;
+  }
+  .stat .n { font-size: 22px; font-weight: 700; color: var(--accent2); }
+  .stat .l { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .progress-bar {
+    height: 6px;
+    background: #1a2332;
+    border-radius: 99px;
+    overflow: hidden;
+    margin-top: 8px;
+  }
+  .progress-bar > div {
+    height: 100%;
+    background: linear-gradient(90deg, #22c55e, #3b82f6);
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .sidebar { max-height: 40vh; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>HKU + Harvard History 自動化自學系統</h1>
+    <div class="sub">US Military Weapons Project · 袁騰飛式深度問答 · Phase 1–N</div>
+  </div>
+  <div style="font-size:12px;color:var(--muted)">Local Storage · Offline Ready</div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <input class="search" id="search" placeholder="搜尋課程代碼或名稱..." />
+    <div class="filters" id="filters">
+      <div class="chip active" data-filter="all">全部</div>
+      <div class="chip" data-filter="5">★★★★★</div>
+      <div class="chip" data-filter="4">★★★★</div>
+      <div class="chip" data-filter="done">已完成</div>
+      <div class="chip" data-filter="todo">未完成</div>
+    </div>
+    <div id="courseList"></div>
+  </aside>
+
+  <main class="main" id="main">
+    <div class="empty" id="emptyState">← 選擇左側課程開始深度學習</div>
+    <div id="detail" style="display:none"></div>
+  </main>
+</div>
+
+<script>
+const COURSES = [
+  { id: "GenEd1017", code: "GenEd 1017", title: "Forced to Be Free: Americans as Occupiers and Nation-Builders", stars: 5, school: "Harvard", note: "美國在菲律賓、日本等亞洲的軍事佔領與 nation-building", done: true },
+  { id: "GenEd1068", code: "GenEd 1068", title: "The United States and China", stars: 5, school: "Harvard", note: "中美關係從鴉片戰爭到現代軍事對抗", done: true },
+  { id: "Hist47", code: "Hist 47", title: "The Cold War", stars: 5, school: "Harvard", note: "冷戰在亞洲的熱戰、基地、武器部署", done: true },
+  { id: "Hist38", code: "Hist 38", title: "Modern China: 1894–Present", stars: 5, school: "Harvard", note: "中國近代被武器與帝國主義重塑的完整軌跡", done: true },
+  { id: "Hist14", code: "Hist 14", title: "The First World War", stars: 4, school: "Harvard", note: "全球戰爭（含中國戰場），現代武器時代開端", done: true },
+  { id: "Hist68", code: "Hist 68", title: "The 20th-Century United States", stars: 4, school: "Harvard", note: "美國如何成為全球軍事霸權", done: true },
+  { id: "GenEd1206", code: "GenEd 1206", title: "Asian Americans as an American Paradox", stars: 4, school: "Harvard", note: "亞裔與美國對亞政策的互動", done: false },
+  { id: "Hist66", code: "Hist 66", title: "The Coming of the Civil War", stars: 3, school: "Harvard", note: "美國早期帝國擴張根源", done: false },
+  { id: "GenEd1159", code: "GenEd 1159", title: "American Capitalism", stars: 3, school: "Harvard", note: "資本主義與軍事-工業複合體背景", done: false },
+  { id: "HIST1023", code: "HIST1023", title: "Modern East Asia", stars: 5, school: "HKU", note: "現代東亞史", done: false },
+  { id: "HIST1025", code: "HIST1025", title: "Introduction to the United States, 1607 to today", stars: 5, school: "HKU", note: "美國從大陸擴張到全球投射", done: true },
+  { id: "HIST2118", code: "HIST2118", title: "Chinese and Americans", stars: 5, school: "HKU", note: "中美文化與國際關係史", done: false },
+  { id: "HIST2127", code: "HIST2127", title: "Qing China in the World, 1644-1912", stars: 4, school: "HKU", note: "清代中國與世界", done: false },
+  { id: "HIST2193", code: "HIST2193", title: "A history of energy and humankind", stars: 4, school: "HKU", note: "武器工業的能量基礎", done: false },
+  { id: "Hist76", code: "Hist 76", title: "The History of Energy", stars: 4, school: "Harvard", note: "能量與現代戰爭", done: false },
+  { id: "Hist1942", code: "Hist 1942", title: "The Second World War", stars: 5, school: "Harvard", note: "二戰與美國全球軍事存在", done: false },
+  { id: "Hist137", code: "Hist 137", title: "A History of Love: Modern South and Southeast Asia", stars: 4, school: "Harvard", note: "東南亞史", done: false },
+  { id: "GENED1136", code: "GENED 1136", title: "Power and Civilization: China", stars: 4, school: "Harvard", note: "中國權力與文明", done: false },
+];
+
+const STORAGE_KEY = "hku_harvard_history_progress_v1";
+
+function loadProgress() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); }
+  catch { return {}; }
+}
+function saveProgress(data) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+}
+
+let progress = loadProgress();
+let currentId = null;
+let filter = "all";
+let searchQ = "";
+
+function starStr(n) {
+  return "★".repeat(n) + "☆".repeat(Math.max(0, 5 - n));
+}
+
+function isDone(c) {
+  return progress[c.id]?.done ?? c.done;
+}
+
+function renderList() {
+  const list = document.getElementById("courseList");
+  const filtered = COURSES.filter(c => {
+    const q = searchQ.toLowerCase();
+    const matchQ = !q || c.code.toLowerCase().includes(q) || c.title.toLowerCase().includes(q) || c.note.includes(q);
+    const matchF =
+      filter === "all" ? true :
+      filter === "5" ? c.stars === 5 :
+      filter === "4" ? c.stars >= 4 :
+      filter === "done" ? isDone(c) :
+      filter === "todo" ? !isDone(c) : true;
+    return matchQ && matchF;
+  });
+
+  list.innerHTML = filtered.map(c => `
+    <div class="course-item ${currentId === c.id ? "active" : ""}" data-id="${c.id}">
+      <div class="code">${c.code} <span class="badge ${isDone(c) ? "done" : ""}">${isDone(c) ? "已完成" : c.school}</span></div>
+      <div class="title">${c.title}</div>
+      <div class="stars">${starStr(c.stars)}</div>
+    </div>
+  `).join("");
+
+  list.querySelectorAll(".course-item").forEach(el => {
+    el.onclick = () => {
+      currentId = el.dataset.id;
+      renderList();
+      renderDetail();
+    };
+  });
+}
+
+function getQA(id) {
+  return progress[id]?.qa || {
+    models: ["", "", "", "", ""],
+    disagreements: ["", "", ""],
+    questions: Array(10).fill("")
+  };
+}
+
+function renderDetail() {
+  const c = COURSES.find(x => x.id === currentId);
+  const empty = document.getElementById("emptyState");
+  const detail = document.getElementById("detail");
+  if (!c) {
+    empty.style.display = "block";
+    detail.style.display = "none";
+    return;
+  }
+  empty.style.display = "none";
+  detail.style.display = "block";
+
+  const qa = getQA(c.id);
+  const done = isDone(c);
+  const total = COURSES.length;
+  const doneCount = COURSES.filter(isDone).length;
+  const pct = Math.round((doneCount / total) * 100);
+
+  detail.innerHTML = `
+    <div class="stats">
+      <div class="stat"><div class="n">${doneCount}</div><div class="l">已完成</div></div>
+      <div class="stat"><div class="n">${total - doneCount}</div><div class="l">待完成</div></div>
+      <div class="stat"><div class="n">${pct}%</div><div class="l">整體進度</div>
+        <div class="progress-bar"><div style="width:${pct}%"></div></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>${c.code}</h2>
+      <div class="meta">${c.title}<br/>${starStr(c.stars)} · ${c.school} · ${c.note}</div>
+
+      <div class="section-title">1. 5個核心心智模型</div>
+      ${[0,1,2,3,4].map(i => `
+        <div class="qa-block">
+          <strong>模型 ${i+1}</strong>
+          <textarea data-type="models" data-i="${i}" rows="2" placeholder="寫下這個領域專家共享的核心心智模型...">${qa.models[i] || ""}</textarea>
+        </div>
+      `).join("")}
+
+      <div class="section-title">2. 3個根本分歧點</div>
+      ${[0,1,2].map(i => `
+        <div class="qa-block">
+          <strong>分歧 ${i+1}</strong>
+          <textarea data-type="disagreements" data-i="${i}" rows="3" placeholder="專家在哪裡根本分歧？各方最強論點是什麼？">${qa.disagreements[i] || ""}</textarea>
+        </div>
+      `).join("")}
+
+      <div class="section-title">3. 10個深度理解問題</div>
+      ${[0,1,2,3,4,5,6,7,8,9].map(i => `
+        <div class="qa-block">
+          <strong>Q${i+1}</strong>
+          <input type="text" data-type="questions" data-i="${i}" placeholder="能區分深度理解與死背的問題..." value="${(qa.questions[i] || "").replace(/"/g, "&quot;")}" />
+        </div>
+      `).join("")}
+
+      <div class="btn-row">
+        <button class="success" id="btnSave">儲存進度</button>
+        <button class="secondary" id="btnToggleDone">${done ? "標記為未完成" : "標記為已完成"}</button>
+        <button class="secondary" id="btnExport">匯出 Markdown</button>
+      </div>
+    </div>
+  `;
+
+  document.getElementById("btnSave").onclick = () => {
+    const models = [...detail.querySelectorAll('[data-type="models"]')].map(el => el.value);
+    const disagreements = [...detail.querySelectorAll('[data-type="disagreements"]')].map(el => el.value);
+    const questions = [...detail.querySelectorAll('[data-type="questions"]')].map(el => el.value);
+    progress[c.id] = { ...(progress[c.id] || {}), qa: { models, disagreements, questions }, done: isDone(c) };
+    saveProgress(progress);
+    alert("已儲存到瀏覽器 Local Storage");
+  };
+
+  document.getElementById("btnToggleDone").onclick = () => {
+    const cur = isDone(c);
+    progress[c.id] = { ...(progress[c.id] || {}), done: !cur, qa: getQA(c.id) };
+    saveProgress(progress);
+    renderList();
+    renderDetail();
+  };
+
+  document.getElementById("btnExport").onclick = () => {
+    const models = [...detail.querySelectorAll('[data-type="models"]')].map(el => el.value);
+    const disagreements = [...detail.querySelectorAll('[data-type="disagreements"]')].map(el => el.value);
+    const questions = [...detail.querySelectorAll('[data-type="questions"]')].map(el => el.value);
+    const md = `# ${c.code}\n**${c.title}**\n\n優先級：${starStr(c.stars)}\n\n> ${c.note}\n\n### 1. 5個核心心智模型 / 5 Core Mental Models\n\n${models.map((m,i)=>`- 模型${i+1}：${m || "（待填寫）"}`).join("\n")}\n\n### 2. 3個根本分歧點 / 3 Fundamental Disagreements\n\n${disagreements.map((d,i)=>`- 分歧${i+1}：${d || "（待填寫）"}`).join("\n")}\n\n### 3. 10個深度理解問題 / 10 Deep Understanding Questions\n\n${questions.map((q,i)=>`${i+1}. ${q || "（待填寫）"}`).join("\n")}\n`;
+    const blob = new Blob([md], { type: "text/markdown" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `${c.id}_深度問答.md`;
+    a.click();
+  };
+}
+
+document.getElementById("search").oninput = (e) => {
+  searchQ = e.target.value;
+  renderList();
+};
+
+document.getElementById("filters").onclick = (e) => {
+  const chip = e.target.closest(".chip");
+  if (!chip) return;
+  document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+  chip.classList.add("active");
+  filter = chip.dataset.filter;
+  renderList();
+};
+
+renderList();
+</script>
+</body>
+</html>
