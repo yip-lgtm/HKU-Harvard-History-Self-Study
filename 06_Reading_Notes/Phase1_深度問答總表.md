@@ -36,7 +36,7 @@
   **Disagreement 1: Is U.S. overseas occupation essentially imperial in nature?**  
   - 一方認為：美國的佔領與基地網絡是典型的非正式帝國行為。  
     One side argues: U.S. occupations and base networks constitute a form of informal empire.  
-  - 另一方認為：美國的行動主要受安全需求與國際秩序維護驅動，與傳統植民帝國有本質區別。  
+  - 另一方認為：美國的行動主要受安全需求與國際秩序維護驅動，與傳統殖民帝國有本質區別。  
     The other side argues: U.S. actions are primarily driven by security needs and the maintenance of international order, differing fundamentally from traditional colonial empires.
 
 - **分歧二：長期基地存在是否有助於區域穩定？**  
@@ -61,7 +61,7 @@
 2. 「解放」話語如何影響美國佔領政策的合法性建構？  
    How did the discourse of “liberation” shape the construction of legitimacy for U.S. occupation policies?
 
-3. 前進部署與傳統植民地統治在結構上有何異同？  
+3. 前進部署與傳統殖民地統治在結構上有何異同？  
    What are the structural similarities and differences between forward presence and traditional colonial rule?
 
 4. 被佔領社會的能動性如何制約或重塑美國的佔領政策？  
@@ -144,7 +144,7 @@
 4. 國內奴隸制與領土擴張之間存在什麼樣的緊張關係？  
    What tensions existed between domestic slavery and territorial expansion?
 
-5. 美國如何處理「反植民」自我形象與實際海外擴張之間的矛盾？  
+5. 美國如何處理「反殖民」自我形象與實際海外擴張之間的矛盾？  
    How did the United States manage the contradiction between its anti-colonial self-image and actual overseas expansion?
 
 6. 20 世紀美國全球軍事存在的制度基礎，在 19 世紀已埋下哪些種子？  
@@ -178,7 +178,7 @@
 - 軍事存在與外交關係密切互動。  
   **Military presence and diplomatic relations interact closely.**
 
-- 「圍堵」與「接觸」是兩種反復出現的政策選項。  
+- 「圍堵」與「接觸」是兩種反覆出現的政策選項。  
   **“Containment” and “engagement” are two recurring policy options.**
 
 - 雙邊關係的變化會直接影響美國在亞洲的軍事部署模式。  
@@ -209,7 +209,7 @@
 
 ### 3. 10個深度理解問題 / 10 Deep Understanding Questions
 
-1. 為什麼美國對華政策在「圍堵」與「接觸」之間反復擺動？  
+1. 為什麼美國對華政策在「圍堵」與「接觸」之間反覆擺動？  
    Why has U.S. policy toward China oscillated between “containment” and “engagement”?
 
 2. 中國國力變化如何直接影響美國在亞洲的基地部署密度？  
