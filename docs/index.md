@@ -6,6 +6,7 @@
 
 ## 快速導覽
 
+- **[自動化自學 App](app/)** ← 推薦使用
 - [完整課程列表](courses.md)
 - [Phase 1 深度問答總表](phase1-deep-qa.md)（7 門核心課）
 
