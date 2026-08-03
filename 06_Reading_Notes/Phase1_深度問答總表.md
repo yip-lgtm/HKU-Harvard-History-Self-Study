@@ -1,5 +1,5 @@
 # Phase 1 深度問答總表
-**US Military Weapons Project 相關核心課程**
+**Phase 1 核心 history 課程**
 
 > 本文件整合 Phase 1 主要課程的三層深度問答結構：
 > 1. 5個核心心智模型

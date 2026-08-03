@@ -2,17 +2,18 @@
 
 **Vault / Git Repo Navigation Hub**
 
-> 目標：系統性自學 HKU 43+ 門 + Harvard Foundations 18 門 + Fall 課程，核心應用於 **US Military Weapons Project**（美國軍事武器在亞洲）。
+> 目標：系統性自學 HKU 46 門 + Harvard Foundations 18 門 + Fall 28 門 history 課程,真正理解每個 course 嘅核心心智模型、根本分歧、深度問題,結合袁騰飛式犀利風格。
 
-袁騰飛式自學風格：幽默、犀利、聚焦權力與武器如何塑造歷史。
+**注意**: 每個 course 嘅真正 self-study 為目標,**唔預設特定應用**。讀史嘅目的係理解,唔係工具化。
 
 ---
 
-## 目前狀態（2026-07-28）
+## 目前狀態 (2026-08)
 
-- Phase 1 核心課程深度問答已完成（GenEd 1017, HIST1025, GenEd 1068, Hist 47, Hist 38, Hist 14, Hist 68）
-- 詳細內容見：`06_Reading_Notes/Phase1_深度問答總表.md`
-- 專案以 git 版本控制
+- 92 個 course files 全部符合袁騰飛格式 (5MM/3DG/10Q/5DD/10SL/5MR)
+- Multi-agent pipeline 框架已建立 (`_agents/` 5 個 agent)
+- HIST1017 demo: 9 個真實學者 + 50+ 真實事件 + 20+ 真實數字
+- 其他 91 個 courses 仲係 template-driven,等逐個 course 真正 research 重寫
 
 ---
 
@@ -21,20 +22,21 @@
 ```
 HKU-Harvard-History-Self-Study/
 ├── 00_大綱/                          # 總覽、計劃、模板
-├── 01_HKU_Courses/                   # HKU 43門
+├── 01_HKU_Courses/                   # HKU 46 門
 ├── 02_Harvard_Courses/
-│   ├── 101_Foundations/              # 18門核心（優先）
-│   └── Fall_Courses/
+│   ├── 101_Foundations/              # 18 門核心（優先）
+│   └── Fall_Courses/                 # 28 門 Fall 課程
 ├── 03_袁騰飛講義/
-├── 04_US_Military_Weapons_Asia/      # 核心項目
-│   ├── 01_Timelines/
-│   ├── 02_Bases_Networks/
-│   ├── 03_Weapons_Tech_Evolution/
-│   ├── 04_StoryMaps_Exports/
-│   └── 05_3D_Models_Ideas/
 ├── 05_Digital_History_Tools/
 ├── 06_Reading_Notes/                 # 中英對照筆記 + 深度問答
-└── 07_Outputs_MPhil_Portfolio/
+├── 07_Outputs_MPhil_Portfolio/
+└── _agents/                          # Multi-agent pipeline 框架
+    ├── researcher/
+    ├── data_extractor/
+    ├── analyst/
+    ├── diagram/
+    ├── professor_supervisor/
+    └── _pipeline/
 ```
 
 ---
@@ -45,7 +47,7 @@ HKU-Harvard-History-Self-Study/
 |------|------|
 | `00_大綱/05_全課程列表.md` | 完整課程清單（含優先級） |
 | `06_Reading_Notes/Phase1_深度問答總表.md` | Phase 1 七門核心課的 5心智模型 + 3分歧 + 10深度問題 |
-| `04_US_Military_Weapons_Asia/` | 所有課程最終應用出口 |
+| `_agents/` | 5 個 agent pipeline (Researcher/Data/Analyst/Diagram/Professor) |
 
 ---
 

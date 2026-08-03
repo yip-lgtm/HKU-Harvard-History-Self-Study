@@ -16,7 +16,6 @@
 # HIST2215 全球環境史 / Global Environmental History: Columbus to Climate Crisis
 **學期**：1492-present
 **Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
-**應用出口**：US Military Weapons Project（美國軍事武器在亞洲）
 
 ---
 
@@ -73,7 +72,6 @@
 5. 在 1492-present 中，哪個領導人、事件或文本最能代表 當代氣候危機 的極致展現？
 6. 學者之間關於 工業革命與人類世 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
 7. 對 Global Environmental History: Columbus to Climate Crisis 而言，『帝國主義』是分析的核心還是後人強加的框架？
-8. 從 US Military Weapons Project 角度，1492-present 的哪些節點直接決定了美軍在亞洲的部署邏輯？
 9. 如果你是當時的決策者，面對 帝國主義的生態邏輯 與 綠色革命的成就與代價 的衝突，你會選擇哪個？理由是什麼？
 10. 在當代中美對抗背景下，Global Environmental History: Columbus to Climate Crisis 的哪些歷史經驗正在重演？哪些已經過時？
 

@@ -4,7 +4,6 @@
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf) | [Summer 2024 Outline](https://arts.hku.hk/file/upload/5643/HIST1017%20Course%20Description%20Summer%202024.pdf)
 **Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
-**應用出口**: US Military Weapons Project（美軍在亞洲）
 
 ---
 
