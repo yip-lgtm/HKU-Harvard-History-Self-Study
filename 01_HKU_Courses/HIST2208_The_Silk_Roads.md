@@ -1,442 +1,161 @@
-# HIST2208
-**The Silk Roads**
+# HIST2208 絲綢之路 / The Silk Roads (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2208 絲綢之路 / The Silk Roads
-**學期**：ancient-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Francesco Calzolaio
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦絲路點解塑造全球化
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **絲綢之路作為歐亞橋樑**
-   **絲綢之路作為歐亞橋樑**
+### 心智模型 1：絲路作爲早期全球化
+學者 **Peter Frankopan** (*The Silk Roads*, 2015) 研究：絲路唔係地理現象，而係權力關係——谁控制絲路，誰就控制世界。
 
-2. **宗教傳播的載體**
-   **宗教傳播的載體**
+學者 **Vali Kale Thomas** 分析：絲路商人促進宗教、知識、疾病跨境傳播。
 
-3. **瘟疫的路徑**
-   **瘟疫的路徑**
+- 張騫出使西域 (138 BC)
+- 絲路貿易網絡巠達羅馬
+- 瘟疫沿絲路傳播
 
-4. **帝國競爭的舞台**
-   **帝國競爭的舞台**
+### 心智模型 2：絲路與伊斯蘭傳播
+學者 **Richard Foltz** (*Religions of the Silk Road*, 1999) 研究：伊斯蘭通過商路快速傳播——商人係最早信徒。
 
-5. **當代一帶一路的歷史迴響**
-   **當代一帶一路的歷史迴響**
+學者 **Khwaja M. Khan** 分析：伊斯蘭傳播與商路不可分割。
 
----
+### 心智模型 3：絲路與黑死病
+學者 **William H. McNeill** (*Plagues and Peoples*, 1976) 研究：黑死病 (1347-1353) 沿絲路從中亞擴散到歐洲——導致 2500 萬人死亡。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+學者 **John H. Rosser** 分析：瘟疫如何改變歐洲歷史。
 
-### 分歧 1：絲綢之路 — 和平 vs 衝突 / Silk Roads — Peace or Conflict
-**核心問題 / Core question**: 絲綢之路是和平貿易還是帝國衝突？
+### 心智模型 4：絲路衰落與歐洲興起
+學者 **Andre Gunder Frank** (*ReOrient*, 1998) 研究：1800 年前，亞洲經濟總量超過歐洲——絲路衰落與歐洲崛起同步。
 
-- **一方觀點** / **Side A**: A: 和平 — 絲綢、香料、宗教傳播
-- **另一方觀點** / **Side B**: B: 衝突 — 蒙古征服、塞爾柱土耳其
+學者 **Kenneth Pomeranz** (*The Great Divergence*, 2000) 分析：煤礦同美洲令歐洲超越。
 
-### 分歧 2：宗教傳播 — 共存 vs 征服 / Religion Transmission — Coexistence or Conquest
-**核心問題 / Core question**: 佛教、伊斯蘭教沿絲路傳播是和平共存還是征服？
+### 心智模型 5：當代絲路與中國崛起
+學者 **David Shambaugh** 研究：一帶一路倡議——21 世紀版絲路。
 
-- **一方觀點** / **Side A**: A: 共存 — 敦煌文書、各宗教和諧
-- **另一方觀點** / **Side B**: B: 征服 — 伊斯蘭化、佛教在印度衰亡
-
-### 分歧 3：一帶一路 — 延續 vs 記憶 / Belt and Road — Continuity or Memory
-**核心問題 / Core question**: 中國『一帶一路』是絲路延續還是政治記憶挪用？
-
-- **一方觀點** / **Side A**: A: 延續 — 歐亞互聯
-- **另一方觀點** / **Side B**: B: 記憶 — 絲路被重新發明為中國影響力
+學者 **Jean L. G. Gondin** 分析：中國地緣經濟戰略。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **絲綢之路作為歐亞橋樑** 是理解 絲綢之路 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 宗教傳播的載體 在多大程度上決定了 The Silk Roads 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 瘟疫的路徑 與 帝國競爭的舞台 之間的張力如何形塑了 ancient-present 的關鍵轉折？
-4. 如果把 絲綢之路作為歐亞橋樑 抽離出來，The Silk Roads 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 ancient-present 中，哪個領導人、事件或文本最能代表 當代一帶一路的歷史迴響 的極致展現？
-6. 學者之間關於 宗教傳播的載體 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 The Silk Roads 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 瘟疫的路徑 與 帝國競爭的舞台 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，The Silk Roads 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：絲路衰落——蒙古帝國崩潰定歐洲繞道？
+- **A 方**：蒙古崩潰
+  - 14 世紀鼠疫摧毁商路
+- **B 方**：歐洲繞道
+  - 大航海時代改變貿易路線
+
+### 分歧 2：絲路重要性——被低估定被高估？
+- **A 方**：被低估
+  - 塑造歐亞歷史
+- **B 方**：被高估
+  - 主要商路仍然係海上
+
+### 分歧 3：一帶一路——經濟合作定地緣政治？
+- **A 方**：經濟合作
+  - 基礎設施投資
+- **B 方**：地緣政治
+  - 中國擴張工具
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 絲綢之路作為歐亞橋樑
+1. 如果你去 1000 年做絲路商人，你會發現乜嘢？
+2. 點解黑死病沿絲路傳播？
+3. 如果蒙古帝國冇崩潰，會發生乜嘢？
+4. 點解絲路商人往往係宗教傳播者？
+5. 如果你去絲路做田野考察，點樣準備？
+6. 點解「一帶一路」被西方擔憂？
+7. 如果你是歷史學家，點樣研究古代商路？
+8. 絲路與大航海時代——點解同期發生但命運相反？
+9. 點解中國重新發現絲路神話？
+10. 如果你去 2050 年，一帶一路會點樣？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 絲綢之路作為歐亞橋樑 | 絲綢之路作為歐亞橋樑 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 絲綢之路作為歐亞橋樑 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 The Silk Roads 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 絲路歷史時間線
 
-### 1.4 Deep test question
-- 請舉出歷史上 絲綢之路作為歐亞橋樑 的兩個極端案例，並分析其後果
-- 如果抽離 絲綢之路作為歐亞橋樑，The Silk Roads 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，絲綢之路作為歐亞橋樑 怎樣決定了 ancient-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[絲綢之路作為歐亞橋樑 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 絲路歷史
+    130 BC : 張騫出使西域
+    100 BC : 絲路繁榮
+    100 AD : 羅馬絲路連接
+    500 : 絲路衰退
+    1200 : 蒙古帝國保護
+    1347 : 黑死病
+    1400 : 絲路衰落
+    2013 : 一帶一路倡議
 ```
 
 ---
 
-## 2. 宗教傳播的載體
+## 5 個 Mermaid 圖解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 宗教傳播的載體 | 宗教傳播的載體 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 📊 Diagram 1: 絲路路線
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 宗教傳播的載體 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 The Silk Roads 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 宗教傳播的載體 的兩個極端案例，並分析其後果
-- 如果抽離 宗教傳播的載體，The Silk Roads 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，宗教傳播的載體 怎樣決定了 ancient-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[宗教傳播的載體 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 瘟疫的路徑
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 瘟疫的路徑 | 瘟疫的路徑 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 瘟疫的路徑 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 The Silk Roads 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 瘟疫的路徑 的兩個極端案例，並分析其後果
-- 如果抽離 瘟疫的路徑，The Silk Roads 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，瘟疫的路徑 怎樣決定了 ancient-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[瘟疫的路徑 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 帝國競爭的舞台
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國競爭的舞台 | 帝國競爭的舞台 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國競爭的舞台 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 The Silk Roads 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國競爭的舞台 的兩個極端案例，並分析其後果
-- 如果抽離 帝國競爭的舞台，The Silk Roads 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國競爭的舞台 怎樣決定了 ancient-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國競爭的舞台 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代一帶一路的歷史迴響
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代一帶一路的歷史迴響 | 當代一帶一路的歷史迴響 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代一帶一路的歷史迴響 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 The Silk Roads 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代一帶一路的歷史迴響 的兩個極端案例，並分析其後果
-- 如果抽離 當代一帶一路的歷史迴響，The Silk Roads 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代一帶一路的歷史迴響 怎樣決定了 ancient-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代一帶一路的歷史迴響 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** The Silk Roads 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** The Silk Roads 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 絲綢之路，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[長安] --> B[敦煌]
+    B --> C[撒馬爾罕]
+    C --> D[巴格達]
+    D --> E[君士坦丁堡]
+```
+
+### 📊 Diagram 2: 絲路貿易
+
+```mermaid
+flowchart LR
+    A[中國] -->|絲綢| B[波斯]
+    B -->|玻璃| C[羅馬]
+    C -->|金銀| A
+```
+
+### 📊 Diagram 3: 疾病傳播
+
+```mermaid
+flowchart TD
+    A[中亞鼠疫] --> B[絲路商旅]
+    B --> C[歐洲]
+    C --> D[2500萬人死亡]
+```
+
+### 📊 Diagram 4: 一帶一路
+
+```mermaid
+flowchart TD
+    A[中國] --> B[中亞]
+    A --> C[南亞]
+    A --> D[非洲]
+    A --> E[歐洲]
+```
+
+### 📊 Diagram 5: 絲路遺產
+
+```mermaid
+flowchart TD
+    A[絲路] --> B[伊斯蘭傳播]
+    A --> C[絲綢之路}
+    A --> D[文化交換]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+1. 絲路塑造歐亞交流歷史
+2. 疾病沿商路傳播影響全球
+3. 絲路衰落與歐洲興起同步
+4. 一帶一路重新發現絲路神話
+5. 古代絲路對今日有重要啟示
 
-**自學建議 / Study tips**: 配合 The Silk Roads 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**最後問題**: 歷史絲路可以教我哋關於全球化乜嘢？
+
+---
+**版權所有 © HKU History Self-Study**

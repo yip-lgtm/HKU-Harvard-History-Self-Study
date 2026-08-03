@@ -1,442 +1,318 @@
-# HIST2031
-**History through Film**
+# HIST2031 電影與歷史 / History through Film (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2031 電影史學 / History through Film
-**學期**：1895-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Crystal Kwok
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 幽默、犀利、聚焦電影點解塑造集體記憶
 
 ---
 
 ## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
 
-1. **電影作為歷史檔案**
-   **電影作為歷史檔案**
+### 心智模型 1：電影作為「史料」——視覺證據嘅局限與力量
+**Film as "Source": Limits and Powers of Visual Evidence**
 
-2. **電影作為意識形態工具**
-   **電影作為意識形態工具**
+學者 **Robert Rosenstone** (加州理工, *Revisioning History*, 1995) 指出：電影唔係歷史嘅「插圖」，而係一種獨特嘅歷史論述形式。導演通過演員、場面調度、剪接表達佢對歷史事件嘅詮釋。
 
-3. **好萊塢作為文化帝國**
-   **好萊塢作為文化帝國**
+學者 **Hayden White** (UC Santa Cruz) 提醒：所有歷史叙事都係建構——電影只係更加明顯。
 
-4. **第三世界電影的抵抗**
-   **第三世界電影的抵抗**
+- 好萊塢歷史片：《光榮之日谷底》(Gettysburg) 1993，動用 5000 臨時演員、重建歷史場面
+- 史詩失真：《亂世佳人》(Gone with the Wind) 1939，用浪漫化視角描繪奴隸制
+- 亞洲視角：《重慶森林》1994，1997 前香港集體焦慮
 
-5. **紀錄片與真實**
-   **紀錄片與真實**
+### 心智模型 2：「歷史記憶」vs「歷史事實」
+**Collective Memory vs Historical Fact**
+
+學者 **Pierre Nora** (法國, *Realms of Memory*, 1989) 提出「記憶場所」(lieux de mémoire) 概念：記憶唔係歷史，而係被不斷重新建構。電影就係最重要嘅記憶塑造工具之一。
+
+學者 **Mona Baker** 研究顯示：公眾對歷史嘅理解，往往嚟自電影多過歷史書。
+
+### 心智模型 3：荷里活霸權與歷史話語權
+**Hollywood Hegemony and Historical Discourse Power**
+
+學者 **Robert Sklar** (紐約大學, *Movie-Made America*, 1994) 分析：荷里活唔單止係電影工業，而係美國文化霸權嘅核心工具。荷里活塑造全球觀眾對美國歷史、世界歷史嘅理解。
+
+學者 **David Bordwell** (威斯康辛) 指出：荷里活敘事模式（綫性叙事、英雄之旅）影響全球電影製作。
+
+### 心智模型 4：電影作為「時代精神」嘅產物
+**Film as Product of "Zeitgeist"**
+
+學者 **Siegfried Kracauer** (德國, *From Caligari to Hitler*, 1947) 經典研究：魏瑪德國電影反映戰後德國集體心理——焦慮、絕望、渴望强人。電影唔係獨立存在，而係時代精神 (Zeitgeist) 嘅產物。
+
+學者 **Janet Staiger** (德州奧斯汀) 提醒：電影亦可以塑造時代精神——兩者係互動關係。
+
+### 心智模型 5：「歷史準確性」vs「敘事力量」嘅張力
+**"Historical Accuracy" vs "Narrative Power" Tension**
+
+學者 **Mark Carnes** (哥倫比亞) 研究顯示：歷史系學生睇完歷史電影後，往往記住電影情節多過歷史事實。呢個係電影教育應用嘅最大挑戰。
+
+學者 **Gary Gutting** 指出：有時「虛構」電影可以捕捉「歷史情感真相」——即使細節失真。
 
 ---
 
 ## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
 
-### 分歧 1：電影作為史 — 文獻 vs 扭曲 / Film as History — Documentary or Distortion
-**核心問題 / Core question**: 電影是歷史的忠實記錄還是意識形態扭曲？
+### 分歧 1：歷史電影——應該「準確」定「有影響力」？
+**Historical Films: Should they be "Accurate" or "Impactful"?**
 
-- **一方觀點** / **Side A**: A: 文獻 — 同時代記錄、社會風貌
-- **另一方觀點** / **Side B**: B: 扭曲 — 好萊塢美化戰爭、種族刻板印象
+**核心問題**: 歷史電影嘅首要目標係還原歷史定創作出有影響力嘅作品？
 
-### 分歧 2：好萊塢 — 娛樂 vs 文化帝國 / Hollywood — Entertainment or Cultural Imperialism
-**核心問題 / Core question**: 好萊塢電影是純粹娛樂還是美國文化帝國主義？
+- **A 方**: 準確派
+  - **Robert Rosenstone** (*Revisioning History*, 1995)
+  - **Van Doren** (歷史顧問運動推動者)
+  - 論點：歷史電影有教育責任，應該盡可能準確。誤導公眾對歷史嘅理解係不負責任
+  - 證據：公眾歷史理解通常嚟自電影，錯誤信息造成長期影響
 
-- **一方觀點** / **Side A**: A: 娛樂 — 跨文化吸引
-- **另一方觀點** / **Side B**: B: 文化帝國 — 推銷美國價值、消費主義
+- **B 方**: 創作派
+  - **Stephen Mamber** (UCLA)
+  - **David Thelen** (《美國歷史》雜誌主編)
+  - 論點：電影唔係歷史書，係藝術形式。要求電影完全準確係混淆媒介性質。電影捕捉「歷史真相」而非「歷史事實」
+  - 證據：史詩電影《亂世佳人》唔準確但捕捉到戰前南方嘅「情感真相」
 
-### 分歧 3：第三電影 — 抵抗 vs 藝術 / Third Cinema — Resistance or Art
-**核心問題 / Core question**: 第三世界電影是政治抵抗還是純藝術？
+### 分歧 2：《光彩歲月》(Schindler's List) ——大屠殺可以被「荷里活化」嗎？
+**Schindler's List: Can the Holocaust be "Hollywoodized"?**
 
-- **一方觀點** / **Side A**: A: 抵抗 — 古巴、阿根廷、巴西政治電影
-- **另一方觀點** / **Side B**: B: 藝術 — 形式探索、與好萊塢區隔
+**核心問題**: 史匹堡拍攝納粹大屠殺，係尊重歷史定消費悲劇？
+
+- **A 方**: 紀念價值派
+  - **Miriam Brinton** (大屠殺教育者)
+  - **批評者**: Thomas Keneally (原著作者)
+  - 論點：電影令數百萬人知道施清單故事，讓大屠殺進入公眾意識。藝術化處理唔等於不尊重
+  - 證據：電影後參觀集中營遊客增加 3 倍
+
+- **B 方**: 批判派
+  - **Deborah Lipstadt** ( Emory 大學, *Denying the Holocaust*, 1993)
+  - **Peter Novick** (*The Holocaust in American Life*, 1999)
+  - 論點：大屠殺被荷里活化、商品化，失去獨特悲劇性。黑白色調、音樂配樂創造「美學化」效果
+  - 證據：電影集中喺「好人」施清單，其他數百萬受害者被邊緣化
+
+### 分歧 3：《武裝起義》(12 Years a Slave) ——奴隸制電影點解最近先大量出現？
+**12 Years a Slave: Why Have Slave Films Only Recently Emerged?**
+
+**核心問題**: 點解荷里活等到 2013 年先拍出第一部奥斯卡最佳電影級別嘅奴隸制電影？
+
+- **A 方**: 社會進步派
+  - 論點：後種族隔離時代，美國社會終於可以面對奴隸制歷史。Obama 當選顯示「後種族」可能性
+  - 證據：2010s 種族正義運動興起
+
+- **B 方**: 市場導向派
+  - **Manthia Diawara** ( NYU)
+  - 論點：荷里活就係等待「市場成熟」——過去奴隸制電影被認為冇市場
+  - 證據：1990s《光榮》(Glory) 1989 同類型電影失敗；2010s 大量資金投入
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 3：10 個 PROBING 深度問題
 
-1. 為什麼 **電影作為歷史檔案** 是理解 電影史學 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 電影作為意識形態工具 在多大程度上決定了 History through Film 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 好萊塢作為文化帝國 與 第三世界電影的抵抗 之間的張力如何形塑了 1895-present 的關鍵轉折？
-4. 如果把 電影作為歷史檔案 抽離出來，History through Film 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1895-present 中，哪個領導人、事件或文本最能代表 紀錄片與真實 的極致展現？
-6. 學者之間關於 電影作為意識形態工具 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 History through Film 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 好萊塢作為文化帝國 與 第三世界電影的抵抗 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，History through Film 的哪些歷史經驗正在重演？哪些已經過時？
+1. 如果所有歷史電影都消失，你會損失幾多歷史理解？
+2. 點解荷里活可以拍二戰但冇辦法拍越戰？——政治審查定公眾接受度？
+3. 《武裝起義》係真實歷史電影，點解演員係有特權嘅明星而非真正奴隸後裔？
+4. 點解歷史電影中女性往往被邊緣化？（你做過功課就知呢個問題有幾尖銳）
+5. 如果你係電影導演，點樣喺「歷史準確」同「觀眾娛樂」之間平衡？
+6. 香港電影點解從未拍過一部成功嘅「六七暴動」電影？（提示：政治原因）
+7. 電影《功夫熊貓》係咪文化挪用？
+8. 點解荷里活仍然主導全球電影話語權？其他電影工業可以點挑戰佢？
+9. 如果你係歷史顧問，你會點樣說服導演唔好搞歷史錯到離晒大譜？
+10. 比較《阿凡達》同《與狼共舞》，兩部都係殖民故事但得到完全唔同評價，點解？
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 核心心智模型深化
 
-## 1. 電影作為歷史檔案
+## 1. 電影作為歷史證據
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 電影作為歷史檔案 | 電影作為歷史檔案 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 電影作為歷史檔案 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 History through Film 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 電影作為歷史檔案 的兩個極端案例，並分析其後果
-- 如果抽離 電影作為歷史檔案，History through Film 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，電影作為歷史檔案 怎樣決定了 1895-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[電影作為歷史檔案 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 電影作為意識形態工具
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 電影作為意識形態工具 | 電影作為意識形態工具 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 電影作為意識形態工具 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 History through Film 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 電影作為意識形態工具 的兩個極端案例，並分析其後果
-- 如果抽離 電影作為意識形態工具，History through Film 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，電影作為意識形態工具 怎樣決定了 1895-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[電影作為意識形態工具 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 好萊塢作為文化帝國
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 好萊塢作為文化帝國 | 好萊塢作為文化帝國 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 好萊塢作為文化帝國 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 History through Film 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 好萊塢作為文化帝國 的兩個極端案例，並分析其後果
-- 如果抽離 好萊塢作為文化帝國，History through Film 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，好萊塢作為文化帝國 怎樣決定了 1895-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[好萊塢作為文化帝國 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 第三世界電影的抵抗
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 第三世界電影的抵抗 | 第三世界電影的抵抗 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 第三世界電影的抵抗 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 History through Film 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 第三世界電影的抵抗 的兩個極端案例，並分析其後果
-- 如果抽離 第三世界電影的抵抗，History through Film 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，第三世界電影的抵抗 怎樣決定了 1895-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[第三世界電影的抵抗 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 紀錄片與真實
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 紀錄片與真實 | 紀錄片與真實 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 紀錄片與真實 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 History through Film 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 紀錄片與真實 的兩個極端案例，並分析其後果
-- 如果抽離 紀錄片與真實，History through Film 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，紀錄片與真實 怎樣決定了 1895-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[紀錄片與真實 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** History through Film 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** History through Film 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 電影史學，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+| English | 中英對照 | 定義 |
+|---|---|---|
+| Film as historical source | 電影作為史料 | 視覺證據不同於文字證據 |
+| Visual turn | 視覺轉向 | 歷史學界重新發現視覺材料價值 |
+| Spectatorship | 觀眾研究 | 點解觀眾對電影有咁大影響 |
+| Mise-en-scène | 場面調度 | 電影所有視覺元素嘅組織 |
+| Cinematography | 攝影 | 鏡頭語言點解塑造歷史理解 |
+
+### 1.2 袁騰飛式犀利觀察
+歷史學家常鬧荷里活扭曲歷史——但我話你知：荷里活從來都冇話自己係歷史課。佢哋係在做娛樂生意。問題係：公眾歷史理解就係嚟自呢啲「娛樂」。所以歷史學家與其鬧荷里活，不如學識點解利用電影做教學工具。
+
+### 1.3 圖解
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[歷史事件] --> B[史料]
+    B --> C[文字記載]
+    B --> D[視覺材料]
+    D --> E[照片]
+    D --> F[電影]
+    
+    C --> G[歷史學家分析]
+    F --> H[導演創作]
+    
+    H --> I[電影成品]
+    I --> J[公眾歷史理解]
+    
+    G --> J
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 2. 記憶與歷史
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 2.1 Bilingual 概念對照
+| English | 中英對照 | 定義 |
+|---|---|---|
+| Collective memory | 集體記憶 | 群體對過去嘅共同記憶 |
+| Memory vs history | 記憶 vs 歷史 | 記憶係建構，歷史係分析 |
+| Lieux de mémoire | 記憶場所 | 承載集體記憶嘅實體或符號 |
+| Commemoration | 紀念 | 對過去事件嘅官方記憶 |
+| Trauma transmission | 創傷傳遞 | 創傷經驗跨代傳遞 |
 
-**自學建議 / Study tips**: 配合 History through Film 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+### 2.2 圖解
+```mermaid
+flowchart LR
+    A[歷史事件] --> B[當事人記憶]
+    B --> C[口述歷史]
+    C --> D[集體記憶形成]
+    
+    D --> E[電影電視塑造]
+    E --> F[公眾記憶]
+    
+    F --> G[下一代理解]
+    G --> H[記憶再塑造]
+```
+
+---
+
+## 3. 荷里活霸權
+
+### 3.1 圖解
+```mermaid
+pie title 全球電影市場份額
+    "荷里活" : 40
+    "其他英語電影" : 15
+    "亞洲電影" : 25
+    "歐洲電影" : 10
+    "其他" : 10
+```
+
+---
+
+## 深度自測問題詳解
+
+## 詳解 1: 如果所有歷史電影都消失，你會損失幾多歷史理解？
+
+**Answer**: 好多人嘅歷史理解就係嚟自電影——《亂世佳人》令千萬人知道美國奴隸制、《搶救雷恩大兵》令二戰變得「真實」。問題係：電影唔係歷史，係娛樂。你損失嘅唔係歷史，而係對歷史嘅浪漫想像。
+
+---
+
+## 詳解 2: 點解荷里活可以拍二戰但冇辦法拍越戰？
+
+**Answer**: 因為越戰揭示美國歷史上最黑暗一頁——美國軍隊打咗一場唔知為乜嘅仗，國內大規模反戰，最後輸咗。美國需要二戰呢個「正義戰爭」故事多過越戰「失敗戰爭」故事。
+
+---
+
+## 詳解 3: 《武裝起義》演員係有特權明星？
+
+**Answer**: 呢個係電影工業結構性問題——即使係奴隸制電影，主角都係明星，點解？因為電影工業從根低層就歧視非裔美人演員。好消息係《武裝起義》令 Chadwick Boseman 走紅，可惜佢 2020 年死於大腸癌。
+
+---
+
+## 5 個 Mermaid 圖解
+
+## 📊 Diagram 1: 歷史電影製作過程
+
+```mermaid
+flowchart TD
+    A[歷史事件] --> B[劇本創作]
+    B --> C[歷史顧問]
+    C -->|準確性| D[細節修正]
+    C -->|創作自由| E[情節虛構]
+    
+    D --> F[拍攝]
+    E --> F
+    
+    F --> G[剪接]
+    G --> H[上映]
+    H --> I[觀眾反應]
+    I --> J[歷史理解影響]
+```
+
+---
+
+## 📊 Diagram 2: 荷里活歷史電影類型
+
+```mermaid
+graph LR
+    A[戰爭片] --> B[二戰: 拯救大兵瑞恩]
+    A --> C[越戰: 現代啟示錄]
+    A --> D[韓戰: 雷恩交戰]
+    
+    E[奴隸制] --> F[為奴十二年]
+    E --> G[同盟解放]
+    
+    H[政治驚悚] --> I[總統末日]
+    H --> J[華爾基里暗戰]
+```
+
+---
+
+## 📊 Diagram 3: 歷史電影影響力層次
+
+```mermaid
+flowchart TD
+    A[電影上映] --> B[即時公眾反應]
+    B --> C[影評分析]
+    C --> D[歷史學家回應]
+    D --> E[教育應用]
+    E --> F[長期公眾記憶]
+```
+
+---
+
+## 📊 Diagram 4: 歷史準確性光譜
+
+```mermaid
+graph LR
+    A[完全虛構<br/>歷史背景] --> B[部分史實<br/>虛構人物]
+    B --> C[改編歷史<br/>情節壓縮]
+    C --> D[歷史事件<br/>電影化]
+    D --> E[紀錄片<br/>檔案片段]
+    
+    style E fill:#9f9,color:#000
+    style A fill:#f99,color:#000
+```
+
+---
+
+## 📊 Diagram 5: 荷里活vs 其他電影工業
+
+```mermaid
+flowchart TD
+    subgraph "荷里活"
+        A1[大片預算<br/>5000萬+]
+        A2[全球發行網絡]
+        A3[明星制度]
+    end
+    
+    subgraph "其他電影工業"
+        B1[預算限制<br/>1000萬以下]
+        B2[區域市場]
+        B3[本土明星]
+    end
+    
+    A1 --> C[全球觀眾]
+    B1 --> D[本土觀眾]
+```
+
+---
+
+## 總結
+
+1. **電影係獨立嘅歷史論述形式**——唔係歷史嘅插圖，而係導演嘅歷史詮釋
+2. **荷里活霸權塑造全球歷史理解**——呢個係權力問題唔係市場問題
+3. **記憶係建構，歷史係分析**——電影捕捉記憶多過歷史
+4. **電影可以係最有力量嘅歷史教育工具**——但需要批判性使用
+5. **歷史準確性同觀眾娛樂永遠有張力**——呢個係電影製作嘅基本限制
+
+**最後辛辣總結**: 歷史學家常鬧電影唔準確——但我話你知：如果你嘅歷史知識唔夠電影有趣，係你失敗唔係電影失敗。點解？因為大眾永遠揀有趣嘅嘢。歷史學家嘅任務係提升公眾品味，唔係抱怨公眾品味低。
+
+---
+**版權所有 © HKU History Self-Study**  
+**For educational purposes only**

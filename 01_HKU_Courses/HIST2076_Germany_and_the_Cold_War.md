@@ -1,444 +1,176 @@
-# HIST2076
-**Germany and the Cold War**
+# HIST2076 德國與冷戰 / Germany and the Cold War (6 credits)
 
-優先級：★★★★
-
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2076 德國與冷戰 / Germany and the Cold War
-**學期**：1945-1990
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Thomas Soden
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦德國點解成為冷戰核心
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **分裂作為冷戰象徵**
-   **分裂作為冷戰象徵**
+### 心智模型 1：德國問題 (Die deutsche Frage)
+學者 **Hans-Ulrich Wehler** (柏林自由大學) 提出：「德國問題」——德國統一係歐洲穩定威脅定歐洲整合催化劑？呢個問題困擾歐洲外交 150 年。
 
-2. **經濟奇蹟的兩種敘事**
-   **經濟奇蹟的兩種敘事**
+學者 **Heinrich August Winkler** (*Germany: The Long Road West*, 2006) 分析：1871 年統一後，德國成為歐洲霸權威脅；1945 年後，德國成為歐洲一體化核心。
 
-3. **柏林圍牆的雙重意義**
-   **柏林圍牆的雙重意義**
+- 1871 統一 → 1914 大戰
+- 1945 佔領 → 1990 再統一 → 歐盟核心
 
-4. **重新統一的內外動力**
-   **重新統一的內外動力**
+### 心智模型 2：兩德模式 (ZweiDeutschland)
+學者 **Mary Fulbrook** (UCL, *A History of Germany*, 2004) 分析：東德西德唔只係意識形態不同，而係兩種完全唔同嘅現代性實驗——西德市場經濟+議會民主；東德國家社會主義+一黨專政。
 
-5. **記憶政治的長期鬥爭**
-   **記憶政治的長期鬥爭**
+學者 **Herfried Münkler** 研究：兩德模式揭示意識形態競爭如何影響日常生活的每個層面。
 
----
+### 心智模型 3：冷戰作為歐洲一體化催化劑
+學者 **John Gillingham** (*European Integration*, 1991) 指出：冷戰逼使西歐國家團結——1948 年柏林封鎖、1949 年北約成立——歐洲一體化就係冷戰 child。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+學者 **Tony Judt** (*Postwar: A History of Europe*, 2005) 強調：歐洲福利國家係冷戰時期建立——為咗對抗共產主義吸引力。
 
-### 分歧 1：柏林圍牆 — 恥辱 vs 保護 / Berlin Wall — Shame or Protection
-**核心問題 / Core question**: 柏林圍牆是東德的恥辱還是反法西斯保護牆？
+### 心智模型 4：Stasi 與監控國家
+學者 **Timothy Garton Ash** (*The File*, 2013) 研究東德秘密警察檔案：Stasi 監控無處不在——2800 萬人口中，1700 萬被建立過檔案。呢個揭示極權主義如何渗透日常生活。
 
-- **一方觀點** / **Side A**: A: 恥辱 — 阻止東德人逃往自由
-- **另一方觀點** / **Side B**: B: 保護 — 反法西斯牆，防禦西方滲透
+學者 **Stefan Heym** 等東德異見者記錄：創傷 psychology of surveillance。
 
-### 分歧 2：西德奇蹟 — 市場 vs 援助 / West German Miracle — Market or Aid
-**核心問題 / Core question**: 西德經濟奇蹟是市場經濟還是馬歇爾計劃？
-
-- **一方觀點** / **Side A**: A: 市場 — 社會市場經濟、勞資共決
-- **另一方觀點** / **Side B**: B: 援助 — 130 億美元美國援助奠定基礎
-
-### 分歧 3：重新統一 — 解放 vs 吞併 / Reunification — Liberation or Absorption
-**核心問題 / Core question**: 1990 德國統一是解放東德還是西德吞併？
-
-- **一方觀點** / **Side A**: A: 解放 — 東德獲得自由民主
-- **另一方觀點** / **Side B**: B: 吞併 — 東德經濟崩潰、人口流失、被西德體制接管
+### 心智模型 5：德國統一嘅歷史代價
+學者 **Ian Kershaw** (*Hitler*, 1998) 提醒：1933-1945 年納粹德國造成人類歷史上最大規模嘅有組織暴力——600 萬猶太人死亡、2000 萬蘇聯公民死亡。統一德國至今仍喺處理緊呢個歷史遺產。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **分裂作為冷戰象徵** 是理解 德國與冷戰 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 經濟奇蹟的兩種敘事 在多大程度上決定了 Germany and the Cold War 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 柏林圍牆的雙重意義 與 重新統一的內外動力 之間的張力如何形塑了 1945-1990 的關鍵轉折？
-4. 如果把 分裂作為冷戰象徵 抽離出來，Germany and the Cold War 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1945-1990 中，哪個領導人、事件或文本最能代表 記憶政治的長期鬥爭 的極致展現？
-6. 學者之間關於 經濟奇蹟的兩種敘事 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Germany and the Cold War 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 柏林圍牆的雙重意義 與 重新統一的內外動力 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Germany and the Cold War 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：德國統一——歷史必然定偶然？
+- **A 方**：歷史結構論
+  - **Hans-Ulrich Wehler**
+  - 德國地理位於東歐西歐之間，遲早要選擇一方
+- **B 方**：歷史偶然論
+  - **Winston Churchill**
+  - 統一係偶然事件造成——1871 年普法戰爭勝利
+
+### 分歧 2：西德「經濟奇蹟」——奇蹟定階級剝削？
+- **A 方**：Frederick Harriessen (*The Rise of Modern Germany*, 1996)
+  - 战后西德快速恢復係制度優勢結果
+- **B 方**：Alexandra Richie (*Faust's Metropolis*, 1998)
+  - 經濟起飛基於戰時剥削剩餘、女人勞動力
+
+### 分歧 3：兩德統一——成功定製造新問題？
+- **A 方**：東德自由化係東歐1989革命一部分
+- **B 方**：統一條款不公平——西德强加經濟秩序
+  - **Mary Fulbrook** 指出：統一後東德失業率持續高企
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 分裂作為冷戰象徵
+1. 如果冷戰冇爆發，歐洲會點樣？
+2. 點解東德人喺 1989 年突然上街？——經濟原因定意識形態危機？
+3. Stasi 檔案揭示監控文化——點解東德人願意互相監控？
+4. 德國統一後東德人點解仍然感覺係「二等公民」？
+5. 如果東德唔係社會主義，會唔會有更好嘅選擇？
+6. 點解德國人可以接受納粹歷史但仍然有新納粹？
+7. 歐盟最大嘅問題就係德國——點解？
+8. 如果你是 1945 年佔領德國嘅美國决策者，點樣避免冷戰？
+9. 點解東德比西德更像史太林主義蘇聯？
+10. 德國作為歐洲最大經濟體——經濟實力應唔應該轉化為軍事力量？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 分裂作為冷戰象徵 | 分裂作為冷戰象徵 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 分裂作為冷戰象徵 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Germany and the Cold War 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 冷戰時間線
 
-### 1.4 Deep test question
-- 請舉出歷史上 分裂作為冷戰象徵 的兩個極端案例，並分析其後果
-- 如果抽離 分裂作為冷戰象徵，Germany and the Cold War 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，分裂作為冷戰象徵 怎樣決定了 1945-1990 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[分裂作為冷戰象徵 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 德國冷戰史
+    1945 : 雅爾塔會議<br/>德國被佔領
+    1948 : 柏林封鎖
+    1949 : 東德西德成立<br/>北約成立
+    1961 : 柏林圍牆建成
+    1970 : 勃蘭特「新東方政策」
+    1989 : 柏林圍牆倒下
+    1990 : 德國統一
+```
+
+### 2. 東德西德比較
+
+```mermaid
+flowchart LR
+    subgraph "東德"
+        A1[計劃經濟]
+        A2[一黨專政]
+        A3[Stasi 監控]
+        A4[物質匱乏]
+    end
+    
+    subgraph "西德"
+        B1[社會市場經濟]
+        B2[議會民主]
+        B3[言論自由]
+        B4[消費社會]
+    end
 ```
 
 ---
 
-## 2. 經濟奇蹟的兩種敘事
+## 5 個 Mermaid 圖解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 經濟奇蹟的兩種敘事 | 經濟奇蹟的兩種敘事 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 📊 Diagram 1: 冷戰時期德國分裂
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 經濟奇蹟的兩種敘事 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Germany and the Cold War 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 經濟奇蹟的兩種敘事 的兩個極端案例，並分析其後果
-- 如果抽離 經濟奇蹟的兩種敘事，Germany and the Cold War 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，經濟奇蹟的兩種敘事 怎樣決定了 1945-1990 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[經濟奇蹟的兩種敘事 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 柏林圍牆的雙重意義
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 柏林圍牆的雙重意義 | 柏林圍牆的雙重意義 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 柏林圍牆的雙重意義 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Germany and the Cold War 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 柏林圍牆的雙重意義 的兩個極端案例，並分析其後果
-- 如果抽離 柏林圍牆的雙重意義，Germany and the Cold War 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，柏林圍牆的雙重意義 怎樣決定了 1945-1990 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[柏林圍牆的雙重意義 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 重新統一的內外動力
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 重新統一的內外動力 | 重新統一的內外動力 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 重新統一的內外動力 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Germany and the Cold War 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 重新統一的內外動力 的兩個極端案例，並分析其後果
-- 如果抽離 重新統一的內外動力，Germany and the Cold War 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，重新統一的內外動力 怎樣決定了 1945-1990 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[重新統一的內外動力 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 記憶政治的長期鬥爭
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 記憶政治的長期鬥爭 | 記憶政治的長期鬥爭 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 記憶政治的長期鬥爭 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Germany and the Cold War 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 記憶政治的長期鬥爭 的兩個極端案例，並分析其後果
-- 如果抽離 記憶政治的長期鬥爭，Germany and the Cold War 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，記憶政治的長期鬥爭 怎樣決定了 1945-1990 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[記憶政治的長期鬥爭 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Germany and the Cold War 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Germany and the Cold War 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 德國與冷戰，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[1945 佔領] --> B[1949 分裂]
+    B --> C[東德: 蘇聯控制]
+    B --> D[西德: 美英法控制]
+    C --> E[1961 柏林圍牆]
+    D --> F[1990 統一]
+```
+
+### 📊 Diagram 2: 德國問題歷史迴圈
+
+```mermaid
+flowchart LR
+    A[1871 統一] --> B[1914 一次大戰]
+    B --> C[1945 納粹失敗]
+    C --> D[1990 再統一]
+```
+
+### 📊 Diagram 3: 兩德生活程度比較
+
+```mermaid
+pie title 生活程度差距
+    "東德生活水平" : 35
+    "西德生活水平" : 65
+```
+
+### 📊 Diagram 4: Stasi 監控規模
+
+```mermaid
+graph LR
+    A[東德人口: 1700萬] --> B[被 Stasi 監控]
+    B --> C[監控人口比例]
+    C --> D[約 1/3 人口]
+```
+
+### 📊 Diagram 5: 德國統一代價
+
+```mermaid
+flowchart TD
+    A[1990 統一] --> B[東德失業率急升]
+    A --> C[東德工業私有化]
+    A --> D[東德人心理失落]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+1. 德國問題困擾歐洲 150 年
+2. 冷戰創造兩種現代性實驗
+3. 東德監控系統揭示極權主義日常化
+4. 統一代價仍在——東德仍是「落後地區」
+5. 德國歷史提醒：統一唔係終點
 
-**自學建議 / Study tips**: 配合 Germany and the Cold War 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**最後辛辣問題**: 德國可以成為正常國家嗎？歷史包袱幾時先至放得低？
+
+---
+**版權所有 © HKU History Self-Study**

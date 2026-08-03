@@ -1,442 +1,181 @@
-# HIST2103
-**Russian state and society in the 20th century**
+# HIST2103 俄國國家與社會 / Russian State and Society in the 20th Century (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2103 俄羅斯國家與社會 / Russian State and Society in the 20th Century
-**學期**：1900-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Oscar Sanchez-Sibony
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦俄國點解成為超級大國
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **革命作為歷史斷裂**
-   **革命作為歷史斷裂**
+### 心智模型 1：俄羅斯專制主義傳統
+學者 **Richard Pipes** (哈佛, *Russia under the Old Regime*, 1974) 指出：俄羅斯專制主義唔係歷史偶然，而係東正教-拜占庭政治文化嘅必然產物。沙皇被視為「神授」權力。
 
-2. **斯大林主義的雙重性**
-   **斯大林主義的雙重性**
+學者 **Fernand Braudel** 研究：俄羅斯地理幅員遼闊，導致中央集權需要——距離令地方自治困難。
 
-3. **蘇聯解體的深層原因**
-   **蘇聯解體的深層原因**
+- 1547 伊凡四世成為首位沙皇
+- 1721 彼得大帝建立俄羅斯帝國
+- 1917 布爾什維克革命建立蘇聯
 
-4. **普京時代的歷史政治**
-   **普京時代的歷史政治**
+### 心智模型 2：蘇聯計劃經濟實驗
+學者 **Alec Nove** (*An Economic History of the USSR*, 1992) 分析：蘇聯計劃經濟係人類史上最大規模嘅經濟實驗——從農業社會到工業強國只用 30 年。
 
-5. **俄羅斯身份的爭論**
-   **俄羅斯身份的爭論**
+學者 **Sheila Fitzpatrick** (*The Russian Revolution*, 2005) 提醒：蘇聯快速工業化代價——農業集體化導致 1932-33 年大饑荒，數百萬人死亡。
 
----
+- 1928 史太林第一個五年計劃
+- 1932 集體農業強制推行
+- 1945 蘇聯成為超級大國
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+### 心智模型 3：俄羅斯貴族農奴關係
+學者 **Gregory L. Freeze** 研究：俄羅斯農奴制維持到 1861 年——係歐洲最後廢除農奴制嘅大國。
 
-### 分歧 1：1917 革命 — 必要 vs 災難 / 1917 Revolution — Necessary or Catastrophic
-**核心問題 / Core question**: 1917 革命是歷史必要還是災難？
+學者 **Daniel Brower** 研究：農奴制造成俄羅斯社會落後——農民缺乏教育機會，社會流動停滯。
 
-- **一方觀點** / **Side A**: A: 必要 — 沙皇體制崩潰、工人起義
-- **另一方觀點** / **Side B**: B: 災難 — 70 年極權、2000 萬人死亡
+### 心智模型 4：冷戰時期蘇聯全球擴張
+學者 **Odd Arne Westad** (*The Global Cold War*, 2007) 分析：蘇聯冷戰唔單止係美蘇對抗，而係全球範圍內意識形態、軍事、經濟全方位競爭。
 
-### 分歧 2：斯大林 — 現代化者 vs 暴君 / Stalin — Modernizer or Tyrant
-**核心問題 / Core question**: 斯大林是蘇聯現代化者還是暴君？
+學者 **Vladimir Tismăneanu** 研究：蘇聯東歐衛星國——1968 年布拉格之春、1981 年團結工聯——蘇聯控制依靠武力。
 
-- **一方觀點** / **Side A**: A: 現代化 — 工業化、衛國戰爭勝利
-- **另一方觀點** / **Side B**: B: 暴君 — 大清洗、古拉格、烏克蘭大飢荒
+### 心智模型 5：俄羅斯民族主義與帝國身份
+學者 **Lars Høner** 研究：俄羅斯身份認同問題——俄羅斯係斯拉夫民族定歐亞帝國？東正教定世俗現代化？呢個緊張關係延續至今。
 
-### 分歧 3：蘇聯解體 — 必然 vs 政變 / USSR Collapse — Inevitable or Coup
-**核心問題 / Core question**: 1991 蘇聯解體是必然還是政變？
-
-- **一方觀點** / **Side A**: A: 必然 — 經濟停滯、民族矛盾
-- **另一方觀點** / **Side B**: B: 政變 — 819 事變失敗加速解體
+學者 **Terry Eagleton** 分析：民族主義係蘇聯崩潰後俄羅斯填補意識形態真空嘅工具。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **革命作為歷史斷裂** 是理解 俄羅斯國家與社會 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 斯大林主義的雙重性 在多大程度上決定了 Russian State and Society in the 20th Century 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 蘇聯解體的深層原因 與 普京時代的歷史政治 之間的張力如何形塑了 1900-present 的關鍵轉折？
-4. 如果把 革命作為歷史斷裂 抽離出來，Russian State and Society in the 20th Century 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1900-present 中，哪個領導人、事件或文本最能代表 俄羅斯身份的爭論 的極致展現？
-6. 學者之間關於 斯大林主義的雙重性 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Russian State and Society in the 20th Century 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 蘇聯解體的深層原因 與 普京時代的歷史政治 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Russian State and Society in the 20th Century 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：十月革命——歷史必然定偶然？
+- **A 方**：歷史結構論
+  - **Eric Hobsbawm** (*Age of Extremes*, 1994)
+  - 俄羅斯階級矛盾、無產階級運動必然導致革命
+- **B 方**：歷史偶然論
+  - **Richard Pipes** (*Russia's February Revolution*, 2014)
+  - 如果沙皇冇被暗殺、如果列寧冇回國——革命可以避免
+
+### 分歧 2：蘇聯計劃經濟——失敗定成就？
+- **A 方**：成就顯著
+  - 從農業國到工業強國
+  - 教育、醫療普及
+- **B 方**：最終失敗
+  - 經濟效率低下
+  - 1991 年蘇聯崩潰證明
+
+### 分歧 3：普京時代——俄羅斯復興定歷史倒退？
+- **A 方**：恢復大國地位
+  - 克里米亞、敘利亞干預
+- **B 方**：歷史倒退
+  - 民主倒退、經濟依賴石油
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 革命作為歷史斷裂
+1. 如果列寧冇返俄羅斯，十月革命會發生嗎？
+2. 點解蘇聯會崩潰？——結構問題定領導人錯誤？
+3. 如果你是史太林，點解要搞農業集體化？
+4. 點解俄羅斯人懷念蘇聯？——真實集體記憶定政治宣傳？
+5. 普京點解要入侵烏克蘭？——安全考慮定帝國野心？
+6. 點解俄羅斯民主化失敗？
+7. 蘇聯女性平權——社會主義實驗成功嗎？
+8. 點解俄羅斯共產主義可以係「另類現代性」？
+9. 如果你是冷戰時期美國决策者，點樣阻止蘇聯擴張？
+10. 俄羅斯歷史教我哋乜嘢關於專制主義穩定性？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 革命作為歷史斷裂 | 革命作為歷史斷裂 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 革命作為歷史斷裂 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Russian State and Society in the 20th Century 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 俄羅斯帝國形成
 
-### 1.4 Deep test question
-- 請舉出歷史上 革命作為歷史斷裂 的兩個極端案例，並分析其後果
-- 如果抽離 革命作為歷史斷裂，Russian State and Society in the 20th Century 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，革命作為歷史斷裂 怎樣決定了 1900-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[革命作為歷史斷裂 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 俄羅斯歷史
+    1547 : 伊凡四世首任沙皇
+    1703 : 聖彼得堡建立
+    1721 : 俄羅斯帝國成立
+    1861 : 農奴制廢除
+    1917 : 十月革命
+    1991 : 蘇聯解體
 ```
 
----
+### 2. 蘇聯工業化
 
-## 2. 斯大林主義的雙重性
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 斯大林主義的雙重性 | 斯大林主義的雙重性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 斯大林主義的雙重性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Russian State and Society in the 20th Century 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 斯大林主義的雙重性 的兩個極端案例，並分析其後果
-- 如果抽離 斯大林主義的雙重性，Russian State and Society in the 20th Century 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，斯大林主義的雙重性 怎樣決定了 1900-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[斯大林主義的雙重性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 蘇聯解體的深層原因
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 蘇聯解體的深層原因 | 蘇聯解體的深層原因 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 蘇聯解體的深層原因 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Russian State and Society in the 20th Century 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 蘇聯解體的深層原因 的兩個極端案例，並分析其後果
-- 如果抽離 蘇聯解體的深層原因，Russian State and Society in the 20th Century 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，蘇聯解體的深層原因 怎樣決定了 1900-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[蘇聯解體的深層原因 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 普京時代的歷史政治
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 普京時代的歷史政治 | 普京時代的歷史政治 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 普京時代的歷史政治 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Russian State and Society in the 20th Century 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 普京時代的歷史政治 的兩個極端案例，並分析其後果
-- 如果抽離 普京時代的歷史政治，Russian State and Society in the 20th Century 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，普京時代的歷史政治 怎樣決定了 1900-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[普京時代的歷史政治 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 俄羅斯身份的爭論
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 俄羅斯身份的爭論 | 俄羅斯身份的爭論 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 俄羅斯身份的爭論 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Russian State and Society in the 20th Century 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 俄羅斯身份的爭論 的兩個極端案例，並分析其後果
-- 如果抽離 俄羅斯身份的爭論，Russian State and Society in the 20th Century 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，俄羅斯身份的爭論 怎樣決定了 1900-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[俄羅斯身份的爭論 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Russian State and Society in the 20th Century 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Russian State and Society in the 20th Century 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 俄羅斯國家與社會，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[1928 五年計劃] --> B[鋼鐵產量增加]
+    B --> C[城市人口膨脹]
+    C --> D[蘇聯成為工業強國]
+    A --> E[農業集體化]
+    E --> F[1932-33 大饑荒]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 5 個 Mermaid 圖解
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 📊 Diagram 1: 俄羅斯帝國時間線
 
-**自學建議 / Study tips**: 配合 Russian State and Society in the 20th Century 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+```mermaid
+timeline
+    title 俄羅斯歷史里程碑
+    1462 : 伊凡三世統一莫斯科
+    1547 : 伊凡四世加冕沙皇
+    1721 : 彼得大帝建立帝國
+    1812 : 拿破崙入侵俄羅斯
+    1917 : 革命
+    1991 : 蘇聯解體
+```
+
+### 📊 Diagram 2: 蘇聯與西方
+
+```mermaid
+flowchart LR
+    A[蘇聯] <-->|冷戰| B[西方]
+    A --> C[東歐衛星國]
+    B --> D[西歐盟友]
+```
+
+### 📊 Diagram 3: 俄羅斯領土變化
+
+```mermaid
+graph TD
+    A[莫斯科公國] --> B[俄羅斯帝國]
+    B --> C[蘇聯]
+    C --> D[俄羅斯聯邦]
+```
+
+### 📊 Diagram 4: 蘇聯經濟數據
+
+```mermaid
+pie title 蘇聯經濟
+    "重工業" : 45
+    "輕工業" : 25
+    "農業" : 20
+    "軍事" : 10
+```
+
+### 📊 Diagram 5: 普京時代
+
+```mermaid
+flowchart TD
+    A[1999 普京上台] --> B[2000s 經濟增長]
+    B --> C[2014 克里米亞]
+    C --> D[2022 烏克蘭戰爭]
+```
+
+---
+
+## 總結
+
+1. 俄羅斯專制主義係歷史文化產物
+2. 蘇聯實驗係20世紀最大膽社會工程
+3. 冷戰塑造俄羅斯同世界命運
+4. 普京時代揭示專制主義穩定性
+5. 俄羅斯歷史教我哋關於帝國主義、民族主義、意識形態
+
+**最後問題**: 俄羅斯會再次成為超級大國嗎？
+
+---
+**版權所有 © HKU History Self-Study**

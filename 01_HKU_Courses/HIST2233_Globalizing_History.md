@@ -1,442 +1,155 @@
-# HIST2233
-**Globalizing History**
+# HIST2233 全球史 / Globalizing History (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2233 全球化歷史 / Globalizing History
-**學期**：1500-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Jason Petrulis
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦全球史點解挑戰西方中心
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **全球化的多波浪潮**
-   **全球化的多波浪潮**
+### 心智模型 1：全球史作方法論
+學者 **Bruce Mazlish** 研究：全球史挑戰國家中心敘事——關注跨國聯繫、比較。
 
-2. **帝國主義作為第一波全球化**
-   **帝國主義作為第一波全球化**
+學者 **Bruce Mazlish & Ralph Buultjens** 分析：全球史三大方法：跨國聯繫、比較、總體化。
 
-3. **冷戰對全球化的分割**
-   **冷戰對全球化的分割**
+### 心智模型 2：「聯繫歷史」(Connected Histories)
+學者 **Sanjay Subrahmanyam** 研究：聯繫歷史——追蹤跨文化、跨地區嘅歷史聯繫。
 
-4. **當代全球化的加速**
-   **當代全球化的加速**
+學者 **C.A. Bayly** 分析：全球史前驅。
 
-5. **反全球化運動**
-   **反全球化運動**
+### 心智模型 3：「世界體系分析」
+學者 **Immanuel Wallerstein** 研究：世界體系分析——核心、半邊緣、邊緣結構。
 
----
+學者 **Andre Gunder Frank** 分析：「亞洲時代」——1800 年前亞洲經濟總量超過歐洲。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+### 心智模型 4：「全球史」vs「世界史」
+學者 **Stuart Macintyre** 研究：全球史關注跨國聯繫；世界史關注全球總體。
 
-### 分歧 1：第一波全球化 — 16 世紀還是 1990s / First Globalization — 1500s or 1990s
-**核心問題 / Core question**: 全球化是 16 世紀就開始還是 1990 後冷戰結束才開始？
+學者 **Jerry Bentley** 分析：世界史挑戰歐洲中心論。
 
-- **一方觀點** / **Side A**: A: 16 世紀 — 哥倫布、馬尼拉大帆船
-- **另一方觀點** / **Side B**: B: 1990s — 世貿組織、互聯網加速
+### 心智模型 5：「帝國史」(Imperial History)
+學者 **John Darwin** 研究：帝國主義全球擴張塑造現代世界。
 
-### 分歧 2：全球化 — 互利 vs 剝削 / Globalization — Beneficial or Exploitative
-**核心問題 / Core question**: 全球化對發展中國家是互利還是剝削？
-
-- **一方觀點** / **Side A**: A: 互利 — 8 億人脫貧、跨國投資
-- **另一方觀點** / **Side B**: B: 剝削 — 血汗工廠、債務陷阱、環境破壞
-
-### 分歧 3：反全球化 — 民粹 vs 左翼 / Anti-Globalization — Populist or Leftist
-**核心問題 / Core question**: 反全球化運動是民粹右翼還是左翼社會運動？
-
-- **一方觀點** / **Side A**: A: 民粹 — 反移民、反建制
-- **另一方觀點** / **Side B**: B: 左翼 — 反跨國資本、氣候正義
+學者 **A.G. Hopkins** 分析：帝國史重新發現。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **全球化的多波浪潮** 是理解 全球化歷史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 帝國主義作為第一波全球化 在多大程度上決定了 Globalizing History 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 冷戰對全球化的分割 與 當代全球化的加速 之間的張力如何形塑了 1500-present 的關鍵轉折？
-4. 如果把 全球化的多波浪潮 抽離出來，Globalizing History 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1500-present 中，哪個領導人、事件或文本最能代表 反全球化運動 的極致展現？
-6. 學者之間關於 帝國主義作為第一波全球化 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Globalizing History 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 冷戰對全球化的分割 與 當代全球化的加速 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Globalizing History 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：全球史——新領域定現有領域重包裝？
+- **A 方**：新領域——方法創新
+- **B 方**：舊領域重包裝——帝國主義史改名
 
----
+### 分歧 2：全球史——學術價值定政治正確？
+- **A 方**：學術價值——新視角
+- **B 方**：政治正確——忽視國家史
 
-# 核心心智模型深化（中英對照）
-
-## 1. 全球化的多波浪潮
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 全球化的多波浪潮 | 全球化的多波浪潮 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 全球化的多波浪潮 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Globalizing History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 全球化的多波浪潮 的兩個極端案例，並分析其後果
-- 如果抽離 全球化的多波浪潮，Globalizing History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，全球化的多波浪潮 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[全球化的多波浪潮 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
+### 分歧 3：全球史——方法創新定理論創新？
+- **A 方**：方法創新——跨學科
+- **B 方**：理論創新——範式轉變
 
 ---
 
-## 2. 帝國主義作為第一波全球化
+## 問題 3：10 個深度問題
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國主義作為第一波全球化 | 帝國主義作為第一波全球化 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國主義作為第一波全球化 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Globalizing History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國主義作為第一波全球化 的兩個極端案例，並分析其後果
-- 如果抽離 帝國主義作為第一波全球化，Globalizing History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國主義作為第一波全球化 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國主義作為第一波全球化 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
+1. 全球史點解挑戰國家史？
+2. 如果你去 1800 年做全球史研究，你會點樣？
+3. 全球史點解幫助理解氣候危機？
+4. 如果你是歷史學家，點樣做全球史研究？
+5. 全球史——點解西方史學家主導？
+6. 如果你去 2050 年，全球史會點樣？
+7. 全球史教學——點解咁難？
+8. 點解全球史同世界史有時被混淆？
+9. 如果你是學生，點樣學全球史？
+10. 全球史——點解係 21 世紀最重要嘅歷史方法？
 
 ---
 
-## 3. 冷戰對全球化的分割
+## 核心心智模型深化
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 冷戰對全球化的分割 | 冷戰對全球化的分割 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 1. 全球史方法
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 冷戰對全球化的分割 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Globalizing History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 冷戰對全球化的分割 的兩個極端案例，並分析其後果
-- 如果抽離 冷戰對全球化的分割，Globalizing History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，冷戰對全球化的分割 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[冷戰對全球化的分割 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 當代全球化的加速
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代全球化的加速 | 當代全球化的加速 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代全球化的加速 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Globalizing History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代全球化的加速 的兩個極端案例，並分析其後果
-- 如果抽離 當代全球化的加速，Globalizing History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代全球化的加速 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代全球化的加速 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 反全球化運動
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 反全球化運動 | 反全球化運動 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 反全球化運動 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Globalizing History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 反全球化運動 的兩個極端案例，並分析其後果
-- 如果抽離 反全球化運動，Globalizing History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，反全球化運動 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[反全球化運動 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Globalizing History 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Globalizing History 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球化歷史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[跨國聯繫] --> B[商路、戰爭]
+    A --> C[疾病、觀念]
+    D[比較] --> E[同時性]
+    D --> F[差異性]
+    G[總體化] --> H[世界體系]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 深度自測問題
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 詳解 1: 全球史點解挑戰國家史？
+全球史關注跨國、跨文化聯繫，唔再以國家為分析單位。呢個挑戰歷史學以國家為中心嘅傳統。
 
-**自學建議 / Study tips**: 配合 Globalizing History 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+---
+
+## 5 個 Mermaid 圖解
+
+### 📊 Diagram 1: 全球史方法
+
+```mermaid
+flowchart TD
+    A[全球史] --> B[聯繫歷史]
+    A --> C[比較方法]
+    A --> D[世界體系]
+```
+
+### 📊 Diagram 2: 世界體系結構
+
+```mermaid
+flowchart LR
+    A[核心] --> B[半邊緣]
+    B --> C[邊緣]
+```
+
+### 📊 Diagram 3: 全球史時間尺度
+
+```mermaid
+timeline
+    title 全球史時間尺度
+    1500 : 大西洋時代
+    1800 : 亞洲時代
+    1900 : 西歐主導
+    2000 : 美國主導
+    2050 : 亞洲復興
+```
+
+### 📊 Diagram 4: 全球史關注主題
+
+```mermaid
+flowchart TD
+    A[全球史] --> B[帝國主義]
+    A --> C[貿易網絡]
+    A --> D[人口遷移]
+    A --> E[疾病}
+```
+
+### 📊 Diagram 5: 全球史挑戰
+
+```mermaid
+flowchart TD
+    A[全球史挑戰] --> B[語言障礙]
+    A --> C[資料分散]
+    A --> D[理論缺乏]
+```
+
+---
+
+## 總結
+
+1. 全球史挑戰國家中心敘事
+2. 方法創新需要跨學科訓練
+3. 世界體系分析有爭議
+4. 全球史對理解當下問題重要
+5. 全球史係 21 世紀重要歷史方向
+
+**最後問題**: 全球史會取代國家史嗎？
+
+---
+**版權所有 © HKU History Self-Study**

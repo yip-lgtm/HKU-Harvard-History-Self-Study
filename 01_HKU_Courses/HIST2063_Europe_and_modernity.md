@@ -1,442 +1,322 @@
-# HIST2063
-**Europe and modernity: Cultures and identities, 1890-1940**
+# HIST2063 歐洲與現代性 / Europe and Modernity: Cultures and Identities, 1890-1940 (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2063 歐洲與現代性 / Europe and Modernity, 1890-1940
-**學期**：1890-1940
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Thomas Soden
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 幽默、犀利、聚焦歐洲點解塑造現代世界
 
 ---
 
 ## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
 
-1. **世紀末的焦慮**
-   **世紀末的焦慮**
+### 心智模型 1：「現代性」作為文明工程
+**Modernity as Civilizational Project**
 
-2. **第一次世界大戰的文化斷裂**
-   **第一次世界大戰的文化斷裂**
+學者 **Charles Taylor** (麥基爾, *Sources of the Self*, 1989) 指出：「現代性」唔係單一現象，而係一個多面向嘅文明工程——包括理性化、世俗化、個人主義、進步信念。呢個工程 19 世紀歐洲啟動，但到今日仍然未完成。
 
-3. **戰間期的民主危機**
-   **戰間期的民主危機**
+學者 **Jürgen Habermas** (法蘭克福學派) 強調：現代性係「未完成嘅工程」——理性解放承諾仍未完全兌現。
 
-4. **法西斯主義的吸引力**
-   **法西斯主義的吸引力**
+- 1889 巴黎博覽會——「美好年代」(Belle Époque) 象徵
+- 1900  Freud 《夢的解析》——理性自我嘅解構
+- 1914 歐洲大戰爆發——現代性嘅第一次大危機
 
-5. **現代主義藝術與政治**
-   **現代主義藝術與政治**
+### 心智模型 2：「世紀末」(Fin de Siècle) 文化焦慮
+**Fin de Siècle Cultural Anxiety**
+
+學者 **Carl Schorske** (哥倫比亞, *Fin-de-Siècle Vienna*, 1980) 經典研究：維也納 1890-1910 年係「世紀末」文化焦慮嘅最佳案例——藝術家、知識分子對現代性又愛又恨。
+
+學者 ** Peter Gay** (耶魯, *Weimar Culture*, 1968) 指出：「世紀末」情緒唔只係歐洲特有，而係整個西方世界對現代性危機嘅回應。
+
+- 1890s 尼采宣稱「上帝已死」——傳統價值觀崩潰
+- 1895 王爾德因同性戀罪名被判監禁——維多利亞道德焦慮
+- 1905 愛因斯坦相對論——牛頓機械宇宙觀崩塌
+
+### 心智模型 3：民族主義作爲現代身份政治
+**Nationalism as Modern Identity Politics**
+
+學者 **Benedict Anderson** (康奈爾, *Imagined Communities*, 1983) 提出：民族唔係自然形成，而係 19 世紀印刷資本主義「想像」嘅產品。歐洲民族主義係現代性嘅核心現象。
+
+學者 **Eric Hobsbawm** (倫敦政經學院, *Nations and Nationalism*, 1990) 指出：「發明嘅傳統」——民族習俗、國旗、國歌——都係 19 世紀末為民族國家服務而發明。
+
+- 1882 法國確定 7 月 14 日巴士底日為國慶——歷史唔超過 100 年
+- 1890s 德國「瓦格納節」(Bayreuth Festival) 建立日耳曼文化認同
+- 1905 挪威從瑞典獨立——民族自決原則興起
+
+### 心智模型 4：種族科學與帝國意識形態
+**Scientific Racism and Imperial Ideology**
+
+學者 **George Mosse** (威斯康辛, *Racism and the Origin of European Fascism*, 1978) 研究：19 世紀末種族主義唔係「迷信」，而係「科學」——當時最頂尖科學家、醫生、人類學家都支持種族等級論。
+
+學者 **Robert Miles** (愛丁堡) 指出：「種族」呢個概念本身就係現代性產品——為帝國主義提供「科學」理據。
+
+- 1883 Haeckel 發明「帝國主義」德語詞——自然法則應用於人類社會
+- 1898 Duchenne de Boulogne 拍攝「表情」照片——建立「科學」面相學
+- 1900 達爾文表弟 Francis Galton 發明「優生學」
+
+### 心智模型 5：群眾政治與極權主義興起
+**Mass Politics and the Rise of Totalitarianism**
+
+學者 **Hannah Arendt** (普林斯頓, *The Origins of Totalitarianism*, 1951) 經典分析：20 世紀極權主義係現代性嘅黑暗面——群眾動員、國家權力擴張、意識形態政治。
+
+學者 **Carl Schmitt** (德國法學家) 指出：現代政治核心係「敵我劃分」——呢個概念為極權主義提供理論基礎。
+
+- 1917 俄國革命——布爾什維克群眾政黨
+- 1922 意大利法西斯奪權——群眾動員政治
+- 1933 希特勒上台——群眾選舉产生極權統治
 
 ---
 
 ## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
 
-### 分歧 1：威廉德國 — 穩定 vs 火藥桶 / Wilhelmine Germany — Stability or Powder Keg
-**核心問題 / Core question**: 威廉二世德國是穩定歐洲強權還是一戰的火藥桶？
+### 分歧 1：現代性——歐洲專利定全球現象？
+**Modernity: European Invention or Global Phenomenon?**
 
-- **一方觀點** / **Side A**: A: 穩定 — 經濟領先、社會福利
-- **另一方觀點** / **Side B**: B: 火藥桶 — 軍國主義、俾斯麥體制解體
+**核心問題**: 歐洲係現代性嘅原創者定只係先行者？亞洲、拉美都有自己嘅現代性經驗嗎？
 
-### 分歧 2：魏瑪共和 — 失敗 vs 悲劇 / Weimar Republic — Failure or Tragedy
-**核心問題 / Core question**: 魏瑪共和是注定失敗還是悲劇性被摧毀？
+- **A 方 / Side A — 歐洲起源派**:
+  - **Jürgen Habermas** (法蘭克福學派)
+  - **Marshall Berman** (*All That is Solid Melts into Air*, 1982)
+  - 論點：現代性項目係歐洲啟動——理性化、世俗化、個人主義——呢啲都係歐洲啟蒙運動產品
+  - 證據：科學革命、工業革命、民主制度全部歐洲原創
 
-- **一方觀點** / **Side A**: A: 失敗 — 經濟、議會、政府無能
-- **另一方觀點** / **Side B**: B: 悲劇 — 大蕭條 + 納粹陰謀，本可挽救
+- **B 方 / Side B — 多元現代性派**:
+  - **Dipesh Chakrabarty** (*Provincializing Europe*, 2000)
+  - **Shmuel Eisenstadt** (*Multiple Modernities*, 2000)
+  - 論點：現代性唔係單一歐洲模式——日本、中國、印度都可以走自己嘅現代化道路
+  - 證據：明治維新、土耳其凱末爾主義都係非歐洲現代性
 
-### 分歧 3：法西斯 — 大眾心理 vs 階級背叛 / Fascism — Mass Psychology or Class Betrayal
-**核心問題 / Core question**: 法西斯興起是大眾心理學還是階級背叛？
+### 分歧 2：大屠殺——歐洲文化特殊產品定普遍人性？
+**The Holocaust: Unique to European Culture or Universal Human Nature?**
 
-- **一方觀點** / **Side A**: A: 大眾心理 — 領袖崇拜、群眾催眠
-- **另一方觀點** / **Side B**: B: 階級背叛 — 資產階級支持納粹反共
+**核心問題**: 納粹大屠殺係歐洲文明崩潰例外事件，定人類普遍暴力傾向嘅極端表現？
+
+- **A 方 / Side A — 歐洲特殊論**:
+  - **Zygmunt Bauman** (*Modernity and the Holocaust*, 1989)
+  - **Theodor Adorno** (法蘭克福學派)
+  - 論點：大屠殺係現代性嘅黑暗面——理性化、官僚制度、現代國家權力——呢啲歐洲最自豪嘅嘢造成大屠殺
+  - 證據：納粹屠殺係有系統、有效率嘅現代官僚制度運作
+
+- **B 方 / Side B — 普遍人性論**:
+  - **Daniel Goldhagen** (*Hitler's Willing Executioners*, 1996)
+  - **Christopher Browning** (*Ordinary Men*, 1992)
+  - 論點：大屠殺唔係歐洲獨有——任何群體喺特定條件下都可以犯下類似暴行
+  - 證據：盧旺達種族滅絕、紅色高棉——都唔係歐洲文化
+
+### 分歧 3：第一次世界大戰——歷史意外定結構必然？
+**WWI: Historical Accident or Structural Necessity?**
+
+**核心問題**: 1914 年大戰爆發係可以避免嘅歷史意外，定歐洲體系結構性危機嘅必然結果？
+
+- **A 方 / Side A — 意外論**:
+  - **A.J.P. Taylor** (*The Struggle for Mastery in Europe*, 1953)
+  - 論點：大戰爆發係因為特定領導人嘅錯誤判斷——如果維也納冇向塞爾維亞最後通牒、如果德國冇向奧匈保證支持——大戰可以避免
+  - 證據：1914 年 7 月危機 5 個禮拜內談判機會多次出現
+
+- **B 方 / Side B — 結構必然論**:
+  - **Leon Trotsky** (布爾什維克革命家)
+  - **Immanuel Wallerstein** (*World-Systems Analysis*, 1974)
+  - 論點：帝國主義競爭、民族主義壓力、階級衝突——歐洲體系結構性危機早就累積，大戰遲早爆發
+  - 證據：1905 年摩洛哥危機、1912 年巴爾幹戰爭，已經顯示體系不穩定
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 3：10 個 PROBING 深度問題
 
-1. 為什麼 **世紀末的焦慮** 是理解 歐洲與現代性 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 第一次世界大戰的文化斷裂 在多大程度上決定了 Europe and Modernity, 1890-1940 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 戰間期的民主危機 與 法西斯主義的吸引力 之間的張力如何形塑了 1890-1940 的關鍵轉折？
-4. 如果把 世紀末的焦慮 抽離出來，Europe and Modernity, 1890-1940 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1890-1940 中，哪個領導人、事件或文本最能代表 現代主義藝術與政治 的極致展現？
-6. 學者之間關於 第一次世界大戰的文化斷裂 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Europe and Modernity, 1890-1940 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 戰間期的民主危機 與 法西斯主義的吸引力 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Europe and Modernity, 1890-1940 的哪些歷史經驗正在重演？哪些已經過時？
+1. 如果維也納世紀末知識分子可以預見 1914 年大屠殺，佢哋會點樣？
+2. 點解 19 世紀末歐洲人對「種族科學」咁著迷？（提示：帝國主義需要）
+3. 「世紀末」焦慮同今日全球化焦慮有乜嘢相似？
+4. 點解女性主義喺「美好年代」興起但同時時尚工業將女性身體商品化？
+5. 如果納粹德國冇出現，歐洲會點樣走向現代性？
+6. 「達爾文主義」點解可以同時支持社會主義同種族主義？
+7. 比較英國、法國、德國嘅民族主義——邊個最「成功」？邊個最暴力？
+8. 如果「現代性」係歐洲發明，點解歐洲自己內部對佢咁多批評？
+9. 點解 1890s 欧洲 sexually obsessed 但同時超級道德主義？（提示： Victoria 時代矛盾）
+10. 「現代性」作爲「未完成工程」——今日仍然未完成嗎？
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 核心心智模型深化（中英對照）
 
-## 1. 世紀末的焦慮
+## 1. 現代性 (Modernity)
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 世紀末的焦慮 | 世紀末的焦慮 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 世紀末的焦慮 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Europe and Modernity, 1890-1940 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 世紀末的焦慮 的兩個極端案例，並分析其後果
-- 如果抽離 世紀末的焦慮，Europe and Modernity, 1890-1940 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，世紀末的焦慮 怎樣決定了 1890-1940 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[世紀末的焦慮 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 第一次世界大戰的文化斷裂
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 第一次世界大戰的文化斷裂 | 第一次世界大戰的文化斷裂 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 第一次世界大戰的文化斷裂 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Europe and Modernity, 1890-1940 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 第一次世界大戰的文化斷裂 的兩個極端案例，並分析其後果
-- 如果抽離 第一次世界大戰的文化斷裂，Europe and Modernity, 1890-1940 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，第一次世界大戰的文化斷裂 怎樣決定了 1890-1940 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[第一次世界大戰的文化斷裂 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 戰間期的民主危機
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 戰間期的民主危機 | 戰間期的民主危機 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 戰間期的民主危機 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Europe and Modernity, 1890-1940 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 戰間期的民主危機 的兩個極端案例，並分析其後果
-- 如果抽離 戰間期的民主危機，Europe and Modernity, 1890-1940 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，戰間期的民主危機 怎樣決定了 1890-1940 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[戰間期的民主危機 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 法西斯主義的吸引力
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 法西斯主義的吸引力 | 法西斯主義的吸引力 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 法西斯主義的吸引力 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Europe and Modernity, 1890-1940 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 法西斯主義的吸引力 的兩個極端案例，並分析其後果
-- 如果抽離 法西斯主義的吸引力，Europe and Modernity, 1890-1940 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，法西斯主義的吸引力 怎樣決定了 1890-1940 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[法西斯主義的吸引力 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 現代主義藝術與政治
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 現代主義藝術與政治 | 現代主義藝術與政治 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 現代主義藝術與政治 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Europe and Modernity, 1890-1940 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 現代主義藝術與政治 的兩個極端案例，並分析其後果
-- 如果抽離 現代主義藝術與政治，Europe and Modernity, 1890-1940 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，現代主義藝術與政治 怎樣決定了 1890-1940 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[現代主義藝術與政治 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Europe and Modernity, 1890-1940 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Europe and Modernity, 1890-1940 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 歐洲與現代性，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+| English | 中英對照 | 定義 |
+|---|---|---|
+| Modernity | 現代性 | 西方理性化、世俗化、個人主義 |
+| Rationalization | 理性化 | 以效率、計算為基礎組織社會 |
+| Secularization | 世俗化 | 宗教影響力下降 |
+| Individualism | 個人主義 | 個人權利優先於集體 |
+| Progress | 進步 | 歷史向更好方向發展信念 |
+
+### 1.2 袁騰飛式犀利觀察
+現代性最辛辣嘅諷刺就係：歐洲人發明「理性」然後用嚟屠殺——納粹大屠殺就係「理性」做到最有效率嘅種族滅絕。Bauman 話你知：現代性唔係大屠殺嘅對立面，而係大屠殺嘅工具。所以「現代化」唔係必然等於「文明化」。
+
+### 1.3 圖解
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[啟蒙運動<br/>1750-1800] --> B[法國大革命<br/>1789]
+    B --> C[浪漫主義<br/>反動]
+    C --> D[工業革命<br/>理性化]
+    D --> E[世紀末焦慮<br/>1890-1914]
+    E --> F[第一次世界大戰<br/>1914-18]
+    F --> G[極權主義<br/>20世紀
+    
+    style A fill:#9cf,color:#000
+    style F fill:#f00,color:#fff
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 2. 世紀末文化 (Fin de Siècle)
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 2.1 圖解
+```mermaid
+flowchart LR
+    subgraph "世紀末焦慮"
+        A[尼采: 上帝已死] --> D[虛無主義]
+        B[Freud: 意識形態崩潰] --> D
+        C[社會達爾文主義] --> E[種族焦慮]
+        E --> F[民族主義]
+        F --> G[帝國主義]
+    end
+```
 
-**自學建議 / Study tips**: 配合 Europe and Modernity, 1890-1940 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+---
+
+## 3. 民族主義 (Nationalism)
+
+### 3.1 圖解
+```mermaid
+flowchart TD
+    A[印刷資本主義<br/>1450+] --> B[共同語言普及]
+    B --> C[共同媒體消費]
+    C --> D[想像共同體形成]
+    D --> E[民族主義運動]
+    E --> F[民族國家建立]
+```
+
+---
+
+## 4. 種族科學 (Scientific Racism)
+
+### 4.1 圖解
+```mermaid
+flowchart LR
+    A[達爾文主義] --> B[社會達爾文主義]
+    B --> C[優生學]
+    C --> D[種族等級論]
+    D --> E[帝國主義正當化]
+```
+
+---
+
+## 5. 極權主義 (Totalitarianism)
+
+### 5.1 圖解
+```mermaid
+flowchart TD
+    A[群眾動員] --> B[單一政黨]
+    B --> C[單一意識形態]
+    C --> D[國家權力擴張]
+    D --> E[個人權利剝奪]
+    D --> F[暴力正當化]
+    
+    style A fill:#f96,color:#000
+    style E fill:#f00,color:#fff
+```
+
+---
+
+## 深度自測問題詳解
+
+## 詳解 1: 如果維也納世紀末知識分子可以預見 1914 年...
+
+如果佢哋知道 1914 年大屠殺，佢哋會點樣？呢個問題揭示咗世紀末文化嘅矛盾：知識分子批判現代性但同時為佢服務。維也納世紀末就係最好嘅例子——Schopenhauer 話人生係苦，尼采話「重估一切價值」，Freud 話意識係幻覺——但佢哋全部都係現代學術建制一部分。
+
+## 詳解 2: 點解「種族科學」咁流行？
+
+因為帝國主義需要科學理據——點解我哋可以殖民其他人？因為佢哋係「低等種族」。呢個就係「知識即權力」最好嘅例子——殖民者發明種族科學，證明殖民正當。
+
+---
+
+## 5 個 Mermaid 圖解
+
+## 📊 Diagram 1: 歐洲現代性時間線
+
+```mermaid
+timeline
+    title 歐洲現代性里程碑
+    1789 : 法國大革命
+    1804 : 拿破崙法典
+    1848 : 歐洲革命浪潮
+    1859 : 達爾文《物種起源》
+    1870 : 普法戰爭<br/>德國統一
+    1889 : 巴黎博覽會<br/>美好年代
+    1900 : Freud《夢的解析》
+    1914 : 第一次世界大戰爆發
+    1933 : 納粹上台
+```
+
+## 📊 Diagram 2: 世紀末文化板塊
+
+```mermaid
+graph TD
+    A[世紀末維也納] --> B[藝術: 分離派]
+    A --> C[音樂: 荀白克]
+    A --> D[哲學: 維特根斯坦]
+    A --> E[心理學: Freud]
+    A --> F[政治: 社會民主黨]
+```
+
+## 📊 Diagram 3: 大屠殺歷史背景
+
+```mermaid
+flowchart TD
+    A[種族科學] --> B[優生學運動]
+    B --> C[納粹種族法]
+    C --> D[集中營系統]
+    D --> E[工業化屠殺]
+```
+
+## 📊 Diagram 4: 現代性與大屠殺關係
+
+```mermaid
+flowchart TD
+    A[現代性工程] --> B[理性化官僚制度]
+    A --> C[國家權力擴張]
+    A --> D[科學話語霸權]
+    
+    B --> E[大屠殺工具]
+    C --> E
+    D --> E
+    
+    E --> F[600萬猶太人死亡]
+```
+
+## 📊 Diagram 5: 歐洲民族國家形成
+
+```mermaid
+flowchart TD
+    A[法國大革命<br/>1789] --> B[民族動員]
+    B --> C[拿破崙戰爭<br/>歐洲傳播民族主義]
+    
+    D[德國統一<br/>1871] --> E[民族主義高潮]
+    E --> F[巴爾幹民族主義<br/>1900s]
+    F --> G[第一次世界大戰<br/>1914]
+```
+
+---
+
+## 總結
+
+1. **現代性係多面向文明工程**——包括理性化、世俗化、個人主義、進步信念
+2. **世紀末焦慮揭示現代性嘅黑暗面**——世紀末文化對現代性又愛又恨
+3. **民族主義係現代性核心現象**——民族唔係自然，而係被「發明」嘅
+4. **種族科學為帝國主義提供「科學」理據**——呢個教訓到今日仍然適用
+5. **極權主義係現代性嘅黑暗面**——群眾動員+國家權力=人類最大災難
+
+**最後辛辣總結**: 歐洲發明咗現代性，然後被自己嘅發明摧毁——兩次世界大戰、法西斯主義、大屠殺——呢個就係「文明」最諷刺嘅真相。
+
+---
+**版權所有 © HKU History Self-Study**  
+**For educational purposes only**

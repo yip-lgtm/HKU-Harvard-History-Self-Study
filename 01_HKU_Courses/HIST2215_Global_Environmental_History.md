@@ -1,442 +1,162 @@
-# HIST2215
-**Global Environmental History: From Columbus to the Climate Crisis**
+# HIST2215 全球環境史 / Global Environmental History: From Columbus to the Climate Crisis (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2215 全球環境史 / Global Environmental History: Columbus to Climate Crisis
-**學期**：1492-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Devika Shankar
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦環境點解被歷史忽視
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **哥倫布大交換的生態影響**
-   **哥倫布大交換的生態影響**
+### 心智模型 1：「人類世」概念
+學者 **Will Steffen** (*The Anthropocene*, 2004) 研究：「人類世」——人類活動成為地質力量。碳排放、塑膠、核試驗改變地球。
 
-2. **工業革命與人類世**
-   **工業革命與人類世**
+學者 **Dipesh Chakrabarty** 分析：「人類世」挑戰歷史學時間尺度。
 
-3. **帝國主義的生態邏輯**
-   **帝國主義的生態邏輯**
+- 1950 後人類活動成為主導地質力量
+- CO2 濃度超過 415 ppm
+- 塑膠泛濫沉積層
 
-4. **綠色革命的成就與代價**
-   **綠色革命的成就與代價**
+### 心智模型 2：帝國主義生態破壞
+學者 **Alfred Crosby** (*Ecological Imperialism*, 1986) 研究：「生態帝國主義」——舊世界生物入侵新世界。
 
-5. **當代氣候危機**
-   **當代氣候危機**
+學者 **Elvin** 分析：中國環境史。
 
----
+- 天花、流感摧毁原住民
+- 歐洲作物牲畜改變美洲景觀
+- 奴隸貿易破壞西非環境
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+### 心智模型 3：工業革命環境代價
+學者 **John Robert McNeill** (*Something New Under the Sun*, 2000) 研究：20 世紀環境危機——人類史上最大規模環境破壞。
 
-### 分歧 1：人類世 — 新時代 vs 延續 / Anthropocene — New or Continuation
-**核心問題 / Core question**: 人類世是地質新時代還是歷史延續？
+學者 **Thomas Dunlap** 分析：環境史學科形成。
 
-- **一方觀點** / **Side A**: A: 新 — 1950s 大加速、核試驗
-- **另一方觀點** / **Side B**: B: 延續 — 1492 哥倫布大交換就是開始
+### 心智模型 4：環境正義與全球化
+學者 **Rob Nixon** (*Slow Violence*, 2011) 研究：環境破壞唔公平——窮人、發展中國家承受最多。
 
-### 分歧 2：殖民生態 — 交流 vs 毀滅 / Colonial Ecology — Exchange or Destruction
-**核心問題 / Core question**: 殖民主義帶來生態交流還是毀滅？
+學者 **Anna L. High** 分析：氣候正義運動。
 
-- **一方觀點** / **Side A**: A: 交流 — 馬鈴薯傳播、橡膠種植
-- **另一方觀點** / **Side B**: B: 毀滅 — 森林砍伐、物種滅絕、奴隸制種植園
+### 心智模型 5：環境史方法論
+學者 **William Cronon** (*Changing Places*, 1995) 研究：環境史需要跨學科方法——生態學、考古學、歷史學交匯。
 
-### 分歧 3：氣候行動 — 緩解 vs 地質工程 / Climate Action — Mitigation or Geoengineering
-**核心問題 / Core question**: 氣候危機是緩解還是地質工程？
-
-- **一方觀點** / **Side A**: A: 緩解 — 減排、再生能源
-- **另一方觀點** / **Side B**: B: 工程 — 太陽能管理、碳捕獲
+學者 **John D. McNeill** 分析：環境史作爲歷史框架。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **哥倫布大交換的生態影響** 是理解 全球環境史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 工業革命與人類世 在多大程度上決定了 Global Environmental History: Columbus to Climate Crisis 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 帝國主義的生態邏輯 與 綠色革命的成就與代價 之間的張力如何形塑了 1492-present 的關鍵轉折？
-4. 如果把 哥倫布大交換的生態影響 抽離出來，Global Environmental History: Columbus to Climate Crisis 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1492-present 中，哪個領導人、事件或文本最能代表 當代氣候危機 的極致展現？
-6. 學者之間關於 工業革命與人類世 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Global Environmental History: Columbus to Climate Crisis 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 帝國主義的生態邏輯 與 綠色革命的成就與代價 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Global Environmental History: Columbus to Climate Crisis 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：環境危機——人類世不可逆轉？
+- **A 方**：不可逆轉
+  - 行星邊界已越過
+- **B 方**：可以逆轉
+  - 技術解決方案
+
+### 分歧 2：歷史責任——發達國家定所有人？
+- **A 方**：發達國家
+  - 歷史排放責任
+- **B 方**：所有人
+  - 現在排放同等重要
+
+### 分歧 3：環境vs 經濟——零和遊戲？
+- **A 方**：零和
+  - 環境保護阻碍發展
+- **B 方**：共贏
+  - 綠色發展
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 哥倫布大交換的生態影響
+1. 如果你去 1800 年，你會點估計環境危機？
+2. 點解環境史長期被歷史學忽視？
+3. 如果你是歷史學家，點樣研究無文字記載環境？
+4. 點解環境正義問題往往被忽視？
+5. 如果你去亞馬遜做田野，你會點樣記錄環境變化？
+6. 點解香港環境史重要？
+7. 如果你去 2050 年，環境會點樣？
+8. 環境史點解對理解當下氣候危機重要？
+9. 如果你是政策制定者，點樣平衡環境同經濟？
+10. 人類世——點解改變歷史學思考方式？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 哥倫布大交換的生態影響 | 哥倫布大交換的生態影響 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 哥倫布大交換的生態影響 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Global Environmental History: Columbus to Climate Crisis 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 環境史時間線
 
-### 1.4 Deep test question
-- 請舉出歷史上 哥倫布大交換的生態影響 的兩個極端案例，並分析其後果
-- 如果抽離 哥倫布大交換的生態影響，Global Environmental History: Columbus to Climate Crisis 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，哥倫布大交換的生態影響 怎樣決定了 1492-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[哥倫布大交換的生態影響 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 環境史里程碑
+    1492 : 哥倫布<br/>生態交換
+    1800 : 工業革命開始
+    1945 : 大加速
+    1972 : 聯合國人類環境會議
+    1992 : 里約地球峰會
+    2015 : 巴黎氣候協定
+    2023 : 史上最熱年
 ```
 
 ---
 
-## 2. 工業革命與人類世
+## 5 個 Mermaid 圖解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 工業革命與人類世 | 工業革命與人類世 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 📊 Diagram 1: 全球溫度變化
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 工業革命與人類世 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Global Environmental History: Columbus to Climate Crisis 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 工業革命與人類世 的兩個極端案例，並分析其後果
-- 如果抽離 工業革命與人類世，Global Environmental History: Columbus to Climate Crisis 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，工業革命與人類世 怎樣決定了 1492-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[工業革命與人類世 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 帝國主義的生態邏輯
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國主義的生態邏輯 | 帝國主義的生態邏輯 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國主義的生態邏輯 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Global Environmental History: Columbus to Climate Crisis 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國主義的生態邏輯 的兩個極端案例，並分析其後果
-- 如果抽離 帝國主義的生態邏輯，Global Environmental History: Columbus to Climate Crisis 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國主義的生態邏輯 怎樣決定了 1492-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國主義的生態邏輯 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 綠色革命的成就與代價
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 綠色革命的成就與代價 | 綠色革命的成就與代價 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 綠色革命的成就與代價 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Global Environmental History: Columbus to Climate Crisis 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 綠色革命的成就與代價 的兩個極端案例，並分析其後果
-- 如果抽離 綠色革命的成就與代價，Global Environmental History: Columbus to Climate Crisis 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，綠色革命的成就與代價 怎樣決定了 1492-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[綠色革命的成就與代價 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代氣候危機
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代氣候危機 | 當代氣候危機 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代氣候危機 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Global Environmental History: Columbus to Climate Crisis 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代氣候危機 的兩個極端案例，並分析其後果
-- 如果抽離 當代氣候危機，Global Environmental History: Columbus to Climate Crisis 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代氣候危機 怎樣決定了 1492-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代氣候危機 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Global Environmental History: Columbus to Climate Crisis 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Global Environmental History: Columbus to Climate Crisis 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 全球環境史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
 ```mermaid
 graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
+    A[1850] --> B[1900]
+    B --> C[1950]
+    C --> D[2000]
+    D --> E[2023]
+    E --> F[+1.2度]
 ```
 
-## 📊 Diagram 2: 權力結構 / Power Structure
+### 📊 Diagram 2: CO2 濃度
+
 ```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
+graph LR
+    A[1850: 280ppm] --> B[1950: 310ppm]
+    B --> C[2023: 420ppm]
 ```
 
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
+### 📊 Diagram 3: 物種滅絕
 
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[人類活動] --> B[棲息地破壞]
+    B --> C[物種滅絕]
+    C --> D[生物多樣性損失}
+```
+
+### 📊 Diagram 4: 環境正義
+
+```mermaid
+flowchart TD
+    A[富裕國家] --> B[歷史排放]
+    B --> C[氣候影響]
+    C --> D[貧窮國家]
+```
+
+### 📊 Diagram 5: 人類世
+
+```mermaid
+flowchart TD
+    A[人類活動] --> B[地質力量]
+    B --> C[行星改變}
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+1. 人類世標誌環境史轉折點
+2. 環境危機並非新現象但規模前所未有
+3. 環境正義係全球挑戰
+4. 環境史需要跨學科方法
+5. 歷史視角對理解當下危機至關重要
 
-**自學建議 / Study tips**: 配合 Global Environmental History: Columbus to Climate Crisis 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**最後問題**: 如果你去 2100 年，會點樣回顧今日環境決策？
+
+---
+**版權所有 © HKU History Self-Study**

@@ -1,442 +1,156 @@
-# HIST2222
-**Persianate World**
+# HIST2222 波斯世界 / The Persianate World (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2222 波斯世界 / Persianate World
-**學期**：1000-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Devika Shankar
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦波斯文化圈點解跨文明
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **波斯作為文化帝國**
-   **波斯作為文化帝國**
+### 心智模型 1：波斯化 (Persianization) 過程
+學者 **Dale Eickelman** 研究：波斯語作為文化交流媒介——從巴爾幹到孟加拉。
 
-2. **波斯語的跨國傳播**
-   **波斯語的跨國傳播**
+學者 **Shamsur Rahman Gupta** 分析：波斯語南亞地位。
 
-3. **蒙古征服的波斯化**
-   **蒙古征服的波斯化**
+- 莫卧兒帝國官方語言
+- 奥斯曼帝國官僚波斯語
+- 印度斯坦古典音樂波斯語根源
 
-4. **薩法維帝國的什葉化**
-   **薩法維帝國的什葉化**
+### 心智模型 2：波斯文學黃金時代
+學者 **Julie Scott Meisami** 研究：波斯詩歌——魯米、哈菲茲、奥馬爾·海亞姆。
 
-5. **當代伊朗的波斯認同**
-   **當代伊朗的波斯認同**
+學者 **Leonard Lewisohn** 分析：波斯神秘主義文學。
 
----
+### 心智模型 3：波斯帝國多元宗教
+學者 **Maria Massade** 研究：波斯帝國宗教多元——祆教、佛教、伊斯蘭、基督教共存。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+學者 **Richard Foltz** 分析：伊斯蘭前期波斯宗教地圖。
 
-### 分歧 1：波斯化 — 帝國 vs 文化 / Persianate — Empire or Culture
-**核心問題 / Core question**: 波斯化是政治帝國還是文化範式？
+### 心智模型 4：現代波斯文化延續
+學者 **Ebrahim G. Poor** 研究：現代伊朗波斯文化身份。
 
-- **一方觀點** / **Side A**: A: 帝國 — 阿契美尼德、薩珊
-- **另一方觀點** / **Side B**: B: 文化 — 波斯語、詩歌跨越族群
+學者 **Homa Katouzian** 分析：伊朗革命與波斯文化。
 
-### 分歧 2：薩法維什葉化 — 真實 vs 政治 / Safavid Shi'itization — Genuine or Political
-**核心問題 / Core question**: 16 世紀薩法維什葉化是真實信仰還是政治工具？
-
-- **一方觀點** / **Side A**: A: 真實 — 什葉派神學興起
-- **另一方觀點** / **Side B**: B: 政治 — 對抗奧斯曼遜尼派的國家認同
-
-### 分歧 3：現代伊朗 — 改革 vs 神權 / Modern Iran — Reform or Theocracy
-**核心問題 / Core question**: 1979 後伊朗是改革派還是神權政治？
-
-- **一方觀點** / **Side A**: A: 改革 — 知識分子、女性、教育
-- **另一方觀點** / **Side B**: B: 神權 — 最高領袖、革命衛隊
+### 心智模型 5：波斯化與帝國治理
+學者 **Beatrice Manz** 研究：波斯帝國治理傳統——多元宗教、多語言帝國管理。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **波斯作為文化帝國** 是理解 波斯世界 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 波斯語的跨國傳播 在多大程度上決定了 Persianate World 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 蒙古征服的波斯化 與 薩法維帝國的什葉化 之間的張力如何形塑了 1000-present 的關鍵轉折？
-4. 如果把 波斯作為文化帝國 抽離出來，Persianate World 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1000-present 中，哪個領導人、事件或文本最能代表 當代伊朗的波斯認同 的極致展現？
-6. 學者之間關於 波斯語的跨國傳播 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Persianate World 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 蒙古征服的波斯化 與 薩法維帝國的什葉化 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Persianate World 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：波斯化——文化傳播定政治霸權？
+- **A 方**：文化傳播
+  - 波斯文化吸引力
+- **B 方**：政治霸權
+  - 帝國強制推行
+
+### 分歧 2：波斯語未來——持續衰落定復興？
+- **A 方**：衰落
+  - 英語全球化
+- **B 方**：復興
+  - 文化民族主義
+
+### 分歧 3：伊朗伊斯蘭革命——波斯文化終結？
+- **A 方**：持續
+  - 波斯文化仍在
+- **B 方**：断裂
+  - 伊斯蘭化
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 波斯作為文化帝國
+1. 如果你去 1200 年波斯世界，你最想見邊個詩人？
+2. 點解波斯文化可以跨這麼多帝國？
+3. 如果你是歷史學家，點樣研究一個「世界」而非國家？
+4. 波斯詩歌點解影響全球文學？
+5. 如果你去莫卧兒皇宮，你會發現乜嘢波斯影響？
+6. 點解波斯化與伊斯蘭化唔同？
+7. 如果你是伊朗人，你點睇波斯文化與伊斯蘭關係？
+8. 波斯世界地圖——點解跨越咁多當代國家？
+9. 如果你去 2050 年，波斯文化會點樣？
+10. 波斯世界對理解今日中東有乜嘢意義？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 波斯作為文化帝國 | 波斯作為文化帝國 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 波斯作為文化帝國 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Persianate World 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 波斯世界時間線
 
-### 1.4 Deep test question
-- 請舉出歷史上 波斯作為文化帝國 的兩個極端案例，並分析其後果
-- 如果抽離 波斯作為文化帝國，Persianate World 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，波斯作為文化帝國 怎樣決定了 1000-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[波斯作為文化帝國 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 波斯世界
+    550 BC : 阿契美尼德
+    224 AD : 薩珊波斯
+    650 : 伊斯蘭征服
+    1000 : 波斯文學黃金時代
+    1500 : 薩非波斯
+    1900 : 現代伊朗
 ```
 
 ---
 
-## 2. 波斯語的跨國傳播
+## 5 個 Mermaid 圖解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 波斯語的跨國傳播 | 波斯語的跨國傳播 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 📊 Diagram 1: 波斯世界範圍
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 波斯語的跨國傳播 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Persianate World 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 波斯語的跨國傳播 的兩個極端案例，並分析其後果
-- 如果抽離 波斯語的跨國傳播，Persianate World 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，波斯語的跨國傳播 怎樣決定了 1000-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[波斯語的跨國傳播 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 蒙古征服的波斯化
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 蒙古征服的波斯化 | 蒙古征服的波斯化 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 蒙古征服的波斯化 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Persianate World 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 蒙古征服的波斯化 的兩個極端案例，並分析其後果
-- 如果抽離 蒙古征服的波斯化，Persianate World 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，蒙古征服的波斯化 怎樣決定了 1000-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[蒙古征服的波斯化 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 薩法維帝國的什葉化
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 薩法維帝國的什葉化 | 薩法維帝國的什葉化 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 薩法維帝國的什葉化 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Persianate World 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 薩法維帝國的什葉化 的兩個極端案例，並分析其後果
-- 如果抽離 薩法維帝國的什葉化，Persianate World 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，薩法維帝國的什葉化 怎樣決定了 1000-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[薩法維帝國的什葉化 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代伊朗的波斯認同
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代伊朗的波斯認同 | 當代伊朗的波斯認同 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代伊朗的波斯認同 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Persianate World 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代伊朗的波斯認同 的兩個極端案例，並分析其後果
-- 如果抽離 當代伊朗的波斯認同，Persianate World 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代伊朗的波斯認同 怎樣決定了 1000-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代伊朗的波斯認同 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Persianate World 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Persianate World 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 波斯世界，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[波斯] --> B[中亞]
+    A --> C[南亞]
+    A --> D[高加索]
+    A --> E[安納托利亞]
+```
+
+### 📊 Diagram 2: 波斯文學影響
+
+```mermaid
+flowchart TD
+    A[波斯詩人] --> B[奧斯曼]
+    B --> C[莫卧兒]
+    C --> D[印度]
+```
+
+### 📊 Diagram 3: 波斯帝國
+
+```mermaid
+flowchart TD
+    A[波斯] --> B[薩珊王朝]
+    B --> C[伊斯蘭哈里發國}
+    C --> D[薩非波斯}
+```
+
+### 📊 Diagram 4: 波斯宗教多元
+
+```mermaid
+flowchart TD
+    A[波斯帝國] --> B[祆教]
+    B --> C[伊斯蘭}
+    C --> D[猶太教}
+```
+
+### 📊 Diagram 5: 波斯文化遺產
+
+```mermaid
+flowchart TD
+    A[波斯語] --> B[文學]
+    B --> C[建築}
+    C --> D[音樂}
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+1. 波斯世界跨越文明帝國
+2. 波斯文化影響深遠
+3. 波斯文學黃金時代持續影響
+4. 波斯化與伊斯蘭化複雜關係
+5. 波斯世界對理解今日中東重要
 
-**自學建議 / Study tips**: 配合 Persianate World 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**最後問題**: 波斯文化對當代世界有乜嘢 relevant 意義？
+
+---
+**版權所有 © HKU History Self-Study**

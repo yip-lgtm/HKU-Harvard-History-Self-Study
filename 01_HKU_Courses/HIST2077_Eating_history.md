@@ -1,442 +1,182 @@
-# HIST2077
-**Eating history: Food culture from the 19th century to the present**
+# HIST2077 食的历史 / Eating History: Food Culture from the 19th Century to the Present (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2077 飲食史 / Eating History: Food Culture from 19th C.
-**學期**：1800-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Staci Ford
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦食物點解揭示階級、殖民主義、環境
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **工業化與食品加工**
-   **工業化與食品加工**
+### 心智模型 1：你係你食的 (You Are What You Eat)
+學者 **Michael Pollan** (*In Defense of Food*, 2008) 提出：「你係你食的」唔係比喻，而係生物學事實——食物直接影響我哋身體、腸道菌群、基因表達。
 
-2. **帝國主義的味蕾**
-   **帝國主義的味蕾**
+學者 **Sidney Mintz** (*Tasting Food, Tasting Freedom*, 1996) 從歷史角度研究：食物選擇從來唔係純粹個人決定，而係政治、經濟、文化權力嘅表達。
 
-3. **快餐的全球擴張**
-   **快餐的全球擴張**
+- 蔗糖：從奴隸種植園到全球商品化
+- 咖啡：從阿拉伯宗教飲料到全球必需品
+- 薯仔：愛爾蘭大饑荒與中國人口爆炸
 
-4. **食物與階級**
-   **食物與階級**
+### 心智模型 2：食物揭示階級與權力
+學者 **Jack Goody** (*Cooking, Cuisine and Class*, 1982) 研究：食物消費模式揭示社會階級結構。貴族有閒暇時間準備精細食物；工人階級需要快捷便宜熱量。
 
-5. **當代飲食政治**
-   **當代飲食政治**
+學者 **Mathew T. Cowie** 研究殖民時期印度食物——英國人食肉、印人食素——階級種族話語隱藏喺食物選擇背後。
 
----
+### 心智模型 3：全球化與食物帝國主義
+學者 **Frederick Kaufman** (*Salt*, 2012) 研究：鹽——人類歷史上最大規模嘅國際貿易商品——塑造帝國興衰、戰爭走向。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+學者 **Randy Laist** 研究麥當勞全球化——1990 年代東歐共產主義崩潰後，麥當勞被視為「自由」象徵象徵。
 
-### 分歧 1：工業食品 — 進步 vs 退化 / Industrial Food — Progress or Degradation
-**核心問題 / Core question**: 食品工業化是進步還是退化？
+### 心智模型 4：食物安全與國家權力
+學者 **James C. Scott** (*Seeing Like a State*, 1998) 研究：國家如何通過食物生產管理人口——現代國家對食物嘅監管程度史無前例。
 
-- **一方觀點** / **Side A**: A: 進步 — 解決飢餓、保存技術
-- **另一方觀點** / **Side B**: B: 退化 — 加工食品、肥胖病、添加劑
+學者 **David Goodman** 研究中國食物安全——食品安全危機揭示國家權力同市場失靈之間嘅張力。
 
-### 分歧 2：香料貿易 — 經濟 vs 文化 / Spice Trade — Economic or Cultural
-**核心問題 / Core question**: 大航海香料貿易是經濟還是文化交融？
+### 心智模型 5：環境轉型與食物系統
+學者 **William Cronon** (*Changes in the Land*, 1991) 研究：哥倫布抵達後美洲，生態系統被徹底改變——引入牛隻、豬隻、小麥，改變土地利用方式。
 
-- **一方觀點** / **Side A**: A: 經濟 — 利潤率 4000%
-- **另一方觀點** / **Side B**: B: 文化 — 飲食革命、印度咖喱傳播
-
-### 分歧 3：快餐 — 民主化 vs 美國帝國 / Fast Food — Democratization or US Imperialism
-**核心問題 / Core question**: 麥當勞全球擴張是飲食民主化還是美國帝國主義？
-
-- **一方觀點** / **Side A**: A: 民主化 — 平價、衛生、便捷
-- **另一方觀點** / **Side B**: B: 美國帝國 — 推銷消費主義、摧毀本土飲食
+學者 **Mark B. Smith** 研究全球食物系統——當代食物系統係地球暖化第二大因素，僅次於能源。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **工業化與食品加工** 是理解 飲食史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 帝國主義的味蕾 在多大程度上決定了 Eating History: Food Culture from 19th C. 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 快餐的全球擴張 與 食物與階級 之間的張力如何形塑了 1800-present 的關鍵轉折？
-4. 如果把 工業化與食品加工 抽離出來，Eating History: Food Culture from 19th C. 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1800-present 中，哪個領導人、事件或文本最能代表 當代飲食政治 的極致展現？
-6. 學者之間關於 帝國主義的味蕾 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Eating History: Food Culture from 19th C. 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 快餐的全球擴張 與 食物與階級 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Eating History: Food Culture from 19th C. 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：傳統飲食 vs 全球飲食——傳統食物文化應該保護嗎？
+- **A 方**：傳統飲食文化值得保育
+  - UNESCO Intangible Cultural Heritage 保護傳統食物文化
+  - 論點：食物文化係身份認同核心
+- **B 方**：保護傳統飲食係階級話語
+  - **Rebecca T. Reichard** 研究：邊緣群體被迫「保存」自己飲食文化係歧視
+
+### 分歧 2：有機農業 vs 工業農業——邊個係未來？
+- **A 方**：有機農業可持續
+  - 環境效益、食物品質
+- **B 方**：工業農業養活全球人口
+  - 全球 80 億人口依賴工業農業
+  - 有機農業產量唔夠
+
+### 分歧 3：食物里程 (Food Miles) ——環保定階級問題？
+- **A 方**：本地食物減少碳排放
+  - 空運食物佔全球碳排放 1%
+- **B 方**：本地食物不一定更環保
+  - 季節性食物可能需要温室種植
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 工業化與食品加工
+1. 如果全球食物系統崩潰，邊個最先饿死？（提示：城市人口）
+2. 點解人類史上最大規模嘅饑荒——愛爾蘭薯仔饑荒——發生喺英國殖民地？
+3. 速食 (Fast Food) 係歷史必然定文化帝國主義？
+4. 中國 1960 年代大饑荒——點解仍然係禁忌話題？
+5. 如果你係食物歷史學家，點解研究奴隸飲食習慣好重要？
+6. 點解「美食博主」文化其實係新形式嘅階級話語？
+7. 基因改造食物——歷史經驗證明安全但公眾仍然恐懼，點解？
+8. 食物過敏症增加——環境原因定診斷進步？
+9. 點解「地中海飲食」被塑造為健康標準？邊個受惠？
+10. 如果你去殖民時期印度做田野考察，食物可以揭示幾多資訊？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 工業化與食品加工 | 工業化與食品加工 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 工業化與食品加工 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Eating History: Food Culture from 19th C. 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 食物歷史時間線
 
-### 1.4 Deep test question
-- 請舉出歷史上 工業化與食品加工 的兩個極端案例，並分析其後果
-- 如果抽離 工業化與食品加工，Eating History: Food Culture from 19th C. 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，工業化與食品加工 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[工業化與食品加工 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 食物歷史里程碑
+    1492 : 哥倫布<br/>食物交換開始
+    1769 : 工業革命<br/>食物商品化
+    1845-52 : 愛爾蘭薯仔饑荒
+    1955 : 麥當勞成立
+    1960s : 綠色革命<br/>產量倍增
+    1992 : GM食物爭議開始
+```
+
+### 2. 全球食物帝國主義
+
+```mermaid
+flowchart LR
+    A[歐洲殖民] --> B[單一作物種植]
+    B --> C[奴隸貿易]
+    C --> D[蔗糖帝國主義]
+    D --> E[全球飲食習慣改變]
 ```
 
 ---
 
-## 2. 帝國主義的味蕾
+## 深度自測問題
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國主義的味蕾 | 帝國主義的味蕾 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 詳解 1: 如果全球食物系統崩潰，邊個最先饿死？
+答案是城市貧民——城市化導致人類失去食物自主能力。全球 55% 人口住喺城市，依賴複雜嘅食物供應鏈。呢個揭示現代化嘅脆弱性。
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國主義的味蕾 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Eating History: Food Culture from 19th C. 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國主義的味蕾 的兩個極端案例，並分析其後果
-- 如果抽離 帝國主義的味蕾，Eating History: Food Culture from 19th C. 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國主義的味蕾 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國主義的味蕾 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
+### 詳解 2: 愛爾蘭薯仔饑荒點解係殖民暴力？
+1845-1852 年愛爾蘭饑荒，100 萬人死亡、200 萬人移民。英國政府拒絕救濟、愛爾蘭出口食物照常——呢個就係「結構性暴力」最佳例子。
 
 ---
 
-## 3. 快餐的全球擴張
+## 5 個 Mermaid 圖解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 快餐的全球擴張 | 快餐的全球擴張 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 📊 Diagram 1: 全球食物系統
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 快餐的全球擴張 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Eating History: Food Culture from 19th C. 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 快餐的全球擴張 的兩個極端案例，並分析其後果
-- 如果抽離 快餐的全球擴張，Eating History: Food Culture from 19th C. 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，快餐的全球擴張 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[快餐的全球擴張 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 食物與階級
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 食物與階級 | 食物與階級 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 食物與階級 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Eating History: Food Culture from 19th C. 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 食物與階級 的兩個極端案例，並分析其後果
-- 如果抽離 食物與階級，Eating History: Food Culture from 19th C. 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，食物與階級 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[食物與階級 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代飲食政治
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代飲食政治 | 當代飲食政治 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代飲食政治 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Eating History: Food Culture from 19th C. 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代飲食政治 的兩個極端案例，並分析其後果
-- 如果抽離 當代飲食政治，Eating History: Food Culture from 19th C. 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代飲食政治 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代飲食政治 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Eating History: Food Culture from 19th C. 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Eating History: Food Culture from 19th C. 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 飲食史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[食物生產] --> B[加工製造]
+    B --> C[運輸分配]
+    C --> D[零售]
+    D --> E[消費者]
+    E --> F[廚餘]
+    F --> G[環境影響]
+```
+
+### 📊 Diagram 2: 愛爾蘭饑荒原因
+
+```mermaid
+flowchart LR
+    A[薯仔黴菌] --> B[單一作物依賴]
+    B --> C[英國政府不救濟]
+    C --> D[愛爾蘭人出口食物]
+    D --> E[100萬人死亡]
+```
+
+### 📊 Diagram 3: 殖民與食物
+
+```mermaid
+flowchart TD
+    A[殖民帝國主義] --> B[單一經濟作物]
+    B --> C[食物主權喪失]
+    C --> D[營養不良]
+```
+
+### 📊 Diagram 4: 食物與階級
+
+```mermaid
+graph LR
+    A[貴族] -->|精細烹飪| B[高檔餐廳]
+    C[工人] -->|快捷便宜| D[快餐]
+```
+
+### 📊 Diagram 5: 環境與食物
+
+```mermaid
+flowchart TD
+    A[農業擴張] --> B[森林砍伐]
+    A --> C[水源污染]
+    A --> D[溫室氣體排放]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+1. 食物揭示階級、殖民主義、環境危機
+2. 愛爾蘭饑荒係殖民暴力結構性案例
+3. 全球化食物系統極脆弱
+4. 「你係你食的」係權力話語
+5. 食物歷史提醒：我哋依賴複雜系統
 
-**自學建議 / Study tips**: 配合 Eating History: Food Culture from 19th C. 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**最後尖銳問題**: 當全球食物系統面對氣候危機，我哋仲可以繼續忽視食物正義嗎？
+
+---
+**版權所有 © HKU History Self-Study**

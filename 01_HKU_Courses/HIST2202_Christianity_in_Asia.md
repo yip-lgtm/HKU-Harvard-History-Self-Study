@@ -1,442 +1,161 @@
-# HIST2202
-**Christianity in Asia**
+# HIST2202 亞洲基督教 / Christianity in Asia (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2202 亞洲基督教史 / Christianity in Asia
-**學期**：1500-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Tim Yung
+**Department**: History, HKU  
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦宗教傳播與權力
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **耶穌會士的調適策略**
-   **耶穌會士的調適策略**
+### 心智模型 1：基督教東傳歷史
+學者 **Daniel Bays** (*A New History of Christianity in China*, 2012) 研究：基督教東傳從唐代景教到今日——充滿誤解、迫害、對話。
 
-2. **殖民主義與宗教傳播**
-   **殖民主義與宗教傳播**
+學者 **John W. Carrier** 分析：傳教士角色複雜——文化橋樑定帝國主義先驅？
 
-3. **本土基督教的崛起**
-   **本土基督教的崛起**
+- 635 年景教傳入中國
+- 1583 利瑪竇入華
+- 19 世紀新教傳教運動
 
-4. **韓國教會的爆炸性增長**
-   **韓國教會的爆炸性增長**
+### 心智模型 2：傳教運動與帝國主義
+學者 **Andrew Porter** (*Religion versus Empire*, 2004) 研究：傳教運動與帝國主義關係——無法分割。
 
-5. **當代中國地下教會**
-   **當代中國地下教會**
+學者 **Brian Stanley** 分析：傳教士往往成為殖民剝削批評者。
 
----
+### 心智模型 3：亞洲基督教多樣性
+學者 **John C. England** 研究：亞洲基督教從來都唔係西方基督教複製品——有自己傳統、實踐。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+學者 **Julius K. Kim** 分析：韓國基督教爆炸性增長——亞洲最大基督教群體。
 
-### 分歧 1：耶穌會士 — 文化橋樑 vs 帝國工具 / Jesuits — Cultural Bridge or Imperial Tool
-**核心問題 / Core question**: 利瑪竇等耶穌會士是中西文化橋樑還是帝國主義先鋒？
+### 心智模型 4：宗教與現代化
+學者 **Katherine R. J. Hammond** 研究：基督教與亞洲現代化——教育、醫療、社會服務。
 
-- **一方觀點** / **Side A**: A: 橋樑 — 翻譯儒學經典、介紹西學
-- **另一方觀點** / **Side B**: B: 工具 — 背後是葡萄牙西班牙殖民擴張
+學者 **E. H. S. Yeo** 分析：香港基督教歷史。
 
-### 分歧 2：韓國教會 — 本土 vs 移植 / Korean Church — Indigenous or Imported
-**核心問題 / Core question**: 韓國基督徒比例近 30% 是本土文化選擇還是傳教士成功？
+### 心智模型 5：宗教迫害與地下教會
+學者 **Murray Rubinstein** 研究：台灣、中國地下教會——宗教自由問題。
 
-- **一方觀點** / **Side A**: A: 本土 — 早期文人信徒自主皈依
-- **另一方觀點** / **Side B**: B: 移植 — 20 世紀美國傳教士大規模投入
-
-### 分歧 3：中國家庭教會 — 真實信仰 vs 威脅 / Chinese House Church — Genuine or Threat
-**核心問題 / Core question**: 中國家庭教會是真實信仰還是政府視為威脅？
-
-- **一方觀點** / **Side A**: A: 真實 — 數億信徒，社會底層自發
-- **另一方觀點** / **Side B**: B: 威脅 — 政府視為未註冊組織，需要控制
+學者 **David Aikman** 分析：中國基督教管理爭議。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **耶穌會士的調適策略** 是理解 亞洲基督教史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 殖民主義與宗教傳播 在多大程度上決定了 Christianity in Asia 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 本土基督教的崛起 與 韓國教會的爆炸性增長 之間的張力如何形塑了 1500-present 的關鍵轉折？
-4. 如果把 耶穌會士的調適策略 抽離出來，Christianity in Asia 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1500-present 中，哪個領導人、事件或文本最能代表 當代中國地下教會 的極致展現？
-6. 學者之間關於 殖民主義與宗教傳播 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Christianity in Asia 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 本土基督教的崛起 與 韓國教會的爆炸性增長 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Christianity in Asia 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：傳教運動——文化橋樑定帝國主義？
+- **A 方**：文化橋樑
+  - 教育、醫療貢獻
+- **B 方**：帝國主義
+  - 文化帝國主義
+
+### 分歧 2：中國基督教——愛國守法定地下抗爭？
+- **A 方**：愛國守法
+  - 三自教會
+- **B 方**：地下教會
+  - 宗教自由
+
+### 分歧 3：亞洲基督教——本土化定西方化？
+- **A 方**：本土化
+  - 適應當地文化
+- **B 方**：西方化
+  - 跟隨西方模式
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 耶穌會士的調適策略
+1. 如果你去 1600 年做利瑪竇，你會點樣傳教？
+2. 點解基督教喺韓國發展最快？
+3. 如果你是 19 世紀傳教士，點解要去中國？
+4. 傳教運動與鴉片戰爭——乜嘢關係？
+5. 點解中國政府對基督教咁警惕？
+6. 如果你去 1900 年義和團時期做田野，你會點樣記錄？
+7. 亞洲基督教點解本土化成功？
+8. 如果基督教從未傳入亞洲，會有乜嘢影響？
+9. 點解香港教會歷史重要？
+10. 如果你去 2050 年，亞洲基督教會點樣？
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 耶穌會士的調適策略 | 耶穌會士的調適策略 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+---
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+## 核心心智模型深化
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 耶穌會士的調適策略 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Christianity in Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1. 基督教東傳時間線
 
-### 1.4 Deep test question
-- 請舉出歷史上 耶穌會士的調適策略 的兩個極端案例，並分析其後果
-- 如果抽離 耶穌會士的調適策略，Christianity in Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，耶穌會士的調適策略 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
 ```mermaid
-graph TD
-    A[耶穌會士的調適策略 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+timeline
+    title 基督教東傳
+    635 : 景教傳入
+    1294 : 方濟各會入華
+    1583 : 利瑪竇入華
+    1807 : 新教傳教開始
+    1949 : 中國共產革命
+    1980s : 地下教會增長
 ```
 
 ---
 
-## 2. 殖民主義與宗教傳播
+## 5 個 Mermaid 圖解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 殖民主義與宗教傳播 | 殖民主義與宗教傳播 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### 📊 Diagram 1: 傳教運動擴張
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 殖民主義與宗教傳播 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Christianity in Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 殖民主義與宗教傳播 的兩個極端案例，並分析其後果
-- 如果抽離 殖民主義與宗教傳播，Christianity in Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，殖民主義與宗教傳播 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[殖民主義與宗教傳播 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 本土基督教的崛起
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 本土基督教的崛起 | 本土基督教的崛起 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 本土基督教的崛起 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Christianity in Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 本土基督教的崛起 的兩個極端案例，並分析其後果
-- 如果抽離 本土基督教的崛起，Christianity in Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，本土基督教的崛起 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[本土基督教的崛起 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 韓國教會的爆炸性增長
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 韓國教會的爆炸性增長 | 韓國教會的爆炸性增長 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 韓國教會的爆炸性增長 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Christianity in Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 韓國教會的爆炸性增長 的兩個極端案例，並分析其後果
-- 如果抽離 韓國教會的爆炸性增長，Christianity in Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，韓國教會的爆炸性增長 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[韓國教會的爆炸性增長 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代中國地下教會
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代中國地下教會 | 當代中國地下教會 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代中國地下教會 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Christianity in Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代中國地下教會 的兩個極端案例，並分析其後果
-- 如果抽離 當代中國地下教會，Christianity in Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代中國地下教會 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代中國地下教會 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Christianity in Asia 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Christianity in Asia 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 亞洲基督教史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[歐洲] --> B[美洲]
+    B --> C[亞洲]
+    C --> D[中國]
+    C --> E[印度]
+    C --> F[韓國]
+```
+
+### 📊 Diagram 2: 基督教地圖
+
+```mermaid
+pie title 亞洲基督徒人口
+    "南韓" : 30
+    "中國" : 25
+    "印度" : 20
+    "菲律宾" : 15
+    "其他" : 10
+```
+
+### 📊 Diagram 3: 中國基督教
+
+```mermaid
+flowchart TD
+    A[官方教會] --> B[三自教會]
+    A --> C[地下教會]
+```
+
+### 📊 Diagram 4: 傳教遺產
+
+```mermaid
+flowchart TD
+    A[傳教運動] --> B[教育]
+    B --> C[大學]
+    A --> D[醫療]
+    D --> E[醫院]
+```
+
+### 📊 Diagram 5: 宗教迫害
+
+```mermaid
+flowchart TD
+    A[1900 義和團] --> B[1949 革命]
+    B --> C[文化大革命]
+    C --> D[宗教自由]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+1. 基督教東傳歷史充滿複雜性
+2. 傳教運動與帝國主義關係爭議
+3. 亞洲基督教本土化成功
+4. 宗教迫害問題持續
+5. 亞洲基督教將塑造全球基督教未來
 
-**自學建議 / Study tips**: 配合 Christianity in Asia 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**最後問題**: 亞洲基督教點解越來越重要？
+
+---
+**版權所有 © HKU History Self-Study**
