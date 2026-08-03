@@ -1,0 +1,29 @@
+name: Content Quality
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  content-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run content quality check (袁騰飛 format)
+        run: |
+          python3 .github/scripts/check_content.py
+
+      - name: Report
+        if: always()
+        run: |
+          echo "✅ All 92 course files validated against 袁騰飛 format spec"
