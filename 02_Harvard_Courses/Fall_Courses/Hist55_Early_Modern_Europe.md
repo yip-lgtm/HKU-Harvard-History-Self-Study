@@ -1,442 +1,276 @@
-# Hist 55
-**Early Modern Europe**
-
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
 # Hist55 早期現代歐洲 / Early Modern Europe
-**學期**：1450-1750
+
+**Instructor**: Dr. Jin-Woo Choi
+**Department**: History, Harvard
+**Official source**: https://history.fas.harvard.edu/fall-courses
 **Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個 SPECIFIC 核心心智模型
 
-1. **文藝復興的轉折**
-   **文藝復興的轉折**
+1. **宗教改革的深遠影響 / Profound Impact of the Reformation**
+   1517年馬丁·路德的95條論綱不僅是神學論戰，更是歐洲權力版圖重構的起點。1555年《奧格斯堡和約》確立「教隨邦定」原則，歐洲政治版圖永久分裂為天主教和新教兩大陣營。
 
-2. **宗教改革的深遠影響**
-   **宗教改革的深遠影響**
+   代表學者: Heiko Oberman, *Luther* (1984); Carlos Eire, *Reformations* (2016); Brad Gregory, *The Unintended Reformation* (2012)
 
-3. **絕對王權的興起**
-   **絕對王權的興起**
+2. **科學革命與知識權威的轉移 / Scientific Revolution and Transfer of Intellectual Authority**
+   1543年哥白尼《天體運行論》到1687年牛頓《自然哲學的數學原理》，一個半世紀的科學革命將知識權威從教會轉移到實驗室。
 
-4. **科學革命的開始**
-   **科學革命的開始**
+   代表學者: Steven Shapin, *The Scientific Revolution* (1996); Margaret Jacob, *The Enlightenment* (2016)
 
-5. **早期現代性的多重性**
-   **早期現代性的多重性**
+3. **歐洲擴張與殖民資本主義 / European Expansion and Colonial Capitalism**
+   15-18世紀，葡萄牙、西班牙、荷蘭、英國相繼建立了全球殖民體系。蔗糖、棉花、奴隸——這些商品構成的「三角貿易」（1500-1850年間1200萬非洲人被運往美洲）是早期現代資本主義的核心引擎。
 
----
+   代表學者: Sven Beckert, *Empire of Cotton* (2014); Joseph Inikori, *Africans and the Industrial Revolution* (2002)
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+4. **獵巫運動的社會根源 / Social Roots of Witch-Hunting**
+   1450-1750年間，歐洲估計有4-6萬人被以巫術罪名處死，其中80%是女性。Keith Thomas追蹤了宗教改革、社會危機和性別壓迫如何共同塑造了這場歐洲歷史上最大的宗教恐慌。
 
-### 分歧 1：文藝復興 — 復興 vs 延續 / Renaissance — Rebirth or Continuity
-**核心問題 / Core question**: 文藝復興是古典復興還是中世紀延續？
+   代表學者: Keith Thomas, *Religion and the Decline of Magic* (1971); Owen Davies, *Grimoires* (2003); Brian Levack, *Witch-Hunting* (2016)
 
-- **一方觀點** / **Side A**: A: 復興 — 古典學習、世俗
-- **另一方觀點** / **Side B**: B: 延續 — 教會結構、scholasticism
+5. **啟蒙運動的雙刃性 / Dual Character of the Enlightenment**
+   啟蒙運動同時催生了人權宣言（1789法國大革命）和奴隸制度的理性化。這個矛盾是理解現代世界衝突的關鍵。
 
-### 分歧 2：宗教改革 — 宗教 vs 政治 / Reformation — Religious or Political
-**核心問題 / Core question**: 宗教改革是宗教運動還是政治革命？
-
-- **一方觀點** / **Side A**: A: 宗教 — 路德宗教良心
-- **另一方觀點** / **Side B**: B: 政治 — 諸侯獨立、王權加強
-
-### 分歧 3：絕對王權 — 強國家 vs 神話 / Absolutism — Strong State or Myth
-**核心問題 / Core question**: 絕對王權是真正絕對還是後人誇大？
-
-- **一方觀點** / **Side A**: A: 強國家 — 路易十四、伏爾泰形容
-- **另一方觀點** / **Side B**: B: 神話 — 仍依賴貴族、議會
+   代表學者: Jonathan Israel, *Radical Enlightenment* (2001); Dan Edelstein, *The Terror of Natural Rights* (2009)
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **文藝復興的轉折** 是理解 早期現代歐洲 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 宗教改革的深遠影響 在多大程度上決定了 Early Modern Europe 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 絕對王權的興起 與 科學革命的開始 之間的張力如何形塑了 1450-1750 的關鍵轉折？
-4. 如果把 文藝復興的轉折 抽離出來，Early Modern Europe 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1450-1750 中，哪個領導人、事件或文本最能代表 早期現代性的多重性 的極致展現？
-6. 學者之間關於 宗教改革的深遠影響 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Early Modern Europe 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 絕對王權的興起 與 科學革命的開始 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Early Modern Europe 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：宗教改革 — 靈性覺醒 vs 政治革命
+- **A**: 靈性 — 路德的因信稱義是真實的神學革命，影響了數百萬普通信徒的宗教經驗
+- **B**: 政治 — 諸侯利用宗教改革對抗皇帝和教宗，農民戰爭（1524-1525）才是改革真正群眾基礎的暴露
+
+### 分歧 2：科學革命 — 解放 vs 控制
+- **A**: 解放 — 實驗方法使人類首次系統性地認識自然，擺脫宗教蒙昧
+- **B**: 控制 — Foucault揭示科學分類如何構成新型權力-知識機制
+
+### 分歧 3：殖民暴力 — 交換 vs 掠奪
+- **A**: 交換 — 哥倫布大交換（1492）促進了動植物和人員的全球流動，某些互利
+- **B**: 掠奪 — 征服美洲消滅了90%的原住民人口（1500-1650）
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 為什麼宗教改革的深遠影響是理解早期現代歐洲的核心前提？
+2. 在1450-1789中，科學革命與殖民暴力的張力如何產生最具爭議的歷史轉折？
+3. 如果把獵巫運動抽離，早期現代歐洲的核心邏輯會怎樣變化？
+4. 哪位歷史人物、事件或文本最能代表啟蒙運動雙刃性的極致展現？
+5. 學者之間關於科學革命的爭論反映了史料還是意識形態差異？
+6. 在1450-1789中，殖民暴力與宗教改革的歷史後果，哪個對當代影響更深？
+7. 對早期現代歐洲而言，「科學革命」話語是分析核心還是歐洲中心主義的限制？
+8. 如果你是哥倫布，面對「新大陸」的「發現」與原住民的衝突，你的優先選擇是什麼？
+9. 當代哪些政治現象是殖民暴力的延續或反動？
+10. 在多元文化時代，早期現代歐洲的「進步」敘事是否應該被重新檢視？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 文藝復興的轉折
+## 1. 宗教改革的深遠影響
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 1.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 文藝復興的轉折 | 文藝復興的轉折 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| 95 Theses | 95條論綱 | 1517年 | 宗教改革起點 |
+| Augsburg Peace | 奧格斯堡和約 | 1555年 | 教隨邦定原則 |
+| Peace of Westphalia | 威斯特伐利亞和約 | 1648年 | 宗教戰爭終結 |
+| Counter-Reformation | 反宗教改革 | 1545-1648年 | 特倫特大公會議 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 犀利觀察
+1517年路德把95條論綱釘在維滕貝格教堂門上——他不是要發動革命，他只是不滿的修道院院長。但這張紙在古騰堡印刷術的幫助下，在兩週內傳遍了整個德意志——這就是媒體革命的原型。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 文藝復興的轉折 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 文藝復興的轉折 的兩個極端案例，並分析其後果
-- 如果抽離 文藝復興的轉折，Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，文藝復興的轉折 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 1.5 Mermaid
 ```mermaid
 graph TD
-    A[文藝復興的轉折 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[95條論綱1517] --> B[印刷術傳播]
+    B --> C[群眾動員]
+    C --> D[宗教戰爭]
+    A --> E[諸侯政治]
+    E --> F[教隨邦定]
 ```
 
 ---
 
-## 2. 宗教改革的深遠影響
+## 2. 科學革命與知識權威的轉移
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 2.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 宗教改革的深遠影響 | 宗教改革的深遠影響 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Copernican Revolution | 哥白尼革命 | 1543年 | 日心說 |
+| Galileo's telescope | 伽利略望遠鏡 | 1609年 | 觀測證據 |
+| Newton's Principia | 牛頓自然哲學 | 1687年 | 經典力學體系 |
+| Scientific Method | 科學方法 | 17世紀 | 實驗驗證 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 2.3 犀利觀察
+1633年，宗教裁判所強迫伽利略放棄日心說——但這個「勝利」是短暫的。科學革命的真正勝利不在於戰勝宗教裁判所，而在於它最終改變了「什麼是知識」的定義。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 宗教改革的深遠影響 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 宗教改革的深遠影響 的兩個極端案例，並分析其後果
-- 如果抽離 宗教改革的深遠影響，Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，宗教改革的深遠影響 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 2.5 Mermaid
 ```mermaid
 graph TD
-    A[宗教改革的深遠影響 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[哥白尼1543] --> B[伽利略1609]
+    B --> C[牛頓1687]
+    A --> D[教會權威]
+    B --> E[實驗證據]
+    C --> F[知識權威轉移]
+    D --> G[宗教裁判所1633]
+    E --> F
+    G --> F
 ```
 
 ---
 
-## 3. 絕對王權的興起
+## 3. 歐洲擴張與殖民資本主義
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 3.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 絕對王權的興起 | 絕對王權的興起 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Triangle Trade | 三角貿易 | 1500-1850年 | 1200萬非洲人 |
+| Columbian Exchange | 哥倫布大交換 | 1492年後 | 農作物+疾病 |
+| Sugar plantation | 蔗糖種植園 | 16-19世紀 | 奴隸勞動力 |
+| Atlantic slavery | 大西洋奴隸制 | 1500-1888年 | 人類最大強制遷移 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 3.3 犀利觀察
+哥倫布大交換（1492年）不是「文化接觸」——它是物種入侵。一個西班牙水手帶來的天花，在兩年內殺死了安的列斯群島95%的原住民人口——這不是歷史的偶然，這是生態帝國主義的系統性後果。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 絕對王權的興起 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 絕對王權的興起 的兩個極端案例，並分析其後果
-- 如果抽離 絕對王權的興起，Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，絕對王權的興起 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 3.5 Mermaid
 ```mermaid
 graph TD
-    A[絕對王權的興起 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[歐洲擴張] --> B[三角貿易]
+    A --> C[哥倫布大交換]
+    A --> D[蔗糖帝國]
+    B --> E[大西洋奴隸制]
+    C --> F[原住民人口崩潰]
+    D --> E
 ```
 
 ---
 
-## 4. 科學革命的開始
+## 4. 獵巫運動的社會根源
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 4.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 科學革命的開始 | 科學革命的開始 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Witch trials | 獵巫運動 | 1450-1750年 | 4-6萬人死亡 |
+| Gendered persecution | 性別化迫害 | 80%受害者為女性 | 父權恐懼 |
+| Reformation link | 宗教改革連結 | 宗教戰爭期間最激烈 | 宗教恐慌 |
+| Decline | 衰落 | 18世紀 | 理性主義 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 4.3 犀利觀察
+1486年《女巫之槌》（Malleus Maleficarum）——由多米尼加修士親手撰寫的天主教獵巫手冊——在接下來的200年間暢銷了29版。它告訴讀者：女人天生比男人更容易與魔鬼勾結。這不是神學，這是父權制用宗教語言武裝自己的系統性操作。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 科學革命的開始 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 科學革命的開始 的兩個極端案例，並分析其後果
-- 如果抽離 科學革命的開始，Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，科學革命的開始 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 4.5 Mermaid
 ```mermaid
 graph TD
-    A[科學革命的開始 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[獵巫運動] --> B[宗教改革恐慌]
+    A --> C[社會危機]
+    A --> D[性別壓迫]
+    B --> E[宗教戰爭時期高峰]
+    C --> E
+    D --> F[父權制度化]
+    E --> G[4-6萬死亡]
 ```
 
 ---
 
-## 5. 早期現代性的多重性
+## 5. 啟蒙運動的雙刃性
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 5.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 早期現代性的多重性 | 早期現代性的多重性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Rights of Man | 人權宣言 | 1789年 | 法國大革命 |
+| Haitian Revolution | 海地革命 | 1791-1804年 | 奴隸起義成功建國 |
+| Natural rights | 自然權利 | 天賦人權話語 | 洛克-盧梭傳統 |
+| Enlightenment racism | 啟蒙種族主義 | 18世紀 | 人類學話語 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 5.3 犀利觀察
+1789年《人權和公民權宣言》第一條：「人人生而自由，在權利上一律平等。」——法國大革命領袖在巴黎宣讀這些話語的同時，法國殖民地海地的蔗糖種植園裡，50萬奴隸正在被迫勞動。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 早期現代性的多重性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 早期現代性的多重性 的兩個極端案例，並分析其後果
-- 如果抽離 早期現代性的多重性，Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，早期現代性的多重性 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 5.5 Mermaid
 ```mermaid
 graph TD
-    A[早期現代性的多重性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[啟蒙運動] --> B[人權宣言]
+    A --> C[奴隸制度理性化]
+    A --> D[科學種族主義]
+    B --> E[法國大革命]
+    C --> F[海地革命1791]
+    D --> G[帝國主義話語]
 ```
 
 ---
 
-# 深度自測問題詳解（中英對照）
+# 深度自測問題詳解
 
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
+## 1-5: 分析框架
+運用比較歷史學、環境歷史學和後殖民主義方法，批判性分析早期現代歐洲的「進步」敘事。
 
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
+## 6-10: 當代迴響
+哥倫布大交換與當代全球化；啟蒙人權話語與殖民主義暴力的張力；獵巫運動與當代性別政治的歷史根源。
 
 ---
 
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Early Modern Europe 的歷史經驗如何理解當代中美關係？
+# 5 個 Mermaid 圖解
 
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Early Modern Europe 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 早期現代歐洲，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
+## 圖 1：宗教改革的歐洲影響
 ```mermaid
 graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
+    A[95條論綱1517] --> B[宗教戰爭]
+    B --> C[威斯特伐利亞1648]
+    C --> D[歐洲分裂]
 ```
 
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
+## 圖 2：科學革命的認識論轉向
 ```mermaid
 graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
+    A[哥白尼1543] --> B[牛頓1687]
+    A --> C[教會權威]
+    B --> D[實驗知識]
 ```
 
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
+## 圖 3：殖民暴力的全球規模
 ```mermaid
 graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
+    A[三角貿易] --> B[奴隸]
+    A --> C[蔗糖帝國]
+    B --> D[1200萬非洲人]
 ```
 
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+## 圖 4：獵巫運動的社會根源
 ```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+graph TD
+    A[宗教改革] --> B[社會恐慌]
+    B --> C[性別壓迫]
+    C --> D[4-6萬死亡]
+```
+
+## 圖 5：啟蒙運動的雙重遺產
+```mermaid
+graph TD
+    A[啟蒙運動] --> B[人權]
+    A --> C[殖民理性化]
+    B --> D[法國大革命]
+    C --> E[帝國主義]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+早期現代歐洲（Hist55: Early Modern Europe）是理解 **1450-1789** 歷史的關鍵窗口。
 
-**自學建議 / Study tips**: 配合 Early Modern Europe 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**三大核心收穫**:
+1. **宗教改革的深遠影響** — Carlos Eire, *Reformations* (2016)
+2. **科學革命與知識權威的轉移** — Steven Shapin, *The Scientific Revolution* (1996)
+3. **歐洲擴張與殖民資本主義** — Sven Beckert, *Empire of Cotton* (2014)
+
+**終極問題**: 
+早期現代歐洲的「進步」敘事——宗教改革、科學革命、啟蒙運動——掩蓋了同等的暴力：宗教戰爭、殖民掠奪、奴隸貿易。這個歷史的雙重性，是理解現代世界的起點。
+
+**推薦閱讀**:
+- Carlos Eire, *Reformations* (2016)
+- Steven Shapin, *The Scientific Revolution* (1996)
+- Sven Beckert, *Empire of Cotton* (2014)
+- Keith Thomas, *Religion and the Decline of Magic* (1971)
+- Jonathan Israel, *Radical Enlightenment* (2001)

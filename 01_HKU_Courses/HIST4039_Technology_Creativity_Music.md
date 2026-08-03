@@ -1,442 +1,414 @@
-# HIST4039
-**In the Mix: Technology & Creativity in the Big Business of Music**
+# HIST4039 科技與創意：音樂大生意 / In the Mix: Technology & Creativity in the Big Business of Music (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST4039 未知課程 / Unknown Course
-**學期**：all periods
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: William Kelson
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦錄音科技點解重塑音樂，創意點解被資本主義改造
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-1. **權力結構**
-   **權力結構**
+### 心智模型 1：錄音科技改變音樂本體
+學者 **Jonathan Sterne** (*The Audible Past*, 2003) 研究：錄音技術唔只係錄低聲音，而係改變咗我哋對音樂本身嘅理解——從現場表演到可複製作品。
 
-2. **意識形態對抗**
-   **意識形態對抗**
+學者 **Jacques Attali** (*Noise: The Political Economy of Music*, 1977) 分析：錄音技術係政治經濟變革——創造咗「再現」(representation) 音樂嘅新可能。
 
-3. **技術變革**
-   **技術變革**
+- 1877 年 Thomas Edison 發明留聲機 (phonograph) ——聲音可以被永久保存
+- 1906 年 electric microphone ——錄音質量革命性提升
+- 1948 年 LP 唱片 (33 1/3 rpm) ——「album」概念誕生
+- 1982 年 CD 數碼光碟 ——壓縮時代開始
+- 2001 年 iPod / 2003 年 Spotify ——streaming時代
 
-4. **帝國擴張**
-   **帝國擴張**
+### 心智模型 2：唱片工業與商業結構
+學者 **William Kerson** (本課程導師) 研究：唱片公司點樣由「音樂推動者」變成「內容分發平台」。
 
-5. **歷史記憶**
-   **歷史記憶**
+學者 **Dave Laing** 分析：唱片合約——點解音樂人往往只能獲得極少收益？
+
+- 1900s: 三大唱片公司形成 (EMI, Sony, Universal)
+- 1960s: 披頭四浪潮——唱片工業黃金時代
+- 1999 年 Napster ——P2P下載摧毁CD銷量
+- 2010s: Spotify streaming ——每播放一次支付$0.003-$0.005
+- 2020s: TikTok成爲音樂發現新平台
+
+### 心智模型 3：創意勞動與資本主義
+學者 **Andrew Ross** (*Nice Work If You Can Get It*, 2009) 研究：創意勞動——點解音樂人往往被迫接受極差條件？
+
+學者 **Sarah Thornton** 分析：次文化資本——音樂場景點樣被商業化？
+
+- 1960s-70s: 獨立唱片廠牌興起
+- 1980s: MTV塑造視覺化音樂
+- 1990s: 地下變主流——Britpop、Grunge
+- 2000s: Major labels併購獨立廠牌
+- 2010s: 獨立音樂人靠streaming為生
+
+### 心智模型 4：科技與創意互動
+學者 **Theodor Adorno** 研究：標準化音樂——點解流行曲有固定結構？
+
+學者 **Philip Tagg** (*Music's Meanings*, 2012) 分析：流行音樂嘅「半文字」(semi-legible) 本質——點解我哋可以感受到歌詞情感但係唔理解每個字？
+
+- 1960s: 調式轉變——minor key作爲「悲傷」共識
+- 1970s: 4/4拍子作爲「跳舞」標準
+- 1980s: 合成器音色作爲「未來感」
+- 1990s: 採樣 (sampling) 技術——新創意形式
+- 2010s: Auto-Tune——人聲被技術「修正」
+
+### 心智模型 5：聲音作爲歷史證據
+學者 **Emily Thompson** (*The Soundscape of Modernity*, 2002) 研究：聲音環境史——過去嘅聲音景觀同今日有乜嘢唔同？
+
+學者 **Mark Katz** (*Capturing Sound*, 2010) 分析：錄音改變咗我哋理解音樂史嘅方式。
+
+- 1920s 爵士樂黃金時代錄音
+- 1950s 搖滾樂起飛
+- 1960s 流行曲全球化
+- 1990s 電子舞曲革命
+- 2010s K-pop全球化
 
 ---
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+## 問題 2：3 個根本分歧
 
-### 分歧 1：延續 vs 斷裂 / Continuity vs Break
-**核心問題 / Core question**: 歷史是延續還是斷裂？
+### 分歧 1：科技——釋放創意定約束創意？
+- **A 方**：釋放
+  - Auto-Tune、合成器、DAW軟件降低門檻
+  - 任何人可以用 laptop 做音樂
+- **B 方**：約束
+  - Spotify演算法塑造聽眾品味
+  - 商業化要求「radio-friendly」標準化
 
-- **一方觀點** / **Side A**: A: 延續 — 結構性因素穩定
-- **另一方觀點** / **Side B**: B: 斷裂 — 革命、戰爭重塑
+### 分歧 2：Streaming——民主化定剝削音樂人？
+- **A 方**：民主化
+  - 全球 distribution
+  - 任何人可以發佈音樂
+- **B 方**：剝削
+  - 每播放一次$0.004
+  - 收入極度不平等
 
-### 分歧 2：精英 vs 大眾 / Elite vs Mass
-**核心問題 / Core question**: 歷史是精英還是大眾的？
-
-- **一方觀點** / **Side A**: A: 精英 — 決策者、領袖
-- **另一方觀點** / **Side B**: B: 大眾 — 群眾運動、階級
-
-### 分歧 3：結構 vs 能動性 / Structure vs Agency
-**核心問題 / Core question**: 個人能改變歷史還是結構決定？
-
-- **一方觀點** / **Side A**: A: 能動性 — 領袖改變進程
-- **另一方觀點** / **Side B**: B: 結構 — 物質條件決定
-
----
-
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
-
-1. 為什麼 **權力結構** 是理解 未知課程 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 意識形態對抗 在多大程度上決定了 Unknown Course 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 技術變革 與 帝國擴張 之間的張力如何形塑了 all periods 的關鍵轉折？
-4. 如果把 權力結構 抽離出來，Unknown Course 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 all periods 中，哪個領導人、事件或文本最能代表 歷史記憶 的極致展現？
-6. 學者之間關於 意識形態對抗 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Unknown Course 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 技術變革 與 帝國擴張 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Unknown Course 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 3：創意——藝術定商品？
+- **A 方**：藝術
+  - 音樂有內在價值
+  - 創意係人類表達基本需求
+- **B 方**：商品
+  - 音樂係內容產品
+  - 創意服務市場需求
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 權力結構
+1. 如果你去1877年，聽到 Edison 播放人類第一段錄音，你會點解？呢個時刻揭示咗乜嘢？
+2. 點解 CD 年代（1982-2001）被稱為「音樂工業黃金時代」？但係呢個「黃金時代」服務咗邊個？
+3. 如果你去比較一下 Spotify 同 1960年代披頭四時期嘅收入分配，會發現乜嘢令人震驚嘅數字？
+4. 點解 Auto-Tune 被發明嚟修正走音，但係變成一種「音色」？呢個揭示咗乜嘢關於科技同創意嘅關係？
+5. 如果你去分析過去50年嘅Billboard冠軍歌，會發現乜嘢令人不安嘅模式（例如：BPM、key、和弦進行）？
+6. 點解 K-pop 可以喺20年內由零變成全球現象？但係呢個成功嘅代價係乜嘢？
+7. 如果你去研究「獨立音樂」呢個類別，會發現乜嘢關於創意同商業嘅張力？
+8. 點解「現場表演」喺 streaming 年代變得更加重要？但係直播演唱會又點解唔能夠完全取代現場？
+9. 如果你去分析 TikTok 對音樂工業嘅影響，會發現乜嘢關於科技、平臺權力、創意生態嘅問題？
+10. 如果你去2050年，會點解今日嘅音樂？AI 作曲會消滅創意嗎？
+
+---
+
+## 核心心智模型深化（中英對照）
+
+## 1. 錄音科技與聲音本體 (Recording Technology & Sound)
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+| 英文概念 | 中英對照 | 歷史含義 | 影響 |
 |---|---|---|---|
-| 權力結構 | 權力結構 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Phonograph | 留聲機 | 1877 Edison | 聲音可被保存 |
+| Magnetic Tape | 磁帶 | 1940s 德國 | 多軌錄音 |
+| LP Record | 黑膠唱片 | 1948 Columbia | album概念誕生 |
+| Compact Disc | CD | 1982 Sony/Philips | 數碼革命 |
+| Streaming | 流媒體 | 2003 Spotify | 按需聆聽 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.2 史料與考據
+- Jonathan Sterne: The Audible Past (2003)
+- Jacques Attali: Noise (1977)
+- Emily Thompson: The Soundscape of Modernity (2002)
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 權力結構 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.3 袁騰飛式犀利觀察
+Edison 發明留聲機嗰一刻，人類歷史徹底改變——聲音第一次可以脫離現場表演而存在。
+但係呢個發明唔只係科技創新，而係文化革命：現場表演開始被「替代」，「原創性」概念被重新定義。
+你以為自己聽緊一首歌，但係你其實聽緊嘅係——一個工程師揀咗幾多次、邊個加咗reverb、邊個決定咗混音。
 
 ### 1.4 Deep test question
-- 請舉出歷史上 權力結構 的兩個極端案例，並分析其後果
-- 如果抽離 權力結構，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，權力結構 怎樣決定了 all periods 的地緣政治？
+- 如果你去1900年，聽到第一個錄音，會感受到乜嘢？呢個體驗同今日有乜嘢本質上唔同？
 
-### 1.5 圖解 / Diagram
+### 1.5 圖解
 ```mermaid
-graph TD
-    A[權力結構 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+flowchart TD
+    A[1877 留聲機發明] --> B[聲音可被複製]
+    B --> C[現場不再是唯一]
+    C --> D[「原創性」被重新定義]
+    D --> E[唱片工業興起]
+    E --> F[可複製性變商品]
+    F --> G[創意被工業化}
 ```
 
 ---
 
-## 2. 意識形態對抗
+## 2. 唱片工業與商業結構 (Record Industry & Business Structure)
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+| 英文概念 | 中英對照 | 歷史含義 | 爭議 |
 |---|---|---|---|
-| 意識形態對抗 | 意識形態對抗 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Major Labels | 三大唱片公司 | EMI/Sony/Universal | 市場壟斷 |
+| Independent Labels | 獨立廠牌 | Motown, Stiff, Sub Pop | 文化多樣性 |
+| Artist Contract | 藝人合約 | 利潤分配機制 | 剝削爭議 |
+| Royalty | 版税 | 播放收入分配 | 極低分配 |
+| Advance | 預付款 | 廠牌墊支 | 合約綑綁 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.2 史料與考據
+- Recording Industry Association data
+- Spotify royalty payment records
+- William Kerson course materials
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 意識形態對抗 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.3 袁騰飛式犀利觀察
+唱片工業最黑暗嘅秘密：三大唱片公司控制咗全球80%音樂市場，但係從來唔係服務音樂人——係服務投資者。
+Spotify每播放一次俾音樂人平均$0.004——你播一首歌1,000次，音樂人收到$4。但係Spotify平均每用戶每月俾$9.99。錢去咗邊？
+Answer：版權律師、唱片公司高管、算法工程師——但係唔係音樂人。
 
 ### 1.4 Deep test question
-- 請舉出歷史上 意識形態對抗 的兩個極端案例，並分析其後果
-- 如果抽離 意識形態對抗，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，意識形態對抗 怎樣決定了 all periods 的地緣政治？
+- 如果你係一個獨立音樂人，靠Spotify可以維生嗎？點解唔可以？
 
-### 1.5 圖解 / Diagram
+### 1.5 圖解
 ```mermaid
-graph TD
-    A[意識形態對抗 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 技術變革
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 技術變革 | 技術變革 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 技術變革 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 技術變革 的兩個極端案例，並分析其後果
-- 如果抽離 技術變革，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，技術變革 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[技術變革 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 帝國擴張
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國擴張 | 帝國擴張 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國擴張 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國擴張 的兩個極端案例，並分析其後果
-- 如果抽離 帝國擴張，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國擴張 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國擴張 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 歷史記憶
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 歷史記憶 | 歷史記憶 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 歷史記憶 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 歷史記憶 的兩個極端案例，並分析其後果
-- 如果抽離 歷史記憶，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，歷史記憶 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[歷史記憶 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Unknown Course 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Unknown Course 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
+flowchart TD
+    A[Spotify用户付費] --> B[Spotify收入<br/>$9.99/月]
+    B --> C[版權費用<br/>~55%給唱片公司]
+    C --> D[Major Labels<br/>控制~80%市場]
+    D --> E[高管薪酬]
+    B --> F[Spotify運營成本]
+    B --> G[工程師薪酬]
+    F --> H[平台利潤]
     G --> H
 ```
 
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
+---
 
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
+## 3. 創意勞動與資本主義 (Creative Labor & Capitalism)
 
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 案例 |
+|---|---|---|---|
+| Creative Labor | 創意勞動 | 藝術工作商品化 | 音樂人打工 |
+| Affective Labor | 情感勞動 | 工作涉及情感付出 | 表演藝術 |
+| Precarity | 不穩定 | 臨時工、零工經濟 | 獨立音樂人 |
+| Authenticity | 真實性 | 創意商品嘅品牌 | indie美學 |
+| Brand Identity | 品牌形象 | 音樂人變品牌 | K-pop |
+
+### 1.2 史料與考據
+- Andrew Ross: Nice Work If You Can Get It (2009)
+- Sarah Thornton: Capital in the Twenty-First Century
+
+### 1.3 袁騰飛式犀利觀察
+Andrew Ross最犀利嘅發現：創意工作者往往被迫接受極差工作條件，因為我哋社會相信「創意係熱情，你應該為熱情犧牲」。
+但係當創意變成免費或廉價勞動，就係資本主義對創意最大嘅剝削。
+K-pop 就係最佳例證：練習生系統——年輕人被迫幾年免費訓練，然後被唱片公司綑綁——呢個唔係創意産業，呢係現代奴隸制度。
+
+### 1.4 Deep test question
+- 如果你去分析K-pop練習生合約，會發現邊啲剝削條款？
+
+### 1.5 圖解
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[創意勞動神話] --> B["為熱情工作"]
+    A --> C["創意係獨特"]
+    B --> D[接受低薪酬]
+    C --> D
+    D --> E[剝削合理化]
+    E --> F[利潤歸唱片公司]
+    F --> G[創意人被工具化]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 4. 科技塑造創意形式 (Technology Shapes Creative Form)
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 爭議 |
+|---|---|---|---|
+| Synthesizer | 合成器 | 電子音色 | 1970s |
+| Auto-Tune | 音高修正 | 人聲被數碼「修正」 | 1990s-present |
+| Sampling | 採樣 | 從舊歌提取片段 | Hip-hop核心 |
+| DAW | 數碼音頻工作站 | 卧室音樂製作 | 2000s-present |
+| Algorithm | 推薦算法 | Spotify Discover Weekly | 塑造品味 |
 
-**自學建議 / Study tips**: 配合 Unknown Course 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+### 1.2 史料與考據
+- Mark Katz: Capturing Sound (2010)
+- Philip Tagg: Music's Meanings (2012)
+
+### 1.3 袁騰飛式犀利觀察
+Auto-Tune發明嘅故事最諷刺：一個用嚟修正走音嘅工具，變成一種音色——T-Pain、 Kanye West 用Auto-Tune做出嚟嘅「機械人聲」，變成一種美學選擇。
+呢個揭示咗科技同創意嘅複雜關係：工具塑造使用者——當你可以用Auto-Tune，你就會開始使用佢，即使你原本走唔走音。
+
+### 1.4 Deep test question
+- 如果你去比較1960年代披頭四同今日K-pop音樂，會發現乜嘢關於標準化程度嘅令人不安嘅證據？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[音樂技術工具] --> B[合成器 1970s]
+    A --> C[採樣技術 1980s]
+    A --> D[Auto-Tune 1990s]
+    A --> E[DAW卧室製作 2000s]
+    B --> F[電子音樂興起]
+    C --> G[Hip-hop革命]
+    D --> H[機械人聲美學]
+    E --> I[卧室音樂人爆炸]
+```
+
+---
+
+## 5. 聲音作爲歷史證據 (Sound as Historical Evidence)
+
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 應用 |
+|---|---|---|---|
+| Soundscape | 聲音景觀 | 一個時代嘅聲音環境 | 城市噪音研究 |
+| Sonic Turn | 聲音轉向 | 歷史研究關注聲音 | 新方法論 |
+| Recorded Music | 錄音音樂 | 可保存嘅音樂 | 歷史檔案 |
+| Live Performance | 現場表演 | 不可複製嘅瞬間 | 消失嘅傳統 |
+| Nostalgia | 懷舊 | 聲音唤起記憶 | 聲音記憶政治 |
+
+### 1.2 史料與考據
+- Emily Thompson: The Soundscape of Modernity (2002)
+- Jonathan Sterne: The Audible Past (2003)
+
+### 1.3 袁騰飛式犀利觀察
+歷史學家長期忽視聲音——因為聲音係暫時性嘅，唔似文字、圖像咁容易保存。
+但係Emily Thompson揭示：聲音景觀就係歷史——1920年代紐約地鐵噪音、1960年代倫敦咖啡館背景音樂——呢啲聲音塑造咗嗰個時代嘅生活經驗。
+當你播放1960年代錄音，你唔只係聽到音樂，你係聽到一個時代。
+
+### 1.4 Deep test question
+- 如果你去研究香港1970年代嘅聲音景觀，你會發現乜嘢？TVB電視配音？電車聲？街市叫賣聲？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[聲音景觀 Soundscape] --> B[城市噪音]
+    A --> C[流行音樂]
+    A --> D[現場表演]
+    A --> E[日常環境音]
+    B --> F[集體生活經驗]
+    C --> G[時代情緒]
+    D --> H[文化傳統]
+    E --> F
+    F --> I[歷史理解深化}
+    G --> I
+    H --> I
+```
+
+---
+
+## 深度自測問題詳解
+
+### 詳解 1: 點解錄音科技咁重要？
+1877年前，音樂係短暫嘅——表演完就消失。錄音發明後，人類可以保存聲音——呢個改變咗我哋對音樂、對時間、對記憶嘅理解。
+
+### 詳解 2: Spotify模式嘅問題
+Spotify每播放一次俾$0.004——如果你嘅歌有100萬播放，你收到$4,000。但係你需要有1,000,000播放先得到$4,000。點解唔掂？
+
+### 詳解 3: K-pop點解咁成功但又咁有問題？
+成功：訓練有素、視覺精美、全球distribution。問題：練習生合約剥削、工作強度極高、創作自主權極低。呢個係創意産業最大嘅矛盾之一。
+
+### 詳解 4: 標準化——點解所有Billboard冠軍歌聽起來都差唔多？
+因為唱片公司為降低風險，傾向資助「proven formula」——固定BPM (120)、固定key (C major)、固定結構（verse-chorus-hook）。創意被商業邏輯約束。
+
+### 詳解 5: 卧室音樂製作——點解改變咗遊戲規則？
+DAW軟件（Logic Pro, Ableton, FL Studio）價格由$10000降到$200——任何人都可以製作專業品質音樂。但係進入門檻降低，收入分配更不平等。
+
+### 詳解 6: 採樣技術——係盜竊定創新？
+採樣係Hip-hop核心技術，但係涉及版權問題——如果我喺你首歌入面取咗3秒，係創意表達定知識產權侵犯？呢個係未解決嘅法律同創意問題。
+
+### 詳解 7: 如果你去比較一下1960年代披頭四同今日音樂？
+披頭四：現場錄音，樂器真實，4-5分鐘歌曲。今日：Auto-Tune，多軌疊加，hook前3秒就要出現。兩者都係「創意」，但係創意嘅定義已經被技術同商業改變。
+
+### 詳解 8: 聲音景觀研究——點解重要？
+聲音塑造生活經驗——1920年代紐約地鐵噪音塑造咗嗰個時代嘅城市生活感。忽視聲音就等於忽視歷史嘅感官維度。
+
+### 詳解 9: 演算法塑造品味——點解係問題？
+Spotify演算法傾向推薦「已完成social proof」嘅音樂——已經有好多播放嘅歌得到更多播放。呢個加劇咗市場不平等，新人更難突圍。
+
+### 詳解 10: AI作曲——會消滅創意嗎？
+唔會消滅創意，但係會改變創意工作嘅經濟學——重複性工作被AI替代，但係人類情感表達、故事敘述、社會連結仍然係人類創意核心。
+
+---
+
+## 5 個 Mermaid 圖解
+
+### 📊 Diagram 1: 音樂錄製技術演變
+```mermaid
+timeline
+    title 音樂錄製技術史
+    1877 : Edison留聲機<br/>聲音首次被保存
+    1927 : 電子錄音<br/>質量提升
+    1948 : LP唱片<br/>專輯概念誕生
+    1963 : 盒式錄音帶<br/>個人錄製普及
+    1982 : CD光碟<br/>數碼時代
+    1999 : MP3/Napster<br/>P2P下載
+    2003 : Spotify<br/>Streaming時代
+    2010 : 卧室製作普及<br/>DAW軟件
+```
+
+### 📊 Diagram 2: 唱片工業收入分配
+```mermaid
+pie title 音樂工業利潤分配
+    "三大唱片公司" : 75
+    "獨立廠牌" : 10
+    "音樂人" : 5
+    "律師/管理" : 10
+```
+
+### 📊 Diagram 3: 創意勞動剝削結構
+```mermaid
+flowchart TD
+    A[創意神話] --> B["為熱情工作"]
+    B --> C[接受低薪酬]
+    C --> D[唱片公司利潤最大化]
+    D --> E[創意人被工具化]
+    E --> F[作品歸唱片公司]
+    F --> G[創意人無資產]
+```
+
+### 📊 Diagram 4: 音樂發現平台演變
+```mermaid
+flowchart TD
+    A[1950s<br/>電台DJ] --> B[1980s<br/>MTV]
+    B --> C[2000s<br/>Napster/P2P]
+    C --> D[2010s<br/>Spotify演算法]
+    D --> E[2020s<br/>TikTok短片]
+    A --> F[少數 gatekeepers]
+    B --> F
+    C --> G[去中心化]
+    D --> G
+    E --> G
+```
+
+### 📊 Diagram 5: 獨立vs主流音樂經濟學
+```mermaid
+flowchart LR
+    A[獨立音樂人] --> B[無廠牌支持]
+    B --> C[收入極低<br/>$0.004/播放]
+    C --> D[但係創意自主]
+    E[主流唱片藝人] --> F[廠牌墊支]
+    F --> G[前期無收入]
+    G --> H[但係成功後有曝光]
+    H --> I[但係大部分利潤歸廠牌]
+```
+
+---
+
+## 總結
+
+1. **錄音科技徹底改變咗音樂本體**——現場表演被替代、「原創性」被重新定義、聲音可以被複製同傳播。
+2. **唱片工業利潤分配極度不平等**——三大公司控制80%市場、從創意人身上剝削最大份額。
+3. **創意被資本主義改造為商品**——創意神話掩蓋咗實際嘅剝削關係，K-pop練習生制度係最極端案例。
+4. **標準化約束創意**——Billboard冠軍歌模式揭示商業邏輯點樣塑造創意形式。
+5. **Streaming年代音樂人收入崩潰**——$0.004/播放唔足以維生，但係平台利潤飆升。創意嘅價值被嚴重低估。
+
+**最後問題**: 如果你去2050年回望今日，會點解Spotify呢個時代——係創意繁榮定剝削深化？
+
+---
+**版權所有 © HKU History Self-Study**

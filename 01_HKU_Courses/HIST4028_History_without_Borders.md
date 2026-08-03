@@ -1,442 +1,418 @@
-# HIST4028
-**History without Borders: Special Field Project**
+# HIST4028 無邊界歷史：野外研究項目 / History Without Borders: Special Field Project (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST4028 未知課程 / Unknown Course
-**學期**：all periods
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: David Pomfret (PhD Cambridge)
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦呢個課程點解係HKU歷史學位最獨特嘅機會
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 重要說明
 
-1. **權力結構**
-   **權力結構**
-
-2. **意識形態對抗**
-   **意識形態對抗**
-
-3. **技術變革**
-   **技術變革**
-
-4. **帝國擴張**
-   **帝國擴張**
-
-5. **歷史記憶**
-   **歷史記憶**
+**呢個課程係邀請制——唔係所有人都可以報讀。**
+Enrollment in this special course is extended to students majoring in History by invitation, and on a performance-related basis.
 
 ---
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-### 分歧 1：延續 vs 斷裂 / Continuity vs Break
-**核心問題 / Core question**: 歷史是延續還是斷裂？
+### 心智模型 1：野外研究 (Fieldwork) 作爲歷史方法
+學者 ** Clifford Geertz** (*The Interpretation of Cultures*, 1973) 研究：「厚描述」(thick description)——歷史學家要理解行動背後嘅意義。
 
-- **一方觀點** / **Side A**: A: 延續 — 結構性因素穩定
-- **另一方觀點** / **Side B**: B: 斷裂 — 革命、戰爭重塑
+學者 **Pierre Bourdieu** 分析：實地考察挑戰書本知識嘅局限。
 
-### 分歧 2：精英 vs 大眾 / Elite vs Mass
-**核心問題 / Core question**: 歷史是精英還是大眾的？
+- 野外研究：親身到歷史現場
+- 田野觀察：理解空間與記憶嘅關係
+- 口述歷史：從現場人物獲取一手資料
 
-- **一方觀點** / **Side A**: A: 精英 — 決策者、領袖
-- **另一方觀點** / **Side B**: B: 大眾 — 群眾運動、階級
+### 心智模型 2：跨邊界歷史研究
+學者 **David Pomfret** 研究：歷史研究點解要跨地理、政治、文化邊界？
 
-### 分歧 3：結構 vs 能動性 / Structure vs Agency
-**核心問題 / Core question**: 個人能改變歷史還是結構決定？
+學者 **Dipesh Chakrabarty** 分析：「歐洲」作為普遍範疇——挑戰歷史學嘅歐洲中心。
 
-- **一方觀點** / **Side A**: A: 能動性 — 領袖改變進程
-- **另一方觀點** / **Side B**: B: 結構 — 物質條件決定
+- 地理邊界：香港→內地→東南亞
+- 政治邊界：殖民史、冷戰史
+- 文化邊界：移民史、跨文化接觸
+
+### 心智模型 3：野外研究倫理
+學者 **Paul Rabinow** 研究：野外研究倫理——研究者嘅位置性 (positionality) 點解影響研究？
+
+學者 **James Clifford** 分析：「真相嘅政治」——野外研究者唔係透明嘅觀察者。
+
+- 知情同意：訪問受訪者嘅權利
+- 研究者身份：香港學生去內地做田野嘅特殊位置
+- 保密原則：保護脆弱群體
+
+### 心智模型 4：數位人文與野外研究
+學者 **Edward Ayers** 分析：數位工具如何改變野外研究？
+
+學者 **Sharon Leon** 研究：GIS mapping、口述歷史數位化。
+
+- 數位地圖：歷史人口流動視覺化
+- Oral history archives：香港口述歷史計劃
+- 社交媒體：當代歷史嘅即時紀錄
+
+### 心智模型 5：歷史敘事與呈現
+學者 **David Lowenthal** (*The Past is a Foreign Country*, 1985) 研究：過去係外國——我哋點解可以理解過去？
+
+學者 **Hayden White** 分析：歷史敘事風格影響讀者感知。
+
+- 野外筆記：研究日誌點寫
+- 多媒體呈現：文字、照片、錄像
+- 公眾歷史：點樣向非學術觀眾呈現研究
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **權力結構** 是理解 未知課程 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 意識形態對抗 在多大程度上決定了 Unknown Course 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 技術變革 與 帝國擴張 之間的張力如何形塑了 all periods 的關鍵轉折？
-4. 如果把 權力結構 抽離出來，Unknown Course 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 all periods 中，哪個領導人、事件或文本最能代表 歷史記憶 的極致展現？
-6. 學者之間關於 意識形態對抗 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Unknown Course 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 技術變革 與 帝國擴張 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Unknown Course 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：野外研究——主觀定客觀？
+- **A 方**：主觀
+  - 研究者帶住自身視角進入田野
+  - 所有觀察都係建構
+- **B 方**：客觀
+  - 通過方法論約束可以接近真相
+  - 檔案+田野交叉驗證
+
+### 分歧 2：野外研究價值——補充定替代書本研究？
+- **A 方**：補充
+  - 田野研究係檔案研究嘅輔助工具
+  - 檔案仍然係歷史學核心
+- **B 方**：同等價值
+  - 某些歷史（口述、社群記憶）只可以通過田野獲取
+  - 檔案有階級偏見
+
+### 分歧 3：野外研究倫理——研究者嘅責任範圍？
+- **A 方**：狹義責任
+  - 只對受訪者和研究機構負責
+- **B 方**：廣義責任
+  - 對整個被研究社區負責
+  - 研究影響可能被用於非預期目的
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 權力結構
+1. 如果你去一個歷史現場（舊墟、古蹟、工廠遺址），你點樣「閱讀」呢個空間？
+2. 點解野外研究比書本研究更有挑戰性？但係同時更有回報？
+3. 如果你係香港學生去內地或東南亞做田野，你會遇到乜嘢特殊挑戰？
+4. 「厚描述」——點解描述歷史事件嘅方式會影響我哋對事件嘅理解？
+5. 如果你去訪問一位歷史見證者，點樣確保你唔係在誘導受訪者？
+6. 野外研究倫理——受訪者嘅故事被研究者「挪用」係咪問題？
+7. 如果你要設計一個跨邊界歷史研究項目，點樣選擇研究地點？
+8. 數位工具——點解改變咗野外研究嘅可能性？但係又帶嚟乜嘢新問題？
+9. 野外研究點解係理解香港歷史嘅獨特方式？特別係對於香港咁密集、高壓縮嘅城市環境？
+10. 如果你要向HKU歷史學系present你嘅野外研究成果，你點樣說服評委呢個項目值得資助？
+
+---
+
+## 核心心智模型深化（中英對照）
+
+## 1. 野外研究作爲歷史方法 (Fieldwork as Historical Method)
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+| 英文概念 | 中英對照 | 歷史含義 | 應用 |
 |---|---|---|---|
-| 權力結構 | 權力結構 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Fieldwork | 野外研究 | 親身到歷史現場考察 | 田野觀察 |
+| Thick Description | 厚描述 | 理解行動背後嘅意義 | 民族誌方法 |
+| Positionality | 位置性 | 研究者身份影響研究 | 反思性 |
+| Participant Observation | 參與觀察 | 投入同時保持距離 | 方法論 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.2 史料與考據
+- Clifford Geertz: The Interpretation of Cultures (1973)
+- Paul Rabinow: Reflections on Fieldwork in Morocco (1977)
+- HK Oral History Archives
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 權力結構 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.3 袁騰飛式犀利觀察
+歷史學家長期以來以為自己係「書房工作者」——坐圖書館、睇檔案。但係越嚟越多歷史學家走出書房，去歷史現場感受空間、氣味、聲音。
+呢個轉變唔只係方法創新，而係認識論轉變——過去唔只存在於文字，而係存在於空間、物件、社群記憶。
 
 ### 1.4 Deep test question
-- 請舉出歷史上 權力結構 的兩個極端案例，並分析其後果
-- 如果抽離 權力結構，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，權力結構 怎樣決定了 all periods 的地緣政治？
+- 如果你去香港島東半山小路，你點樣通過空間閱讀香港殖民史？
 
-### 1.5 圖解 / Diagram
+### 1.5 圖解
 ```mermaid
-graph TD
-    A[權力結構 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 意識形態對抗
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 意識形態對抗 | 意識形態對抗 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 意識形態對抗 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 意識形態對抗 的兩個極端案例，並分析其後果
-- 如果抽離 意識形態對抗，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，意識形態對抗 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[意識形態對抗 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 技術變革
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 技術變革 | 技術變革 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 技術變革 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 技術變革 的兩個極端案例，並分析其後果
-- 如果抽離 技術變革，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，技術變革 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[技術變革 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 帝國擴張
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國擴張 | 帝國擴張 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國擴張 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國擴張 的兩個極端案例，並分析其後果
-- 如果抽離 帝國擴張，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國擴張 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國擴張 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 歷史記憶
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 歷史記憶 | 歷史記憶 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 歷史記憶 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 歷史記憶 的兩個極端案例，並分析其後果
-- 如果抽離 歷史記憶，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，歷史記憶 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[歷史記憶 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Unknown Course 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Unknown Course 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
+flowchart TD
+    A[野外研究 Fieldwork] --> B[實地考察<br/>On-site investigation]
+    A --> C[口述歷史<br/>Oral History]
+    A --> D[參與觀察<br/>Participant Observation]
+    B --> E[空間考古<br/>Spatial archaeology]
+    C --> F[記憶收集<br/>Memory collection]
+    D --> G[文化沉浸<br/>Cultural immersion]
+    E --> H[歷史理解深化]
     F --> H
     G --> H
 ```
 
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
+---
 
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
+## 2. 跨邊界歷史研究 (Transborder Historical Research)
 
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 案例 |
+|---|---|---|---|
+| Transborder History | 跨邊界歷史 | 突破國家邊界 | 冷戰史 |
+| Connected Histories | 聯繫歷史 | 追蹤跨文化聯繫 | Sanjay Subrahmanyam |
+| Imperial History | 帝國史 | 殖民帝國跨地域研究 | 大英帝國 |
+| Migration History | 移民史 | 跨境人口流動 | 香港華工 |
+
+### 1.2 史料與考據
+- Sanjay Subrahmanyam: Connected Histories (1997)
+- C.A. Bayly: The Birth of the Modern World (2004)
+
+### 1.3 袁騰飛式犀利觀察
+歷史唔應該被國家邊界限制——香港歷史就係最佳例子：香港人移居加拿大、加拿大華工回鄉、英國殖民教育、印度警察加入香港警隊——呢啲跨國歷史網絡被國家史學嚴重低估。
+HIST4028就係要你去跨呢啲邊界，發現被國家敘事忽視嘅聯繫。
+
+### 1.4 Deep test question
+- 如果你去研究香港華人移民史，你點樣跨香港、加拿大、中國三個邊界？
+
+### 1.5 圖解
 ```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+flowchart LR
+    A[香港 Hong Kong] --> B[英國 Britain]
+    A --> C[內地 China]
+    A --> D[加拿大 Canada]
+    A --> E[東南亞 SE Asia]
+    B --> F[殖民教育影響]
+    C --> G[移民回流]
+    D --> H[華工鐵路史]
+    E --> I[商業網絡]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 3. 野外研究倫理 (Ethics of Fieldwork)
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
+|---|---|---|---|
+| Informed Consent | 知情同意 | 受訪者了解研究目的 | 必須 |
+| Confidentiality | 保密原則 | 保護受訪者身份 | 核心倫理 |
+| Positionality Statement | 位置性聲明 | 研究者身份說明 | 方法論要求 |
+| Repatriation | 回歸倫理 | 研究成果分享俾被研究者社區 | 爭議核心 |
 
-**自學建議 / Study tips**: 配合 Unknown Course 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+### 1.2 史料與考據
+- Paul Rabinow: Reflections on Fieldwork in Morocco
+- James Clifford: The Predicament of Culture
+
+### 1.3 袁騰飛式犀利觀察
+野外研究倫理最尖銳嘅問題：你作為研究者，係咪有權利去「挪用」一個社區嘅故事？尤其係當呢個社區處於弱勢地位。
+研究者從被研究者身上「提取」故事、轉化為學術產品——呢個過程從來唔係中性嘅權力關係。
+
+### 1.4 Deep test question
+- 如果你研究一個低收入社區，發現佢哋嘅故事可以為你的研究帶嚟重要成果，但係佢哋無直接受益，你點辦？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[野外研究者] --> B[研究權力]
+    B --> C[選擇研究問題]
+    B --> D[解讀受訪者故事]
+    B --> E[發表學術成果]
+    E --> F{受惠者是誰?}
+    F --> G[研究者 career]
+    F --> H[被研究者社區]
+    G -.->|風險| I[剝削指責]
+    H -.->|需要| J[回報機制]
+```
+
+---
+
+## 4. 數位工具與野外研究 (Digital Tools & Fieldwork)
+
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 工具 |
+|---|---|---|---|
+| Digital Archives | 數位檔案 | 互聯網歷史資源 | JSTOR / Google Books |
+| GIS Mapping | 地理資訊系統 | 空間歷史分析 | ArcGIS |
+| Oral History Digital | 口述歷史數位化 | 訪問錄音視覺化 | OHMS |
+| Crowdsourcing History | 眾包歷史 | 公眾參與歷史研究 | Zooniverse |
+
+### 1.2 史料與考據
+- Digital Humanities tools
+- HK Oral History Archives
+- HK SpaceSh
+
+### 1.3 袁騰飛式犀利觀察
+數位工具擴大咗野外研究嘅可能性——你可以通過GIS睇到100年前香港華人分佈，通過數位化報紙發現被忽視嘅歷史人物，通過社交媒體即時記錄當代歷史。
+但係數位工具同時帶嚟新問題：數位鴻溝、私隱、版權——呢啲問題改變咗野外研究嘅倫理風景。
+
+### 1.4 Deep test question
+- 如果你要研究一個已消失嘅香港社區（例如填海前嘅蘇豪區），點樣結合數位工具同野外考察？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[數位野外研究] --> B[GIS空間分析]
+    A --> C[口述歷史數位化]
+    A --> D[社交媒體記錄]
+    B --> E[歷史人口分佈]
+    C --> F[記憶檔案建立]
+    D --> G[當代歷史即時記錄]
+    E --> H[歷史理解]
+    F --> H
+    G --> H
+```
+
+---
+
+## 5. 歷史敘事與公眾呈現 (Historical Narrative & Public Presentation)
+
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 形式 |
+|---|---|---|---|
+| Historical Narrative | 歷史敘事 | 點樣講歷史故事 | 學術論文 |
+| Public History | 公眾歷史 | 向非學術觀眾呈現 | 博物館、媒體 |
+| Multimedia Presentation | 多媒體呈現 | 結合文字、影像、聲音 | 紀錄片、網站 |
+| Community History | 社區歷史 | 服務本地社群 | 口述歷史計劃 |
+
+### 1.2 史料與考據
+- David Lowenthal: The Past is a Foreign Country (1985)
+- Public History projects worldwide
+
+### 1.3 袁騰飛式犀利觀察
+歷史研究最後要問：為誰寫作？學術論文服務同儕；公眾歷史服務社區。HIST4028要求你思考呢個問題——
+你嘅研究點樣可以服務你研究嘅社區？呢個唔只係倫理問題，而係研究意義問題。
+
+### 1.4 Deep test question
+- 如果你嘅野外研究發現同被研究者社區嘅集體記憶衝突，你點處理？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[野外研究發現] --> B{為誰呈現?}
+    B --> C[學術圈<br/>同行評審]
+    B --> D[公眾<br/>博物館/媒體]
+    B --> E[被研究者社區<br/>參與式研究]
+    C --> F[學術論文]
+    D --> G[公眾歷史項目]
+    E --> H[社區檔案]
+    F --> I[知識貢獻]
+    G --> J[公眾理解]
+    H --> K[社區賦權]
+```
+
+---
+
+## 深度自測問題詳解
+
+### 詳解 1: 點解野外研究咁重要？
+檔案有階級性——工人、農民、女性、邊緣群體嘅聲音極少被保存。野外研究可以補救呢個缺口。口述歷史就係俾歷史「無聲者」發聲嘅工具。
+
+### 詳解 2: 厚描述點解重要？
+單純描述行動（邊個做咗乜）唔夠——你要理解行動背後嘅脈絡（點解咁做、咁做代表乜嘢意義）。呢個先係真正嘅歷史理解。
+
+### 詳解 3: 如果研究倫理同研究價值衝突？
+例如：受訪者拒絕被引用，但你嘅研究需要呢個證據。呢個係真正嘅倫理困境，無標準答案——但係你必須預先思考。
+
+### 詳解 4: 點解跨邊界研究咁難但又咁重要？
+語言障礙、簽證問題、政治敏感性、文化差異——但係歷史本身就跨邊界流動，單一國家史學永遠睇唔到全部真相。
+
+### 詳解 5: 數位工具取代野外研究？
+Definitely not。數位工具幫助發現問題、提供材料，但係現場感受、與人互動——呢啲電腦做唔到。
+
+### 詳解 6: 如果受訪者後悔接受訪問？
+你呢個係真實問題。口述歷史受訪者可以隨時撤回同意。你需要預先設定機制應對呢個情況。
+
+### 詳解 7: 野外研究點解適合香港？
+香港係全球密度最高城市之一，歷史地點高度集中——短時間內可以做大量田野。深水埗、中環、上環——每一個社區都係歷史層累。
+
+### 詳解 8: 如果研究期間發生衝突？
+例如政治活動、自然災害。研究計劃要有彈性，但係基本安全考慮係首要前提。
+
+### 詳解 9: 如果你嘅研究資助來自有利益衝突嘅機構？
+例如：地產商資助保育研究。研究倫理要求你識別並披露利益衝突。
+
+### 詳解 10: 如果你嘅野外研究發現同主流史學結論完全相反？
+呢個係你嘅研究最大價值所在。但係你需要更嚴格嘅證據標準——因為你要挑戰嘅唔只係一個人，而係整個學術傳統。
+
+---
+
+## 5 個 Mermaid 圖解
+
+### 📊 Diagram 1: 野外研究流程
+```mermaid
+flowchart TD
+    A[選題<br/>Topic Selection] --> B[文獻回顧<br/>Literature Review]
+    B --> C[研究倫理申請<br/>Ethics Approval]
+    C --> D[田野設計<br/>Field Design]
+    D --> E[實地考察<br/>Fieldwork]
+    E --> F[資料分析<br/>Analysis]
+    F --> G[撰寫報告<br/>Writing]
+    G --> H[呈現成果<br/>Presentation]
+    H --> I[反思檢討<br/>Reflection]
+```
+
+### 📊 Diagram 2: 跨邊界歷史網絡
+```mermaid
+flowchart LR
+    A[香港 Hong Kong] --> B[英帝國]
+    A --> C[中國]
+    A --> D[東南亞]
+    B --> E[印度警務<br/>軍事]
+    B --> F[英國教育<br/>法律制度]
+    C --> G[移民網絡<br/>匯款]
+    D --> H[商業<br/>橡膠/航運]
+    E --> I[跨帝國流動]
+    F --> I
+    G --> I
+    H --> I
+```
+
+### 📊 Diagram 3: 野外研究倫理
+```mermaid
+flowchart TD
+    A[研究者] --> B[知情同意]
+    A --> C[保密原則]
+    A --> D[位置性聲明]
+    A --> E[成果回報]
+    B --> F[受訪者權利]
+    C --> F
+    D --> G[研究者反思]
+    E --> H[社區受益]
+    F --> I[倫理研究]
+    G --> I
+    H --> I
+```
+
+### 📊 Diagram 4: 數位野外研究工具
+```mermaid
+flowchart TD
+    A[數位工具] --> B[GIS Mapping<br/>地理資訊系統]
+    A --> C[Oral History Archives<br/>口述歷史檔案]
+    A --> D[Digital Archives<br/>數位化檔案]
+    B --> E[空間歷史分析]
+    C --> F[訪問錄音管理]
+    D --> G[史料發現]
+    E --> H[歷史理解]
+    F --> H
+    G --> H
+```
+
+### 📊 Diagram 5: 歷史呈現受眾
+```mermaid
+flowchart TD
+    A[野外研究成果] --> B[學術同儕]
+    A --> C[公眾觀眾]
+    A --> D[被研究社區]
+    A --> E[政策制定者]
+    B --> F[學術論文<br/>學術會議]
+    C --> G[博物館展覽<br/>媒體報道]
+    D --> H[社區檔案<br/>教育資源]
+    E --> I[政策建議<br/>諮詢報告]
+```
+
+---
+
+## 總結
+
+1. **野外研究係歷史學嘅「田野轉向」**：從書房走入歷史現場，發現文字檔案無法接觸嘅維度。
+2. **跨邊界研究挑戰國家史學**：香港歷史就係跨境歷史嘅最佳例證——被英國、中國、東南亞共同塑造。
+3. **研究倫理係野外研究嘅核心**：研究者位置性、權力關係、利益衝突——呢啲問題必須預先思考。
+4. **數位工具擴大但唔取代野外研究**：GIS、口述歷史數位化、數位檔案——呢啲工具服務研究問題，而非替代研究者嘅現場判斷。
+5. **公眾歷史係野外研究嘅終極目標**：歷史研究唔只服務學術，而係服務我哋理解自身所在嘅世界。
+
+**最後問題**: 如果你去一個歷史現場，點樣區分你嘅「觀察」同「詮釋」？呢個區分有意義嗎？
+
+---
+**版權所有 © HKU History Self-Study**

@@ -1,442 +1,158 @@
-# HIST2143
-**Love and loyalty: Women and gender in Chinese History**
+# HIST2143 中國女性史 / Love and Loyalty: Women and Gender in Chinese History
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2143 中國婦女與性別史 / Women and Gender in Chinese History
-**學期**：1600-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Li Ji (李季)
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利分析：中國歷史點解女性永遠係配角？但係沒有女性參與的歷史，又點解可能完整？
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個核心心智模型
 
-1. **儒家性別秩序**
-   **儒家性別秩序**
+### 心智模型 1：「三從四德」——儒家性別秩序點樣塑造中國女性身份
+學者 **Patricia Ebrey**（華盛頓大學，*The Inner Quarters*, 1993）系統分析中國女性婚姻、家庭生活。學者 **Dorothy Ko**（高彥頤，*Everydayness*, 1994）指出：即使係最傳統嘅「深閨」女性，亦有自己嘅社交網絡、文化生活。
 
-2. **纏足作為身體政治**
-   **纏足作為身體政治**
+- **儒家經典**：《女誡》《內訓》——規範女性行為
+- **宋代**：寡婦守節開始被提倡
+- **明清**：貞節牌坊——政府表彰守節女性
 
-3. **五四時期的婦女解放**
-   **五四時期的婦女解放**
+### 心智模型 2：「女性反抗」——歷史被壓迫者點樣發聲？
+學者 **William Theodore de Bary** 研究儒家女性主義；學者 **Wang Zhenyi**（1768-1797）——清代女天文學家，寫《學海》11卷，證明女性可以從事學術研究。
 
-4. **毛時代的婦女能動性**
-   **毛時代的婦女能動性**
+### 心智模型 3：「戀愛」作爲歴史範疇——點解係近代中國先至出現？
+學者 **Gail Hershatter**（UCSC，*Women in China's Long Twentieth Century*, 2007）指出：作為自主感情選擇嘅「戀愛」概念，係 20 世紀初隨著西方話語傳入中國。
 
-5. **當代性別政治的回潮**
-   **當代性別政治的回潮**
+### 心智模型 4：「革命女性」——五四時期女性點樣被動員？
+學者 **Wang Zheng**（*Women in the Chinese Enlightenment*, 1995）分析：五四女性接受新式教育後走入公共領域。
 
----
-
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
-
-### 分歧 1：纏足 — 審美 vs 父權控制 / Foot-binding — Aesthetic or Patriarchal Control
-**核心問題 / Core question**: 纏足是美學時尚還是對女性身體的父權控制？
-
-- **一方觀點** / **Side A**: A: 審美 — 各階層女性自願選擇，社會時尚
-- **另一方觀點** / **Side B**: B: 控制 — 限制女性行動、強化貞操觀念、為父權服務
-
-### 分歧 2：毛時代婦女 — 解放 vs 雙重剝削 / Mao Era Women — Liberated or Doubly Exploited
-**核心問題 / Core question**: 毛時代『婦女能頂半邊天』是真正解放還是雙重負擔？
-
-- **一方觀點** / **Side A**: A: 解放 — 大量女性進入勞動力市場、領導層
-- **另一方觀點** / **Side B**: B: 雙重 — 工作負擔疊加家庭責任，城市單位體制下
-
-### 分歧 3：當代女性主義 — 真實 vs 國家主導 / Contemporary Feminism — Genuine or State-Led
-**核心問題 / Core question**: 當代中國女性主義是真實社會運動還是國家政策？
-
-- **一方觀點** / **Side A**: A: 真實 — #MeToo 在中國興起，反性騷擾
-- **另一方觀點** / **Side B**: B: 國家主導 — 妇联是官方組織，獨立婦女 NGO 被壓制
+### 心智模型 5：「改革開放」與女性——市場經濟下女性角色轉變
+學者 **Deborah Davis**（耶魯）研究毛澤東時代女性「走出家門」；改革開放後女性下崗問題。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **儒家性別秩序** 是理解 中國婦女與性別史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 纏足作為身體政治 在多大程度上決定了 Women and Gender in Chinese History 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 五四時期的婦女解放 與 毛時代的婦女能動性 之間的張力如何形塑了 1600-present 的關鍵轉折？
-4. 如果把 儒家性別秩序 抽離出來，Women and Gender in Chinese History 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1600-present 中，哪個領導人、事件或文本最能代表 當代性別政治的回潮 的極致展現？
-6. 學者之間關於 纏足作為身體政治 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Women and Gender in Chinese History 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 五四時期的婦女解放 與 毛時代的婦女能動性 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Women and Gender in Chinese History 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：中國傳統女性——被壓迫者定係適應者？
+- **A 方（壓迫論）**：學者 **Kathryn Bernhardt**——中國女性法律地位低、財產權受限、被嚴格道德規範約束
+- **B 方（能動論）**：學者 **Ellen Widmer**——女性喺家庭空間內有相當能動性
+
+### 分歧 2：「五四女性解放」——真實解放定係另一種壓迫？
+- **A 方（解放論）**：女性走出家庭、接受教育、參與社會
+- **B 方（批判論）**：女性被要求同時扮演「賢妻良母」+「革命女性」雙重角色
+
+### 分歧 3：計劃生育政策——女性赋权定係身體控制？
+- **A 方（赋权論）**：計劃生育令女性控制生育，延遲結婚
+- **B 方（控制論）**：計劃生育係國家對女性身體嘅強制干預
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 點解儒學傳統可以持續兩千年以上？但係儒學入面有無「女性主義」元素？
+2. 中國歷史上有邊啲著名女性？武則天、慈禧、鑑湖女俠秋瑾——佢哋點樣喺男性主導社會中獲取權力？
+3. 點解「裹腳」習俗可以持續咁耐？呢個習俗最終點解消失？
+4. 太平天國點解有女性平等政策？但係點解最終失敗？
+5. 五四時期新女性——佢哋點樣喺傳統家庭價值同現代個人主義之間掙扎？
+6. 共產主義土地改革——點解可以短期內提升女性地位？但係長期影響係乜嘢？
+7. 改革開放——點解市場經濟復辟咗傳統性別分工？下崗工人中女性佔多數——呢個揭示咗乜嘢？
+8. 「剩女」現象——點解中國有 7000 萬「剩女」？呢個係性別比例失衡、教育水平提高、定係傳統婚姻觀念問題？
+9. 中國女性主義——點解西方女性主義話語可以/唔可以應用喺中國歷史語境？
+10. 如果你是清代一名普通女性——你要嫁俾一個完全陌生嘅男人、從此一生服務佢屋企、你自己嘅聲音永遠唔會被歷史記載。你點解接受呢個命運？定係你會反抗？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 儒家性別秩序
+## 1. 儒家性別秩序 / Confucian Gender Order
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 儒家性別秩序 | 儒家性別秩序 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 三從 (sāncóng) = Three Subordinations — 未嫁從父、既嫁從夫、夫死從子
+- 四德 (sìdé) = Four Virtues — 妇德、妇言、妇容、妇功
+- 裹腳 (guǒjiǎo) = Foot Binding — 儒家對女性身體嘅控制
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 袁騰飛式犀利觀察
+> 「中國男性最犀利嘅發明——就係裹腳！佢哋將女性嘅腳變成一件艺术品，令女性走唔動路——然後話女性天生就係走唔動路！」
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 儒家性別秩序 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Women and Gender in Chinese History 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.4 Deep Test Question
+**考試題**：比較中國同西方（歐洲/美國）歷史上女性地位。用具體案例說明：係中國女性特別悲慘，定係全球女性同樣被壓迫？
 
-### 1.4 Deep test question
-- 請舉出歷史上 儒家性別秩序 的兩個極端案例，並分析其後果
-- 如果抽離 儒家性別秩序，Women and Gender in Chinese History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，儒家性別秩序 怎樣決定了 1600-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[儒家性別秩序 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 纏足作為身體政治
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 纏足作為身體政治 | 纏足作為身體政治 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 纏足作為身體政治 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Women and Gender in Chinese History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 纏足作為身體政治 的兩個極端案例，並分析其後果
-- 如果抽離 纏足作為身體政治，Women and Gender in Chinese History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，纏足作為身體政治 怎樣決定了 1600-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[纏足作為身體政治 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 五四時期的婦女解放
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 五四時期的婦女解放 | 五四時期的婦女解放 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 五四時期的婦女解放 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Women and Gender in Chinese History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 五四時期的婦女解放 的兩個極端案例，並分析其後果
-- 如果抽離 五四時期的婦女解放，Women and Gender in Chinese History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，五四時期的婦女解放 怎樣決定了 1600-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[五四時期的婦女解放 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 毛時代的婦女能動性
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 毛時代的婦女能動性 | 毛時代的婦女能動性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 毛時代的婦女能動性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Women and Gender in Chinese History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 毛時代的婦女能動性 的兩個極端案例，並分析其後果
-- 如果抽離 毛時代的婦女能動性，Women and Gender in Chinese History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，毛時代的婦女能動性 怎樣決定了 1600-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[毛時代的婦女能動性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代性別政治的回潮
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代性別政治的回潮 | 當代性別政治的回潮 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代性別政治的回潮 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Women and Gender in Chinese History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代性別政治的回潮 的兩個極端案例，並分析其後果
-- 如果抽離 當代性別政治的回潮，Women and Gender in Chinese History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代性別政治的回潮 怎樣決定了 1600-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代性別政治的回潮 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Women and Gender in Chinese History 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Women and Gender in Chinese History 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 中國婦女與性別史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
+### 1.5 圖解
 ```mermaid
 graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A["儒家女性道德規範"] --> B["三從"]
+    A --> C["四德"]
+    B --> B1["未嫁從父"]
+    B --> B2["既嫁從夫"]
+    B --> B3["夫死從子"]
+    C --> C1["婦德：道德品質"]
+    C --> C2["婦言：言語得體"]
+    C --> C3["婦容：外表端莊"]
+    C --> C4["婦功：家務能力"]
+    style A fill:#FFD700
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 深度自測問題
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+**Q1**：儒學之所以持續——因為儒學成為科舉考試內容，任何想出人頭地嘅人都要學；而且儒學提供穩定社會秩序意識形態，統治者樂見其持續。
 
-**自學建議 / Study tips**: 配合 Women and Gender in Chinese History 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**Q2-Q10** 精簡版：
+- Q2：著名女性——武則天（唯一女皇帝）、慈禧（實際統治者 47 年）、秋瑾（革命女俠）——佢哋都利用現有制度裂縫獲取權力。
+- Q3：裹腳之所以持續——因為社會認為小腳係「美」；廢除原因係維新派/革命派批評話呢個係野蠻習俗，加上西方審美影響。
+- Q4：太平天國女性政策——洪秀全宣稱男女平等，但係實際上仍係男性主導；呢個揭示意識形態與實踐之間嘅鴻溝。
+- Q5：五四新女性掙扎——佢哋被要求同時係「新知識女性」又係「傳統賢妻良母」，兩者要求互相矛盾。
+- Q6：土地改革提升女性地位——因為土地重新分配令女性都有經濟基礎；但係傳統性別分工仍然持續。
+- Q7：下崗女性——因為女性被視為「次要」勞動力；呢個揭示市場經濟復辟傳統性別分工。
+- Q8：剩女問題——多因素造成：性別比例失衡（計劃生育導致 3000 萬男性多餘）、女性教育水平提升但男性未有同步提升、傳統要求女性下嫁。
+- Q9：中國女性主義——需要考慮中國歷史特殊語境；西方個人主義女性主義未必可以直接應用。
+- Q10（反思題）：呢個題目要求學生代入歷史，理解歷史限制下個人選擇空間極其有限。
+
+---
+
+## 5 個 Mermaid 圖解
+
+### 圖解 1：中國女性歷史地位變化
+```mermaid
+graph TD
+    A["中國女性歷史地位"] --> B["先秦：相對自由<br/>女性可以參與社會"]
+    A --> C["秦漢：儒家規範形成<br/>三從四德"]
+    A --> D["唐宋：科舉制度<br/>女性邊緣化"]
+    A --> E["明清：貞節牌坊<br/>裹腳習俗"]
+    A --> F["民國：新女性興起<br/>五四運動"]
+    A --> G["PRC：毛澤東時期<br/>女性走出家門"]
+    A --> H["改革開放<br/>市場化下崗問題"]
+    style A fill:#FFD700
+```
+
+### 圖解 2：中國女性反抗形式
+```mermaid
+graph TD
+    A["女性反抗形式"] --> B["直接反抗<br/>起義參加革命"]
+    A --> C["隱性反抗<br/>磨洋工、家庭內消極抵抗"]
+    A --> D["話語反抗<br/>寫詩、創作記録"]
+    A --> E["法律工具<br/>利用制度漏洞"]
+```
+
+---
+
+## 總結
+
+**HIST2143 Women and Gender in Chinese History** 嘅核心價值：
+1. **填補歷史空白**——女性聲音長期被忽略，呢個 course 補救呢個不平衡
+2. **批判性思考**——傳統唔等於必然，女性從來都係歷史能動者
+3. **跨文化比較**——全球女性共同面對嘅權力不平等問題
+
+**袁騰飛金句**：
+> 「歷史學家最鐘意話：『呢個時代女性地位低』——但係佢哋從來唔問：女性到底做咗啲乜嘢去改變自己命運？」
+
+---
+
+## 延伸閱讀
+
+1. Ebrey, Patricia Buckley. *The Inner Quarters: Marriage and the Lives of Chinese Women in the Sung Period*. Berkeley: University of California Press, 1993.
+2. Ko, Dorothy. *Everydayness in the Long Eighteenth Century*. Stanford: Stanford University Press, 1994.
+3. Hershatter, Gail. *Women in China's Long Twentieth Century*. Berkeley: University of California Press, 2007.
+4. Wang, Zheng. *Women in the Chinese Enlightenment: Oral and Textual Histories*. Berkeley: University of California Press, 1999.
+5. Jaschok, Maria. *Concubines and Bondservants*. London: Zed Books, 1988.
+6. Mann, Susan. *Precious Records: Women in China's Long Eighteenth Century*. Stanford: Stanford University Press, 1997.

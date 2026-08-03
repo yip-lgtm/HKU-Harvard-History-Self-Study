@@ -1,442 +1,411 @@
-# HIST4035
-**History Applied: Internship in Historical Studies**
+# HIST4035 應用歷史：歷史研究實習 / History Applied: Internship in Historical Studies (6 credits)
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST4035 未知課程 / Unknown Course
-**學期**：all periods
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: David Pomfret (PhD Cambridge)
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦歷史點解唔只係學術，而係服務社區嘅工具
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 重要特點
 
-1. **權力結構**
-   **權力結構**
-
-2. **意識形態對抗**
-   **意識形態對抗**
-
-3. **技術變革**
-   **技術變革**
-
-4. **帝國擴張**
-   **帝國擴張**
-
-5. **歷史記憶**
-   **歷史記憶**
+**呢個係應用歷史課程，學生服務社區、合作夥伴機構——唔係傳統意義上嘅實習。**
 
 ---
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-### 分歧 1：延續 vs 斷裂 / Continuity vs Break
-**核心問題 / Core question**: 歷史是延續還是斷裂？
+### 心智模型 1：應用歷史 (Public History) 概念
+學者 **Robert Kelley** 研究：Public History——歷史學家喺博物館、檔案館、政府、公司工作，用歷史服務社會。
 
-- **一方觀點** / **Side A**: A: 延續 — 結構性因素穩定
-- **另一方觀點** / **Side B**: B: 斷裂 — 革命、戰爭重塑
+學者 **Thomas Caufield** 分析：應用歷史有別於學術歷史——目標受眾唔係同儕，而係公眾。
 
-### 分歧 2：精英 vs 大眾 / Elite vs Mass
-**核心問題 / Core question**: 歷史是精英還是大眾的？
+- HIST4035 獨特模式：學生為合作機構撰寫歷史——免費consultancy
+- 合作夥伴：企業、NGO、社區團體、協會
+- 最終產品：研究報告 (consultancy paper)
 
-- **一方觀點** / **Side A**: A: 精英 — 決策者、領袖
-- **另一方觀點** / **Side B**: B: 大眾 — 群眾運動、階級
+### 心智模型 2：社區歷史寫作 (Community History Writing)
+學者 **David Lowenthal** (*The Heritage Crusade*, 1998) 研究：社區歷史揭示官方歷史忽視嘅維度。
 
-### 分歧 3：結構 vs 能動性 / Structure vs Agency
-**核心問題 / Core question**: 個人能改變歷史還是結構決定？
+學者 **Alison Booth** 分析：口述歷史、社區檔案——底層聲音。
 
-- **一方觀點** / **Side A**: A: 能動性 — 領袖改變進程
-- **另一方觀點** / **Side B**: B: 結構 — 物質條件決定
+- 合作夥伴訪談：收集口述歷史
+- 一手史料研究：機構記録、照片、文件
+- 撰寫歷史：清晰、有吸引力、公眾可讀
+
+### 心智模型 3：歷史研究倫理
+學者 **Punch** 研究：質性研究倫理——知情同意、保密、匿名處理。
+
+學者 **David Flinders** 分析：研究者同受訪者關係——權力不平等等問題。
+
+- 訪談倫理培訓——必須接受培訓先至可以開始訪談
+- 保密原則：受訪者資料保護
+- 研究成果分享：合作夥伴有使用權
+
+### 心智模型 4：歷史作爲咨詢工具 (History as Consultancy)
+學者 **Jannsen** 研究：歷史咨詢——企業、非牟利機構點解需要歷史？
+
+學者 **Gardner** 分析：歷史故事可以係品牌建立、社區連結、政策辯論嘅工具。
+
+- 品牌歷史：公司歷史可以係marketing工具
+- 社區歷史：集體記憶可以團結社區
+- 政策歷史：歷史先例影響政策辯論
+
+### 心智模型 5：歷史同公眾嘅關係
+學者 **Roy Rosenzweig** 研究：公眾歷史——點解普通人需要歷史？
+
+學者 **David Thelen** 分析：歷史唔只係學術，而係每一個人理解自身嘅工具。
+
+- 身份認同：個人/社區身份根植於歷史
+- 批判思考：歷史訓練公共思辨能力
+- 民主參與：知情公民需要歷史素養
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **權力結構** 是理解 未知課程 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 意識形態對抗 在多大程度上決定了 Unknown Course 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 技術變革 與 帝國擴張 之間的張力如何形塑了 all periods 的關鍵轉折？
-4. 如果把 權力結構 抽離出來，Unknown Course 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 all periods 中，哪個領導人、事件或文本最能代表 歷史記憶 的極致展現？
-6. 學者之間關於 意識形態對抗 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Unknown Course 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 技術變革 與 帝國擴張 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Unknown Course 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：應用歷史——服務定批判？
+- **A 方**：服務導向
+  - 為合作夥伴提供佢哋想要嘅歷史
+  - 商業/機構目標優先
+- **B 方**：批判導向
+  - 歷史學家嘅公共責任
+  - 必要時呈現不舒服嘅真相
+
+### 分歧 2：歷史真相——可以妥協嗎？
+- **A 方**：可以適度調整
+  - 考慮受眾、語境、合作關係
+  - 避免無必要嘅冒犯
+- **B 方**：歷史真相唔可以妥協
+  - 任何妥協都係背叛學術誠信
+  - 如果合作夥伴要求造假，拒絕合作
+
+### 分歧 3：受訪者權利——保護定記錄？
+- **A 方**：保護優先
+  - 受訪者福祉高於歷史價值
+  - 必要時犧牲歷史材料
+- **B 方**：記錄優先
+  - 歷史如果消失就無得挽回了
+  - 平衡保護同記錄
 
 ---
 
-# 核心心智模型深化（中英對照）
+## 問題 3：10 個深度問題
 
-## 1. 權力結構
+1. 如果你為一間老字號茶餐廳寫歷史，你點平衡「品牌故事」同「批判分析」？
+2. 點解歷史咨詢越嚟越受歡迎？但係歷史學家係咪變成商業工具？
+3. 如果合作夥伴要求你刪除部分歷史（涉及敏感內容），你點做？
+4. 訪談過程——點解受訪者有權隨時撤回同意？
+5. 點解大學生可以為真實機構撰寫歷史？呢個模式有乜嘢優點同局限？
+6. 如果你去訪問一位長者，佢分享咗一段好personal但係極具歷史價值嘅經歷，你點平衡？
+7. 歷史寫作——點解「公眾可讀」同「學術嚴謹」可以共存？
+8. 合作夥伴最後決定唔發表你嘅研究，點解可能？你點回應？
+9. 點解社區歷史咁重要？但係為乜嘢好多機構願意參與？
+10. 如果你去2020年，COVID-19期間，口述歷史研究者遇到乜嘢特殊挑戰？
+
+---
+
+## 核心心智模型深化（中英對照）
+
+## 1. 應用歷史概念 (Public/Applied History)
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+| 英文概念 | 中英對照 | 歷史含義 | 應用場景 |
 |---|---|---|---|
-| 權力結構 | 權力結構 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Public History | 公眾歷史 | 歷史服務公眾 | 博物館、媒體 |
+| Applied History | 應用歷史 | 歷史服務特定需求 | HIST4035模式 |
+| Community History | 社區歷史 | 為特定社區撰寫歷史 | 口述歷史 |
+| History Consultancy | 歷史咨詢 | 為機構提供歷史服務 | 企業品牌 |
+| Critical History | 批判歷史 | 歷史作社會批判工具 | 公共史學 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.2 史料與考據
+- Robert Kelley: Public History
+- 質性研究倫理準則
+- HKU HIST4035 合作夥伴案例
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 權力結構 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.3 袁騰飛式犀利觀察
+HIST4035最犀利嘅創新就係：學生唔係去「實習」，而係用自己嘅歷史研究能力服務社區。
+呢個模式挑戰咗傳統歷史教育——歷史唔只係學術，而係可以係實際嘅社會工具。
+但係，歷史學家服務邊個？服務乜嘢目標？呢啲問題唔可以回避。
 
 ### 1.4 Deep test question
-- 請舉出歷史上 權力結構 的兩個極端案例，並分析其後果
-- 如果抽離 權力結構，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，權力結構 怎樣決定了 all periods 的地緣政治？
+- 如果合作夥伴要求你撰寫一段「擦鞋」歷史，你點做？
 
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[權力結構 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 意識形態對抗
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 意識形態對抗 | 意識形態對抗 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 意識形態對抗 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 意識形態對抗 的兩個極端案例，並分析其後果
-- 如果抽離 意識形態對抗，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，意識形態對抗 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[意識形態對抗 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 技術變革
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 技術變革 | 技術變革 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 技術變革 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 技術變革 的兩個極端案例，並分析其後果
-- 如果抽離 技術變革，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，技術變革 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[技術變革 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 帝國擴張
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 帝國擴張 | 帝國擴張 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 帝國擴張 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 帝國擴張 的兩個極端案例，並分析其後果
-- 如果抽離 帝國擴張，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，帝國擴張 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[帝國擴張 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 歷史記憶
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 歷史記憶 | 歷史記憶 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 歷史記憶 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Unknown Course 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 歷史記憶 的兩個極端案例，並分析其後果
-- 如果抽離 歷史記憶，Unknown Course 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，歷史記憶 怎樣決定了 all periods 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[歷史記憶 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Unknown Course 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Unknown Course 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 未知課程，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+### 1.5 圖解
 ```mermaid
 flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A[歷史研究能力] --> B[服務社區]
+    B --> C[合作夥伴需求]
+    C --> D[品牌歷史/社區歷史]
+    D --> E[歷史真相保持]
+    E --> F[學術嚴謹性]
+    F --> G[公眾可讀性]
+    G --> H[Consultancy Paper]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 2. 社區歷史寫作 (Community History Writing)
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 方法 |
+|---|---|---|---|
+| Oral History | 口述歷史 | 訪問收集記憶 | 訪談技巧 |
+| Community Archive | 社區檔案 | 社區自己建立嘅史料庫 | 共同建立 |
+| Life History | 生命史 | 個人生命故事作為歷史 | 深度訪談 |
+| Memory | 記憶 | 個人/集體過去 | 記憶政治 |
+| Silenced Voices | 被忽視聲音 | 主流歷史無嘅群體 | 邊緣群體 |
 
-**自學建議 / Study tips**: 配合 Unknown Course 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+### 1.2 史料與考據
+- Paul Thompson: The Voice of the Past (1978)
+- HK Oral History Archives
+
+### 1.3 袁騰飛式犀利觀察
+口述歷史係俾「被忽視聲音」發聲嘅工具——但係訪問過程本身就係一個權力關係。
+研究者決定問乜嘢問題、記錄乜嘢片段、解讀乜嘢意義——呢個過程無辦法完全中性。
+但係，唔做口述歷史就等於繼續忽視呢啲聲音。權力問題唔係放棄嘅理由，而係谨慎行事的提醒。
+
+### 1.4 Deep test question
+- 如果受訪者分享咗一個令你震驚嘅創傷經歷，你點處理？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[社區歷史寫作] --> B[口述歷史訪談]
+    B --> C[知情同意]
+    C --> D[錄音/錄像]
+    D --> E[一字稿轉錄]
+    E --> F[分析解讀]
+    F --> G[歷史撰寫]
+    G --> H[合作夥伴使用]
+    H --> I[社區記憶保存]
+```
+
+---
+
+## 3. 研究倫理 (Research Ethics)
+
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
+|---|---|---|---|
+| Informed Consent | 知情同意 | 受訪者了解並同意參與 | 必須 |
+| Confidentiality | 保密原則 | 保護受訪者身份 | 核心 |
+| Right to Withdraw | 撤回權利 | 受訪者可隨時撤回 | 法律要求 |
+| Harm Minimization | 傷害最小化 | 避免研究造成傷害 | 倫理核心 |
+| Debriefing | 研究後跟進 | 訪談後關注受訪者 | 責任 |
+
+### 1.2 史料與考據
+- Qualitative Research Ethics guidelines
+- HKU Research Ethics requirements
+
+### 1.3 袁騰飛式犀利觀察
+研究倫理唔係「限制」，而係「責任」。歷史研究涉及真實人物嘅真實經歷——呢啲經歷唔係學術論文嘅素材，而係一個人嘅生命。
+研究者有責任確保自己嘅工作唔會傷害呢啲人——即使呢個意味着犧牲部分「學術價值」。
+
+### 1.4 Deep test question
+- 如果受訪者訪問後表示後悔，你已經完成咗consultancy paper，點做？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[研究倫理] --> B[訪談前培訓]
+    A --> C[知情同意書]
+    A --> D[保密原則]
+    B --> E[受訪者權利保護]
+    C --> E
+    D --> E
+    E --> F[負責任嘅研究]
+    F --> G[高質量成果]
+```
+
+---
+
+## 4. 歷史咨詢模式 (History Consultancy Model)
+
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 應用 |
+|---|---|---|---|
+| Consultancy Paper | 咨詢報告 | HIST4035最終產品 | 合作夥伴使用 |
+| Brand History | 品牌歷史 | 企業歷史服務營銷 | 商業機構 |
+| Community History | 社區歷史 | 社區記憶保存 | NGO/社區組織 |
+| Institutional History | 機構歷史 | 組織自身歷史 | 學校/醫院 |
+| Memory Project | 記憶項目 | 記錄社區/家族記憶 | 口述歷史計劃 |
+
+### 1.2 史料與考據
+- History Consultancy practices worldwide
+- HKU HIST4035 partnership examples
+
+### 1.3 袁騰飛式犀利觀察
+歷史咨詢模式最犀利嘅問題：歷史學家係咪變成商業寫手？當機構付錢（或者喺呢個情況免費服務），歷史學家嘅獨立性受到乜嘢影響？
+呢個問題無標準答案——但係每一個歷史學家必須自己思考。
+
+### 1.4 Deep test question
+- 如果合作夥伴係一個有爭議歷史嘅機構（例如曾經剝削員工），你點做？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[合作夥伴] --> B[提出需求]
+    B --> C[學生研究團隊]
+    C --> D[歷史資料收集]
+    D --> E[口述歷史訪談]
+    E --> F[撰寫咨詢報告]
+    F --> G[免費consultancy交付]
+    G --> H[合作夥伴使用於營銷/保存]
+```
+
+---
+
+## 5. 歷史同公眾關係 (History & the Public)
+
+### 1.1 Bilingual 概念對照
+| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
+|---|---|---|---|
+| Public History | 公眾歷史 | 歷史服務公眾 | 民主社會 |
+| Historical Literacy | 歷史素養 | 公眾理解歷史能力 | 公民教育 |
+| Historical Thinking | 歷史思維 | 批判分析過去 | 核心技能 |
+| Commemoration | 紀念活動 | 官方歷史呈現 | 記憶政治 |
+| Counter-memory | 反記憶 | 挑戰官方敘事 | 邊緣群體 |
+
+### 1.2 史料與考據
+- Roy Rosenzweig: "How People Learn About Their Community's Past"
+- David Thelen: "The Practice of American History"
+
+### 1.3 袁騰飛式犀利觀察
+公眾歷史嘅核心命題：歷史唔只係學者嘅專利，而係每一個公民嘅權利同責任。
+當大眾缺乏歷史素養，就容易被政客、媒體操控——歷史虛無主義、選擇性記憶、謊言重複一千遍就係真理。
+歷史學家服務公眾唔係「降低標準」，而係「擴大受眾」。
+
+### 1.4 Deep test question
+- 如果你嘅歷史研究發現同合作夥伴嘅預期完全相反，你點做？
+
+### 1.5 圖解
+```mermaid
+flowchart TD
+    A[歷史學家] --> B[學術歷史]
+    B --> C[同行評審]
+    A --> D[公眾歷史]
+    D --> E[博物館/媒體/社區]
+    D --> F[批判歷史思維]
+    F --> G[知情公民]
+    G --> H[民主社會]
+```
+
+---
+
+## 深度自測問題詳解
+
+### 詳解 1: 點解公眾歷史咁重要？
+因為大眾日常接觸歷史嘅主要途徑唔係學術論文，而係博物館、媒體、教科書、社交媒體。如果歷史學家唔參與呢啲領域，就會被其他聲音填補空白。
+
+### 詳解 2: HIST4035模式同傳統實習有乜嘢唔同？
+傳統實習：學生服務機構（例如打雜）。HIST4035：學生用專業歷史能力服務合作夥伴，撰寫具有長遠價值嘅歷史報告。係真正嘅知識轉移。
+
+### 詳解 3: 如果合作夥伴想控制呈現方式？
+呢個係真實張力。合作夥伴有商業/機構目標；歷史學家有學術標準。你需要預先協商呈現方式，並保留學術誠信底線。
+
+### 詳解 4: 保密原則點解咁重要？
+受訪者信任研究者，分享個人故事——呢個信任唔可以被滥用。即使內容係public knowledge，受訪者身份仍然需要保護。
+
+### 詳解 5: 點解受訪者可以隨時撤回同意？
+因為研究倫理原則——參與必須係自願的。撤回同意權係確保自願性嘅制度保障。如果受訪者後悔，必須尊重佢哋嘅決定。
+
+### 詳解 6: 口述歷史價值——點解咁獨特？
+口述歷史可以揭示官方檔案完全無記載嘅維度——情感、記憶、對過去嘅主觀體驗。呢啲係歷史嘅essential但係長期被忽視嘅維度。
+
+### 詳解 7: 如果合作夥伴最後決定唔publish研究？
+呢個係可能嘅結果。你需要預先在合同/協議入面確定使用權——即使合作夥伴唔publish，你都可以喺學術範圍内使用（經適當脫敏處理）。
+
+### 詳解 8: 點解歷史寫作要有「公眾可讀性」？
+因為歷史嘅價值唔只係學術對話，而係服務更廣嘅社會。如果得學者睇得明，歷史嘅公共價值就大打折扣。
+
+### 詳解 9: 如果你要為一間老字號寫歷史，但係佢有剝削歷史？
+呢個係最尖銳嘅倫理問題。你可以撰寫一個誠實嘅歷史——包括光明面同黑暗面。如果合作夥伴拒絕，你需要决定係咪繼續合作。
+
+### 詳解 10: 應用歷史——係咪降低咗歷史嘅標準？
+Absolutely not。公眾歷史唔係「低標準歷史」，而係「適合不同受眾嘅歷史」。學術嚴謹性同公眾可讀性完全可以共存。
+
+---
+
+## 5 個 Mermaid 圖解
+
+### 📊 Diagram 1: HIST4035 研究流程
+```mermaid
+flowchart TD
+    A[合作夥伴<br/>Partner] --> B[需求確定<br/>Needs Assessment]
+    B --> C[倫理審批<br/>Ethics Approval]
+    C --> D[資料收集<br/>Research]
+    D --> E[口述歷史<br/>Oral History]
+    E --> F[撰寫報告<br/>Consultancy Paper]
+    F --> G[呈現諮詢<br/>Consultation]
+    G --> H[最終交付<br/>Delivery]
+    H --> I[合作夥伴使用]
+```
+
+### 📊 Diagram 2: 研究倫理框架
+```mermaid
+flowchart TD
+    A[研究開始前] --> B[倫理培訓]
+    B --> C[知情同意]
+    C --> D[保密協議]
+    D --> E[訪談進行]
+    E --> F{受訪者狀態}
+    F -->|後悔| G[撤回同意]
+    F -->|正常| H[繼續研究]
+    G --> I[尊重決定]
+    H --> J[資料分析]
+```
+
+### 📊 Diagram 3: 歷史真相 vs 合作夥伴需求
+```mermaid
+flowchart TD
+    A[歷史真相] --> B[學術誠信]
+    A --> C[合作夥伴需求]
+    B --> D{有衝突?}
+    C --> D
+    D -->|無衝突| E[順利合作]
+    D -->|有衝突| F[協商]
+    F --> G[誠實歷史撰寫]
+    G --> H[預先設定底線]
+```
+
+### 📊 Diagram 4: 公眾歷史受眾
+```mermaid
+flowchart TD
+    A[歷史學家] --> B[學術同儕]
+    A --> C[合作夥伴]
+    A --> D[公眾]
+    B --> E[學術期刊]
+    C --> F[Consultancy Report]
+    D --> G[博物館/媒體]
+    D --> H[社區檔案]
+```
+
+### 📊 Diagram 5: 口述歷史訪談流程
+```mermaid
+flowchart TD
+    A[選擇受訪者] --> B[聯繫並解釋研究]
+    B --> C[簽署知情同意書]
+    C --> D[進行訪談]
+    D --> E[錄音+筆記]
+    E --> F[一字稿轉錄]
+    F --> G[分析解讀]
+    G --> H[撰寫歷史章節]
+    H --> I[交付合作夥伴]
+    I --> J[受訪者有機會回應]
+```
+
+---
+
+## 總結
+
+1. **應用歷史挑戰傳統歷史教育**：歷史唔只係學術工具，而係可以服務社區嘅實際技能。
+2. **研究倫理係根本**：保密原則、撤回同意權、知情同意——呢啲唔係「麻煩程序」，而係對受訪者嘅基本尊重。
+3. **歷史真相同商業需求可能衝突**：呢個係每一個應用歷史學家必須面對嘅核心張力，無法回避。
+4. **社區歷史補救主流歷史嘅盲點**：口述歷史、記憶項目——呢啲係讓邊緣群體發聲嘅工具。
+5. **公眾歷史唔係降低標準，而係擴大受眾**：學術嚴謹性同公眾可讀性完全可以共存。
+
+**最後問題**: 如果你為一間有爭議歷史嘅機構撰寫歷史，你點平衡「合作夥伴需求」同「歷史真相」？
+
+---
+**版權所有 © HKU History Self-Study**
