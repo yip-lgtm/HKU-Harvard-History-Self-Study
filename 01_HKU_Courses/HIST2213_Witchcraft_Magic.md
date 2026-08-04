@@ -126,7 +126,7 @@
 - Mary Beth Norton: In the Devil's Snare (2003)
 - Bernard Rosenthal: Salem Story (1993)
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 塞勒姆最恐怖嘅唔係20個被處決者，而係整個社區參與咗呢個殺人遊戲——鄰居指控鄰居、朋友指控朋友、家庭內部互相指控。
 呢個揭示咗人類社會最黑暗嘅一面：恐懼可以令正常人變成劊子手。
 
@@ -164,7 +164,7 @@ flowchart TD
 - Robin Briggs: Witches and Neighbours (1996)
 - Silvia Federici: Caliban and the Witch (2004)
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 《女巫之槌》(1486) 最恐怖嘅唔係內容，而係呢本嘔心嘅酷刑手冊竟然係羅馬天主教會官方認可嘅「學術著作」——暢銷200年、多次再版。
 呢個事實揭示咗：宗教权威曾經公開認可對「女巫」嘅系統性屠殺。
 
@@ -203,7 +203,7 @@ flowchart TD
 - Silvia Federici: Caliban and the Witch (2004)
 - Karen Newman: Engendering Justice
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 Silvia Federici最犀利嘅論點：巫術迫害唔係宗教事件，而係經濟事件——資本主義興起需要紀律化嘅勞動力，而獨立女性（寡婦、助產士、單身女性）被視為威脅。
 呢個解釋揭示咗：所謂「宗教偏執」背後係階級利益。
 
@@ -239,7 +239,7 @@ flowchart TD
 - Owen Davies: Grimoires (2009)
 - Keith Thomas經典命題仍有爭議
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 Keith Thomas最犀利嘅命題：魔法世界觀並非被「理性」擊敗，而係被「實用」取代——當你發現祈雨唔work，你自然會用其他方法。
 但係魔法並未消失，而係轉化為其他形式：星座占卜、能量治療、「神秘學」復興。
 
@@ -276,7 +276,7 @@ flowchart TD
 - Wendy Klein: Margaret Murray theory critique
 - WitchTok statistics (2023)
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 Ronald Hutton最犀利嘅發現：Wicca (現代巫術) 係1950年代英國人Gerald Gardner發明嘅——佢聲稱發現咗「古老巫術宗教」，但係實際上係20世紀嘅發明。
 呢個揭示咗「傳統」呢個概念嘅建構性——我哋以為係「古老傳統」往往係近現代發明。
 

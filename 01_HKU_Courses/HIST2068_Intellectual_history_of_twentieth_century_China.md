@@ -101,7 +101,7 @@
 - 全盤西化 (quánpán xīhuà) = Total Westernization
 - 中學為體、西學為用 (zhōngxué wéi tǐ, xīxué wéi yòng) = Chinese Learning as Substance, Western Learning for Application
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 > 「自強運動話要師夷長技，結果係：學西方技術建立咗北洋艦隊，然後喺甲午戰爭（1894-95）全部被日本摧毀！所以話，技術可以學，但係制度唔改，學幾多都係嘥氣！」
 
 ### 1.4 Deep Test Question
@@ -123,7 +123,7 @@ graph LR
 
 ## 2. 漢字革命與文化批判 / Chinese Character Revolution
 
-### 2.3 犀利觀察
+### 2.3 袁騰飛式犀利觀察
 > 「魯迅話中國歷史滿本都係『吃人』——但係你知唔知，魯迅自己都係被共產黨利用咗幾十年！佢死咗之後，毛澤東話魯迅係『文化革命的聖人』——但係如果魯迅知道共產黨後來點解知識分子，佢肯定會再寫一篇《吃人的政黨》！」
 
 ### 2.4 Deep Test Question
@@ -133,7 +133,7 @@ graph LR
 
 ## 3. 意識形態選擇 / Ideological Choice
 
-### 3.3 犀利觀察
+### 3.3 袁騰飛式犀利觀察
 > 「歷史就係咁：你以為係你自己揀，但係其實係歷史幫你揀！1919 年知識分子個個以為自己選擇咗某種主義，但係 1949 年結局話你知——群眾揀咗有槍嗰個！」
 
 ### 3.4 Deep Test Question

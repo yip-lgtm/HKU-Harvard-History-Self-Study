@@ -122,7 +122,7 @@ Enrollment in this special course is extended to students majoring in History by
 - Paul Rabinow: Reflections on Fieldwork in Morocco (1977)
 - HK Oral History Archives
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 歷史學家長期以來以為自己係「書房工作者」——坐圖書館、睇檔案。但係越嚟越多歷史學家走出書房，去歷史現場感受空間、氣味、聲音。
 呢個轉變唔只係方法創新，而係認識論轉變——過去唔只存在於文字，而係存在於空間、物件、社群記憶。
 
@@ -159,7 +159,7 @@ flowchart TD
 - Sanjay Subrahmanyam: Connected Histories (1997)
 - C.A. Bayly: The Birth of the Modern World (2004)
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 歷史唔應該被國家邊界限制——香港歷史就係最佳例子：香港人移居加拿大、加拿大華工回鄉、英國殖民教育、印度警察加入香港警隊——呢啲跨國歷史網絡被國家史學嚴重低估。
 HIST4028就係要你去跨呢啲邊界，發現被國家敘事忽視嘅聯繫。
 
@@ -195,7 +195,7 @@ flowchart LR
 - Paul Rabinow: Reflections on Fieldwork in Morocco
 - James Clifford: The Predicament of Culture
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 野外研究倫理最尖銳嘅問題：你作為研究者，係咪有權利去「挪用」一個社區嘅故事？尤其係當呢個社區處於弱勢地位。
 研究者從被研究者身上「提取」故事、轉化為學術產品——呢個過程從來唔係中性嘅權力關係。
 
@@ -233,7 +233,7 @@ flowchart TD
 - HK Oral History Archives
 - HK SpaceSh
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 數位工具擴大咗野外研究嘅可能性——你可以通過GIS睇到100年前香港華人分佈，通過數位化報紙發現被忽視嘅歷史人物，通過社交媒體即時記錄當代歷史。
 但係數位工具同時帶嚟新問題：數位鴻溝、私隱、版權——呢啲問題改變咗野外研究嘅倫理風景。
 
@@ -270,7 +270,7 @@ flowchart TD
 - David Lowenthal: The Past is a Foreign Country (1985)
 - Public History projects worldwide
 
-### 1.3 犀利觀察
+### 1.3 袁騰飛式犀利觀察
 歷史研究最後要問：為誰寫作？學術論文服務同儕；公眾歷史服務社區。HIST4028要求你思考呢個問題——
 你嘅研究點樣可以服務你研究嘅社區？呢個唔只係倫理問題，而係研究意義問題。
 
