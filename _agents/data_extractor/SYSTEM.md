@@ -45,7 +45,7 @@ Researcher 嘅 JSON output
 - 政府公報
 - 學者傳記 (Dictionary of National Biography 等)
 
-## 袁騰飛式
+## research-based
 > 數據唔係裝飾,係骨架。
 > 冇數字嘅歷史 = 故事。
 > 有數字嘅歷史 = 學問。

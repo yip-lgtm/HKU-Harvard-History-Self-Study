@@ -6,7 +6,7 @@
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/)
 **Course Description**: This course examines how changes in recording technology have reshaped the music industry and defined the creative possibilities available to musicians. From mechanical recording devices and analog studio equipment to digital production tools and streaming platforms, the course explores how technological innovation has influenced artistic practices, labor relations, and commercial structures in the music business. Through reading, listening, and their own research, students will explore how recording technologies both enabled new forms of musical expression and imposed constraints shaped by corporate interests and market demands. Emphasizing the intersection of technology, creativity, and capitalism, the course situates popular music within broader histories of media, business, and culture.
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 犀利、聚焦科技與資本主義如何改造了音樂——從黑膠唱片到 Spotify，誰在控制你的耳朵？
+**Style**: research-based — 犀利、聚焦科技與資本主義如何改造了音樂——從黑膠唱片到 Spotify，誰在控制你的耳朵？
 
 ---
 
@@ -145,7 +145,7 @@
 | Recording industry | 錄音工業 | 唱片公司和藝術家的權力關係 | 1900- |
 | Sound fixation | 聲音固定 | 現場表演 vs 錄音製品 | 1877 |
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 1877 年愛迪生發明留聲機時，全世界的音樂家都沒有意識到這意味著什麼。
 
 留聲機不僅是「錄下聲音」的工具——它是權力轉移的工具。在留聲機發明之前，音樂的權力在表演者手裏；留聲機發明之後，權力轉移到了能夠控制錄音設備和分銷渠道的人手裏。

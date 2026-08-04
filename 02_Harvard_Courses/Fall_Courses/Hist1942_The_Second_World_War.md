@@ -3,7 +3,7 @@
 **Instructor**: Prof. Erez Manela
 **Department**: History, Harvard
 **Official source**: https://beta.my.harvard.edu/course/HIST1942/2025-Fall/1
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Style**: research-based — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 

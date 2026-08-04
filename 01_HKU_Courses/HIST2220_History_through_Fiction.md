@@ -3,7 +3,7 @@
 **Instructor**: Matthew Wong Foreman
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦小說點解揭示歷史無法接觸嘅維度——普通人情感、日常生活、底層聲音
+**Style**: research-based — 犀利、聚焦小說點解揭示歷史無法接觸嘅維度——普通人情感、日常生活、底層聲音
 
 ---
 
@@ -118,7 +118,7 @@
 - Hayden White: Metahistory (1973)
 - 《紅樓夢》(1791), 《阿Q正傳》(1921), Achebe: Things Fall Apart (1958)
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 歷史小説最大價值就係揭示官方檔案無法接觸嘅維度——《紅樓夢》揭示清代貴族日常生活；《阿Q正傳》揭示農民精神狀態；Civil Rights小説揭示種族歧視日常創傷。
 呢啲維度永遠唔會出現喺政府檔案、官方歴史入面，因為記録者唔會關心呢啲嘢。
 
@@ -156,7 +156,7 @@ flowchart TD
 - Hayden White: Metahistory (1973)
 - Pierre Nora: Realms of Memory
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 Hayden White最犀利嘅發現：歷史學家以為自己喺呈現客觀過去，但其實佢哋不自觉地選擇咗情節結構——悲劇英雄定喜劇小丑？呢個選擇影響讀者嘅道德判斷。
 歴史小説都係一樣——你點解一個歴史事件，就決定咗讀者點解歷史。
 
@@ -196,7 +196,7 @@ flowchart TD
 - Gayatri Spivak: Can the Subaltern Speak? (1988)
 - Chinua Achebe: Things Fall Apart (1958)
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 Said最犀利嘅批評：西方文學塑造咗一套「東方」框架——落後、異國情調、需要被文明化。呢個框架服務帝國主義正當化。
 Achebe《三角洲》就係對Kipling《基姆》嘅直接回應——非洲人視角挑戰帝國主義者視角。
 
@@ -232,7 +232,7 @@ flowchart LR
 - W.G. Sebald: Austerlitz (2001)
 - 余華：《活着》, 莫言：《蛙》
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 Caruth最犀利嘅發現：創傷本質上抗拒語言——創傷經驗太過震撼，無法被完整敘述。但係小説嘗試捕捉呢個不可言說。
 呢個揭示歴史小説同歴史學另一個重要區別：歴史學處理可論述嘅過去，小説處理不可論述嘅創傷。
 
@@ -266,7 +266,7 @@ flowchart TD
 - Peter Seixas: Historical Thinking concepts
 - History textbook debates
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 歴史教育中使用歴史小説有爭議：好嘅歴史小説可以培養歴史感，激發學生興趣；但係虚構情節可能誤導學生對歴史事件嘅理解。
 關鍵係：教師必須清楚區分虛構同史實，不能讓學生混淆。
 

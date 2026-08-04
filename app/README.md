@@ -29,5 +29,5 @@ https://yip-lgtm.github.io/HKU-Harvard-History-Self-Study/app/
 - 零依賴（純 HTML + CSS + JS）
 - 離線可用
 - 資料存在瀏覽器，不需後端
-- 對齊袁騰飛式深度問答結構
+- 對齊research-based深度問答結構
 - 服務 US Military Weapons Project 核心研究

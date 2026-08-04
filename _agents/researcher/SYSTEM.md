@@ -62,7 +62,7 @@
 - 學術: jstor, cambridge.org, project muse
 - 一般: wikipedia (作起點), britannica
 
-## 袁騰飛式
+## research-based
 > 研究唔係「維基百科 copy」,係「邊個講咗咩,幾時講,點解咁講」。
 > 每個論點都要有學者 + 著作 + 年份。
 > 唔同學者嘅爭論要清楚列出。

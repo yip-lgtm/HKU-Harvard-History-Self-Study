@@ -6,7 +6,7 @@
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
 **Course Description**: This course considers the wave of revolutions which rocked France and the British, French and Spanish empires in the New World at the end of the 1700s and the beginning of the 1800s. These inter-connected revolutions transformed France and led to independence and revolutionary change in the United States, Haiti, and much of Spanish-speaking Latin America. This course considers these revolutions as discrete national phenomena, as interrelated Atlantic events, and as part of a global shift in imperial interest from the New World to Asia.
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 犀利、聚焦革命如何改變世界——大西洋革命是一個連鎖反應網絡，不是孤立事件
+**Style**: research-based — 犀利、聚焦革命如何改變世界——大西洋革命是一個連鎖反應網絡，不是孤立事件
 
 ---
 

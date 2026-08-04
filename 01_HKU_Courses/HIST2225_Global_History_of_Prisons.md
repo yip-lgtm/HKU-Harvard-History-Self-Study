@@ -5,7 +5,7 @@
 /**Instructor**: Alastair McClure | Department: History, HKU
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/)
 **Alastair McClure** is a legal historian of modern South Asia and the British Empire at HKU. His research focuses on the relationship between violence, law, and sovereignty in 19th-20th century India and the Indian Ocean world. His forthcoming book is *Trials of Sovereignty: Mercy, Terror and the Making of Criminal Law in British India, 1857-1922* (Cambridge University Press, 2024). Published in *Modern Asian Studies* (2020) on the reintroduction of corporal punishment in colonial India, 1864-1909.
-**Style**: 袁騰飛式 — 犀利、聚焦監獄與權力的歷史——監獄不是「自然」的刑罰形式，它是現代國家的發明
+**Style**: research-based — 犀利、聚焦監獄與權力的歷史——監獄不是「自然」的刑罰形式，它是現代國家的發明
 
 ---
 

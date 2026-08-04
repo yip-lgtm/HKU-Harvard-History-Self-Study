@@ -8,7 +8,7 @@
 **Course Description**: Students who wish to undertake a research project on a specialized historical topic in either semester of their final year of study may enroll in this course with the approval of the Head of the School of Humanities on the recommendation of the departmental Undergraduate Coordinator. The course aims at providing an opportunity for intensive research leading to the production of a long essay (not exceeding 7,000 words) which will be supervised by a faculty member with expertise in the chosen area of study.
 **Assessment**: 100% coursework.
 **Note**: HIST4023 is the 6-credit (one-semester) alternative to the 12-credit HIST4017 Dissertation Elective — same research training, shorter essay (≤7,000 words)
-**Style**: 袁騰飛式 — 這是 HIST4017 的濃縮版本（6學分 vs 12學分）——同樣的獨立研究訓練，但更短的論文
+**Style**: research-based — 這是 HIST4017 的濃縮版本（6學分 vs 12學分）——同樣的獨立研究訓練，但更短的論文
 
 ---
 

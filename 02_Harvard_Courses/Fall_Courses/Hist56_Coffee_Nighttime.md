@@ -3,7 +3,7 @@
 **Instructor**: Prof. Cemal Kafadar
 **Department**: History, Harvard
 **Official source**: https://simplebooklet.com/fall2025historycoursecatalogue?textonly=1
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Style**: research-based — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 

@@ -7,7 +7,7 @@
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
 **Course Description**: Museums have become one of the most popular ways of telling history. Many scholars argue that museums are not neutral places; rather, they are often used for a wide range of strategic purposes: regulating social behavior, building citizenship and national identity, and expanding state power. But museums also face a variety of constraints and challenges: culture, money, politics, physical space, locating and selecting appropriate artifacts, and forming narratives. This course considers these issues by looking at history museums and heritage preservation in Hong Kong. The goals of the course are to familiarize students with a range of theoretical approaches to museum studies; explore the ways in which museums and heritage preservation can be used to further certain political, cultural, and commercial agendas; and help students learn to write an analytical research essay based on readings and museum fieldwork.
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 犀利、聚焦博物館作為政治工具——香港的博物館如何塑造你的歷史認知？
+**Style**: research-based — 犀利、聚焦博物館作為政治工具——香港的博物館如何塑造你的歷史認知？
 
 ---
 

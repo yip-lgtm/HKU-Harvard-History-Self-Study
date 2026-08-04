@@ -8,7 +8,7 @@
 **Course Description**: Enrolment in this special course is extended to students majoring in History by invitation, and on a performance-related basis. For those students invited to apply for enrolment this exclusive capstone course will provide an opportunity to design their own field project in a subject related to the History discipline. It will also provide funding to support field work undertaken across geographical, political and cultural borders, in Hong Kong and/or overseas. The course thus provides History majors with a unique, funded opportunity to design, plan and make their own creative contribution to historical knowledge. A range of innovative activities may be designed by students, including travel overseas to conduct field research, editing and publication of a special online journal, attendance or organisation of a conference, workshop, or specialist history summer course.
 **Assessment**: 100% coursework.
 **Note**: HIST4028 is **by invitation only** — the most exclusive capstone course in HKU History
-**Style**: 袁騰飛式 — 這不是一門普通的課——這是給最優秀歷史系學生的禮物，讓你設計自己的田野研究項目，獲得資助跨越邊界去發現歷史
+**Style**: research-based — 這不是一門普通的課——這是給最優秀歷史系學生的禮物，讓你設計自己的田野研究項目，獲得資助跨越邊界去發現歷史
 
 ---
 

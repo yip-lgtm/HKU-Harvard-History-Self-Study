@@ -3,7 +3,7 @@
 **Instructor**: Prof. George Aumoithe
 **Department**: History, Harvard
 **Official source**: https://aaas.fas.harvard.edu/courses-fall-2025
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Style**: research-based — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 

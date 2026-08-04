@@ -3,7 +3,7 @@
 **Instructor**: John Carroll
 **Department**: History, HKU
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦旅遊作為權力與身份政治的歷史——從Thomas Cook到香港購物團
+**Style**: research-based — 犀利、聚焦旅遊作為權力與身份政治的歷史——從Thomas Cook到香港購物團
 
 ---
 
@@ -96,7 +96,7 @@
 | Sightseeing | 觀光 | 凝視的社會實踐 | 拍照、打卡 |
 | Destination image | 目的地形象 | 媒體建構的目的地印象 | 媒體+旅行社塑造 |
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 遊客凝視最諷刺的地方：**旅遊者願意付錢去看一個被稱為「真實」的東西，但那個「真實」往往是專門為他們表演的**。
 
 陽朔漓江的少數民族表演——那些穿著「傳統服飾」的壯族姑娘，其實是當地導遊公司統一招募的，她們的「傳統舞蹈」是旅遊局編排的——真正的壯族傳統舞蹈從來不是那樣的。但遊客不在乎。他們要的是一張穿著「少數民族服飾」的照片，證明自己去過一個「少數民族地方」。

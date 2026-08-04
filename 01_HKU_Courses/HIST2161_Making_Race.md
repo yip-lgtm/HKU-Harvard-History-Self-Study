@@ -3,7 +3,7 @@
 **Instructor**: Theara Thun (2024-25); previously Michael Rivera
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利批判，聚焦「種族」到底係天然存在定係被歷史製造——並且點解呢個製造仍然影響今日世界
+**Style**: research-based — 犀利批判，聚焦「種族」到底係天然存在定係被歷史製造——並且點解呢個製造仍然影響今日世界
 
 ---
 
@@ -118,7 +118,7 @@
 - **量化證據**：FBI犯罪統計、收入數據、健康差距數據
 - **口述歷史**：種族歧視受害者敘事
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 > 「Ian Haney-López話種族係法律製造出嚟嘅——但係我話你知：法律只係製造業製造工廠，真正製造業係日常話語、工廠規章、房產歧視、教育資源不均等——法律只係出面，工廠先至係真相。」
 
 ### 1.4 Deep Test Question
@@ -148,7 +148,7 @@ graph TD
 - 白人特權 (bái rén tèquán) = White Privilege — 白人享受嘅制度性優勢
 - 勞動力商品化 = Commodification of Labor — 奴隸將人變成商品
 
-### 2.3 袁騰飛式犀利觀察
+### 2.3 犀利觀察
 > 「Cedric Robinson話種族主義係資本主義核心，唔係外加——但係我話你知：如果呢個係真，咁廢除奴隸制就唔係道德進步，而係資本主義升級！歷史就係咁残酷。」
 
 ### 2.4 Deep Test Question
@@ -179,7 +179,7 @@ graph TD
 - 智商測試 (zhìshāng cèshì) = IQ Testing — 測試結果被種族化
 - 基因決定論 (jīyīn juédìng lùn) = Genetic Determinism — 基因決定社會地位
 
-### 3.3 袁騰飛式犀利觀察
+### 3.3 犀利觀察
 > 「智商測試——Stephen Jay Gould話呢啲測試從來就係為咗證明白人優越設計，而非『發現』白人有優越。問題在於：如果你預設咗結論，你永遠可以設計一個『科學』實驗去支持你。」
 
 ### 3.4 Deep Test Question
@@ -211,7 +211,7 @@ graph TD
 - 日裔拘禁 (rì yì jū jìn) = Japanese Internment — 1942年美國強制拘留日裔
 - 模範少數族 (mó fàn shǎo shù zú) = Model Minority — 亞裔被塑造為「成功少數」
 
-### 4.3 袁騰飛式犀利觀察
+### 4.3 犀利觀察
 > 「模範少數族的神話——西方話『華人係最勤力、最成功嘅少數族』。但係你知唔知，呢個『成功』係建立喺幾代華人被迫從事低薪工作、種族歧視、語言障礙上面？『模範』唔係讚美，係控制工具。」
 
 ### 4.4 Deep Test Question
@@ -241,7 +241,7 @@ graph TD
 - 華人離散 (huá rén lísàn) = Chinese Diaspora — 海外華人身份
 - 港漂 (gǎng piāo) = Mainland Chinese in Hong Kong — 新移居者
 
-### 5.3 袁騰飛式犀利觀察
+### 5.3 犀利觀察
 > 「香港華人身份——殖民時期，『華人』係二等公民；回歸後，『華人』變成政治正確。香港人到底係邊個？——呢個問題從來未解決。英國人話你知：你係British Subject；中國人話你知：你係Chinese；但係香港人自己——從來未被允許話自己係乜。」
 
 ### 5.4 Deep Test Question
@@ -361,7 +361,7 @@ graph TD
 2. **批判性方法**：點解我哋要用邊個嘅視角研究種族問題？底層視角從來比精英視角更能揭示真相
 3. **當代相關性**：COVID期間反亞裔歧視、Black Lives Matter——種族問題從未消失
 
-**袁騰飛金句**：
+**research-based金句**：
 > 「種族歧視最恐怖之處在於：佢令被歧視者相信歧視係自然——你就係咁，你永遠都係咁。——歷史學家嘅任務，就係話你知：從來就冇『自然』呢回事，只有製造。」
 
 ---

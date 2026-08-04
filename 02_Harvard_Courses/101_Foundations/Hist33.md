@@ -4,7 +4,7 @@
 **Department**: History, Harvard
 **Official source**: history.fas.harvard.edu
 **Note**: This is a course similar to Hist 32A but more focused on the Holocaust specifically
-**Style**: 袁騰飛式
+**Style**: research-based
 
 ---
 
@@ -237,4 +237,4 @@ graph TD
 - **1944年4月11日**：布痕瓦爾德解放
 - **1945年1月27日**：奧斯威辛解放（蘇軍）
 
-**袁騰飛金句**：「大屠殺教會我們最重要的一件事是：邪惡不是少數怪物的專利。600萬人死在人類自己手裡，而且殺人的不是野蠻人，是歐洲文明培養出來的、受過教育的、納稅的、投票的、參與納粹社會的普通德國人。這個事實比600萬這個數字本身更可怕。」
+**research-based金句**：「大屠殺教會我們最重要的一件事是：邪惡不是少數怪物的專利。600萬人死在人類自己手裡，而且殺人的不是野蠻人，是歐洲文明培養出來的、受過教育的、納稅的、投票的、參與納粹社會的普通德國人。這個事實比600萬這個數字本身更可怕。」

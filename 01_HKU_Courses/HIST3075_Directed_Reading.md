@@ -8,7 +8,7 @@
 **Course Description**: The aim of this intensive reading course is to provide an opportunity for students to pursue a specialized topic of study with a faculty member. Throughout the semester, the student and teacher will consult regularly on the direction of the readings and on the paper or papers (not to exceed 5,000 words) that will demonstrate the student's understanding of the material. This course cannot normally be taken before the fifth semester of candidature and is subject to approval.
 **Note**: This course is by arrangement with a faculty supervisor — you must secure supervisor approval before enrolling
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 這是一個「方法論課程」——教你如何獨立做歷史研究，如何閱讀、如何思考、如何寫作
+**Style**: research-based — 這是一個「方法論課程」——教你如何獨立做歷史研究，如何閱讀、如何思考、如何寫作
 
 ---
 

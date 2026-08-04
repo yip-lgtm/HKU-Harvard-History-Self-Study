@@ -3,7 +3,7 @@
 **Instructor**: Ghassan Moazzin  
 **Department**: History, HKU  
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)  
-**Style**: 袁騰飛式 — 犀利揭穿：中國經濟奇蹟背後有乜嘢代價？計劃經濟失敗到市場經濟成功，呢個轉折點解？
+**Style**: research-based — 犀利揭穿：中國經濟奇蹟背後有乜嘢代價？計劃經濟失敗到市場經濟成功，呢個轉折點解？
 
 ---
 

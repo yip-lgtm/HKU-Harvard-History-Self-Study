@@ -3,7 +3,7 @@
 **Instructor**: Otis Edwards
 **Department**: History, HKU
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦帝國、糖、奴隸——從哥倫布到海地，大西洋如何構造了現代世界
+**Style**: research-based — 犀利、聚焦帝國、糖、奴隸——從哥倫布到海地，大西洋如何構造了現代世界
 
 ---
 
@@ -105,7 +105,7 @@
 - **關鍵學者**: Alfred Crosby — *The Columbian Exchange* (1972); Charles Mann — *1491* (2005); Noble David Cook — *The Death of the Father of the Conquerors* (1982)
 - **史料批判**: 哥倫布日誌由其子轉述，存在自我美化的傾向；Las Casas 的記載雖然同情原住民，但其「百萬人死亡」的說法被現代學者修正為約 5000 萬中的 90%
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 很多人把 1492 年當作「世界連成一體」的起點——錯！1492 年的真實意義是：**天花比西班牙人先到，天災比槍炮更致命**。
 
 哥倫布在 1492 年抵達 Caribbean 時，他帶來的疾病在 50 年內消滅了約 95% 的當地人口。西班牙人不是靠刀劍征服了美洲，是靠微生物——天花、麻疹、流感。科爾特斯（Hernán Cortés）能夠以區區 600 人的兵力擊敗阿茲特克帝國（人口約 500 萬），不是因為西班牙人有什麼魔法，是因為Cortés到達前，天花已經殺死了阿茲特克皇帝蒙特蘇馬二世和大量貴族，造成了帝國的政治癱瘓。
@@ -149,7 +149,7 @@ graph LR
 - **關鍵學者**: Philip Curtin — *The Atlantic Slave Trade: A Census* (1969); Hugh Thomas — *The Slave Trade* (1997); Marcus Rediker — *The Slave Ship* (2007); Stephanie Smallwood — *Saltwater Slavery* (2007)
 - **史料局限**: 奴隸船日誌主要由奴隸商人撰寫，奴隸的主觀體驗幾乎沒有直接記錄；Walter Johnson 的 *Soul by Soul* (1999) 通過奴隸拍賣記錄重建了奴隸的「市場人格」
 
-### 2.3 袁騰飛式犀利觀察
+### 2.3 犀利觀察
 三角貿易的經濟邏輯其實非常簡單：**在 Caribbean 種甘蔗，比在英格蘭種小麥利潤高得多**。
 
 問題是：種甘蔗需要大量廉價勞動力，而 Caribbean 原住民在 1520 年代就死光了。解決方案？**非洲奴隸**。
@@ -194,7 +194,7 @@ graph LR
 - **關鍵學者**: J.H. Elliott — *Empires of the Atlantic World* (2006); Christian Koot — *Empire at the Periphery* (2011); Natalie Davis — *Trickster Travels* (2006)
 - **史料局限**: 檔案主要來自宗主國官僚，原住民和奴隸的視角極度匱乏
 
-### 3.3 袁騰飛式犀利觀察
+### 3.3 犀利觀察
 大西洋帝國競爭的實質是什麼？是**金庫競爭**——誰控制了 Caribbean 糖業和美洲銀礦，誰就有錢打造更強的海軍，誰就能控制更多貿易路線。
 
 西班牙在 16 世紀的無敵艦隊（Armada, 1588）被英格蘭擊敗，標誌着大西洋霸權的第一次轉移。但這次轉移不是一夜之間發生的——從伊麗莎白時代（1558-1603）到七年戰爭（1756-1763），英國花了大約 200 年時間，通過一系列局部戰爭（1660-1763 年間英法在 Caribbean 和北美打了 4 次大戰），才最終確立了大西洋霸主地位。
@@ -243,7 +243,7 @@ graph TD
 - **關鍵學者**: Sidney Mintz — *Sweetness and Power* (1985); Robin Blackburn — *The Making of New World Slavery* (1997); B.W. Higman — *Montpelier, Jamaica* (1984)
 - **史料批判**: 種植園記錄主要反映經濟面向，奴隸的社會文化生活需要通過人類學方法重建
 
-### 4.3 袁騰飛式犀利觀察
+### 4.3 犀利觀察
 蔗糖革命的真相是：它把 Caribbean 從「人間天堂」變成了「人間地獄」。
 
 Barbados 在 1640 年開始種蔗糖之前，是一個森林覆蓋的小島，有大約 2 萬 Taíno 人和少量歐洲定居者。1640 年代荷蘭商人帶來了蔗糖種植技術和磨坊設備後，到 1700 年，Barbados 的森林已經被砍伐殆盡，變成了 100% 的蔗糖種植園。當地原住民在 1650 年代幾乎全部死亡（疾病+被迫勞動），取代他們的是從非洲進口的奴隸。
@@ -293,7 +293,7 @@ graph TD
 - **關鍵學者**: Bernard Bailyn — *Atlantic History* (2005); David Armitage — *Foundations of Modern International Thought* (2012); Alison Games — *The Web of Empire* (2006); Lauren Benton — *A Search for Sovereignty* (2010)
 - **史料局限**: 大西洋史依賴歐洲語言檔案，非洲和美洲原住民的史料極度匱乏，需要大量推斷
 
-### 5.3 袁騰飛式犀利觀察
+### 5.3 犀利觀察
 大西洋史方法論看起來是「去歐洲中心」的——它把 Caribbean、非洲、歐洲當作一個整體來分析。但問題來了：**誰在書寫這段歷史？**
 
 答案是：仍然是歐美的大學歷史學家，仍然主要使用歐洲語言檔案，仍然以歐洲帝國的擴張和競爭為主線。

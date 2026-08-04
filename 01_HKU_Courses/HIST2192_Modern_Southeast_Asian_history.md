@@ -3,7 +3,7 @@
 **Instructor**: Nicolo Ludovice (2024-25); previously Saunders
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利批判，聚焦東南亞點解成為帝國主義、全球化、冷戰嘅交匯點
+**Style**: research-based — 犀利批判，聚焦東南亞點解成為帝國主義、全球化、冷戰嘅交匯點
 
 ---
 
@@ -95,7 +95,7 @@
 - 海島東南亞 (hǎidǎo dōngnányà) = Maritime Southeast Asia — 馬來西亞、印尼、菲律宾、新加坡
 - 香料之路 (xiāngjiāo zhīlù) = Spice Route — 16-18世紀貿易網絡
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 > 「東南亞——西方話佢係『落後』地區。但係你知唔知，1500年代，滿者伯夷帝國（WJava）係東南亞最大帝國之一，人口超過100萬，遠超同期歐洲大多數城市？——『落後』呢個標籤，從來就係殖民者貼上去嘅。」
 
 ### 1.4 Deep Test Question
@@ -123,7 +123,7 @@ graph TD
 - 紅色高棉 (hóngsè gāomǐ) = Khmer Rouge — 柬埔寨共產組織
 - 樹林游擊戰 (shùlín yóujīzhàn) = Jungle Guerrilla War — 游擊戰戰術
 
-### 2.3 袁騰飛式犀利觀察
+### 2.3 犀利觀察
 > 「越戰——美國話自己係『阻止共產主義擴張』。但係你知唔知，1968年春節攻勢，越共軍隊打到西貢機場——美國竟然派B-52轟炸機去轟炸自己軍隊附近？——美國從來就唔係為咗『保護』越南人，而係為咗『保護』自己面子。」
 
 ### 2.4 Deep Test Question
@@ -153,7 +153,7 @@ graph TD
 - 經濟成功 (jīngjì chénggōng) = Economic Success — 華人商業主導
 - 種族暴力 (zhǒngzú bàolì) = Ethnic Violence — 排華暴動
 
-### 3.3 袁騰飛式犀利觀察
+### 3.3 犀利觀察
 > 「東南亞華人——有錢但係冇權力，呢個就係『永遠外國人』嘅定義。1998年印尼排華暴動，華人嘅工廠、店鋪被燒——但係當地政府選擇性眼盲。——歷史就係咁：成功可以變成罪名。」
 
 ### 3.4 Deep Test Question
@@ -181,7 +181,7 @@ graph LR
 - 高棉種族滅絕 (gāomián zhǒngzú mièjué) = Cambodian Genocide — 紅色高棉大屠殺
 - 去殖民化 (qù zhímín huà) = Decolonization — 東南亞獨立運動
 
-### 4.3 袁騰飛式犀利觀察
+### 4.3 犀利觀察
 > 「冷戰東南亞——西方話呢個係『共產主義威脅』。但係你知唔知，1950s-70s東南亞所有大規模暴力事件——越戰、高棉屠殺、印尼930事件——全部都係冷戰結構造成？——意識形態只係藉口，權力先至係真相。」
 
 ### 4.4 Deep Test Question
@@ -209,7 +209,7 @@ graph TD
 - 南海爭端 (nánhǎi zhēngduān) = South China Sea Dispute — 領土爭端
 - 軍人政變 (jūnrén zhèngbiàn) = Military Coups — 緬甸、泰國、巴基斯坦
 
-### 5.3 袁騰飛式犀利觀察
+### 5.3 犀利觀察
 > 「東南亞——西方話佢係『民主失敗』。但係你知唔知，呢個地區有全球最多軍人政變？但係同時有全球最開放嘅城市（新加坡）？——簡單標籤從來就唔足夠描述複雜現實。」
 
 ### 5.4 Deep Test Question
@@ -310,7 +310,7 @@ graph TD
 2. **比較方法**：印尼、越南、緬甸、菲律宾——四種完全唔同嘅命運
 3. **當代相關性**：南海爭端、羅興亞危機——歷史問題從未消失
 
-**袁騰飛金句**：
+**research-based金句**：
 > 「東南亞——歷史書話你知帝國主義幾衰。但係你知唔知，真正嘅悲劇喺殖民結束後先開始：軍人政變、種族衝突、經濟危機——歷史傷痕從來就唔會因為『獨立』而自動愈合。」
 
 ---

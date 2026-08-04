@@ -3,7 +3,7 @@
 **Instructor**: Prof. Derek Penslar
 **Department**: History, Harvard
 **Official source**: https://cjs.fas.harvard.edu/academics/courses/courses-fall-2025/hist-39-jews-in-the-modern-world/
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Style**: research-based — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 

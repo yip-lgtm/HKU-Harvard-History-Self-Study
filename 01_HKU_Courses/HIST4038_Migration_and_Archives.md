@@ -7,7 +7,7 @@
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [SAHK Project](https://sahk.history.hku.hk/)
 **Course Description**: Hong Kong is often described as a city built on migration. This upper-year seminar course will consider how scholars have understood the place of migration from the perspective of history, ranging from Hong Kong's emergence as a colonial port city through to key developments in the twentieth and twenty-first centuries. We will engage with the major issues and questions posed by historians of migration from both local and global perspectives, including political belonging, citizenship, border controls and technologies of exclusion, labour and mobility, economy and culture. The course is primarily orientated towards guiding students to the completion of a significant independent project in the form of an extended research essay or an archival project. Archival projects will require students to propose, plan, and execute the collection and organization of material that contributes to the recording of Hong Kong history. Examples might include oral histories, the preservation of local community or institutional records, or non-conventional approaches to the collection of historical sources and records. Students should be aware that the focus of this course will change depending on the instructor. In 2025-26 the primary focus will be on South Asian migration to Hong Kong.
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 犀利、聚焦香港南亞裔社群的歷史——那些被主流歷史話語忽略的聲音
+**Style**: research-based — 犀利、聚焦香港南亞裔社群的歷史——那些被主流歷史話語忽略的聲音
 
 ---
 
@@ -154,7 +154,7 @@
 | Ethnic Chinese migrants | 華人移民 | 華人主體 | 佔總人口95% |
 | South Asian migrants | 南亞裔移民 | 印度、巴基斯坦、尼泊爾裔 | 佔總人口0.8% |
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 歷史書本把香港講成「華人的香港」——但香港從一開始就是一個多種族的城市。
 
 1842 年英國佔領香港島時，島上除了約 5,000 名華人，還有少數印度水手和商人。英帝國的殖民不只是「英國人管治華人」，而是「一個多種族帝國在不同地方使用不同族群」的複雜操作。

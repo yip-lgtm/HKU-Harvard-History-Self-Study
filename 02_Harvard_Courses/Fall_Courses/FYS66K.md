@@ -4,7 +4,7 @@
 **Department**: History, Harvard
 **Official source**: firstyearseminarprogram.college.harvard.edu
 **Big Question**: 什麼讓我們覺得好笑？為什麼？
-**Style**: 袁騰飛式
+**Style**: research-based
 
 ---
 
@@ -206,4 +206,4 @@ graph TD
 - **Freud**：釋放理論
 - **Critchley**：存在主義幽默
 
-**袁騰飛金句**：「笑是人類最神秘的行為之一。為什麼會笑？因為別人摔倒？因為一個雙關語？因為死亡的荒謬？笑沒有單一的解釋——但每一個理論都告訴我們一些關於人類心理和社會的真相。」
+**research-based金句**：「笑是人類最神秘的行為之一。為什麼會笑？因為別人摔倒？因為一個雙關語？因為死亡的荒謬？笑沒有單一的解釋——但每一個理論都告訴我們一些關於人類心理和社會的真相。」

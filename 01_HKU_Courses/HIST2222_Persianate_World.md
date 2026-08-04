@@ -3,7 +3,7 @@
 **Instructor**: Devika Shankar
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦波斯文化圈點解跨越文明——由巴爾幹到孟加拉，由塞爾維亞到新疆
+**Style**: research-based — 犀利、聚焦波斯文化圈點解跨越文明——由巴爾幹到孟加拉，由塞爾維亞到新疆
 
 ---
 
@@ -120,7 +120,7 @@
 - Dale Eickelman: Middle East and Central Asia (anthropology)
 - Nile Green: Making Space in the Persianate World (2015)
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 波斯化最犀利嘅發現：中世紀亞洲全球化唔係歐洲專利——波斯語作為「通用語」横跨巴爾幹到孟加拉，呢個係非西方全球化模型。
 當歐洲史學家以為全球化係歐洲發明之時，波斯化已經展示跨境文化傳播可以唔需要政治霸權。
 
@@ -159,7 +159,7 @@ flowchart TD
 - Hafez: Divan (1370)
 - Ferdowsi: Shahnameh (1010)
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 波斯文學黃金時代最犀利嘅發現：魯米《瑪斯納維》居然影響咗西方神秘主義——包括歌德、惠特曼。呢個揭示文化傳播可以穿越宗教、文化、語言障礙。
 但係當代伊朗：詩歌仍然流行，但係内容受伊斯蘭審查限制。
 
@@ -195,7 +195,7 @@ flowchart LR
 - Richard Foltz: Religions of Iran (2013)
 - 《阿維斯陀》(Zoroastrian scripture)
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 祆教（拜火教）最犀利嘅歷史諷刺：呢個曾經係波斯帝國國教，被阿拉伯伊斯蘭征服後被迫边缘化，但係帕西人社區今日仍然存在於印度——呢個揭示宗教喺政治征服後唔一定消失，只係變形。
 
 ### 1.4 Deep test question
@@ -229,7 +229,7 @@ flowchart TD
 - Sanjay Subrahmanyam: Connected Histories (1997)
 - Nile Green: Making Space in the Persianate World (2015)
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 Sanjay Subrahmanyam最犀利嘅貢獻：「聯繫歷史」方法挑戰以國家為中心嘅歴史敘事——波斯世界跨境流動揭示歷史唔係單一國家嘅故事，而係詩人、商人、朝聖者、奴隸共同編織嘅網絡。
 
 ### 1.4 Deep test question
@@ -267,7 +267,7 @@ flowchart LR
 - Azar Nafisi: Reading Lolita in Tehran (2003)
 - Abbas Kiarostami films
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 Azar Nafisi《在德黑蘭讀洛麗塔》最犀利嘅發現：伊朗女性喺伊斯蘭法律約束下仍然透過西方文學保存人性——呢個揭示文化嘅韌性，唔管政治鎮壓幾嚴厲。
 
 ### 1.4 Deep test question

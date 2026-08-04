@@ -3,7 +3,7 @@
 **Instructor**: Prof. Peter Gordon
 **Department**: History, Harvard
 **Official source**: https://history.fas.harvard.edu/class/hist-83-heideggers-being-and-time
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Style**: research-based — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 

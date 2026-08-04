@@ -6,7 +6,7 @@
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST4035 Course Website](https://history.hku.hk/hist4035/)
 **Course Description**: This capstone course allows students to apply historical thinking in the community. Under the supervision of the course coordinator students select from among a wide variety of partner institutions, organizations, associations, businesses and others, and embark upon the collaborative challenge of uncovering their past. Instead of simply requiring students to work for specified hours at 'historical sites' (museums, archives, etc.) the course requires them to use the research techniques and methodological approaches they have learned in the discipline to construct and present a history of their selected community partners. They build preparatory research into polished consultancy papers detailing key findings about the partner, their development over time, and the passions and preoccupations of the individuals who have played an especially prominent role in their development. The course provides History students' with a unique opportunity to design, plan and present creative contributions to historical knowledge and to engage with community members in discussions about the value and potential uses of history in the present. During the internship, students prepare and present their research-based consultancy paper. They also write a journal critically detailing their own initial expectations and reflecting upon the actual experience of conducting research, communicating their findings and putting history to use.
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 歷史系學生的最大膽嘗試：把歷史研究帶入社區，用歷史為真實的人服務
+**Style**: research-based — 歷史系學生的最大膽嘗試：把歷史研究帶入社區，用歷史為真實的人服務
 
 ---
 
@@ -143,7 +143,7 @@
 | Community partnership | 社區夥伴關係 | 研究者與社區共同協作 | 合作項目 |
 | Consultancy paper | 諮詢報告 | 服務社區需求的歷史產品 | 機構歷史 |
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 歷史系的學生常有一個誤解：「歷史研究只能在圖書館和檔案館裏進行」。
 
 HIST4035 的存在就是要打破這個誤解。歷史研究可以走出圖書館，進入真實的社區——為一個有 50 年歷史的餐廳寫歷史，為一個 NGO 保存記憶，為一個社區重建被遺忘的故事。

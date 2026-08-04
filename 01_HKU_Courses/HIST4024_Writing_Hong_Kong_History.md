@@ -7,7 +7,7 @@
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
 **Course Description**: This course looks at various themes, problems, and issues in Hong Kong's history since the 1800s. Rather than focusing on historical events, we will look at the ways in which certain themes have been studied. Thus we will be less concerned with dates and facts than with analysis and interpretation. Topics include: general approaches to Hong Kong history, the Opium War and the British occupation of Hong Kong, colonial education, regulation of prostitution and the mui tsai system, colonial medicine, colonialism and nationalism, WWII and the Japanese occupation, industrialization and economic development, history and identity, legacies and artifices of colonial rule, and history and memory.
 **Assessment**: 100% coursework.
-**Style**: 袁騰飛式 — 犀利、聚焦香港歷史書寫的政治性——從史景遷到本土史觀，香港歷史是誰寫的？
+**Style**: research-based — 犀利、聚焦香港歷史書寫的政治性——從史景遷到本土史觀，香港歷史是誰寫的？
 
 ---
 
@@ -132,7 +132,7 @@
 | Hybrid identity | 雜糅身份 | 殖民+中國+本土 | John Carroll |
 | Treaty port | 條約港 | 不平等條約的歷史產物 | John K. Fairbank |
 
-### 1.3 袁騰飛式犀利觀察
+### 1.3 犀利觀察
 香港歷史書寫最諷刺的一點：**殖民者不讓香港人書寫自己的歷史，卻抱怨香港人對自己歷史一無所知**。
 
 港英時期，香港歷史研究主要由英國學者和 HKU 的英國教授主導，華人學者的研究空間極為有限。他們培養出來的華人精英，習慣用英文思考、用英語寫論文，對香港華人社會的底層生活一無所知。

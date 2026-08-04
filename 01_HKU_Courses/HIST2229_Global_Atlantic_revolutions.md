@@ -3,7 +3,7 @@
 **Instructor**: Otis Edwards / James Fichter (GLAS2124 cross-listed)
 **Department**: History, HKU
 **Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦革命、奴隸制與帝國權力如何交織塑造現代世界
+**Style**: research-based — 犀利、聚焦革命、奴隸制與帝國權力如何交織塑造現代世界
 
 ---
 
@@ -109,7 +109,7 @@
 - **關鍵學者**: David Armitage (*The Declaration of Independence: A Global History*, 2006); Laurent Dubois (*Avengers of the New World*, 2004); John Lynch (*The Spanish American Revolutions*, 1973)
 - **史料局限**: 奴隸的口述歷史幾乎全部通過白人記錄者轉述，存在系統性的種族偏見；法國檔案中 Caribbean 資料大量缺失；拉美獨立運動的檔案分散在西班牙語、葡萄牙語、法語檔案中
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
+### 1.3 犀利觀察 / Sharp observation
 講革命的連鎖傳播，不能只把 1776、1789、1791、1810 當作一串「自由年份」。要問：**誰在什麼時候、發現了什麼武器、拿到了什麼力量**？
 
 法國大革命之所以蔓延到 Caribbean，不是因為法國人有多麼熱愛自由，而是因為 Caribbean 奴隸剛好發現了一個歷史縫隙——法國大革命把種植園主分成了吉倫特派和山嶽派，而奴隸在兩派內鬥中找到了武裝起義的窗口。
@@ -156,7 +156,7 @@ graph LR
 - **關鍵學者**: **C.L.R. James** — *The Black Jacobins* (1938/1963); **David Geggus** — *Haitian Revolutionary Studies* (2002); **Carolyn Fick** — *The Making of Haiti* (1990)
 - **史料批判**: 法國官方檔案主要由種植園主撰寫，奴隸觀點嚴重匱乏；海地革命後，法國燒毀了大量 Caribbean 檔案以報復
 
-### 2.3 袁騰飛式犀利觀察 / Sharp observation
+### 2.3 犀利觀察 / Sharp observation
 奴隸制悖論是這段歷史最「骯髒」的真相——那些高呼「自由、平等、博愛」的法國革命者，同時從 Caribbean 奴隸種植園中抽取蔗糖利潤。
 
 法國大革命期間，法國從 Caribbean 進口的蔗糖和咖啡占其外匯收入的約 30%。廢奴意味着法國財政的崩潰——所以 1794 年廢奴令背後的真實動機，其實是山嶽派需要 Caribbean 奴隸支持來對抗吉倫特派，而不是什麼「普世價值」。
@@ -202,7 +202,7 @@ graph TD
 - **關鍵學者**: **John Darwin** — *After Tamerlane* (2007); **P.J. Marshall** — *The Making and Unmaking of Empires* (2005); **Christopher Bayly** — *The Birth of the Modern World* (2004)
 - **史料局限**: 東印度公司檔案反映的是帝國管理者觀點，殖民地的印度、中國當地視角極度匱乏
 
-### 3.3 袁騰飛式犀利觀察 / Sharp observation
+### 3.3 犀利觀察 / Sharp observation
 美國獨立戰爭在 1783 年「失去」了美洲十三殖民地——但英帝國不僅沒有衰落，反而在接下來的 50 年裏擴張為人類歷史上最大的帝國。
 
 秘密是什麼？**帝國不是一個地理範圍，而是一套利益計算**。英國在美洲的利潤主要來自奴隸種植園和航運——這些利潤在失去殖民地後，轉向了印度棉紡織業和對華茶葉貿易。東印度公司用美洲市場喪失後的剩餘資本，收購了印度孟加拉的紡織業——然後把印度棉布輸出到全球市場。
@@ -246,7 +246,7 @@ graph TD
 - **關鍵學者**: **Woody Holton** — *Forced Founders* (1999); **Katherine McKittrick** — *Demonic Grounds* (2000); **Lynn Hunt** — *Inventing Human Rights* (2007)
 - **史料批判**: 三份宣言的文本語言驚人相似（法文原文→英文翻譯→海地宣言），但實施主體和受益者截然不同
 
-### 4.3 袁騰飛式犀利觀察 / Sharp observation
+### 4.3 犀利觀察 / Sharp observation
 比較三份革命宣言的文本：1776 年美國《獨立宣言》、1789 年法國《人權宣言》、1804 年海地《獨立宣言》。
 
 三份文件的語言幾乎一模一樣：「人人生而自由」、「不可剝奪的權利」、「主權在民」。
@@ -298,7 +298,7 @@ graph TD
 - **關鍵學者**: **Prasenjit Duara** — *The Crisis of Global Modernity* (2015); **Christopher Bayly** — *The Birth of the Modern World* (2004); **Jerry Bentley** — *Old World Encounters* (1993)
 - **史料局限**: 清朝宮廷檔案對外貿易決策的記載極為稀少；東印度公司檔案主要反映英方觀點
 
-### 5.3 袁騰飛式犀利觀察 / Sharp observation
+### 5.3 犀利觀察 / Sharp observation
 為什麼 1839 年林則徐在虎門燒鴉片，英國的反應不是「謝謝你幫我們禁毒」，而是「這是對英國主權的侮辱，必須出兵教訓」？
 
 答案在經濟數字裏：1780-1830 年間，英國從印度向中國進口茶葉，每年貿易逆差約 300 萬兩白銀。東印度公司發現，只有用印度種植的鴉片才能換回白銀——這就是「鴉片貿易」的真正起源。
