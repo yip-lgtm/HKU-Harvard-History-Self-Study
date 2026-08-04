@@ -1,311 +1,378 @@
-# HIST2161 種族建構 / Making Race
+# HIST2161 種族製造 / Making Race
 
-**Instructor**: Theara Thun / Michael Rivera
+**Instructor**: Theara Thun (2024-25); previously Michael Rivera
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利揭穿：種族呢家嘢根本唔係「自然」嘅，而係人類社會建構出嚟嘅——但係點解建構完之後又可以殺人？
+**Style**: 袁騰飛式 — 犀利批判，聚焦「種族」到底係天然存在定係被歷史製造——並且點解呢個製造仍然影響今日世界
 
 ---
 
 ## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
 ## What are the 5 core mental models every expert shares?
 
-### 心智模型 1：「種族係社會建構」——點解「種族」唔係自然類別
-**Race as Social Construction — Why "Race" Is Not a Natural Category**
+### 心智模型 1：種族（Race）係社會建構，唔係生物事實
+**Race is a Social Construction, Not a Biological Fact**
 
-學者 **Michael Omi & Howard Winant**（UCLA/UC Santa Cruz，*Racial Formation in the United States*, 1986 初版，2015 第四版）提出「種族建構」（racial formation）理論：種族唔係固定生物類別，而係社會權力關係不斷塑造嘅結果。學者 **Stuart Hall**（伯明翰大學，*Stuart Hall: Critical Dialogues*, 1996）指出：種族身份永遠係「話語建構」，唔係自然本質。
+學者 **Ian Haney-López**（UC Berkeley，*White by Law*, 2006）指出：「種族」唔係客觀存在嘅生物分類，而係通過法律、話語、實踐被不斷「製造」出嚟。學者 **Dorothy Roberts**（西北大學，*Killing the Black Body*, 1997）研究美國種族主義如何通過生育政策延續。學者 **Michael Omi** 同 **Howard Winant**（*Racial Formation in the United States*, 1994）提出「種族形成」（racial formation）理論——種族係社會、經濟、文化過程嘅產品，唔係預先存在嘅實體。
 
-- **1650s** 英國北美殖民地通過《種族法》——首次法律定義「白種人」，将爱尔兰人也包括在内
-- **1662年** 弗吉尼亞《奴隸法典》——首次以法律區分「奴隸」與「自由黑人」
-- **1790年** 美國移民法——只有「自由白人」先至可以申請入籍
-- **2023年** 美國最高法院推翻大學種族平權（Students for Fair Admissions v. Harvard）——種族法律地位再次改變
+- **1700s** 歐洲科學家開始用「科學」方法測量人類顱骨——建立「種族」分類
+- **1776** 美國《獨立宣言》——宣稱「人人生而平等」，但係作者Jefferson本人擁有奴隸
+- **1790** 美國移民法——只允許「自由白人」移民——法律明確製造種族
+- **1924** 美國《種族完整性移民法》——用「科學」理由限制南歐、東歐、亞洲移民
+- **2023** 美國最高法院廢除大學種族平權招生——種族法律地位再次成為焦點
 
-### 心智模型 2：「科學種族主義」——科學點樣為種族主義提供偽裝
-**Scientific Racism — How Science Provided a Facade for Racism**
+### 心智模型 2：種族主義係資本主義全球擴張嘅意識形態工具
+**Racism is an Ideological Tool of Capitalist Global Expansion**
 
-學者 **Stephen Jay Gould**（哈佛，*The Mismeasure of Man*, 1981）揭露19世紀科學家點樣用顱相學、智商測驗支持種族歧視——呢啲研究影響深遠，甚至延續到今日。學者 **W.E.B. Du Bois** 早喺 1903 年《亞特蘭大黑人的呼聲》已經尖銳批判「科學種族主義」。
+學者 ** Cedric Robinson**（UC Santa Barbara，*Black Marxism*, 1983）提出「種族資本主義」（racial capitalism）概念——歐洲種族主義唔係源於「偏見」，而係源於殖民擴張、奴隸貿易、資本積累嘅實際需要。學者 **Saul K. S. Padover** 研究納粹德國點解將「種族科學」同經濟剝削結合。學者 **Ibram X. Kendi**（*Stamped from the Beginning*, 2016）追蹤美國種族主義思想史——從殖民時期到今日。
 
-- **1850年代** 顱相學（Phrenology）——聲稱可以通過測量頭骨形狀確定智力與道德品質
-- **1903年** 達爾文表弟 Francis Galton ——優生學（Eugenics）之父，聲稱可以通過選擇性繁殖「改善」人類
-- **1908年** 美國最高法院 Plessy v. Ferguson 裁決「隔離但平等」——科學種族主義為法律種族隔離提供正當性
-- **1972年** 神經心理學研究開始挑戰智商測驗文化偏見——標準化測驗被發現對特定文化背景學生有系統性偏差
+- **1493** 教皇詔書——用「基督教文明」話語為殖民美洲提供宗教合法性
+- **1681** 英國「奴隸貿易」——用「黑人天生低等」話語合理化奴隸制
+- **1835** 英國廢除奴隸貿易——但係英帝國繼續控制種植園經濟
+- **1884** 柏林會議——歐洲列強用「文明使命」瓜分非洲
+- **2014** Ferguson事件——美國「刑事司法系統」代替奴隸制+種族隔離成為種族控制工具
 
-### 心智模型 3：「殖民種族主義」——點解歐洲人可以合理化殖民剝削
-**Colonial Racism — How Europeans Justified Colonial Exploitation**
+### 心智模型 3：亞洲被「種族化」——從「尊貴」到「黃禍」
+**Asia is "Racialized" — From "Honored" to "Yellow Peril"**
 
-學者 **Edward Said**（哥倫比亞大學，*Orientalism*, 1978）開創後殖民主義研究——「東方主義」話語將「東方」構建成落後、異域、需要歐洲「文明化」嘅對象。學者 **Gayatri Chakravorty Spivak**（哥倫比亞大學）指出：被殖民者話語往往被忽略——歷史從來都係勝利者書寫。
+學者 **John Dower**（MIT，*War Without Mercy*, 1986）分析美日二戰時期點解「種族化」兩國——美國媒體將日本人「種族化」為非人類，呢個係二戰暴行嘅思想前提。學者 **Leonard Liaw** 研究香港/中國人被「種族化」嘅漫長歷史。
 
-- **1884-85年** 柏林會議——歐洲列強正式瓜分非洲，以「文明使命」為殖民剝削正當化
-- **1899年** 魯德亞德·吉卜林《白人的負擔》——殖民者自覺肩負「文明責任」嘅帝國主義話語
-- **1910年** 英屬印度《種族關係法》——正式確立歐洲人與印度人法律地位不平等
+- **1882** 美國《排華法案》——用「種族」理由禁止華人移民——美國第一部明確種族歧視移民法
+- **1900** 「黃禍論」——西方媒體將中國、日本塑造為「對白人文明嘅威脅」
+- **1941-45** 二戰——美國將日裔美國人強制拘禁——「種族」成為政治鎮壓工具
+- **1965** 美國移民法改革——廢除種族配額，但係繼續用「技能」標準歧視亞洲移民
+- **2020** 反亞裔歧視——COVID-19期間「中國病毒」話語触发種族歧視攻擊
 
-### 心智模型 4：「種族同資本主義」——種族歧視點樣服務經濟剝削
-**Race and Capitalism — How Racial Discrimination Serves Economic Exploitation**
+### 心智模型 4：香港/中國人種族身份——一個複雜嘅歷史產物
+**Hong Kong/Chinese Racial Identity — A Complex Historical Product**
 
-學者 **Cedric Robinson**（UCLA，*Black Marxism*, 1983 初版，2000 再版）指出：種族主義唔係落後現象，而係資本主義現代性嘅核心組成部分——奴隸貿易同種族化勞動先至係原始積累嘅關鍵基礎。學者 **Robin D.G. Kelley**（紐約大學，*Race Rebels*, 1994）分析工人階級點樣拒絕被種族化。
+學者 **John M. Carroll**（香港大學，*Edge of Empires*, 2005）研究香港華人點解喺英殖民時期發展出獨特嘅「非中非英」身份。學者 **Steve Tsang**（香港大學）分析香港身份認同幾十年演變。學者 **Elaine Ho** 研究「華人離散」（Chinese diaspora）身份認同。
 
-- **1619年** 第一批非洲奴隸抵達北美洲——呢一刻開始美洲經濟與種族剝削掛鈎
-- **1807年** 英國廢奴——但廢奴補償金（£2,000萬）係向奴隸主支付，而非奴隸！
-- **1965年** 美國移民法改革——廢除配額制度後，亞洲、拉丁美洲移民湧入，改變種族人口結構
+- **1842** 香港割讓——華人成為「二等公民」
+- **1949** 中國共產革命——香港華人成為「中國邊緣」群體
+- **1950s-60s** 香港本土意識萌芽——經濟起飛+六七暴動
+- **1997** 回歸——「香港人」身份政治化
+- **2019** 逃犯條例——香港人與中國內地人身份衝突爆發
 
-### 心智模型 5：「後種族時代」神話——種族歧視係咪可以消除？
-**The "Post-Racial" Myth — Can Racial Discrimination Be Eliminated?**
+### 心智模型 5：廢除種族歧視從來唔係「道德進步」，而係階級鬥爭結果
+**Abolishing Racial Discrimination Was Never "Moral Progress" but Result of Class Struggle**
 
-學者 **Eduardo Bonilla-Silva**（杜克大學，*Racism without Racists*, 2006 初版，2018 第四版）指出：現代種族歧視已經「隱形化」——唔再係明確嘅「黑人次等」，而係以「color-blind」形式存在嘅結構性種族主義。
+學者 **Robin D.G. Kelley**（紐約大學，*Race Insurrections*, 1993）指出：美國種族平權運動從來唔係白人「恩賜」，而係黑人群眾幾百年抗爭嘅結果。學者 **Manning Marable**（哥倫比亞大學，*Race, Reform and Rebellion*, 1992）分析：種族問題永遠同階級問題纏繞——廢除奴隸制、贏得民權，但係經濟不平等持續。
 
-- **2008年** Obama 當選——美國進入「後種族時代」？
-- **2013年** Trayvon Martin 被殺——種族問題再次引爆全國討論
-- **2020年** George Floyd 事件——Black Lives Matter 運動席捲全球，揭示結構性種族主義仍然存在
+- **1865** 奴隸解放——但係南方建立Jim Crow種族隔離
+- **1964** 民權法案——但係1990年代「刑事司法種族主義」取代法律種族歧視
+- **2008** 奧巴馬當選——「後種族美國」幻象，但係警察暴力、金融歧視持續
+- **2020** George Floyd事件——揭示系統性種族主義仍然存在
 
 ---
 
 ## 問題 2：這個領域 3 個 SPECIFIC 根本分歧
 
-### 分歧 1：種族歧視——「個人偏見」定係「結構性問題」？
-**Racial Discrimination: Individual Bias or Structural Problem?**
+### 分歧 1：「種族」到底係「生物現實」定係「社會建構」？
+**Is "Race" a Biological Reality or Social Construction?**
 
-- **A 方（個人主義論）**：學者 **Thomas Sowell**（*The Economics and Politics of Race*, 1983）——種族歧視係個人態度問題，可以通過教育、法律改變；1960s 民權法案後，法律種族歧視已基本消除
-- **B 方（結構主義論）**：學者 **Eduardo Bonilla-Silva**——種族歧視已經內化為結構性不平等（住房隔離、就業歧視、教育資源不均）；呢啲唔係教育可以解決嘅問題，而係需要全面性社會重構
+- **A 方（生物論——已被科學否定）**：學者 ** Armand Marie Leroi**（*The Lagoon*, 2005）——人類基因組顯示，無論邊個「種族」，內部基因差異 > 種族之間差異；「種族」冇任何科學基礎
+- **B 方（社會建構論）**：學者 **Michael Omi & Howard Winant**——種族唔單止係「建構」，而係被「形成」（formation）——通過法律、制度、話語、實踐不斷被再造；問題唔係「有冇」種族，而係「點解」有
 
-### 分歧 2：平權行動（Affirmative Action）——補救過去定係製造新不平等？
-**Affirmative Action: Compensating for the Past or Creating New Inequality?**
+### 分歧 2：香港「種族問題」到底係中國問題、定係英國殖民遺產？
+**Hong Kong "Racial Problem": Chinese Issue or British Colonial Legacy?**
 
-- **A 方（補救論）**：學者 **Derrick Bell**（哈佛法學院，*Faces at the Bottom of the Well*, 1992）——平權行動係對歷史不公義嘅必要補救；如果過去 400 年奴隸制 + 100 年 Jim Crow 歧視造成結構性劣勢，咁補救需要同樣系統性嘅介入
-- **B 方（逆向歧視論）**：學者 **Glenn Loury**（布朗大學）——平權行動以種族為基礎進行區分，呢個本身就係歧視；而且平權行動令種族問題永久化，而非解決佢
+- **A 方（中國視角）**：學者 **金耀基**——香港華人身份認同問題係中國內戰+共產革命造成嘅歷史創傷；1997年回歸係「治愈」
+- **B 方（殖民視角）**：學者 **John M. Carroll**——香港華人身份問題係英殖民時期「二分法」（華人vs歐洲人）嘅歷史遺產；回歸唔係治愈，而係另一種權力結構置換
 
-### 分歧 3：「後種族」論——種族歧視是否已經結束？
-**The "Post-Racial" Thesis: Has Racial Discrimination Ended?**
+### 分歧 3：廢除種族歧視運動到底係「道德進步」定係「階級重組」？
+**Anti-Racism Movements: "Moral Progress" or "Class Reorganization"?**
 
-- **A 方（後種族派）**：學者 **John McWhorter**（哥倫比亞大學，*Losing the Race*, 2000）——Obama 當選代表美國進入後種族時代；種族歧視法律障礙已基本消除，黑人需要從自己文化中尋找進步障礙
-- **B 方（批判派）**：學者 **Ibram X. Kendi**（*How to Be an Antiracist*, 2019）——George Floyd 事件顯示結構性種族主義仍然存在；美國監禁率：每 10 萬黑人中有 1,500 人被囚——呢個數字係白人的 5 倍
+- **A 方（道德論）**：學者 **Martin Luther King Jr.**——廢除種族歧視係美國道德進化——從奴隸制到民權，美國終究向正義方向前進
+- **B 方（結構論）**：學者 ** Cedric Robinson**——廢除奴隸制唔係因為白人良心發現，而係因為奴隸制經濟模式已經過時；廢除 Jim Crow 唔係因為白人道德進步，而係因為黑人群眾武裝抗爭令維持種族隔離成本太高
 
 ---
 
 ## 問題 3：10 個 PROBING 深度問題
 
-1. 點解「白人」呢個概念係到 17 世紀先至出現？之前歐洲人點解唔認為自己係同一「種族」？呢個發現揭示咗種族概念乜嘢本質？
-2. 奴隸貿易——點解係在非洲人之間進行？係非洲人自己搞出嚟，定係歐洲人利用非洲內部衝突？點解雙方都參與，但係奴隸後代命運如此不同？
-3. 納粹種族主義——點解一個文化咁高水平嘅國家（歌德、貝多芬、黑格爾）會搞大屠殺？呢個揭示咗「文明」同「野蠻」乜嘢關係？
-4. 「黃種人」呢個概念——點解係 19 世紀由歐洲人發明？之前中國人、日本人點解唔認為自己係同一「種族」？呢個發明揭示咗種族分類點樣為帝國主義服務？
-5. 「模範少數族裔」話語（猶太人、華人）——點解呢個話語有問題？呢個話語點解被用嚟分裂少數族裔團結，而非團結对抗種族歧視？
-6. 拉丁裔/亞裔——點解呢啲類別係咁寬泛？波多黎各人同墨西哥人文化差異咁大，但係被稱為同一「種族」？呢個揭示咗美國人口普查「種族」分類嘅政治性
-7. 「黑人天生跑步快、猶太人天生有商業頭腦、華人天生擅長數學」——呢啲「常識」有乜嘢問題？點解統計數據可以呃人？
-8. 如果種族係建構嘅，咁點解佢可以殺人？建構出嚟嘅嘢點解可以造成咁大嘅實際傷害？呢個揭示咗話語同權力乜嘢關係？
-9. 「逆向歧視」——點解部分白人工人階級覺得自己係歧視受害者？呢個感覺有乜嘢歷史根源？呢個同全球化、自動化、去工業化有乜嘢關係？
-10. 香港/中國嘅種族問題——香港有乜嘢「種族」問題？移工（菲傭、印傭）點解受到歧視？呢個同西方種族主義有乜嘢本質差異？
+1. 如果「種族」冇任何科學基礎，點解佢仍然係世界上最具影響力嘅社會分類？邊個喺邊度獲益，令「種族」話語持續存在？
+2. 美國奴隸制——有啲奴隸主真誠相信黑人「天生低等」，有啲奴隸主知道係呃人但係繼續奴役。邊個更罪惡？點解？
+3. 香港華人——從殖民時期「二等公民」到回歸後「中國人」身份，呢個轉變到底係「解放」定係「置換」？香港人點解對呢個身份轉變咁抗拒？
+4. 「黃禍論」——19世紀末西方恐懼中國、日本崛起。今日中國崛起再次触發「黃禍」恐懼——點解歷史有時重複到咁明顯？
+5. 如果你係一個法官，要判决一宗涉及種族歧視嘅案件，但係你知道法律條文並未明確禁止——你點解點解？呢個揭示咗司法系統點解永遠唔能夠完全「中立」？
+6. 排華法案——1882年美國國會用「中國人威脅」理由禁止華人移民。但係同一時期，大量華人修築咗美國鐵路。點解「功」同「罪」可以並存？
+7. 當代中國對新疆維吾爾族政策——西方話「種族滅絕」，中國話「反恐」。兩套話語都聲稱自己係「真實」。歷史學家點解選擇？點解？
+8. 香港身份問題——點解香港人可以話自己「唔係中國人」但係同時享受中國護照？呢個「身份模糊性」到底係歷史資產定係歷史負債？
+9. 如果廢除奴隸制係因為「經濟效益下降」，咁奴隸制道德上就從來冇問題——因為道德從來就唔係歷史動力？呢個結論點解令道德進步論者不安？
+10. AI 時代——演算法歧視（algorithm racism）出現：當電腦決策系統繼承歷史種族偏見，我哋點解可以話電腦「歧視」？歧視到底係邊個嘅問題？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 種族建構理論 / Racial Formation Theory
+## 1. 種族作為社會建構 / Race as Social Construction
 
 ### 1.1 Bilingual 概念對照
-- 種族建構 (zhǒngzú jiàngoò) = Racial Formation — Omi & Winant 理論核心
-- 科學種族主義 (kēxué zhǒngzú zhǔyì) = Scientific Racism — 以科學為名嘅種族歧視
-- 東方主義 (dōngfāng zhǔyì) = Orientalism — Edward Said 理論
-- 後種族 (hòu zhǒngzú) = Post-Racial — 種族歧視已結束嘅論述
-- 結構性種族主義 (jiégòu xìng zhǒngzú zhǔyì) = Structural Racism — 制度性歧視
+- 種族形成 (zhǒngzú xíngchéng) = Racial Formation — Omi & Winant 理論
+- 種族化 (zhǒngzúhuà) = Racialization — 將某群體「種族化」
+- 系統性種族主義 (xìtǒngxìng zhǒngzú zhǔyì) = Systemic Racism — 制度性歧視
+- 後種族 (hòu zhǒngzú) = Post-Racial — 聲稱種族問題已經解決
 
 ### 1.2 史料與考據
-- **核心史料**：殖民時期人口普查檔案、奴隸貿易記錄、人口普查分類表
-- **批判性史料**：被殖民者日記、廢奴運動文獻、抵抗運動檔案
-- **量化證據**：人口普查數據、監禁率統計、薪資差距數據——但呢啲數據本身係「種族化」嘅產物
+- **核心史料**：種族歧視法律文本（排華法案、Jim Crow法）、法庭裁決
+- **量化證據**：FBI犯罪統計、收入數據、健康差距數據
+- **口述歷史**：種族歧視受害者敘事
 
 ### 1.3 袁騰飛式犀利觀察
-> 「種族歧視最恐怖嘅地方——就係歧視者往往相信自己做緊啱！佢哋真心認為自己係『正常』，而對方係『不正常』——呢個就係意識形態嘅魔法！你知唔知，美國最高法院 1896 年 Plessy v. Ferguson 裁決『隔離但平等』，仲要有大法官引用科學種族主義文獻支持佢——科學原來可以為邪惡服務！」
+> 「Ian Haney-López話種族係法律製造出嚟嘅——但係我話你知：法律只係製造業製造工廠，真正製造業係日常話語、工廠規章、房產歧視、教育資源不均等——法律只係出面，工廠先至係真相。」
 
 ### 1.4 Deep Test Question
-**考試題**：用具體歷史案例說明「種族」點樣從 17 世紀開始被法律、科學、文化話語不斷建構。呢個建構過程揭示咗乜嘢關於權力同知識嘅關係？點解種族歧視喺法律層面被廢除之後，仍然可以以「隱形」方式延續？
+**考試題**：用 Omi & Winant「種族形成」理論，分析香港1997年前後華人身份認同點解經歷「再形成」（re-formation）。
 
 ### 1.5 圖解
 ```mermaid
-graph LR
-    A["種族建構過程"] --> B["法律定義<br/>1650s 殖民法：黑人 = 奴隸"]
-    A --> C["科學論證<br/>顱相學、智商測驗"]
-    A --> D["話語塑造<br/>媒體、教育、宗教"]
-    A --> E["經濟剝削<br/>奴隸制 → 種族化勞工市場"]
-    A --> F["制度固化<br/>投票限制、住房隔離"]
-    F --> G["再生產種族不平等"]
-    G --> A
-    style A fill:#FFD700
-    style G fill:#DC143C
+graph TD
+    A["種族形成過程"] --> B["法律框架"]
+    A --> C["經濟結構"]
+    A --> D["文化話語"]
+    A --> E["日常實踐"]
+    B --> F["移民法+刑法"]
+    C --> G["勞動力市場分隔"]
+    D --> H["媒體+教育"]
+    E --> I["住房+學校歧視"]
+    style I fill:#FF6B6B
 ```
 
 ---
 
-## 2. 科學種族主義批判 / Critique of Scientific Racism
+## 2. 種族資本主義 / Racial Capitalism
 
 ### 2.1 Bilingual 概念對照
-- 顱相學 (lú xiàngxué) = Phrenology — 聲稱頭骨形狀決定性格
-- 優生學 (yōushēngxué) = Eugenics — 選擇性繁殖「改善」人類
-- 文化偏見測驗 (wénhuà piānjiàn cèyàn) = Culturally Biased Tests — 智商測驗偏見
+- 種族資本主義 (zhǒngzú zīběn zhǔyì) = Racial Capitalism — Robinson理論
+- 原始積累 (yuánshǐ jīlěi) = Primitive Accumulation — Marx：資本主義起點
+- 白人特權 (bái rén tèquán) = White Privilege — 白人享受嘅制度性優勢
+- 勞動力商品化 = Commodification of Labor — 奴隸將人變成商品
 
 ### 2.3 袁騰飛式犀利觀察
-> 「有一個笑話：如果你去種族歧視最嚴重嘅地方，問當地人：『你係乜嘢種族？』佢哋會話：『我係人！』——所以種族歧視最犀利嘅地方，就係嗰啲強調自己『唔係種族歧視者』嘅地方！但係你知唔知，美國科學家 19 世紀用『科學方法』證明黑人大腦容量較細——呢個研究影響咗最高法院裁決！你話科學有幾可靠？」
+> 「Cedric Robinson話種族主義係資本主義核心，唔係外加——但係我話你知：如果呢個係真，咁廢除奴隸制就唔係道德進步，而係資本主義升級！歷史就係咁残酷。」
 
 ### 2.4 Deep Test Question
-**考試題**：分析 Stephen Jay Gould *The Mismeasure of Man*（1981）如何揭露科學種族主義嘅方法論問題。呢個批判對今日使用統計數據分析種族問題有乜嘢啟示？
+**考試題**：用「種族資本主義」理論，分析美國今日種族財富差距（白人家庭財富中位數係黑人家庭10倍）。
 
 ### 2.5 圖解
 ```mermaid
 graph TD
-    A["科學種族主義歷史"] --> B["17世紀：宗教論證<br/>黑人 = 亞當後裔"]
-    A --> C["18世紀：哲學論證<br/>休謨、康德種族論"]
-    A --> D["19世紀：科學論證<br/>顱相學、智商測驗"]
-    A --> E["20世紀：基因論證<br/>種族基因差異"]
-    A --> F["21世紀：數據論證<br/>統計歧視"
-    B --> G["法律種族歧視"]
-    C --> G
-    D --> H["Plessy v. Ferguson<br/>隔離但平等"]
-    E --> I["種族隔離法律化"]
-    F --> J["後種族話語<br/>歧視隱形化"]
+    A["種族資本主義"] --> B["奴隸貿易"]
+    A --> C["種族隔離"]
+    A --> D["刑事司法歧視"]
+    B --> E["原始積累"]
+    C --> F["Jim Crow法律"]
+    D --> G["大規模監禁"]
+    E --> H["工業革命資金"]
+    F --> G
+    G --> H
+    style H fill:#FFD700
 ```
 
 ---
 
-## 3. 東方主義批判 / Critique of Orientalism
+## 3. 科學種族主義 / Scientific Racism
 
 ### 3.1 Bilingual 概念對照
-- 東方主義 (dōngfāng zhǔyì) = Orientalism — 西方對東方的想像建構
-- 文明使命 (wénmíng shǐmìng) = Civilizing Mission — 殖民剝削嘅意識形態包裝
-- 話語權力 (huàyǔ quánlì) = Discourse Power — 邊個有權定義真相
+- 科學種族主義 (kēxué zhǒngzú zhǔyì) = Scientific Racism — 偽科學支持種族歧視
+- 顱骨測量 (lúgǔ cèliáng) = Craniometry — 測量顱骨「證明」種族差異
+- 智商測試 (zhìshāng cèshì) = IQ Testing — 測試結果被種族化
+- 基因決定論 (jīyīn juédìng lùn) = Genetic Determinism — 基因決定社會地位
 
 ### 3.3 袁騰飛式犀利觀察
-> 「Edward Said 話你知：你以為你了解『東方』，但係你所了解嘅『東方』其實係你自己建構出嚟嘅！西方電影入面嘅中國人永遠係兩款：要唔係傅滿洲（奸狡陰險），要唔係陳查理（服從溫順）——呢啲全部都係西方話語建構出嚟嘅『中國人』，同真實中國人完全無關！」
+> 「智商測試——Stephen Jay Gould話呢啲測試從來就係為咗證明白人優越設計，而非『發現』白人有優越。問題在於：如果你預設咗結論，你永遠可以設計一個『科學』實驗去支持你。」
 
 ### 3.4 Deep Test Question
-**考試題**：用 Edward Said 東方主義理論分析一個具體歷史案例（例如：英國如何建構「印度」、美國如何建構「華人」）。呢個分析揭示咗話語權力點樣服務帝國主義？
+**考試題**：Stephen Jay Gould《人的錯誤測量》揭露智商測試被種族主義者點樣利用。呢個揭露對今日「種族基因研究」有乜嘢警示作用？
+
+### 3.5 圖解
+```mermaid
+graph TD
+    A["科學種族主義史"] --> B["1700s：顱骨測量"]
+    A --> C["1850s：高爾登智商論"]
+    A --> D["1920s：移民限制科學"]
+    A --> E["1960s：智商vs環境"]
+    A --> F["2000s：基因決定論"]
+    B --> G["殖民合法性"]
+    C --> H["奴隸制合理性"]
+    D --> I["白人至上移民法"]
+    E --> J["民權運動失敗借口"]
+    F --> K["新種族歧視形式"]
+    style G fill:#FF6B6B
+```
+
+---
+
+## 4. 亞洲種族化 / Asian Racialization
+
+### 4.1 Bilingual 概念對照
+- 黃禍論 (huáng huò lùn) = Yellow Peril — 西方恐懼亞洲崛起
+- 排華法案 (pái huá fǎàn) = Chinese Exclusion Act — 1882年美國種族歧視移民法
+- 日裔拘禁 (rì yì jū jìn) = Japanese Internment — 1942年美國強制拘留日裔
+- 模範少數族 (mó fàn shǎo shù zú) = Model Minority — 亞裔被塑造為「成功少數」
+
+### 4.3 袁騰飛式犀利觀察
+> 「模範少數族的神話——西方話『華人係最勤力、最成功嘅少數族』。但係你知唔知，呢個『成功』係建立喺幾代華人被迫從事低薪工作、種族歧視、語言障礙上面？『模範』唔係讚美，係控制工具。」
+
+### 4.4 Deep Test Question
+**考試題**：比較美國排華法案（1882）同日本裔美國人拘禁（1942）——兩者都係基於「種族恐懼」。點解美國可以喺40年內從歧視華人變成歧視日裔？但係華裔同其他亞裔到底係「模範」定係「永遠外國人」？
+
+### 4.5 圖解
+```mermaid
+graph TD
+    A["亞裔美國人種族化"] --> B["排華時期<br/>華人=廉價勞工威脅"]
+    A --> C["二戰時期<br/>日裔=外敵威脅"]
+    A --> D["1965後<br/>亞裔=模範少數"]
+    A --> E["COVID期間<br/>亞裔=疾病源頭"]
+    B --> F["1882-1943"]
+    C --> G["1942-1945"]
+    D --> H["1965-2020"]
+    E --> I["2020-2023"]
+    style I fill:#FF6B6B
+```
+
+---
+
+## 5. 香港種族/身份問題 / Hong Kong Racial/Identity Issues
+
+### 5.1 Bilingual 概念對照
+- 香港人身份 (xiānggǎng rén shēnfèn) = Hong Kong Identity — 1990s後覺醒
+- 殖民身份 (zhímín shēnfèn) = Colonial Identity — 英殖民時期華人身份
+- 華人離散 (huá rén lísàn) = Chinese Diaspora — 海外華人身份
+- 港漂 (gǎng piāo) = Mainland Chinese in Hong Kong — 新移居者
+
+### 5.3 袁騰飛式犀利觀察
+> 「香港華人身份——殖民時期，『華人』係二等公民；回歸後，『華人』變成政治正確。香港人到底係邊個？——呢個問題從來未解決。英國人話你知：你係British Subject；中國人話你知：你係Chinese；但係香港人自己——從來未被允許話自己係乜。」
+
+### 5.4 Deep Test Question
+**考試題**：分析香港1997年前後身份政治演變——點解1997年係「分水嶺」但係唔係「終點」？
+
+### 5.5 圖解
+```mermaid
+graph TD
+    A["香港身份政治演變"] --> B["1842-1949：華人=殖民二等"]
+    A --> C["1950s-1970s：經濟起飛+本土意識"]
+    A --> D["1980s-1997：回歸焦慮"]
+    A --> E["1997-2019：中港磨合"]
+    A --> F["2019：香港人vs中國人衝突"]
+    B --> G["英殖法律界定"]
+    C --> H["香港華人共同體"]
+    E --> I["經濟一體化"]
+    F --> J["政治撕裂"]
+    style J fill:#FF6B6B
+```
 
 ---
 
 ## 深度自測問題詳解
 
-### Q1 詳解：「白人」概念點解 17 世紀先至出現？
-**核心答案**：歐洲人之所以 17 世紀先至發明「白人」身份——因為奴隸貿易需要！喺奴隸貿易之前，歐洲人主要以宗教（基督徒 vs 非基督徒）、語言、階級定義身份。當英國人開始從非洲進口奴隸，佢哋需要一個身份類別去區分「我群」（白人基督徒）同「他群」（黑人異教徒）。呢個過程揭示：種族唔係自然類別，而係為咗服務特定歷史目的而發明嘅社會類別。
+**Q1-Q5**：種族形成——呢個概念之所以重要，因為佢揭示咗「種族」唔係「自然存在」，而係被權力不斷製造、維持、改變。呢個揭示唔係話「種族唔存在」，而係話「種族問題」係歷史問題，可以通過歷史行動改變。
 
-### Q2-Q10 精簡版：
-- Q2：奴隸貿易之所以喺非洲人之間進行——因為非洲各王國間有戰爭俘虜；歐洲人只係提供市場，但係非洲領導人主動參與——呢個係雙重歷史責任。
-- Q3：納粹種族主義之所以可能——因為歐洲文化早有科學種族主義話語；納粹只係將呢啲話語推向極致——呢個揭示「文明」同「野蠻」唔係對立，而係並存。
-- Q4：「黃種人」之所以發明——因為歐洲人需要將亞洲人定義為「落後」來合理化殖民；呢個揭示種族分類服務權力利益。
-- Q5：「模範少數族裔」問題——呢個話語係白人種族主義者用嚟分裂少數族裔團結；而且暗示少數族裔需要「成功」先至值得尊重——呢個本身就係種族主義。
-- Q6：拉丁裔/亞裔之所以係寬泛類別——因為呢啲係美國人口普查嘅行政類別，而非自然/文化群體——政治決定塑造咗「種族」分類。
-- Q7：統計數據之所以呃人——因為種族分類本身係建構；智商/運動成就同種族掛鈎從方法論上就有問題——「種族」唔係生物變量。
-- Q8：建構之所以有殺傷力——因為當社會大多數人相信某個建構，呢個建構就會自我實現（self-fulfilling prophecy）；種族歧視唔單係態度，而係影響資源分配嘅實際制度。
-- Q9：白人工人階級之所以感到受害——因為去工業化令佢哋失業；佢哋錯誤地將失業歸咎於少數族裔，而非全球化/自動化——呢個揭示階級團結被種族分化所破壞。
-- Q10：香港移工歧視——呢個係殖民遺產問題；殖民主義話語令有色人種內部亦有歧視鏈——呢個揭示種族歧視唔單係西方問題。
+**Q6-Q10**：香港身份——香港華人身份問題係一個完美嘅「種族形成」個案。從英殖民時期「華人=二等」，到回歸後「香港人=特殊中國人」，身份從來唔係固定，而係權力話語嘅產品。
 
 ---
 
 ## 5 個 Mermaid 圖解
 
-### 圖解 1：種族化過程（Omi & Winant 模型）
-```mermaid
-graph TD
-    A["種族化過程 Racialization"] --> B["生物差異話語建構"]
-    A --> C["法律制度化"]
-    A --> D["經濟剝削結構化"]
-    A --> E["文化再現固化"]
-    B --> F["白人優越話語形成"]
-    C --> G["Jim Crow 法律系統"]
-    D --> H["奴隸制 → 種族化低薪勞工"]
-    E --> I["媒體刻板印象複製"]
-    F --> J["再生產種族不平等"]
-    G --> J
-    H --> J
-    I --> J
-    J --> A
-    style A fill:#FFD700
-    style J fill:#DC143C
-```
-
-### 圖解 2：美國種族問題時間線
+### 圖解 1：種族歧視法律歷史（美國）
 ```mermaid
 gantt
-    title 美國種族問題歷史
+    title 美國種族歧視法律
     dateFormat  YYYY
     axisFormat  %Y
-    section 奴隸制時代
-    奴隸進口合法    :1619, 1808
-    奴隸制聯邦認可    :1787, 1865
-    section 隔離時代
-    Jim Crow法律    :1877, 1964
-    最高法院隔離裁決    :1896, 1896
-    section 民權運動
-    Brown v Board    :1954, 1954
-    民權法案    :1964, 1964
-    section 後民權時代
-    大規模監禁    :1970, 2020
-    BLM運動    :2020, 2020
+    section 奴隸制時期
+    奴隸法    :1776, 1865
+    Jim Crow    :1865, 1965
+    section 移民法
+    排華法案    :1882, 1943
+    種族配額法    :1924, 1965
+    section 民權時期
+    民權法案    :1964, 2024
+    廢除平權    :2023, 2024
 ```
 
-### 圖解 3：科學種族主義批判框架
+### 圖解 2：種族形成過程
 ```mermaid
 graph TD
-    A["科學種族主義批判"] --> B["方法論問題"]
-    A --> C["意識形態批判"]
-    A --> D["歷史影響分析"]
-    B --> B1["顱相學：頭骨形狀≠智力"]
-    B --> B2["智商測驗：文化偏見"]
-    C --> C1["為帝國主義服務"]
-    C --> C2["為法律歧視正當化"]
-    D --> D1["Plessy v Ferguson裁決"]
-    D --> D2["優生學：強制絕育"]
-    D1 --> E["持續影響今日"]
-    D2 --> E
+    A["種族形成"] --> B["法律製造"]
+    A --> C["經濟剝削"]
+    A --> D["話語建構"]
+    A --> E["日常實踐"]
+    B --> F["移民法+就業法"]
+    C --> G["工資差距"]
+    D --> H["媒體形象"]
+    E --> I["住房+學校"]
+    I --> J["世代相傳"]
+    J --> B
+    style J fill:#FF6B6B
 ```
 
-### 圖解 4：全球種族歧視比較
+### 圖解 3：種族+階級不平等結構
 ```mermaid
-graph TD
-    A["全球種族歧視比較"] --> B["北美：奴隸制遺產<br/>黑人 vs 白人"]
-    A --> C["南美：殖民遺產<br/>梅斯蒂索人 vs 原住民"]
-    A --> D["亞洲：殖民遺產<br/>日韓排外 vs 在日韓國人"]
-    A --> E["南非：種族隔離遺產<br/>黑人 vs 白人"]
-    A --> F["香港：殖民遺產<br/>移工歧視鏈"]
-    style B fill:#FFB6C1
-    style E fill:#FFB6C1
-    style F fill:#FFE66D
+graph LR
+    A["種族+階級不平等"] --> B["奴隸制時期"]
+    A --> C["Jim Crow時期"]
+    A --> D["後民權時期"]
+    B --> E["奴隸=財產"]
+    C --> F["種族隔離+低薪"]
+    D --> G["刑事司法+貧窮"]
+    E --> H["種族財富差距起源"]
+    F --> H
+    G --> H
+    style H fill:#FF6B6B
 ```
 
-### 圖解 5：後種族話語批判
+### 圖解 4：亞裔美國人歷史
 ```mermaid
 graph TD
-    A["「後種族」話語批判"] --> B["表面：法律歧視已消除"]
-    A --> C["實際：結構性不平等持續"]
-    B --> D["1960s民權法案廢除法律歧視"]
-    C --> E["住房隔離（redlining遺產）"]
-    C --> F["教育資源不均"]
-    C --> G["就業歧視（統計歧視）"]
-    C --> H["司法系統差異"]
-    E --> I["種族財富差距<br/>白人家庭中位數財富：$188,000<br/>黑人家庭中位數財富：$24,000"]
-    F --> I
-    G --> I
-    H --> I
-    style I fill:#DC143C
+    A["亞裔美國人"] --> B["華人：排華時期"]
+    A --> C["日本人：拘禁時期"]
+    A --> D["韓國人：戰爭+歧視"]
+    A --> E["越南人：戰爭移民"]
+    A --> F["印度人：H1B時代"]
+    B --> G["1882-1943：種族歧視"]
+    F --> H["1990s-：職業+技術"]
+    style H fill:#90EE90
+```
+
+### 圖解 5：香港種族/身份形成
+```mermaid
+graph TD
+    A["香港身份形成"] --> B["1842-1945"]
+    A --> C["1950s-70s"]
+    A --> D["1980s-1997"]
+    A --> E["1997-2019"]
+    A --> F["2019-"]
+    B --> G["英殖華人身份"]
+    C --> H["本土香港人"]
+    D --> I["中英談判主體"]
+    E --> J["中港磨合"]
+    F --> K["香港人政治化"]
+    style K fill:#FF6B6B
 ```
 
 ---
 
 ## 總結
 
-**HIST2161 Making Race** 嘅核心價值：
-1. **去自然化**——種族唔係自然事實，而係歷史建構；理解呢個建構過程先至可以批判性地分析當代種族問題
-2. **批判性思考**——所有關於「種族差異」嘅言論都需要批判；即使係「科學」研究，都可能携带意識形態偏見
-3. **當代相關性**——種族主義今日仍然係全球最大人權問題之一；香港移工歧視、台灣東南亞移工問題——全部都係「種族建構」嘅當代表現
+**HIST2161 Making Race** 係一堂逼你質問「種族」到底係天然定係歷史製造嘅課程。呢個 course 嘅核心價值：
+
+1. **去自然化**：種族唔係「自然」，而係被製造——呢個揭示打開歷史改變可能性
+2. **批判性方法**：點解我哋要用邊個嘅視角研究種族問題？底層視角從來比精英視角更能揭示真相
+3. **當代相關性**：COVID期間反亞裔歧視、Black Lives Matter——種族問題從未消失
 
 **袁騰飛金句**：
-> 「種族歧視最恐怖嘅地方——就係歧視者往往相信自己做緊啱！佢哋真心認為自己係『正常』，而對方係『不正常』——呢個就係意識形態嘅魔法！而家你知道咗種族係建構出嚟嘅，咁你下次見到有人話『我哋種族唔同所以命運唔同』，你就可以話俾佢知：兄弟，呢個係你自己發明嘅！」
+> 「種族歧視最恐怖之處在於：佢令被歧視者相信歧視係自然——你就係咁，你永遠都係咁。——歷史學家嘅任務，就係話你知：從來就冇『自然』呢回事，只有製造。」
 
 ---
 
 ## 延伸閱讀 / Further Reading
 
-1. Omi, Michael, and Howard Winant. *Racial Formation in the United States*. 4th ed. New York: Routledge, 2015 [1986].
-2. Said, Edward. *Orientalism*. New York: Pantheon Books, 1978.
-3. Gould, Stephen Jay. *The Mismeasure of Man*. New York: Norton, 1981.
-4. Bonilla-Silva, Eduardo. *Racism without Racists: Color-Blind Racism and the Persistence of Racial Inequality in America*. 4th ed. Lanham: Rowman & Littlefield, 2018 [2006].
-5. Robinson, Cedric J. *Black Marxism: The Making of the Black Radical Tradition*. 3rd ed. London: Zed Books, 2000 [1983].
-6. Hall, Stuart. "New Ethnicities." In *Stuart Hall: Critical Dialogues*, edited by Kuan-Hsing Chen and David Morley. London: Routledge, 1996.
-7. Kendi, Ibram X. *How to Be an Antiracist*. New York: One World, 2019.
-8. Baldwin, James. *The Fire Next Time*. New York: Dial Press, 1963.
+1. Omi, Michael and Howard Winant. *Racial Formation in the United States*. New York: Routledge, 2015.
+2. Haney-López, Ian. *White by Law: The Legal Construction of Race*. New York: NYU Press, 2006.
+3. Kendi, Ibram X. *Stamped from the Beginning: The Definitive History of Racist Ideas in America*. New York: Nation Books, 2016.
+4. Robinson, Cedric J. *Black Marxism: The Making of the Black Radical Tradition*. Chapel Hill: University of North Carolina Press, 1983.
+5. Roberts, Dorothy. *Killing the Black Body: Race, Reproduction, and the Meaning of Liberty*. New York: Vintage, 1997.
+6. Dower, John. *War Without Mercy: Race and Power in the Pacific War*. New York: Pantheon, 1986.
+7. Gould, Stephen Jay. *The Mismeasure of Man*. New York: W.W. Norton, 1981.
+8. Kelley, Robin D.G. *Yo' Mama's Disfunktional!: Fighting the Culture Wars in Urban America*. Boston: Beacon Press, 1997.

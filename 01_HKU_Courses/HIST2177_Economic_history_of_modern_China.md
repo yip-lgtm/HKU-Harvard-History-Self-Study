@@ -1,177 +1,373 @@
-# HIST2177 現代中國經濟史 / The Economic History of Modern China, 1800 to the Present
+# HIST2177 中國經濟史 / The Economic History of Modern China, 1800 to the Present
 
-**Instructor**: (Varies by year)
+**Instructor**: Ghassan Moazzin (2024-25)
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利分析：中國經濟從世界最大變成被侵略、然後再變成威脅——呢個 V 型反轉揭示咗乜嘢經濟規律？
+**Style**: 袁騰飛式 — 犀利批判，聚焦中國經濟起飛到底係「制度奇迹」定係「歷史偶然」
 
 ---
 
-## 問題 1：5 個核心心智模型
+## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
+## What are the 5 core mental models every expert shares?
 
-### 心智模型 1：「大分流」——點解清代經濟最終落後？
-學者 **Kenneth Pomeranz**（*Great Divergence*, 2000）核心論點：1750 年前中國同英國經濟水平相當，但係之後分叉。學者 **Philip Huang**（黃宗智）提出「內捲化」（involution）概念解釋中國農業停滞。
+### 心智模型 1：中國從未真正「落後」——大分歧（Great Divergence）時間被延遲
+**China Never Truly "Fell Behind" — The Great Divergence Was Delayed**
 
-- **1750** 中國GDP總量佔全球 33%（Maddison 數據）
-- **1800** 中國人均GDP與西歐大約持平
-- **1900** 中國人均GDP跌至西歐 1/10
+學者 **Kenneth Pomeranz**（UC Irvine，*The Great Divergence*, 2000）提出震撼性論點：1750年之前，長江三角洲同英國蘭開郡生活水平差唔多——包括工人實際工資、城市化程度、農業勞動生產力。中國之所以「落後」，關鍵在於1800年後美洲白銀流入歐洲、英國煤炭能源转型、英國奴隸種植園三角貿易——呢啲係偶然因素，唔係制度必然。
 
-### 心智模型 2：「通商口岸」——不平等條約體系點樣改變中國經濟結構
-學者 **Gerschenkron** 落後優勢論；學者 **Katherine Brødsgaard** 分析通商口岸（ treaty ports）點樣成為中國現代化起點，但同時係外國控制象徵。
+- **1750** 長江三角洲工人生活水平 ≈ 英國蘭開郡工人
+- **1820s** 英國工業化加速——中國GDP總量仍領先但人均開始落後
+- **1860s** 太平天國起義——中國人口減少6000-7000萬，經濟倒退數十年
+- **1890s** 中國鐵路總里程只有英國1/50，落後已成為結構性問題
+- **1900** 中國人均GDP落後西歐20倍
 
-- **1842** 南京條約——五口通商
-- **1860s-90s** 洋務運動——購買/自造西方技術
-- **1894-95** 甲午戰爭——標誌自強運動失敗
+### 心智模型 2：19世紀中國經濟危機唔係單一原因——內亂+外患+結構問題三重叠加
+**19th Century Chinese Economic Crisis: Internal + External + Structural三重叠加**
 
-### 心智模型 3：「民國經濟」——軍閥時期與南京十年
-學者 **Thomas Rawski**（*Economic Growth in Republican China*, 1989）分析民國經濟增長；學者 **Brantly Lancaster** 分析共產主義經濟實驗代價。
+學者 **Philip A. Kuhn**（哈佛大學）研究：19世紀中國經濟危機唔係單一原因——白銀外流、鴉片貿易、農民破產、人口壓力四者形成惡性循環。學者 **Wang Gungwu**（澳洲國立大學）研究：華南對外貿易港口（广州）其實一直好繁榮——問題在於呢個繁榮帶嚟白銀外流、社會不平等。
 
-### 心智模型 4：「計劃經濟實驗」——毛澤東時代經濟
-學者 **Dikötter**（*The People's Republic of Terror*, 2011）記載毛澤東時代政治運動經濟代價；學者 **Barry Naughton**（*Growing Out of the Plan*, 2007）分析計劃經濟效率問題。
+- **1790s-1830s** 鴉片進口導致白銀外流——每年流出白銀1000-2000萬兩
+- **1850-1864** 太平天國起義——人口減少6000-7000萬，經濟損失無可估量
+- **1860s-90s** 自強運動——洋務派建立兵工廠、造船廠，但係對整體經濟影響有限
+- **1894-95** 甲午戰爭——中國被迫賠償2億両白銀，相等於GDP10%
+- **1900** 八國聯軍——北京淪陷，賠償9.8億両白銀
 
-### 心智模型 5：「改革開放奇蹟」——鄧小平模式
-學者 **Dani Rodrik** 分析「中國模式」；學者 **Yuen Yuen Ang**（*China's Gilded Age*, 2020）揭示腐敗如何推動增長。
+### 心智模型 3：民國經濟現代化——被抗日戰爭毁滅
+**Republican Economic Modernization — Destroyed by the Anti-Japanese War**
+
+學者 **Arthur R. K. Barnett** 研究：1920s-30s係中國民國經濟現代化黃金期——紡織業、面粉業、银行業都有可觀發展。學者 **James E. Sheridan** 研究：1937-45年抗日戰爭摧毁咗呢個過程——1937年上海工業產值係1936年嘅40%，1945年重慶工業產值只有1939年嘅1/5。
+
+- **1911-28** 北洋軍閥時期——民國經濟發展有限
+- **1928-37** 國民政府「黃金十年」——基礎設施建設、關稅自主
+- **1937-45** 抗日戰爭——中國沿海工業被摧毁或搬遷
+- **1945-49** 內戰——通貨膨脹失控，1948年物價上漲10000倍
+- **1949** 共產革命——中國經濟重置
+
+### 心智模型 4：毛澤東時代——工业化代价 human cost
+**Mao Era — Industrialization at Enormous Human Cost**
+
+學者 **Dikötter**（Frank，*Mao's Great Famine*, 2010）研究：大躍進（1958-62）導致1500-4500萬人死亡——呢個係歷史記載中最嚴重的人為饑荒。學者 **Yang Jisheng**（楊繼繩，*Tombstone*, 2008/2012）用中文寫出更完整數字：3600萬人死亡。但係學者 **Maurice Meisner** 研究：毛澤東時代確實實現咗中國工業化——從農業國變成核武國家。
+
+- **1950-53** 土地改革——消滅地主階級，農民分得土地
+- **1953-57** 第一個五年計劃——蘇聯援助156個工業項目
+- **1958-62** 大躍進——農業集體化+大鍊鋼，導致大饑荒
+- **1966-76** 文化大革命——經濟停滯，知識份子被清洗
+- **1978** 毛澤東去世，鄧小平上台——改革開放開始
+
+### 心智模型 5：改革開放——到底係「制度奇迹」定係「歷史偶然」？
+**Reform and Opening — Institutional Miracle or Historical Contingency?**
+
+學者 **Daron Acemoglu** 同 **James Robinson**（*Why Nations Fail*, 2012）提出「包容性制度」理論：長期經濟增長需要「包容性政治+經濟制度」。學者 **Mark Elvin**（牛津大學）提出「高水平均衡陷阱」（high-level equilibrium trap）——中國傳統經濟缺乏内在創新驅動力。但係學者 **Barry Naughton**（UC San Diego，*Growing Out of the Plan*, 2011）研究：中國改革開放唔係簡單「自由化」，而係「計劃經濟+市場刺激」嘅獨特混合。
+
+- **1978** 家庭聯產承包責任制——農業生產力急升
+- **1980s** 鄉鎮企業崛起——工業化農民就業轉型
+- **1992** 鄧小平南巡——確認市場經濟改革方向
+- **2001** 加入WTO——中國經濟全球整合
+- **2010s** 中國GDP總量超越日本，成為世界第二大經濟體
 
 ---
 
-## 問題 2：3 個根本分歧
+## 問題 2：這個領域 3 個 SPECIFIC 根本分歧
 
-### 分歧 1：改革開放——係市場化成功定係國家主導成功？
-- **A 方（市場派）**：私有化、市場開放係增長主因
-- **B 方（國家派）**：學者 **Yuen Yuen Ang**——中國成功關鍵在於「黨國資本主義」而非自由市場
+### 分歧 1：大分歧（Great Divergence）到底係因為「制度」定係「偶然」？
+**Great Divergence: Institutional or Contingent?**
 
-### 分歧 2：大饉荒——主要係自然災害定係政策失誤？
-- **A 方（自然+政策）**：自然災害 + 政策失誤共同造成
-- **B 方（主要是政策）**：學者 **Yang Jisheng**（楊繼繩，*Tombstone*, 2008）——政策失誤係主因
+- **A 方（制度論）**：學者 **Mark Elvin**（*The Pattern of the Chinese Past*, 1973）——中國傳統經濟陷入「高水平均衡陷阱」，缺乏內在創新動力；制度因素係根本原因
+- **B 方（偶然論）**：學者 **Kenneth Pomeranz**——中國同英國1750年前條件太相似；差異關鍵在於美洲（白銀、煤炭、奴隸種植園），呢啲係歷史偶然
 
-### 分歧 3：「中國奇蹟」——可持續嗎？
-- **A 方（持續派）**：增長動力仍在
-- **B 方（危機派）**：房產危機、地方政府債務、人口老化係定時炸彈
+### 分歧 2：改革開放到底係「中國特色」成功定係可以複製嘅普遍模式？
+**Reform and Opening: China-Specific Success or General Model?**
+
+- **A 方（中國特色論）**：學者 **David Shambaugh**（喬治華盛頓大學）——中國改革開放有其獨特歷史條件：强大國家機器、儒家工作倫理、共產黨組織能力；其他國家難以複製
+- **B 方（可複製論）**：學者 **林毅夫**（世界銀行前首席經濟學家）——中國改革開放經驗有普遍意義；發展中國家可以借鑒「漸進式改革」而非「震盪療法」
+
+### 分歧 3：毛澤東時代經濟到底係「失敗」定係「必要代價」？
+**Mao's Economic Legacy: Failure or Necessary Cost?**
+
+- **A 方（失敗派）**：學者 **Thomas Rawski**（*What is Driving China's Economy?*, 2000）——毛澤東時代經濟決策失誤導致嚴重後果：大躍進饑荒、文革經濟停滯；呢啲係政策錯誤
+- **B 方（「必要代價」派）**：學者 **Stuart Rammel**——毛澤東時代建立咗工業化基礎設施、普及教育、醫療網絡；呢啲係日後經濟起飛嘅必要條件；「代價」惨烈，但係「必要」
 
 ---
 
-## 問題 3：10 個深度問題
+## 問題 3：10 個 PROBING 深度問題
 
-1. 從經濟數據角度——清代係世界最大經濟體，但係點解最終被英國用區區幾千兵打敗？經濟總量同軍事實力有乜嘢關係？
-2. 洋務運動失敗——明明已學習西方技術，但係點解仍然失敗？制度問題定係執行問題？
-3. 甲午戰爭揭示——日本明治維新成功 vs 中國洋務運動失敗。兩者核心差異係乜嘢？
-4. 蔣介石時期黃金十年（1927-37）——點解經濟有增長但係仍然失敗？經濟發展同政治穩定有乜嘢關係？
-5. 大饉荒——歷史學家估計死亡人數 1500-4500 萬。呢個歷史到今日仍然係中國歷史研究禁忌。點解？
-6. 毛澤東時代工業化——從農業國到工業國嘅代價有幾大？犧牲咗幾代農民利益？
-7. 改革開放——點解中國可以用 40 年走完英國 200 年路程？呢個「壓縮式發展」係健康定係有後遺症？
-8. 點解中國可以有「國家主導嘅經濟增長」？呢個挑戰西方經濟學「自由市場」假設嗎？
-9. 中國模式——係可以持續的另類現代化路徑，定係暫時性嘅過渡階段？點解經濟學家有咁大分歧？
-10. 如果你是經濟顧問——你點建議習主席平衡經濟增長同政治控制之間嘅張力？
+1. 如果1750年長江三角洲同英國生活水平差唔多，點解100年之後差距變成咁大？呢個係歷史必然定係歷史偶然？
+2. 太平天國起義——到底係「農民起義」定係「宗教運動」？呢個區分點解重要？
+3. 如果毛澤東大躍進導致3000萬人死亡，點解中國政府到今日仍然紀念毛澤東？歷史責任到底點解處理？
+4. 中國改革開放——如果改革係成功，點解環境污染、貧富差距、貪污腐敗變得咁嚴重？呢啲代價到底值唔值？
+5. 中國「所有制改革」——從人民公社到家庭聯產承包，到底係「市場化」成功定係「意識形態讓步」？
+6. 點解香港喺中國經濟發展中扮演咁重要角色？香港到底係中國嘅「窗口」定係「屏障」？
+7. 如果中國2020年代經濟放緩，點解西方學者仍然爭論中國經濟到底係「崛起定係衰落」？邊個框架啱啱？
+8. 「亞洲四小龍」（香港、台灣、韓國、新加坡）點解經濟起飛？呢個模式可以複製嗎？點解印度就唔可以？
+9. 如果中國經濟成功到底係因為「制度創新」定係「歷史條件」（人口規模、儒家文化、共產黨組織）？呢個區分點解咁重要？
+10. 點解中國經濟史研究長期由西方學者主導？中國學者到底有乜嘢獨特視角？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 大分流 / The Great Divergence
+## 1. 大分歧 / The Great Divergence
 
 ### 1.1 Bilingual 概念對照
-- 大分流 (dà fēnliú) = Great Divergence — 1800 年後歐亞經濟分叉
-- 內捲化 (nèijuǎn huà) = Involution — 黃宗智概念
-- 改革開放 (gǎi gé kāifàng) = Reform and Opening — 1978 年政策
+- 大分歧 (dà fēnqí) = The Great Divergence — 1800年後歐亞經濟分叉
+- 高水平均衡陷阱 = High-Level Equilibrium Trap — Elvin 理論
+- 煤炭紅利 (tànmeì hónglì) = Coal Dividend — Pomeranz 論點核心
+- 偶然性 (ǒuránxìng) = Contingency — 非制度性歷史因素
+
+### 1.2 史料與考據
+- **核心史料**：清代糧價記錄、英國東印度公司檔案、中國海關統計
+- **量化數據**：Maddison 數據庫、Angus Maddison 歷史GDP估算
+- **比較方法**：英國蘭開郡 vs 長江三角洲生活水平比較
 
 ### 1.3 袁騰飛式犀利觀察
-> 「經濟學家最中意話『中國模式』——但係你知唔知，所謂『中國模式』，不過係『一党专政 + 開放市場』，呢個係全球經濟學從未成功實踐過嘅組合！點解喺中國就得？因為佢有獨裁政治穩定，令決策快速執行——但係呢個優勢同時係佢最大弱點！」
+> 「Pomeranz話1750年中國同英國生活水平差唔多——但係你信唔信？英國工人做工做到死，清朝文人吟詩作對——生活水平點比？數字可以呃人，但係生活從來唔係數字。」
 
 ### 1.4 Deep Test Question
-**考試題**：用具體數據同歷史事件，評估 Kenneth Pomeranz 「大分流」理論。用「中國 vs 英國」案例說明佢嘅論點，並指出可能被忽略嘅因素。
+**考試題**：Kenneth Pomeranz認為「大分歧」係因為煤炭同美洲，唔係文化因素。試評析呢個論點並指出其方法論局限。
 
 ### 1.5 圖解
 ```mermaid
 graph LR
-    A["中國經濟歷史階段"] --> B["農業帝國<br/>1750 前"]
-    A --> C["衰落期<br/>1800-1949"]
-    A --> D["計劃經濟<br/>1949-1978"]
-    A --> E["改革開放<br/>1978-2012"]
-    A --> F["新常態<br/>2012-"]
-    C -->|"鸦片+不平等條約"| C1["經濟畸形發展"]
-    D -->|"大饉荒+文革"| D1["人力成本極高"]
-    E -->|"GDP 10%年增長"| E1["壓縮式工業化"]
-    style B fill:#90EE90
-    style E fill:#FFD700
-    style F fill:#FFE66D
+    A[1750 平等時代] --> B[1850 開始分叉]
+    B --> C[英國：工業化]
+    B --> D[中國：農業經濟]
+    C --> E[1900 懸殊差距]
+    D --> E
+    style C fill:#90EE90
+    style D fill:#FFB6C1
 ```
 
 ---
 
-## 深度自測問題
+## 2. 19世紀危機 / 19th Century Crisis
 
-**Q1**：清代經濟總量雖大，但係人均產出停滞；英國雖然總量較小，但係人均產出持續增長。呢個差異解釋點解經濟總量同軍事實力不成正比。
+### 2.1 Bilingual 概念對照
+- 白銀外流 = Silver Outflow — 鴉片貿易導致白銀流失
+- 太平天國 (tàipíng tiānguó) = Taiping Rebellion — 1850s農民-宗教起義
+- 洋務運動 (yángwù yùndòng) = Self-Strengthening Movement — 1860s-90s技術引進
+- 條約口岸 (tiáoyuē kǒuàn) = Treaty Ports — 鴉片戰爭後開放港口
 
-**Q2-Q10** 精簡版：
-- Q2：洋務運動失敗——因為只學技術不改制度；管理腐敗；無法治保障私有財產。
-- Q3：核心差異——明治維新改革政治制度（廢藩置縣）；洋務運動只係技術引進不改政治。
-- Q4：經濟增長但政治不穩——軍閥割據 + 日本侵略令任何經濟發展都唔可持續。
-- Q5：大饉荒研究之所以係禁忌——因為呢個議題直接挑戰毛澤東領導合法性；而且涉及問責問題。
-- Q6：毛澤東時代代價——工業化以農業補貼工業；城鄉二元結構；農民生活長期停滞。
-- Q7：「壓縮式發展」後遺症——環境破壞、貧富差距、房產泡沫、人口老化。
-- Q8：中國模式之所以有效——因為可以集中資源做大事；但係效率長期低於市場經濟。
-- Q9：「中國模式」持續性——取決於政治穩定、創新能力、外部環境；目前有下行壓力。
-- Q10：經濟顧問困境——需要在政治約束下優化經濟效率；呢個係中國經濟學家最大挑戰。
+### 2.3 袁騰飛式犀利觀察
+> 「洋務運動——曾國藩、李鴻章話要『師夷長技以制夷』。但係你知唔知，佢哋學嘅係軍事技術，唔學制度——結果就係：買咗最犀利嘅炮，但係輸咗最恥辱嘅仗（甲午戰爭）。」
+
+### 2.4 Deep Test Question
+**考試題**：分析洋務運動失敗原因。點解技術引進唔可以帶嚟制度變革？
+
+### 2.5 圖解
+```mermaid
+graph TD
+    A["19世紀中國經濟危機"] --> B["鴉片貿易"]
+    A --> C["太平天國"]
+    A --> D["白銀外流"]
+    A --> E["條約約束"]
+    B --> F["農民破產"]
+    C --> F
+    D --> G["白銀短缺"]
+    E --> H["關税自主喪失"]
+    style F fill:#FF6B6B
+```
+
+---
+
+## 3. 民國經濟現代化 / Republican Economic Modernization
+
+### 3.1 Bilingual 概念對照
+- 黃金十年 (huángjīn shínián) = Golden Decade — 1928-37國民政府時期
+- 蔣宋孔陳 = Four Big Families — 四大家族壟斷經濟
+- 抗戰經濟 = Wartime Economy — 1937-45年戰爭經濟
+- 惡性通貨膨脹 = Hyperinflation — 1945-49年經濟崩潰
+
+### 3.3 袁騰飛式犀利觀察
+> 「蔣介石——歷史書話佢抗日。但係你知唔知，1937年上海打仗，蔣介石最關心嘅係共產黨軍隊，唔係日軍？——政治永遠比經濟重要，呢個就係中國歷史嘅定律。」
+
+### 3.4 Deep Test Question
+**考試題**：比較1920s-30s中國民國經濟同1980s-2000s中國改革開放經濟。兩者點解走上咁唔同嘅命運？
+
+### 3.5 圖解
+```mermaid
+graph TD
+    A["民國經濟現代化"] --> B["1928-37黃金十年"]
+    A --> C["1937-45抗日戰爭"]
+    A --> D["1945-49內戰崩潰"]
+    B --> E["工業化起步"]
+    C --> F["工業基礎摧毁"]
+    D --> G["通貨膨脹失控"]
+    style F fill:#FF6B6B
+    style G fill:#FF6B6B
+```
+
+---
+
+## 4. 毛澤東時代經濟 / Mao Era Economy
+
+### 4.1 Bilingual 概念對照
+- 大躍進 (dà yuèjìn) = Great Leap Forward — 1958-62年農業+工業運動
+- 人民公社 (rénmín gōngshè) = People's Commune — 農業集體化
+- 三年困難時期 = Three Years of Difficulty — 大躍進後饑荒時期
+- 文化大革命 (wénhuà dàgémìng) = Cultural Revolution — 1966-76年政治運動
+
+### 4.3 袁騰飛式犀利觀察
+> 「大躍進——你知唔知，呢個運動導致3000-4500萬人死亡，但係到今日仲有人話呢個係『歷史錯誤』而非『歷史悲劇』？——語言就係權力：叫『錯誤』就係話可以原諒，叫『悲劇』就係話必須記住。」
+
+### 4.4 Deep Test Question
+**考試題**：比較中國大躍進（1958-62）同蘇聯農業集體化（1929-33）。兩者導致大饑荒，點解西方學者研究程度差咁遠？
+
+### 4.5 圖解
+```mermaid
+graph TD
+    A["毛澤東時代經濟"] --> B["1950-53土地改革"]
+    A --> C["1953-57一五計劃"]
+    A --> D["1958-62大躍進"]
+    A --> E["1966-76文革"]
+    C --> F["工業化起步"]
+    D --> G["大饑荒"]
+    E --> H["經濟停滯"]
+    style G fill:#FF6B6B
+```
+
+---
+
+## 5. 改革開放 / Reform and Opening
+
+### 5.1 Bilingual 概念對照
+- 摸着石頭過河 = Crossing the River by Feeling the Stones — 漸進改革策略
+- 社會主義市場經濟 = Socialist Market Economy — 中國經濟模式
+- 漸進式改革 = Gradual Reform — 中國改革模式
+- 沿海經濟特區 = Coastal Economic Zones — 深圳、珠海等
+
+### 5.3 袁騰飛式犀利觀察
+> 「改革開放——西方話呢個係『中國奇迹』。但係你知唔知，真正嘅奇迹在於：30年內令4億人脱貧。但係另一個真相在於：財富集中喺1%人口，環境污染摧毁大量農田。——奇迹同悲劇，往往係同一個故事。」
+
+### 5.4 Deep Test Question
+**考試題**：分析中國改革開放成功因素。點解蘇聯改革失敗但係中國改革成功？
+
+### 5.5 圖解
+```mermaid
+graph TD
+    A["改革開放階段"] --> B["1978-84農業改革"]
+    A --> C["1984-92工業改革"]
+    A --> D["1992-2001產權改革"]
+    A --> E["2001-2012全球化"]
+    A --> F["2012-至今新常態"]
+    B --> G["粮食產量增加"]
+    C --> H["鄉鎮企業崛起"]
+    D --> I["國企改革"]
+    E --> J["WTO整合"]
+    F --> K["高質量發展"]
+    style G fill:#90EE90
+```
+
+---
+
+## 深度自測問題詳解
+
+**Q1-Q5**：大分歧——呢個係20世紀最重要嘅歷史問題之一。Pomeranz認為差異關鍵在於美洲（煤炭、白銀、奴隸種植園），呢個係歷史偶然。但係Elvin認為中國傳統經濟缺乏內在創新動力，呢個係制度問題。兩者都有道理，但係歷史從來唔係單一原因。
+
+**Q6-Q10**：改革開放——30年經濟起飛，但係環境污染、貧富差距、貪污腐敗都係真實代價。問題唔係「成功定係失敗」，而係「邊個的成功？邊個的代價？」
 
 ---
 
 ## 5 個 Mermaid 圖解
 
-### 圖解 1：中國經濟模式演變
+### 圖解 1：中國經濟史大時期
 ```mermaid
 gantt
-    title 中國經濟模式 1800-2020
+    title 中國經濟史（1800-2020）
     dateFormat  YYYY
     axisFormat  %Y
-    section 農業帝國
-    高水平均衡    :1750, 1800
-    section 衰落
-    鴉片戰爭    :1842, 1842
-    洋務運動    :1861, 1895
-    section 戰爭
-    民國經濟    :1912, 1949
+    section 危機期
+    大分歧    :1780, 1850
+    太平天國    :1850, 1864
+    自強運動    :1860, 1895
+    條約口岸    :1842, 1943
+    section 現代化
+    民國黃金十年    :1928, 1937
+    抗日戰爭    :1937, 1945
     section 計劃經濟
-    大躍進    :1958, 1960
-    文化大革命    :1966, 1976
+    土地改革    :1950, 1953
+    大躍進    :1958, 1962
+    文革    :1966, 1976
     section 改革開放
-    改革開放    :1978, 2012
-    section 新時代
-    新常態    :2012, 2024
+    改革開放    :1978, 2024
 ```
 
-### 圖解 2：改革開放關鍵數據
+### 圖解 2：大分歧原因
+```mermaid
+graph TD
+    A["大分歧原因"] --> B["制度因素"]
+    A --> C["偶然因素"]
+    B --> D["科舉制度抑制創新"]
+    B --> E["缺乏專利保護"]
+    C --> F["美洲白銀流通"]
+    C --> G["英國煤炭資源"]
+    C --> H["奴隸種植園"]
+    style D fill:#FFE66D
+    style F fill:#90EE90
+```
+
+### 圖解 3：毛澤東時代經濟代價
 ```mermaid
 graph LR
-    A["改革開放成果"] --> B["GDP"]
-    A --> C["人均收入"]
-    A --> D["減貧人口"]
-    B --> B1["1980: 3000億美元<br/>2020: 14.7萬億美元"]
-    C --> C1["1980: 300美元<br/>2020: 10,500美元"]
-    D --> D1["7.7億人脱貧<br/>2012-2020"]
-    style A fill:#FFD700
-    style B fill:#90EE90
-    style D fill:#FFE66D
+    A["毛澤東時代"] --> B["農業集體化"]
+    A --> C["工業化"]
+    B --> D["人民公社失敗"]
+    B --> E["大饑荒"]
+    C --> F["工業基礎建立"]
+    D --> G["1500-4500萬死亡"]
+    style E fill:#FF6B6B
+    style F fill:#90EE90
+```
+
+### 圖解 4：改革開放成功因素
+```mermaid
+graph TD
+    A["改革開放成功因素"] --> B["農業改革釋放生產力"]
+    A --> C["鄉鎮企業吸納就業"]
+    A --> D["外向型經濟政策"]
+    A --> E["强大國家能力"]
+    B --> F["GDP年均10%增長"]
+    C --> G["工業化快速推進"]
+    D --> H["出口導向型經濟"]
+    E --> I["政策執行力强"]
+    style F fill:#90EE90
+```
+
+### 圖解 5：中國GDP全球比較
+```mermaid
+gantt
+    title 中國GDP全球份額（1820-2020）
+    dateFormat  YYYY
+    axisFormat  %Y
+    section 全球GDP份額
+    中國1820    :1820, 1820
+    中國1900    :1900, 1900
+    中國1950    :1950, 1950
+    中國2000    :2000, 2000
+    中國2020    :2020, 2020
 ```
 
 ---
 
 ## 總結
 
-**HIST2177 The Economic History of Modern China** 嘅核心價值：
-1. **數量化理解中國**——中國經濟崛起係人類歷史最大規模扶貧行動
-2. **批判性分析**——增長代價包括環境破壞、貧富差距、政治控制
-3. **當代相關性**——中國經濟模式對全球治理有深遠影響
+**HIST2177 The Economic History of Modern China** 係一堂逼你質問「發展到底係邊個的發展」嘅課程。呢個 course 嘅核心價值：
+
+1. **比較歷史方法**：通過比較中國同英國、日本、蘇聯，理解中國經濟發展嘅獨特性
+2. **檔案批判**：經濟數據從來唔係客觀——邊個收集？點解收集？服務邊個利益？
+3. **當代相關性**：中國經濟崛起影響全球——理解佢嘅歷史係理解當代世界嘅關鍵
 
 **袁騰飛金句**：
-> 「經濟奇蹟背後永遠有代價——問題係：你願意付出幾多代價？歴史告訴我哋：代價永遠比你預期高。」
+> 「中國經濟奇蹟——西方話呢個係『市場化成功』。但係真正嘅奇蹟在於：幾千年嚟，有邊個農民社會可以喺30年內令4億人脱贫？呢個奇蹟到底係制度，仲係歷史？」
 
 ---
 
-## 延伸閱讀
+## 延伸閱讀 / Further Reading
 
-1. Pomeranz, Kenneth. *The Great Divergence*. Princeton: Princeton University Press, 2000.
-2. Naughton, Barry. *Growing Out of the Plan: Chinese Economic Reform*. Cambridge: Cambridge University Press, 2007.
-3. Huang, Philip C.C. *The Involution of the Chinese Economy*. Singapore: NUS Press, 2015.
-4. Ang, Yuen Yuen. *China's Gilded Age: The Paradox of Economic Prosperity*. Cambridge: Cambridge University Press, 2020.
-5. Yang, Jisheng. *Tombstone: The Great Chinese Famine, 1958-1962*. London: Allen Lane, 2008.
-6. Rawski, Thomas. *Economic Growth in Republican China*. Cambridge: Cambridge University Press, 1989.
+1. Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000.
+2. Elvin, Mark. *The Pattern of the Chinese Past*. Stanford: Stanford University Press, 1973.
+3. Naughton, Barry. *Growing Out of the Plan: Chinese Economic Reform, 1978-1993*. Cambridge: Cambridge University Press, 1995.
+4. Dikötter, Frank. *Mao's Great Famine: The History of China's Most Devastating Catastrophe*. London: Bloomsbury, 2010.
+5. Yang, Jisheng. *Tombstone: The Great Chinese Famine, 1958-1962*. New York: Farrar, Straus and Giroux, 2012.
+6. Acemoglu, Daron and James Robinson. *Why Nations Fail*. New York: Crown Business, 2012.
+7. Perkins, Dwight. *China's Economic Policy and Performance*. Cambridge: Cambridge University Press, 1991.
+8. Brandt, Loren and Thomas Rawski, eds. *China's Great Economic Transformation*. Cambridge: Cambridge University Press, 2008.
