@@ -1,386 +1,302 @@
-# HIST4017 論文選修 / Dissertation Elective (12 credits)
+# HIST4017 論文選修 / Dissertation Elective (Capstone)
 
-**Instructor**: History Staff (需自行聯繫導師)
+**Instructor**: History Staff (individual supervisor)
 **Department**: History, HKU
-**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦論文寫作點解係歷史學家嘅成年禮
+**Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Note**: HIST4017 必須與 HIST4015「歷史的理論與實踐」共同修讀
+**Style**: 袁騰飛式 — 這不是一門「課」——這是你整個歷史系學習的終極檢驗
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型
+## 重要說明：這是歷史系的最高榮譽
 
-### 心智模型 1：歷史研究係「問題導向」
-學者 **E.H. Carr** (*What is History?*, 1961) 研究：歷史研究從問題開始，唔係從材料開始——「歷史學家從來都係帶住問題去睇材料」。
-
-學者 **Leopold von Ranke** 分析：史料批判係歷史研究嘅根本。
-
-- 選題：識別研究空白 (research gap)
-- 問題化：將廣義興趣轉化為具體研究問題
-- 史料導向 vs 問題導向之爭
-
-### 心智模型 2：歷史論文係論證 (Argument)
-學者 **David Hackett Fischer** (*Historians' Fallacies*, 1970) 研究：歷史寫作常見謬誤——以偏概全、因果謬誤、時代錯置。
-
-學者 **Gary Gutting** 分析：歷史解釋模型——覆蓋律模型、敘事模型。
-
-- 論文核心：thesis statement 清晰
-- 論證結構：提出→證明→反駁→結論
-- 史學史 (historiography) 位置
-
-### 心智模型 3：史料批判方法論
-學者 **Anthony Grafton** (*The Footnote*, 1997) 研究：腳註系統點解重要——知識累積嘅基礎設施。
-
-學者 **Joyce Appleby** 分析：新史料主義——檔案多元化。
-
-- 一手史料 vs 二手史料
-- 內部批評 vs 外部批評
-- 三角驗證法
-
-### 心智模型 4：歷史書寫政治
-學者 **Hayden White** (*Metahistory*, 1973) 研究：所有歷史敘事都包含情節化結構——悲劇、喜劇、史詩、鬧劇。
-
-學者 **Patrick Joyce** 分析：後現代挑戰——歷史客觀性係神話？
-
-- 歷史寫作與文學界線模糊
-- 「事實」與「詮釋」之爭
-- 敘事史 vs 科學史之爭
-
-### 心智模型 5：歷史倫理
-學者 **Peter Novick** (*That Noble Dream*, 1988) 研究：「客觀性」喺美國歷史學界嘅興衰。
-
-學者 **Richard Evans** 分析：後現代主義對歷史學威脅——事實仍然重要。
-
-- 抄襲問題與學術誠信
-- 歷史學家嘅社會責任
-- 當代政治與歷史書寫
+HIST4017 是 HKU 歷史系的 cap stone（頂石）課程，12個學分，全年課程，專為 final year students 而設。根據 HKU 官方描述：
+- **本質**: 提交一篇擴展的獨立研究論文（dissertation）
+- **必備條件**: 必須同時修讀 HIST4015「歷史的理論與實踐」
+- **字數限制**: 通常 10,000-15,000 詞（具體以導師要求為準）
+- **全年課程**: 第一、二學期持續進行
+- **申請程序**: 必須提前聯繫導師並獲得導師同意
 
 ---
 
-## 問題 2：3 個根本分歧
+## 問題 1：5 個核心心智模型（獨立歷史研究的元技能）
 
-### 分歧 1：歷史——科學定藝術？
-- **A 方**：科學派
-  - 歷史學追求客觀真相
-  - 史料批判係核心方法
-- **B 方**：藝術派
-  - 歷史寫作係敘事藝術
-  - 情節化結構無可避免
+### 1. 選題與研究問題建構（Topic Selection and Research Question Construction）
 
-### 分歧 2：歷史客觀性——可能定不可能？
-- **A 方**：可能
-  - 史料批判確保可靠性
-  - 多角度驗證
-- **B 方**：不可能
-  - 所有歷史都帶時代偏見
-  - 後現代批評
+**專家如何思考**: 選題是歷史研究最重要的決定——一個好的研究問題比一個好的答案更有價值。學者 **David Hackett Fischer** 在 *Historians' Fallacies* (1970) 中指出：最常見的研究失敗是選了一個**沒有研究空間**的題目（已經被研究透了）或者選了一個**無法用史料回答**的題目。
 
-### 分歧 3：歷史研究——問題導向定材料導向？
-- **A 方**：問題導向
-  - 從研究問題出發
-  - 史料服務論證
-- **B 方**：材料導向
-  - 從檔案材料出發
-  - 問題喺材料中浮現
+- **典型導師期望**: 導師最希望看到的不是學生「讀了很多書」，而是學生能夠**發現一個現有文獻沒有回答的問題**
+- **驗證方法**: 在提交研究計劃之前，用 200 字寫下你的研究問題，並問自己：「這個問題的答案，會讓我對過去有新的理解嗎？」
 
----
+### 2. 史料搜尋與管理（Source Finding and Management）
 
-## 問題 3：10 個深度問題
+**專家如何思考**: 歷史研究的物質基礎是史料。沒有史料，任何歷史論點都是空中樓閣。歷史系的學生必須學會在 HKU 圖書館系統（JSTOR, Project MUSE, Historical Abstracts）、香港各大檔案館（香港歷史檔案館 British Records, University of Hong Kong Archives）和國際數據庫中搜尋史料。
 
-1. 如果你要寫歷史論文，第一步係乜嘢？點解好多學生搞錯咗？
-2. 點解歷史論文要有thesis statement？一個好thesis具備乜嘢條件？
-3. 如果你去檔案館，點樣由海量化史料中識別相關材料？
-4. 點解歷史學家對同一事件往往有完全唔同嘅解讀？
-5. 如果你要批評一篇權威歷史論文，你會點樣開始？
-6. 點解歷史學界對「客觀性」嘅理解經歷咁大變化？
-7. 如果你嘅研究發現同你預期完全相反，你會點做？
-8. 歷史寫作——點解你嘅文字風格會影響讀者對「真相」嘅感知？
-9. 如果你要申請歷史學博士，你嘅論文要展示邊啲能力？
-10. 歷史研究倫理——點解抄襲係咁大件事？
+- **典型工具**: Zotero（文獻管理）、Tropy（圖片史料管理）、Excel（結構化數據分析）
+- **驗證方法**: 找到至少 3 個不同類型的原始檔案來源，並證明它們與你的研究問題直接相關
+
+### 3. 歷史論點建構（Historical Argument Construction）
+
+**專家如何思考**: 歷史論文不是敘事，不是書評，而是有**論點**（thesis）的學術作品。學者 **Mary Beard** 在 *SPQR: Ancient Rome and Its People* (2015) 中強調：歷史寫作的核心技能是「有爭議的論點」——如果你提出的論點所有人都同意，它就不是論點，是描述。
+
+- **典型導師期望**: 導師希望看到學生提出一個**可以被爭論**的歷史論點，並用充分的史料支持它
+- **驗證方法**: 用一句話（不超過 30 個英文單詞）寫下你的論文論點，並測試：這個論點有人會不同意嗎？
+
+### 4. 學術寫作的結構與風格（Academic Writing Structure and Style）
+
+**專家如何思考**: 歷史學術論文有其標準結構：引言（研究問題+論文論點）、文獻綜述（現有研究+研究空白）、方法論說明、論證主體、結論。學者 **E.H. Carr** 的 *What is History?* (1961) 和 **David Cesarani** 的歷史寫作指南是 HKU 歷史系的必讀文獻。
+
+- **典型結構**: Introduction (10%) → Literature Review (20%) → Main Argument (50%) → Conclusion (20%)
+- **驗證方法**: 每寫 500 字，就問自己：「這一段在推進我的核心論點嗎？」
+
+### 5. 同行評審與學術誠信（Peer Review and Academic Integrity）
+
+**專家如何思考**: 歷史研究是公共知識生產——你的研究成果必須能夠經受同行的審查。學術誠信（academic integrity）是歷史研究的最基本底線：抄襲、捏造數據、刻意忽略不支持論點的史料，都是不可接受的學術犯罪。
+
+- **典型標準**: Chicago Citation Style；所有引用必須標明；二手文獻必須區分於自己的論點
+- **驗證方法**: 用 HKU 的 Turnitin 系統檢查初稿，並請同學互相評審
 
 ---
 
-## 核心心智模型深化（中英對照）
+## 問題 2：3 個根本分歧（歷史論文寫作的核心張力）
 
-## 1. 問題導向研究 (Problem-driven Research)
+### 分歧 1：敘事 vs 分析——歷史論文應該「讲故事」嗎？
+**核心問題**: 歷史論文應該以敘事（narrative）為主還是分析（analysis）為主？
+
+- **學派A（敘事論）**: E.H. Carr 等學者認為，最好的歷史寫作是「有故事的歷史」——敘事讓歷史變得生動，讓讀者能够「看到」過去
+- **學派B（分析論）**: 很多歷史學家認為，歷史論文的首要任務是分析——解釋為什麼事情發生，而不是描述發生了什麼
+
+### 分歧 2：寬 vs 深——論文應該廣泛覆蓋還是深入分析？
+**核心問題**: 一篇 10,000-15,000 詞的歷史論文，應該覆蓋一個寬泛的主題（但每部分都很淺），還是深入分析一個狹窄的主題（但有足夠的史料深度）？
+
+- **學派A（寬泛覆蓋）**: 某些導師認為學生應該展示廣泛的閱讀能力，論文應該覆蓋一個較大的主題
+- **學派B（深度分析）**: 大多數導師認為，10,000 詞的論文最好聚焦於一個具體的研究問題，深入挖掘檔案史料
+
+### 分歧 3：理論 vs 史料——哪個先？
+**核心問題**: 歷史研究應該從理論框架開始（演繹法）還是從史料出發（歸納法）？
+
+- **學派A（理論優先）**: 一些導師認為，學生應該先有一個理論框架，然後用史料來檢驗這個框架
+- **學派B（史料優先）**: 另一些導師認為，學生應該從具體的史料出發，讓史料引導理論的形成
+
+---
+
+## 問題 3：10 個深度問題（論文寫作的實踐指南）
+
+1. 如何在研究計劃中論證你的研究問題的「歷史意義」？這個問題與當代人有什麼相關性？
+2. **史料搜尋策略**：在 HKU 圖書館的 JSTOR 和 Project MUSE 系統中，設計一個有效的搜索策略，找出你的研究領域的「核心文獻」——你需要哪些關鍵詞？
+3. 什麼是「研究空白」（research gap）？如何在文獻綜述中發現並論證研究空白的存在？
+4. 歷史論點的「可爭議性」（contestability）是什麼？如何測試你的論點是否真的具有學術價值？
+5. **檔案研究技巧**：香港歷史檔案館（Hong Kong Records Office）和 HKU 大學檔案館（University Archives）的館藏結構是什麼？你如何有效地利用它們？
+6. 歷史寫作中的「過度引用」和「引用不足」各有什麼問題？如何找到適當的引用平衡點？
+7. **文獻管理工具**：Zotero 和 EndNote 在歷史研究中的功能差異是什麼？你為什麼需要一個文獻管理工具？
+8. 如何處理「史料與論點不符」的情況——當你的史料不支持你預先設想的論點時，你應該怎麼辦？
+9. 歷史論文寫作的「語氣」（tone）是什麼？如何在學術嚴謹性和可讀性之間找到平衡？
+10. **時間管理**：一篇 12,000 詞的歷史論文，在一個學年（兩學期）的時間框架内，應該如何分配時間——選題、搜檔案、寫作、修訂各佔多少比例？
+
+---
+
+# 核心心智模型深化（中英對照）
+
+## 1. 選題與研究問題建構
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 論文應用 |
+| 英文 | 中文 | 歷史含義 | 實踐標準 |
 |---|---|---|---|
-| Research Question | 研究問題 | 歷史研究嘅起點 | 具體、可答、有意義 |
-| Historiographical Gap | 史學空白 | 文獻未覆蓋嘅領域 | 創新貢獻所在 |
-| Thesis Statement | 論點陳述 | 論文核心主張 | 一句話概括全文 |
-| Primary Sources | 一手史料 | 歷史事件親歷者留下 | 檔案、日記、信件 |
-| Secondary Sources | 二手史料 | 歷史學家嘅分析 | 學術論文、專著 |
-
-### 1.2 史料與考據
-- E.H. Carr: What is History? (1961)
-- Anthony Grafton: The Footnote (1997)
-- David Hackett Fischer: Historians' Fallacies (1970)
+| Research question | 研究問題 | 論文要回答的核心問題 | 可回答+有歷史意義 |
+| Research gap | 研究空白 | 現有文獻未回答的問題 | 具體說明 |
+| Historiographical contribution | 史學貢獻 | 論文對現有研究的增值 | 明確定位 |
+| Thesis statement | 論文論點 | 核心學術主張 | 可爭議+有證據 |
 
 ### 1.3 袁騰飛式犀利觀察
-好多學生以為歷史論文係「堆砌史料」，其實係「論證」。如果你唔知你想證明乜嘢，堆幾多史料都係無灵魂嘅搬運工。
-歷史論文嘅本質唔係「你知道幾多」，而係「你點樣說服别人相信你嘅論點」。
+獨立研究論文最大的陷阱是：**你選了一個「感興趣」的題目，讀了很多書，然後發現自己寫不出有學術價值的論點**。
 
-### 1.4 Deep test question
-- 如果你嘅thesis被人用一個史料完全推翻，你會點做？
+興趣是最好的起點，但不是研究的全部。你必須問自己：「這個題目有研究空間嗎？現有文獻對這個問題的回答已經足够好了嗎？我的論文論點，會讓歷史學術界對這個問題有新的理解嗎？」
+
+很多學生花費整個暑假讀書，然後在開學時發現：自己讀的書已經被其他學者總結得很好了，根本不需要自己再寫一篇書評。
+
+**歷史研究不是讀書報告，是知識生產——你需要生產新東西，而不是重述舊東西。**
 
 ### 1.5 圖解
 ```mermaid
 flowchart TD
-    A[研究問題 Research Question] --> B[文獻回顧 Literature Review]
-    B --> C[識別空白 Identify Gap]
-    C --> D[建立論點 Thesis]
-    D --> E[一手史料 Primary Sources]
-    E --> F[分析論證 Analysis]
-    F --> G[歷史書寫 Historical Writing]
-    G --> H[thesis 最終呈現]
+    A[Dissertation topic selection<br/>論文選題] --> B[Broad interest area<br/>廣泛興趣領域]
+    B --> C[Read existing literature<br/>閱讀現有文獻]
+    C --> D{Find a GAP<br/>發現研究空白?}
+    D -->|No| E[Refine question<br/>調整問題]
+    E --> C
+    D -->|Yes| F[Form specific question<br/>形成具體問題]
+    F --> G[Draft thesis statement<br/>起草論文論點]
+    G --> H{Test: Is it contestable?<br/>測試：可爭議嗎?}
+    H -->|No| F
+    H -->|Yes| I[Source collection<br/>史料搜集]
+    I --> J[Write dissertation<br/>撰寫論文]
+    
+    style D fill:#f96
+    style H fill:#9f6
+    style J fill:#f66
 ```
 
 ---
 
-## 2. 論證結構 (Argument Structure)
+## 2. 史料搜尋與管理
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 論文應用 |
+### 2.1 Bilingual 概念對照
+| 英文 | 中文 | 歷史含義 | HKU資源 |
 |---|---|---|---|
-| Argument | 論證 | 有證據支持嘅主張 | 論文核心 |
-| Evidence | 證據 | 支持論點嘅史料 | 具體、可靠、充足 |
-| Counterargument | 反駁論點 | 對立觀點 | 展示深度 |
-| Historiography | 史學史 | 學術爭論脈絡 | 定位你嘅位置 |
+| Primary sources | 一手史料 | 親歷者記錄 | HKU Libraries, HK Records Office |
+| Secondary sources | 二手史料 | 學者分析 | JSTOR, Project MUSE, Historical Abstracts |
+| Archives | 檔案館 | 原始文件收藏 | HK Records Office, University Archives |
+| Digital humanities | 數位人文 | 數字化史料分析 | Tropy, Palladio, Voyant Tools |
 
-### 1.2 史料與考據
-- Gary Gutting: Talking God (歷史解釋哲學)
-- Alun Munslow: Deconstructing History (歷史書寫理論)
-
-### 1.3 袁騰飛式犀利觀察
-歷史論文唔係「我發現咗呢件事」——而係「我點解相信呢件事，點解你應該相信」。
-
-### 1.4 Deep test question
-- 你嘅論文點回應現有史學文獻？你嘅創新之處係邊度？
-
-### 1.5 圖解
+### 2.3 圖解
 ```mermaid
-flowchart TD
-    A[Introduction<br/>Thesis陳述] --> B[Body Paragraph 1<br/>論點1+證據]
-    B --> C[Body Paragraph 2<br/>論點2+證據]
-    C --> D[Counterargument<br/>反駁對立觀點]
-    D --> E[Conclusion<br/>總結+意義]
+graph LR
+    A[Source collection strategy<br/>史料搜集策略] --> B[HKU Libraries<br/>港大圖書館<br/>JSTOR, MUSE, Historical Abstracts]
+    A --> C[Hong Kong Records Office<br/>香港歷史檔案館<br/>Colonial records, 1841-1997]
+    A --> D[University Archives<br/>大學檔案館<br/>HKU history]
+    A --> E[Digital humanities tools<br/>數位人文工具]
+    
+    B --> B1[Secondary literature<br/>二手文獻搜索]
+    C --> C1[Government documents<br/>政府檔案]
+    C --> C2[Newspapers<br/>報紙]
+    C --> C3[Maps & photos<br/>地圖和照片]
+    
+    D --> D1[University records<br/>大學記錄]
+    D --> D2[Faculty archives<br/>教師檔案]
+    
+    E --> E1[Zotero: citation management<br/>Zotero: 引用管理]
+    E --> E2[Tropy: image management<br/>Tropy: 圖片管理]
+    E --> E3[Voyant: text analysis<br/>Voyant: 文本分析]
+    
+    style A fill:#f96
+    style C fill:#9f6
 ```
 
 ---
 
-## 3. 史料批判方法 (Source Criticism)
+## 3. 歷史論點建構
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 方法 |
+### 3.1 Bilingual 概念對照
+| 英文 | 中文 | 歷史含義 | 錯誤示範 |
 |---|---|---|---|
-| Internal Criticism | 內部批評 | 史料內容可信度 | 是否自相矛盾 |
-| External Criticism | 外部批評 | 史料真實性 | 是否偽造 |
-| Triangulation | 三角驗證 | 多源互證 | 交叉核對 |
-| Provenance | 來源考證 | 史料出處 | 點解存在 |
+| Contestable thesis | 可爭議論點 | 有人會不同意的論點 | 「歷史是複雜的」 |
+| Evidence-based | 證據驅動 | 論點由史料支持 | 預先有結論再找證據 |
+| Historiographical contribution | 學術貢獻 | 對現有研究的增值 | 重述已知事實 |
+| Argument structure | 論點結構 | 邏輯嚴密的論證 | 沒有層次的敘述 |
 
-### 1.2 史料與考據
-- Ranke: 史料批判原則
-- 檔案學基礎：CO 129, HKRS, CB
-
-### 1.3 袁騰飛式犀利觀察
-檔案唔會話你知真相——佢只會話你知有人想留低乜嘢記録。
-點解某啲史料保存低咗、某啲消失咗？呢個本身就係歷史問題。
-
-### 1.4 Deep test question
-- 如果你發現一份重要檔案被部分刪除，你點解？
-
-### 1.5 圖解
+### 3.3 圖解
 ```mermaid
 flowchart TD
-    A[檔案 Source] --> B{真實嗎?<br/>外部批評}
-    B -->|偽造| Z[Discard]
-    B -->|真實| C{可靠嗎?<br/>內部批評}
-    C -->|不可靠| Z
-    C -->|可靠| D[三角驗證]
-    D --> E[用於論證]
+    A[Thesis construction process<br/>論點建構流程] --> B[Claim 1<br/>第一個聲稱]
+    A --> C[Claim 2<br/>第二個聲稱]
+    A --> D[Claim 3<br/>第三個聲稱]
+    
+    B --> E{Evidence?<br/>有證據嗎?}
+    C --> E
+    D --> E
+    
+    E -->|Yes for all| F[Synthesize into thesis<br/>綜合為論文論點]
+    E -->|No for any| G[Revise claim<br/>修正聲稱]
+    
+    F --> H[One-sentence thesis<br/>一句話論文論點<br/>不超過30個詞]
+    H --> I{Anyone disagree?<br/>有人會不同意?}
+    I -->|Yes| J[Good thesis<br/>好論點!]
+    I -->|No| K[Too obvious<br/>太顯而易見]
+    K --> G
+    
+    style F fill:#9f6
+    style J fill:#c00,color:#fff
+    style K fill:#f66
 ```
 
 ---
 
-## 4. 歷史書寫與敘事 (Historical Writing & Narrative)
+## 4. 學術寫作的結構與風格
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 爭議 |
+### 4.1 Bilingual 概念對照
+| 英文 | 中文 | 歷史含義 | 標準比例 |
 |---|---|---|---|
-| Narrative History | 敘事史 | 讲故事嘅歷史 | vs 科學史 |
-| Metahistory | 元歷史 | 歷史意識形態批評 | Hayden White |
-| Tropes | 情節結構 | 悲劇/喜劇/史詩 | 影響解讀 |
-| Periodization | 時代劃分 | 歷史點樣被分段 | 歐洲中心問題 |
+| Introduction | 引言 | 研究問題+論點 | 10% |
+| Literature review | 文獻綜述 | 現有研究+空白 | 20% |
+| Main body | 論證主體 | 史料+分析 | 50% |
+| Conclusion | 結論 | 總結+貢獻+局限 | 20% |
 
-### 1.2 史料與考據
-- Hayden White: Metahistory (1973)
-- Richard Evans: In Defense of History (1997)
-
-### 1.3 袁騰飛式犀利觀察
-Hayden White最犀利嘅觀點：歷史學家以為自己喺客觀呈現過去，但其實佢哋不自觉地選擇咗情節結構——悲劇英雄定喜劇小丑？呢個選擇影響讀者點解歷史事件。
-歴史唔係發現，係建構。
-
-### 1.4 Deep test question
-- 如果你用「悲劇」情節結構寫香港歷史，會變成點？
-
-### 1.5 圖解
+### 4.3 圖解
 ```mermaid
-flowchart TD
-    A[歷史事件 Historical Event] --> B{情節選擇<br/>Trope Selection}
-    B --> C[悲劇模式]
-    B --> D[喜劇模式]
-    B --> E[史詩模式]
-    C --> F[英雄失敗<br/>讀者同情]
-    D --> G[荒誕命運<br/>讀者批判]
-    E --> H[偉大事業<br/>讀者振奮]
+graph TD
+    A[History dissertation structure<br/>歷史論文結構] --> B[Introduction 10%<br/>引言<br/>Research question<br/>Thesis statement<br/>Methodology]
+    A --> C[Literature Review 20%<br/>文獻綜述<br/>What we know<br/>What we don't know<br/>My contribution]
+    A --> D[Main Argument 50%<br/>論證主體<br/>Chapter 1<br/>Chapter 2<br/>Chapter 3]
+    A --> E[Conclusion 20%<br/>結論<br/>Summary<br/>Significance<br/>Limitations<br/>Future research]
+    
+    B --> F[Hook the reader<br/>吸引讀者]
+    C --> G[Position your work<br/>定位你的研究]
+    D --> H[Build your argument<br/>建立你的論點]
+    E --> I[Leave lasting impression<br/>留下持久印象]
+    
+    style A fill:#f96
+    style D fill:#9f6
+    style H fill:#9f6
 ```
 
 ---
 
-## 5. 歷史研究倫理 (Ethics of Historical Research)
+## 5. 同行評審與學術誠信
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
+### 5.1 Bilingual 概念對照
+| 英文 | 中文 | 歷史含義 | 標準 |
 |---|---|---|---|
-| Academic Integrity | 學術誠信 | 抄襲、造假嘅禁止 | 根本原則 |
-| Positionality | 位置性 | 研究者嘅身份影響研究 | 後殖民批評 |
-| Representational Ethics | 呈現倫理 | 點樣描述邊緣群體 | 涉及權力 |
-| Collective Memory | 集體記憶 | 邊個有權代表歷史 | 爭議核心 |
+| Academic integrity | 學術誠信 | 研究的最基本底線 | HKU regulations |
+| Plagiarism | 抄襲 | 未經允許使用他人文字 | Zero tolerance |
+| Citation | 引用 | 標明思想來源 | Chicago Style |
+| Peer review | 同行評審 | 同學互相審查 | Draft workshops |
 
-### 1.2 史料與考據
-- Peter Novick: That Noble Dream (1988)
-- Richard Evans: In Defense of History (1997)
-
-### 1.3 袁騰飛式犀利觀察
-歷史學家從來唔係透明嘅——佢嘅身份（階級、性別、國籍、時代）影響佢點睇過去。呢個唔係話歷史無意義，而係話我哋要保持清醒。
-歴史真相仍然存在，但到達真相嘅過程永遠帶有視角。
-
-### 1.4 Deep test question
-- 如果你研究一個被政治敏感嘅歷史事件，你點保持學術誠信？
-
-### 1.5 圖解
+### 5.3 圖解
 ```mermaid
 flowchart TD
-    A[歷史學家 Historian] --> B[身份 Identity]
-    B --> C[位置性 Positionality]
-    C --> D[研究視角]
-    D --> E[歷史論點]
-    E --> F{讀者視角}
-    F --> G[共鳴/不接受]
+    A[Academic integrity<br/>學術誠信] --> B[Cite all sources<br/>引用所有來源]
+    A --> C[Never fabricate data<br/>決不捏造數據]
+    A --> D[Acknowledge help<br/>承認幫助]
+    A --> E[Be transparent<br/>透明]
+    
+    B --> F[Chicago style<br/>芝加哥引用格式]
+    B --> G[Direct quotes in quotes<br/>直接引用加引號]
+    B --> H[Paraphrase without credit<br/>改述必須標明]
+    
+    style A fill:#f96
+    style C fill:#c00,color:#fff
+    style G fill:#9f6
 ```
 
 ---
 
-## 深度自測問題詳解
+# 深度自測問題詳解
 
-### 詳解 1: 點解thesis statement咁重要？
-Thesis係你論文嘅「脊椎」——無thesis，你嘅論文就係一堆無連貫性嘅史料。Thesis必須具體、可爭論、範圍適中。
+## Q1 詳解：如何論證研究問題的「歷史意義」
+**核心答案**: 歷史意義的論證需要回答三個問題：① **這個問題在過去為什麼重要？**（歷史語境）② **現有研究對這個問題的回答有什麼不足？**（研究空白）③ **回答這個問題會讓我們對過去有什麼新的理解？**（學術貢獻）
 
-### 詳解 2: 點解史料批判係歷史學家基本功？
-檔案唔會話你知真相——佢只係有人選擇保存嘅記録。批判史料係識別「記録者」立場、利益、限制。
+## Q3 詳解：如何發現研究空白
+**核心答案**: 研究空白的發現需要系統性的文獻綜述：① 找出研究領域的 3-5 篇核心文獻；② 追踪這些文獻的引用和被引用情況；③ 找出這些文獻共同承認的「未來研究方向」；④ 评估這些「未來研究方向」是否真的已经被填补
 
-### 詳解 3: 如果研究發現同預期相反？
-呢個係最好嘅研究結果！真正嘅歷史發現往往係意料之外。呢個時候你要重新調整thesis，而非忽視證據。
-
-### 詳解 4: 點解史學史咁重要？
-史學史讓你知道自己喺邊個學術傳統入面、你嘅創新之處係邊度。評估員會問：「你嘅研究點解重要？」——答案喺史學史位置。
-
-### 詳解 5: 後現代主義挑戰——歷史仲可信嗎？
-Richard Evans有力回應：後現代主義理論犀利，但唔可以否認具體事實。日軍南京大屠殺唔係「話語建構」，係確實發生嘅戰爭罪行。
-
-### 詳解 6: 歷史寫作風格影響讀者？
-Absolutely！Hayden White證明：同一事件用悲劇模式定喜劇模式寫，讀者嘅情感同道德判斷完全不同。呢個係歷史作為敘事藝術嘅證據。
-
-### 詳解 7: 申請博士——論文展示乜嘢？
-研究能力（識別問題、收集材料、分析論證）+ 寫作能力（清晰、有說服力）+ 史學史理解（知道你自己喺邊個傳統）。
-
-### 詳解 8: 當代政治影響歷史寫作？
-無可避免，但需要警惕。研究1930年代香港歷史，無法人脱今日香港政治環境。問題唔係避免，而係識別同反思。
-
-### 詳解 9: 邊緣群體歷史——點解咁難研究？
-史料往往由精英留下——工人、農民、女性、殖民地人民嘅聲音極少。Oral history、檔案另類解讀係補救方法。
-
-### 詳解 10: 如果你要寫10,000字論文？
-結構：導論（500字）→文獻回顧（2000字）→分析（5000字）→結論（500字）。每段有一個主要論點，用史料支持。
+## Q10 詳解：時間管理
+**核心答案**: 12,000 詞論文的全年時間分配建議：
+- **第一學期（第 1-13 周）**：60% 選題+文獻綜述，30% 史料搜集，10% 初稿
+- **寒假（第 14-18 周）**：30% 繼續史料搜集，50% 第一章初稿
+- **第二學期（第 19-33 周）**：50% 寫作，30% 修改，20% 結論和引用
+- **最後兩周**：修訂、校對、提交
 
 ---
 
-## 5 個 Mermaid 圖解
+# 總結
 
-### 📊 Diagram 1: 歷史研究流程
-```mermaid
-flowchart TD
-    A[選題<br/>Topic Selection] --> B[識別研究問題<br/>Research Question]
-    B --> C[文獻回顧<br/>Literature Review]
-    C --> D[識別史學空白<br/>Identify Gap]
-    D --> E[建立Thesis<br/>Thesis Statement]
-    E --> F[檔案研究<br/>Archival Research]
-    F --> G[分析論證<br/>Analysis]
-    G --> H[歷史寫作<br/>Historical Writing]
-    H --> I[修改完善<br/>Revision]
-    I --> J[提交論文<br/>Submission]
-```
+1. **論文選題是研究成敗的 50%**：選擇一個有研究空間、有史料支持、有歷史意義的題目，比寫作本身更重要。
 
-### 📊 Diagram 2: 論證vs堆砌
-```mermaid
-flowchart LR
-    A[論點導向] --> B[Thesis]
-    B --> C[Supporting Evidence]
-    C --> D[Conclusion]
-    E[堆砌導向] --> F[一堆史料]
-    F --> G[無thesis]
-    G --> H[讀者困惑]
-```
+2. **史料是歷史研究的物質基礎**：沒有史料就沒有歷史——學會在 HKU 圖書館和各大檔案館中高效搜尋史料，是歷史系學生的核心技能。
 
-### 📊 Diagram 3: 史料批判流程
-```mermaid
-flowchart TD
-    A[檔案到手] --> B{外部批評<br/>係咪真實?}
-    B -->|偽造| Z[不用]
-    B -->|真實| C{內部批評<br/>內容可靠?}
-    C -->|不可靠| Z
-    C -->|可靠| D{三角驗證<br/>多源互證}
-    D --> E[可用於論點]
-```
+3. **歷史論文的核心是「可爭議的論點」**：如果你不能找到至少一個學者會反對你的論點，你的論文就只是一篇描述，不是研究。
 
-### 📊 Diagram 4: 史學史定位
-```mermaid
-flowchart TD
-    A[你的研究課題] --> B[現有學術文獻]
-    B --> C{你的位置}
-    C --> D[補充現有研究]
-    C --> E[挑战現有結論]
-    C --> F[开创新領域]
-    D --> G[增量貢献]
-    E --> H[範式轉變]
-    F --> I[重新定義問題]
-```
+4. **學術誠信是歷史研究的最後底線**：任何抄襲、捏造或刻意忽略不支持論點的史料，都是不可接受的——歷史學的聲譽建立在誠信之上。
 
-### 📊 Diagram 5: 歷史寫作常見謬誤
-```mermaid
-flowchart TD
-    A[常見謬誤] --> B[以偏概全<br/>Hasty Generalization]
-    A --> C[因果謬誤<br/>Post Hoc]
-    A --> D[時代錯置<br/>Presentism]
-    A --> E[確認偏誤<br/>Confirmation Bias]
-    B --> F[結論不可靠]
-    C --> F
-    D --> G[歷史理解扭曲]
-    E --> F
-```
+5. **HIST4017 是你在 HKU 歷史系的巔峰時刻**：這是你用四年所學，獨立完成的一個真正的歷史研究項目——它是你的歷史學家訓練的最終檢驗，也是你留給這個學術領域的一個微小但真實的貢獻。
 
----
-
-## 總結
-
-1. **歷史論文係論證**：thesis-driven，唔係材料堆砌，唔係事實列表。
-2. **史料批判係基本功**：檔案唔會話你知真相，要你自己批判分析。
-3. **史學史定位係創新嘅前提**：知道你自己喺邊個傳統入面，先可以知道創新喺邊度。
-4. **歷史客觀性係目標但永遠唔完全**：歷史學家帶住視角，但通過方法論約束可以無限接近真相。
-5. **歷史倫理係每一個研究决定嘅底層邏輯**：從選題到寫作到發表，都涉及倫理考量。
-
-**最後問題**: 如果你嘅論文發現威脅到當權者，你仲會發表嗎？
-
----
-**版權所有 © HKU History Self-Study**
+**自學建議**: 配合 E.H. Carr 的 *What is History?* + David Hackett Fischer 的 *Historians' Fallacies* + HKU Library 的 Academic Integrity 教程，輸出研究計劃到 `06_Reading_Notes/`。

@@ -1,442 +1,262 @@
-# HIST2213
-**Witchcraft, magic, and the devil in early modern Europe and America**
+# HIST2213 巫術與魔法史 / Witchcraft, Magic, and the Devil in Early Modern Europe and America
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2213 巫術與魔法的歷史 / Witchcraft, Magic, and the Devil in Early Modern Europe
-**學期**：1450-1750
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Christine Walker
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.md)
+**Style**: 袁騰飛式 — 犀利揭穿：獵巫運動唔係歷史笑話，而係人類最深層恐懼同權力操控嘅政治工具
 
 ---
 
 ## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
 ## What are the 5 core mental models every expert shares?
 
-1. **獵巫運動的社會根源**
-   **獵巫運動的社會根源**
+### 心智模型 1：巫術恐懼係「社會緊張」嘅指示針
+**Witchcraft Fears as a Barometer of Social Tension**
 
-2. **魔鬼學的意識形態**
-   **魔鬼學的意識形態**
+學者 **Keith Thomas**（牛津大學，*Religion and the Decline of Magic*, 1971）首創系統研究：巫術指控從來唔係純粹宗教問題，而係社會緊張關係嘅晴雨表。學者 **Brian Levack**（德克薩斯大學，*The Witch-Hunt in Early Modern Europe*, 2016 第四版）補充：巫術恐懼指數精確對應社會危機程度——經濟困難、自然災害、政治變革時期，巫術指控就會飆升。
 
-3. **性別與巫術指控**
-   **性別與巫術指控**
+- **1560-1660年** 西歐經濟困難 + 宗教戰爭 = 巫術指控高峰期
+- **1692年** 塞勒姆審訊爆發——新英格蘭社會動盪、社區分裂
+- **1560-1700年** 歐洲約 10 萬人被以巫術罪名起訴，其中 4-6 萬人被處決
 
-4. **宗教改革的巫術恐懼**
-   **宗教改革的巫術恐懼**
+### 心智模型 2：「魔鬼學」(Demonology) 意識形態嘅制度化
+**The Institutionalization of Demonological Ideology**
 
-5. **現代性與巫術消亡**
-   **現代性與巫術消亡**
+學者 **Stuart Clark**（*Thinking with Demons*, 1997）分析：宗教改革後，新教同天主教都發展出精密嘅魔鬼學——為巫術審判提供「科學」框架。學者 **John D. Berthrong** 補充：清教神學特別強調撒旦工作，令北美殖民地的巫術恐懼比西歐更為激烈。
+
+- **1486年**《巫師之錘》（*Malleus Maleficarum*）——第一本系統性巫術審判手冊，暢銷數百年
+- **1517年後**宗教改革——新教強調個人屬靈經驗，令鬼魂幻見合法化為宗教話語
+- **1580-1660年**「女巫」被定義為與撒旦立約者——法律同神學共同建構巫術話語
+
+### 心智模型 3：性別作為巫術指控核心維度
+**Gender as Central Dimension of Witch Accusation**
+
+學者 **Silvia Federici**（*Caliban and the Witch*, 2004）尖銳論點：獵巫運動係資本主義興起時對女性身體嘅系統性控制。學者 **John D. Berthrong** 研究清教巫術話語中女性邊緣化。歷史數據顯示：歐洲巫術審判中約 75-80% 被告為女性；塞勒姆案中約 78% 為女性。
+
+- **單身/喪偶老年女性** 係最主要目標——缺乏經濟/社會保護
+- **接生婆/草藥師** 成為巫術恐懼載體——因為佢哋嘅醫療知識挑戰教會對身體解釋權壟斷
+- **經濟困境** 令社區找「代罪羔羊」
+
+### 心智模型 4：法律制度點樣令巫術恐懼升級
+**How Legal Systems Escalated Witchcraft Hysteria**
+
+學者 **John D. Berthrong** 分析：普通法傳統中「鬼魂證據」（spectral evidence）喺塞勒姆被法庭接受——呢個喺法律史上係重大爭議。學者 **Brian Levack** 研究：一旦某社區開始指控，其他社區為避免被視為「窝藏巫師」而被迫加入指控，令恐懼幾何級蔓延。
+
+- **「鬼魂證據」**（spectral evidence）——聲稱被巫師嘅鬼魂折磨，但被告否認；呢種「間接證據」喺西方法律史爭議極大
+- **羈押+酷刑** 逼供——被告為擺脫酷刑往往承認指控，製造更多「供詞」
+- **鄰里紛爭** 常成為巫術指控導火線——歷史人類學研究顯示 60-70% 巫術指控源於實際糾紛
+
+### 心智模型 5：巫術恐懼點解消失——現代性來臨？
+**Why Witchcraft Fears Disappeared — The Coming of Modernity**
+
+學者 **Owen Davies**（*Grimoire*, 2011）追蹤魔法文本點樣從巫術手冊轉化為現代「異教」文本。學者 **Keith Thomas** 指出：科學革命、理性主義興起、國家權力壟斷司法——三重因素導致巫術恐懼消失。
+
+- **1660年代** 英國政府禁止「幽靈證據」；1662年承認錯誤——塞勒姆「最後」被否認
+- **1700年代** 歐洲各國相繼廢除巫術法
+- **現代迴響**——2016年特朗普競選團隊使用「巫婆」（witch）標籤攻擊希拉莉；2020年代「cancel culture」被形容為「政治巫術獵殺」
 
 ---
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+## 問題 2：這個領域 3 個 SPECIFIC 根本分歧
 
-### 分歧 1：獵巫 — 大眾歇斯底里 vs 權力控制 / Witch Trials — Mass Hysteria or Power Control
-**核心問題 / Core question**: 16-17 世紀獵巫是大眾歇斯底里還是權力控制？
+### 分歧 1：獵巫運動——群眾歇斯底里定係精英操控工具？
+**Witch Hunts: Mass Hysteria or Elite Control Tool?**
 
-- **一方觀點** / **Side A**: A: 歇斯底里 — 集體恐慌
-- **另一方觀點** / **Side B**: B: 控制 — 教會與世俗法庭權力工具
+- **A 方（底層恐懼論）**：學者 **Keith Thomas**——獵巫係底層社區對經濟/環境危機嘅非理性回應；群眾集體歇斯底里自發形成，唔需要精英推動
+- **B 方（精英操控論）**：學者 **Silvia Federici**——獵巫係資產階級/國家權力對女性/底層群眾嘅階級鎮壓工具；神職人員利用恐懼動員社區服從
 
-### 分歧 2：女巫 — 父權 vs 靈性 / Women as Witches — Patriarchal or Spiritual
-**核心問題 / Core question**: 獵巫主要針對女性是父權壓迫還是靈性衝突？
+### 分歧 2：塞勒姆——社區危機反應定係性別政治？
+**Salem: Community Crisis or Gender Politics?**
 
-- **一方觀點** / **Side A**: A: 父權 — 控制女性身體、生育
-- **另一方觀點** / **Side B**: B: 靈性 — 異教信仰、教會打擊
+- **A 方（危機論）**：歷史學者共識：塞勒姆係社區政治/經濟危機爆發點——土地糾紛、與英國宗主國關係緊張、青少年集體歇斯底里
+- **B 方（性別論）**：學者 **Carol Karlsen**（*The Devil in the Shape of a Woman*, 1987）——巫術指控精準瞄準有繼承權/經濟資源/政治影響力嘅女性——呢個唔係巧合，而係系統性性別政治
 
-### 分歧 3：巫術消亡 — 啟蒙 vs 社會變遷 / End of Witchcraft — Enlightenment or Social Change
-**核心問題 / Core question**: 獵巫在 18 世紀停止是啟蒙結果還是社會變遷？
+### 分歧 3：獵巫消失——啟蒙運動功勞定制度化科學崛起？
+**Decline of Witch Trials: Enlightenment Credit or Institutionalized Science?**
 
-- **一方觀點** / **Side A**: A: 啟蒙 — 理性、懷疑
-- **另一方觀點** / **Side B**: B: 社會 — 教會權力下降、國家壟斷司法
+- **A 方（啟蒙論）**：學者 **David Wootton**（*The Invention of Science*, 2015）——理性主義、科學方法令超自然解釋失去信服力
+- **B 方（制度論）**：學者 **John D. Berthrong**——國家權力集中、世俗法律制度確立、宗教戰爭結束——令巫術恐懼失去政治功能
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 3：10 個 PROBING 深度問題
 
-1. 為什麼 **獵巫運動的社會根源** 是理解 巫術與魔法的歷史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 魔鬼學的意識形態 在多大程度上決定了 Witchcraft, Magic, and the Devil in Early Modern Europe 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 性別與巫術指控 與 宗教改革的巫術恐懼 之間的張力如何形塑了 1450-1750 的關鍵轉折？
-4. 如果把 獵巫運動的社會根源 抽離出來，Witchcraft, Magic, and the Devil in Early Modern Europe 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1450-1750 中，哪個領導人、事件或文本最能代表 現代性與巫術消亡 的極致展現？
-6. 學者之間關於 魔鬼學的意識形態 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Witchcraft, Magic, and the Devil in Early Modern Europe 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 性別與巫術指控 與 宗教改革的巫術恐懼 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Witchcraft, Magic, and the Devil in Early Modern Europe 的哪些歷史經驗正在重演？哪些已經過時？
+1. 點解巫術恐懼瞄準老年單身女性？呢個揭示咗性別、年齡、經濟狀況同權力關係乜嘢互動？
+2. 塞勒姆審訊（1692）——點解一個清教社區會指控自己嘅鄰居係巫師？呢個揭示咗清教信仰同社區政治乜嘢內在矛盾？
+3. 巫術恐懼點解消失？呢個消失同現代國家形成、科學興起有乜嘢關係？
+4. 點解 17 世紀歐洲同北美巫術恐懼咁流行，但係其他歷史時期/地區相對較少？
+5. 獵巫運動同現代政治運動有乜嘢類比？點解政客今日仲用「巫術」話語攻擊對手？
+6. 草藥師/接生婆點解成巫術恐懼目標？呢個揭示咗醫療/身體/科學壟斷乜嘢歷史？
+7. 如果你係 1692 年塞勒姆法官，你會點做？點解你嘅選擇受當時法律框架限制？
+8. 巫術恐懼同現代種族主義/恐同症/排外主義有乜嘢結構相似？
+9. 清教巫術話語同現代「取消文化」指責有乜嘢可比之處？
+10. 如果你去 1650 年歐洲研究巫術恐懼，你最想訪問邊個群體？點解？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 獵巫運動的社會根源
+## 1. 巫術恐懼社會根源
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 獵巫運動的社會根源 | 獵巫運動的社會根源 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 獵巫運動 (liè wū yùndòng) = Witch Hunt — 系統性巫術指控與迫害運動
+- 魔鬼學 (móguǐxué) = Demonology — 關於撒旦同巫術嘅神學理論
+- 鬼魂證據 (guǐhún zhèngjù) = Spectral Evidence — 聲稱被巫師靈魂折磨嘅證據
+- 代罪羔羊 (dàizuì gāoyáng) = Scapegoat — 社區危機時找弱者承擔責任
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.2 史料與靠據
+- **核心史料**：巫術審判記錄、投訴書、供詞——法庭檔案係呢個領域最重要一手史料
+- **宗教文本**：《巫師之錘》(1486)、清教佈道詞
+- **方法論**：口述史、社會人類學、數量化分析（人口統計、年份分佈）
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 獵巫運動的社會根源 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Witchcraft, Magic, and the Devil in Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.3 袁騰飛式犀利觀察
+> 「歷史就係咁得意：17世紀歐洲人真心相信有巫師，而家我哋笑佢哋迷信——但係你知唔知，呢個『迷信』殺死咗幾萬人？每一個被燒死嘅『女巫』，都係社區政治、經濟糾紛、性別壓迫、宗教恐懼交織嘅結果——歷史從來都唔係單純『落後』，而係權力話語！」
 
-### 1.4 Deep test question
-- 請舉出歷史上 獵巫運動的社會根源 的兩個極端案例，並分析其後果
-- 如果抽離 獵巫運動的社會根源，Witchcraft, Magic, and the Devil in Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，獵巫運動的社會根源 怎樣決定了 1450-1750 的地緣政治？
+### 1.4 Deep Test Question
+**考試題**：選擇一個具體巫術審判案例，分析點解呢個人被指控。呢個指控揭示咗乜嘢關於當時社區政治、經濟、性別權力關係？
 
-### 1.5 圖解 / Diagram
+### 1.5 圖解
 ```mermaid
 graph TD
-    A[獵巫運動的社會根源 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A["巫術恐懼爆發"] --> B["經濟危機/自然災害"]
+    A --> C["社區政治糾紛"]
+    A --> D["宗教話語動員"]
+    A --> E["性別權力失衡"]
+    B --> F["尋找代罪羔羊"]
+    C --> F
+    D --> F
+    E --> F
+    F --> G["弱勢群體被指控"]
+    G --> H["承認/酷刑逼供"]
+    H --> I["更多指控產生"]
+    I --> F
+    style G fill:#FF6B6B
+    style F fill:#FFE66D
 ```
 
 ---
 
-## 2. 魔鬼學的意識形態
+## 深度自測問題詳解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 魔鬼學的意識形態 | 魔鬼學的意識形態 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+### Q1 詳解：性別、年齡、經濟、權力互動
+**核心答案**：老年單身/喪偶女性之所以被瞄準——因為佢哋處於社會邊緣：無丈夫/兒子保護、經濟依賴社區、缺乏法律代表。指控佢哋風險最低，受害者缺乏政治資本反擊。
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### Q2 詳解：塞勒姆複雜性
+**核心答案**：塞勒姆係多重危機交織：與宗主國政治緊張、土地糾紛、青少年群體歇斯底里、鄰里恩怨，全部同時爆發。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 魔鬼學的意識形態 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Witchcraft, Magic, and the Devil in Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### Q3-Q10 精簡版：
+- Q3：消失三重因素——科學理性、國家法律壟斷、經濟穩定
+- Q4：特定時空條件——宗教戰爭+經濟危機+國家權力碎片化
+- Q5：政治巫術話語——2016年特朗普「Lock Her Up」運動
+- Q6：醫療話語壟斷——教會/國家控制身體詮釋權
+- Q7：法官困境——當時法律框架下幾乎必然製造冤案
+- Q8：結構相似——群體恐懼+指責邊緣群體+缺乏正當程序
+- Q9：現代類比——「cancel」同「witch hunt」都係找代罪羔羊
+- Q10：田野研究重點——偏遠社區邊緣群體+宗教話語+經濟文檔
 
-### 1.4 Deep test question
-- 請舉出歷史上 魔鬼學的意識形態 的兩個極端案例，並分析其後果
-- 如果抽離 魔鬼學的意識形態，Witchcraft, Magic, and the Devil in Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，魔鬼學的意識形態 怎樣決定了 1450-1750 的地緣政治？
+---
 
-### 1.5 圖解 / Diagram
+## 5 個 Mermaid 圖解
+
+### 圖解 1：巫術恐懼爆發條件模型
 ```mermaid
 graph TD
-    A[魔鬼學的意識形態 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A["巫術恐懼爆發閾值"] --> B["經濟壓力"]
+    A --> C["宗教話語灌輸"]
+    A --> D["社區裂痕"]
+    A --> E["性別權力失衡"]
+    B --> F["社區危機感"]
+    C --> F
+    D --> F
+    E --> F
+    F --> G{"指責門檻觸發"}
+    G --> H["邊緣群體被指控"]
+    H --> I["承認/酷刑"]
+    I --> J["更多指控連鎖"]
+    J --> G
+    style G fill:#FF6B6B
 ```
 
----
-
-## 3. 性別與巫術指控
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 性別與巫術指控 | 性別與巫術指控 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 性別與巫術指控 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Witchcraft, Magic, and the Devil in Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 性別與巫術指控 的兩個極端案例，並分析其後果
-- 如果抽離 性別與巫術指控，Witchcraft, Magic, and the Devil in Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，性別與巫術指控 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 圖解 2：歐洲巫術審判地理分佈
 ```mermaid
 graph TD
-    A[性別與巫術指控 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A["巫術審判地理分佈"] --> B["德國：最多案件<br/>15,000-30,000宗"]
+    A --> C["英格蘭：2,000-3,000宗"]
+    A --> D["法國：3,000-4,000宗"]
+    A --> E["塞勒姆：200宗"]
+    A --> F["東歐：相對少"]
+    B --> G["宗教戰爭+碎片化權力"]
+    C --> H["普通法vs宗教法庭"]
+    style B fill:#DC143C
+    style C fill:#FFB6C1
 ```
 
----
-
-## 4. 宗教改革的巫術恐懼
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 宗教改革的巫術恐懼 | 宗教改革的巫術恐懼 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 宗教改革的巫術恐懼 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Witchcraft, Magic, and the Devil in Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 宗教改革的巫術恐懼 的兩個極端案例，並分析其後果
-- 如果抽離 宗教改革的巫術恐懼，Witchcraft, Magic, and the Devil in Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，宗教改革的巫術恐懼 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 圖解 3：巫術審判法律程序
 ```mermaid
 graph TD
-    A[宗教改革的巫術恐懼 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A["巫術指控"] --> B{"起訴"}
+    B -->|"yes| C["羈押"]
+    C --> D["酷刑逼供"]
+    D --> E{"承認？"}
+    E -->|"yes| F["定罪"]
+    E -->|"no| G["繼續酷刑"]
+    F --> H["處決：火刑/絞刑"]
+    B -->|"否認| I["繼續羈押"]
+    I --> D
+    style G fill:#DC143C
+    style H fill:#FF6B6B
 ```
 
----
-
-## 5. 現代性與巫術消亡
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 現代性與巫術消亡 | 現代性與巫術消亡 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 現代性與巫術消亡 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Witchcraft, Magic, and the Devil in Early Modern Europe 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 現代性與巫術消亡 的兩個極端案例，並分析其後果
-- 如果抽離 現代性與巫術消亡，Witchcraft, Magic, and the Devil in Early Modern Europe 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，現代性與巫術消亡 怎樣決定了 1450-1750 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 圖解 4：性別與巫術指控關係
 ```mermaid
 graph TD
-    A[現代性與巫術消亡 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A["巫術被告性別分佈"] --> B["女性：75-80%"]
+    A --> C["男性：20-25%"]
+    B --> D["主要為老年/單身/寡婦"]
+    B --> E["接生婆/草藥師/治病師"]
+    D --> F["經濟邊緣+無法律保護"]
+    style B fill:#FFB6C1
+    style D fill:#FFE66D
 ```
 
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Witchcraft, Magic, and the Devil in Early Modern Europe 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Witchcraft, Magic, and the Devil in Early Modern Europe 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 巫術與魔法的歷史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
+### 圖解 5：巫術恐懼歷史時間線
 ```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+gantt
+    title 巫術恐懼歷史 1450-1800
+    dateFormat  YYYY
+    axisFormat  %Y
+    section 獵巫高峰期
+    歐洲巫術審判高峰    :1450, 1700
+    德國宗教戰爭+起訴    :1550, 1650
+    section 塞勒姆
+    塞勒姆審訊    :1692, 1692
+    section 衰落
+    廢除鬼魂證據    :1662, 1700
+    歐洲巫術法廢除    :1730, 1800
+    美國廢除巫術法    :1780, 1800
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+**HIST2213 Witchcraft, Magic, and the Devil** 嘅核心價值：
+1. **理解權力與恐懼**——巫術恐懼唔係「落後」現象，而係權力運作工具
+2. **批判性思考**——現代社會同樣有「巫術話語」只係換咗形式
+3. **方法論創新**——法律檔案+人類學+性別研究跨學科整合
 
-**自學建議 / Study tips**: 配合 Witchcraft, Magic, and the Devil in Early Modern Europe 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**袁騰飛金句**：
+> 「歷史就係咁：你以為獵巫係『迷信』，但係如果你了解背後嘅經濟糾紛、性別政治、社區權力鬥爭，你會發現：每一個被燒死嘅『女巫』，都係權力受害者——只不過佢哋嘅聲音從來未被記載！」
+
+---
+
+## 延伸閱讀
+
+1. Thomas, Keith. *Religion and the Decline of Magic*. London: Penguin, 1971.
+2. Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.
+3. Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Pre-Modern Europe*. Oxford: Oxford University Press, 1997.
+4. Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Brooklyn: Autonomedia, 2004.
+5. Karlsen, Carol F. *The Devil in the Shape of a Woman*. New York: Norton, 1987.
+6. Wexler, Alan. *The Oxford Handbook of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 2013.
+7. Bailey, Michael D. *Magic and Superstition in Europe*. Lanham: Rowman & Littlefield, 2007.
+8. Owen Davies, and Willem de Blécourt, eds. *Beyond the Witch Trials*. Manchester: Manchester University Press, 2004.
