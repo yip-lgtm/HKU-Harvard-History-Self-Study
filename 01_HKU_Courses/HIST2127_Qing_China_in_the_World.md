@@ -1,179 +1,202 @@
-# HIST2127 清代中國與世界 / Qing China in the World, 1644-1912
+# HIST2127 清代中國與世界 / Qing China in the World: 1644-1912
 
-**Instructor**: William R. Kelson / Hoofung Kim (varies by year)
+**Instructor**: HKU History Staff
 **Department**: History, HKU
-**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利分析：清代係世界最大經濟體，但係點解最終被歐洲小國打敗？
+**Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/)
+**Style**: 袁騰飛式 — 犀利、聚焦清代中國的世界性——從康乾盛世到鴉片戰爭，清帝國如何應對全球化的第一波衝擊
 
 ---
 
 ## 問題 1：5 個核心心智模型
 
-### 心智模型 1：「少數民族統治多數」——滿洲人點解可以統治中國268年？
-學者 **Mark Elliott**（哈佛，*The Manchu Way*, 2001）指出：清廷成功關鍵在於「以漢治漢」策略——重用漢族精英同時保持八旗軍事控制。學者 **Peter Perdue**（MIT，*China Marches West*, 2005）分析清帝國係一個「內亞帝國」（Inner Asian Empire）。
+### 1. 滿洲帝國 vs 中國王朝——清帝國的雙重認同
+學者 **Peter Perdue** 和 **David Wright** 研究：清朝統治者從來不僅僅是「中國的皇帝」，更是「滿洲、蒙古、 Tibet 和維吾爾的大汗」——清帝國是一個多民族帝國（manzhou empire），而非單純的「中國王朝」。
 
-- **1644** 清軍入關，建立中國歷史上最大領土帝國（1310萬平方公里）
-- **1683** 統一台灣，統一中國
-- **1759** 征服新疆——清帝國領土達到頂峰
+- **典型學者**: **Peter Perdue** — *China Marches West* (2005); **David Wright** — research on Qing empire
+- **驗證案例**: 1793 年馬戛爾尼使華時，乾隆皇帝在熱河接見他時的身份是「大清皇帝」，而非單純的「中國皇帝」——這反映了清帝國作為多民族帝國的自我認知
 
-### 心智模型 2：「白銀流入」——清代點解全球經濟一體化？
-學者 **Dennis Flynn & Arturo Giráldez**（*Global Connection*, 1995）指出：16-18 世紀全球白銀產量 85% 最终流入中國——呢個數字揭示清代經濟喺全球貿易中嘅核心地位。
+### 2. 白銀流入與貨幣革命——全球化對中國的影響
+1500-1800 年間，美洲和日本的白銀約 50% 流入中國。學者 **William Atwell** 和 **Dennis Flynn** 研究：這種大規模的白銀流入，塑造了明代和清代的貨幣經濟，並間接資助了清代前期的經濟繁榮。
 
-- **1550-1800** 白銀—絲綢—茶葉三角貿易
-- **1700** 中國GDP佔全球30%+（Angus Maddison 數據）
-- **1790** 乾隆年間人口達到 3.01 億——人類歷史上前所未有
+- **典型學者**: **Dennis Flynn & Arturo Giráldez** — research on silver flow; **William Atwell** — *International Bullion Flows and the Chinese Economy* (2002)
+- **驗證案例**: 1808-1856 年間，全球約 50,000-60,000 噸白銀流入中國——這些白銀主要來自拉丁美洲（波托西銀礦）和日本（佐渡金山）
 
-### 心智模型 3：「朝貢體系」——東亞國際秩序點解最終崩潰？
-學者 **John K. Fairbank** 首創「朝貢體系」概念；學者 **David Shambaugh** 分析：朝貢體系唔單純係中國霸權，而係一套多方協商嘅外交禮儀體系。
+### 3. 人口爆炸與生態危機
+1760-1850 年間，清代人口從約 1.4 億增至約 4.3 億——這種人口爆炸對土地、生態和社會穩定帶來了巨大壓力。學者 **Lee Bad** 和 **Wang Yeh-chien** 研究：馬鈴薯、玉米和甘薯從美洲傳入中國，為人口增長提供了食物基礎。
 
-- **1793** 馬戛爾尼使團訪華——乾隆以為英國係另一個朝貢國，要求單膝跪地
-- **1840** 鴉片戰爭——朝貢體系被武力打破
-- **1860s** 洋務運動——中國嘗試師夷之長技
+- **驗證案例**: 1760 年代玉米和馬鈴薯在中國西南山區的推廣，為人口從山區向邊疆遷移提供了基礎——但也導致了雲南山區的森林砍伐和水土流失
 
-### 心智模型 4：「大分流」——清代經濟實力點解開始落後？
-學者 **Kenneth Pomeranz**（*Great Divergence*, 2000）分析：1750 年前長江三角洲同英國生活水平相似；真正分叉在於能源同美洲——英國有煤炭同美洲奴隸種植園，令佢哋可以工業化。
+### 4. 鴉片戰爭——開放國門的暴力
+1839-1842 年鴉片戰爭是中國近代史的開端。學者 **Mao Haijian** 和 **John K. Fairbank** 研究：這場戰爭不是「西方侵略」和「中國落後」的簡單故事，而是兩個帝國在貿易、稅收和主權問題上的正面碰撞。
 
-### 心智模型 5：「世紀恥辱」——清代最後百年點解如此屈辱？
-學者 **Frank Dikötter**（*The Age of Recognition*, 2002）分析：清代衰落唔單純係西方衝擊，而係內部腐敗+人口過剩+環境退化+制度僵化共同造成。
+- **典型學者**: **Mao Haijian** — *The Qing Empire and the Opium War* (2016); **John K. Fairbank** — *The United States and China* (1948)
+- **驗證案例**: 1842 年《南京條約》：中國賠償白銀 2,100 萬圓（等於當時清政府約兩年的總税收），割讓香港島，開放五口通商（廣州、廈門、福州、寧波、上海）
+
+### 5. 帝國崩潰——起義與革命
+19 世紀，清帝國面臨多重危機：太平天國運動（1850-1864）、捻軍起義（1851-1868）、回民起義（1855-1873）。學者 **Philip Kuhn** 研究：這些起義揭示了帝國治理能力的極限，以及漢族士紳權力的增長。
 
 ---
 
 ## 問題 2：3 個根本分歧
 
-### 分歧 1：清代係「最後一個漢族帝國」定係「外來殖民政權」？
-- **A 方（清帝國論）**：清帝國係一個成功嘅多元帝國，將蒙古、西藏、新疆納入中國版圖
-- **B 方（漢族民族主義視角）**：清帝國係滿洲人殖民統治，辛亥革命係「驅逐韃虜」
+### 分歧 1：清代繁榮——真的「盛世」嗎？
+清代的 GDP 在 1800 年約佔全球的約 33%（高於西歐）。但這種繁榮是對誰的繁榮？學者 **Mark Elvin** 的「高水平均衡陷阱」（high-level equilibrium trap）理論認為清代經濟的繁榮掩蓋了技術創新的停滯。
 
-### 分歧 2：清代衰落——內因定係外因？
-- **A 方（內因論）**：人口過剩、土地承載力達到上限、科舉制度扼殺創新
-- **B 方（外因論）**：帝國主義軍事侵略 + 不平等條約體系 + 經濟掠奪
+### 分歧 2：鴉片戰爭——貿易戰 vs 文明衝突？
+鴉片戰爭是單純的貿易戰爭（中國白銀外流引發的軍事對抗），還是更深層次的文明衝突（西方工業文明 vs 中國農業文明）？
 
-### 分歧 3：朝貢體系——係和平國際秩序定係中國霸權工具？
-- **A 方（正面評價）**：朝貢體系減少戰爭、維持穩定
-- **B 方（批判）**：朝貢體系建立喺權力不平等基礎上
+### 分歧 3：清帝國的滅亡——外患 vs 內憂？
+清帝國的滅亡（1912）是因為外國帝國主義的侵略，還是因為內部的制度腐敗和漢族民族主義的興起？
 
 ---
 
 ## 問題 3：10 個深度問題
 
-1. 乾隆年間（1735-1796）係清代高峰期——但係英國使團馬戛爾尼（1793）訪華時已經見到衰落迹象。乾隆點解錯過最後改革機會？
-2. 鴉片戰爭（1839-1842）——中國明明有 4 億人口，英國只有 2,000 萬，點解中國輸得咁快？
-3. 太平天國（1851-1864）——死亡 2,000-7,000 萬人，係人類歷史上最大內戰。呢個運動揭示咗清代社會乜嘢根本矛盾？
-4. 洋務運動（1861-1895）——曾國藩、李鴻章點解可以學西方技術但係無法改變制度？呢個揭示咗「器物現代化 vs 制度現代化」乜嘢問題？
-5. 甲午戰爭（1894-95）——日本 GDP 只係中國 1/5，但係打敗咗北洋水師。呢個揭示咗乜嘢關於現代化本質？
-6. 戊戌維新（1898）——康有為、梁啟超主張君主立憲，但係慈禧太后點解要鎮壓？呢個决定對中國歷史影響有幾深遠？
-7. 辛亥革命（1911）——武昌起義 10 月 10 日成功，但係革命者完全冇預料到結果。呢個揭示咗乜嘢關於歷史行動同歷史後果之間嘅鴻溝？
-8. 清代人口從 1.5 億增至 4 億——呢個人口爆炸點解最終導致社會崩潰？人口係資產定係負擔？
-9. 如果你是李鴻章（1896）——你代表中國簽署《馬關條約》，放棄台灣。你會點向皇帝解釋？你係賣國贼定係歷史悲劇人物？
-10. 從歷史角度——點解「中華民族偉大復興」呢個口號對清代歷史評價如此重要？呢個口號背後隱藏咗乜嘢歷史理解？
+1. **滿洲認同 vs 中國認同**：清代統治者的滿洲身份對其帝國治理策略有什麼影響？滿洲精英如何在「皇帝」和「大汗」的身份之間切换？
+2. **白銀流入的經濟後果**：白銀流入對清代貨幣制度、税收系統和物價水平有什麼具體影響？這種影響與明代白銀化（一条鞭法）的關係是什麼？
+3. **人口爆炸與農業革命**：清代人口從 1.4 億增至 4.3 億——這種增長的生態代價是什麼？森林砍伐、土壤耗竭和水資源危機對清代社會穩定有什麼影響？
+4. **馬戛爾尼使華失敗的根本原因**：1793 年馬戛爾尼使華要求開放通商、設立外交使館、割讓海島——乾隆全部拒絕。這次外交失敗的真正原因是文化傲慢、經濟考量，還是帝國安全的理性計算？
+5. **鴉片貿易的經濟學**：為什麼鴉片貿易在 1800 年代成為英中貿易的核心？東印度公司如何從鴉片貿易中獲利？林則徐的禁菸運動為什麼威脅到了英國的經濟利益？
+6. **太平天國運動**：洪秀全的「拜上帝會」與基督教有什麼關係？這場運動為什麼最終失敗了（1864 年）？太平天國運動與同一時期的歐洲革命運動（1848 年）有什麼可比之處？
+7. **同治中興（1862-1874）**：曾國藩、左宗棠、李鴻章等漢族官員的洋務運動，如何試圖在不改變政治制度的前提下引進西方技術？這種「中學為體，西學為用」策略的局限性是什麼？
+8. **百日維新（1898）**：光緒皇帝和康有為、梁啟超的百日維新，為什麼只持續了 103 天就被慈錀太后鎮壓？這次失敗對中國近代政治改革的前景有什麼深遠影響？
+9. **義和團運動（1899-1901）**：義和團為什麼要「扶清滅洋」？他們的暴力行為（包括殺死外國傳教士和中國基督教徒）與清政府的政策有什麼關係？1900 年八國聯軍侵華（兵力約 20,000 人）如何暴露了清政府的無能？
+10. **1911 年辛亥革命**：為什麼革命的導火線是四川的「保路運動」？武昌起義（1911 年 10 月 10 日）的偶然性——如果那天晚上沒有偶然的炸彈爆炸，革命的爆發時間可能完全不同——這是否意味着辛亥革命是「歷史的必然」？
 
 ---
 
-# 核心心智模型深化
+# 核心心智模型深化（中英對照）
 
-## 1. 清帝國統治模式 / Qing Imperial Governance
+## 1. 滿洲帝國 vs 中國王朝
 
-### 1.1 Bilingual 概念對照
-- 滿漢一家 (mǎn hàn yījiā) = Manchu-Han Unity — 清帝國意識形態
-- 八旗制度 (bā qí zhìdù) = Eight Banners — 滿洲軍事-社會制度
-- 朝貢體系 (cháogòng tǐxì) = Tributary System — 東亞外交秩序
-
-### 1.3 袁騰飛式犀利觀察
-> 「乾隆皇帝話自己係『十全武功』——但係你知唔知，佢死後 44 年，英國軍隊就攻入北京？十全武功，最終變成十次失敗！」
-
-### 1.4 Deep Test Question
-**考試題**：分析清帝國點解可以統治中國 268 年。呢個「少數民族統治多數」模式同蒙古（元朝）有乜嘢差異？點解清帝國可以成功而元朝最終失敗？
-
-### 1.5 圖解
+### 1.1 圖解：清帝國的多民族結構
 ```mermaid
 graph TD
-    A["清帝國成功因素"] --> B["滿漢精英合作<br/>重用漢族官員"]
-    A --> C["八旗軍事控制<br/>保持武力優勢"]
-    A --> D["多元帝國治理<br/>蒙藏回疆"]
-    A --> E["儒家意識形態<br/>倫理治國"]
-    A --> F["人口經濟基礎<br/>農業稅收"]
-    style B fill:#FFE66D
-    style C fill:#FF6B6B
-    style E fill:#90EE90
+    A[Qing Empire as Multi-ethnic Empire<br/>清帝國的多民族結構] --> B[Manchu identity<br/>滿洲身份]
+    A --> C[Han Chinese officials<br/>漢族官員]
+    A --> D[Mongol allies<br/>蒙古盟友]
+    A --> E[Tibetan Buddhist establishment<br/>藏傳佛教]
+    A --> F[Muslim Uyghur frontier<br/>穆斯林維吾爾邊疆]
+    
+    B --> B1[Imperial clan & Bannermen<br/>八旗制度]
+    C --> C1[Civil service examination<br/>科舉制度]
+    D --> D1[Mongol princes & military<br/>蒙古王公和軍事]
+    E --> E1[Ganden Phodrang establishment<br/>噶廈官方佛教]
+    F --> F1[New Territories administration<br/>新邊疆治理]
+    
+    style A fill:#f96
+    style B fill:#9f6
 ```
 
 ---
 
-## 深度自測問題
+## 2. 白銀流入與全球化
 
-**Q1**：乾隆錯過改革機會——因為盛世令精英階層失去改革動力；朝貢體系令中國官員唔了解西方實力；乾隆本人被成功沖昏頭腦。
-
-**Q2**：鴉片戰爭失敗原因——①英國海軍技術優勢；②清軍腐敗無能；③鴉片導致白銀外流，國力削弱。
-
-**Q3-Q10** 精簡版：
-- Q3：太平天國揭示——人口過剩 + 土地兼併 + 科舉失敗 + 西方宗教影響，四者合流引爆農民起義。
-- Q4：洋務運動失敗——因為佢哋只學技術不改制度；日本明治維新成功就係因為佢哋改革制度。
-- Q5：甲午戰爭揭示——現代化唔係金錢問題，而係制度、組織動員能力問題；日本有明治維新制度創新。
-- Q6：慈禧鎮壓維新——因為維新威脅到她嘅權力；呢個决定令中國繼續沉淪，最終導致義和團、八國聯軍等更大災難。
-- Q7：辛亥革命揭示——革命者嘅意圖同歷史後果往往唔符；佢哋想建立共和國，但係最終係軍閥割據。
-- Q8：人口爆炸問題——清代人口增長快過農業技術進步，人均糧食產量持續下降；呢個造成社會不穩定基礎。
-- Q9：李鴻章困境——呢個係歷史道德問題；佢係歴史悲劇人物，而非單純「賣國贼」。
-- Q10：「中華民族偉大復興」——呢個口號暗示清代係中國歷史一部分，而係一個值得驕傲嘅時代；但係批評者指出清代係少數民族殖民統治。
-
----
-
-## 5 個 Mermaid 圖解
-
-### 圖解 1：清代衰落時間線
+### 2.1 圖解：全球白銀流向中國
 ```mermaid
-gantt
-    title 清代衰落 1790-1912
-    dateFormat  YYYY
-    axisFormat  %Y
-    section 乾隆盛世
-    白銀流入    :1700, 1790
-    人口爆炸    :1700, 1790
-    section 衰落開始
-    馬戛爾尼使團    :1793, 1793
-    鴉片戰爭    :1839, 1842
-    section 危機
-    太平天國    :1851, 1864
-    洋務運動    :1861, 1895
-    section 崩潰
-    甲午戰爭    :1894, 1895
-    戊戌維新    :1898, 1898
-    辛亥革命    :1911, 1912
+graph LR
+    A[Potosí Silver Mine<br/>波托西銀礦<br/>現代玻利維亞] -->|Spanish galleons<br/>西班牙大帆船| B[Manila-Acapulco<br/>馬尼拉-阿卡普爾科]
+    B -->|Via Manila Galleon<br/>馬尼拉大帆船| C[Canton trade system<br/>廣州貿易體系]
+    
+    D[Japan Silver<br/>日本白銀<br/>Sado, Ikuno mines] -->|Through Nagasaki<br/>經過長崎| C
+    
+    C --> E[Chinese economy<br/>中國經濟<br/>Silver-backed currency<br/>白銀本位貨幣]
+    E --> F[Tax collection in silver<br/>税收白銀化]
+    E --> G[Consumer spending<br/>消費支出]
+    
+    style A fill:#f96
+    style E fill:#9f6
 ```
 
-### 圖解 2：清代帝國治理結構
+---
+
+## 3. 人口爆炸與生態危機
+
+### 3.1 圖解：清代人口爆炸與農業變遷
+```mermaid
+graph LR
+    A[Qing population explosion<br/>清代人口爆炸] --> B[1700: ~140M<br/>1700年：1.4億]
+    A --> C[1800: ~300M<br/>1800年：3億]
+    A --> D[1850: ~430M<br/>1850年：4.3億]
+    
+    B --> E[New World crops<br/>美洲作物引進]
+    C --> E
+    D --> E
+    
+    E --> F[Potatoes, corn, sweet potatoes<br/>馬鈴薯、玉米、甘薯]
+    F --> G[Arable expansion<br/>耕地面積擴張]
+    G --> H[Southwest China deforestation<br/>西南森林砍伐]
+    H --> I[Soil erosion & floods<br/>水土流失和洪水]
+    
+    style A fill:#f96
+    style H fill:#f66
+```
+
+---
+
+## 4. 鴉片戰爭
+
+### 4.1 圖解：鴉片戰爭的原因結構
 ```mermaid
 graph TD
-    A["清帝國"] --> B["內地十八省<br/>漢族人口"]
-    A --> C["滿洲"]
-    A --> D["蒙古"]
-    A --> E["西藏"]
-    A --> F["新疆"]
-    B --> G["科舉制度"]
-    C --> H["八旗"]
-    style A fill:#FFD700
+    A[Causes of the Opium War<br/>鴉片戰爭的原因] --> B[Economic causes<br/>經濟原因]
+    A --> C[Political causes<br/>政治原因]
+    A --> D[Ideological causes<br/>意識形態原因]
+    
+    B --> B1[China: silver outflow<br/>中國：白銀外流]
+    B --> B2[UK: trade deficit<br/>英國：貿易逆差]
+    B --> B3[Solution: opium smuggling<br/>解決方案：鴉片走私]
+    
+    C --> C1[Opium ban: Lin Zexu<br/>禁菸：林則徐]
+    C --> C2[UK response: military force<br/>英國回應：軍事力量]
+    C --> C3[Unfair treaties imposed<br/>強加不平等條約]
+    
+    D --> D1[Canton System vs Free Trade<br/>廣州體系vs自由貿易]
+    D1 --> D2[China: tributary worldview<br/>中國：朝貢體系]
+    D1 --> D3[UK: liberal internationalism<br/>英國：自由國際主義]
+    
+    style A fill:#f96
+    style C3 fill:#c00,color:#fff
 ```
 
 ---
 
-## 總結
+## 5. 帝國崩潰
 
-**HIST2127 Qing China in the World** 嘅核心價值：
-1. **全球史視角**：清代唔係孤立帝國，而係全球經濟、帝國主義、朝貢體系嘅核心節點
-2. **批判性分析**：朝貢體系唔係和平秩序，而係權力不平等嘅表現
-3. **當代相關性**：清代領土遺產（新疆、西藏、內蒙古）至今仍係中國外交核心問題
-
-**袁騰飛金句**：
-> 「清代歷史就係一場大戲——盛世到來、衰落開始、然後恥辱；但係你知唔知，清朝皇帝係所有大一統王朝入面最勤力嘅？每日凌晨四點開工！但係勤力救唔到腐敗制度！」
+### 5.1 圖解：19世紀清帝國的多重危機
+```mermaid
+graph LR
+    A[19th century crises<br/>19世紀多重危機] --> B[Taiping Rebellion<br/>太平天國<br/>1850-1864<br/>20-30 million dead]
+    A --> C[Nian Rebellion<br/>捻軍起義<br/>1851-1868]
+    A --> D[Dungan Revolt<br/>回民起義<br/>1855-1873]
+    A --> E[Opium Wars<br/>鴉片戰爭<br/>1839-1842, 1856-1860]
+    
+    B --> F[Population loss<br/>人口損失]
+    C --> F
+    D --> F
+    
+    B --> G[State capacity collapse<br/>國家能力崩解]
+    E --> G
+    
+    G --> H[Self-Strengthening Movement<br/>洋務運動<br/>1861-1895]
+    H --> I[Failed: Sino-Japanese War<br/>失敗：中日甲午戰爭<br/>1894-1895]
+    
+    style A fill:#f96
+    style B fill:#c00,color:#fff
+```
 
 ---
 
-## 延伸閱讀
+# 總結
 
-1. Spence, Jonathan. *The Search for Modern China*. New York: Norton, 1990.
-2. Perdue, Peter C. *China Marches West: The Qing Conquest of Central Eurasia*. Cambridge: Harvard University Press, 2005.
-3. Elliott, Mark C. *The Manchu Way: The Eight Banners and Ethnic Identity in Late Imperial China*. Stanford: Stanford University Press, 2001.
-4. Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000.
-5. Fairbank, John K., ed. *The Chinese World Order*. Cambridge: Harvard University Press, 1968.
-6. Dikötter, Frank. *The Age of Recognition: Eight Hundred Years of Chinese Drama*. London: Chatto & Windus, 2002.
-7. Ho, Ping-ti. *Studies in the Population of China*. Cambridge: Harvard University Press, 1959.
-8. Kuhn, Philip. *Soulstealers: The Chinese Witch Hunt*. Cambridge: Harvard University Press, 1990.
+1. **清帝國是一個多民族帝國，不是單純的中國王朝**：它的政治邏輯、軍事結構和外交策略，都同時服務於滿洲統治者對不同族群的統治需要。
+
+2. **白銀流入塑造了清代繁榮，也埋下了危機的種子**：當 19 世紀白銀流入减少時，清政府的财政基礎随之动摇。
+
+3. **鴉片戰爭不是「落後就要挨打」的道德寓言**：它是兩個帝國在貿易利益、稅收主權和國際法觀念上的正面碰撞，背後沒有簡單的「對」與「錯」。
+
+4. **清帝國的崩潰是內外因素共同作用的結果**：外國帝國主義的軍事壓力、太平天國等內部起義的衝擊，以及科舉制度培養的漢族士紳對現有政治體制的持續不满，共同导致了1912年的滅亡。
+
+5. **清代中國的「世界性」被嚴重低估**：清帝國從來不是一個封闭的「中华帝国」——它與俄羅斯帝國、中亞汗國、南洋華商網絡、拉丁美洲白銀經濟有著密切的跨國聯繫。
+
+**自學建議**: 配合 Peter Perdue 的 *China Marches West* + Mao Haijian 的 *The Qing Empire and the Opium War*，輸出讀書筆記到 `06_Reading_Notes/`。

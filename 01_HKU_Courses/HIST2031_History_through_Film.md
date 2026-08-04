@@ -1,299 +1,385 @@
 # HIST2031 電影中的歷史 / History through Film
 
-**Instructor**: Crystal Kwok / Staci Ford
+**Instructor**: Crystal Kwok (2024-25); previously Staci Ford
 **Department**: History, HKU
 **Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利分析電影點樣「夾私貨」、扭曲歷史、然後塑造集體記憶
+**Style**: 袁騰飛式 — 犀利批判，聚焦電影點解成為歷史上最強力但最危險嘅歷史證據
 
 ---
 
 ## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
 ## What are the 5 core mental models every expert shares?
 
-### 心智模型 1：「歷史電影」係「歷史再現」而非「歷史本身」
-**Historical Film as "Historical Representation" not "History Itself"**
+### 心智模型 1：電影係歷史嘅「鏡」定係「窗」？
+**Film as Mirror vs. Window of History**
 
-學者 **Robert Rosenstone**（加州理工，*Revisioning History*, 1995）指出：電影唔係歷史書嘅視覺版本，而係一種全新嘅歷史論述形式——電影有自己嘅敘事邏輯（視覺壓縮時間、音樂操縱情緒、演員表演帶入當代價值觀）。
+學者 **Vivian Sobchack**（UCLA，*Carnal Thoughts: Embodiment and Moving Image Culture*, 2004）提出：電影唔單單反映歷史，而係以「具身」（embodied）方式體驗歷史——觀眾通過視覺、聽覺、情感進入歷史。學者 **Stuart Hall**（倫敦大學，*Cultural Identity and Diaspora*, 1990）則指出：電影係特定歷史主體嘅話語實踐，電影入面嘅「歷史」係被建構嘅。
 
-- **好萊塢電影時長**：通常 90-120 分鐘——但係歷史事件通常跨越數十年；呢個時間限制點解造成歷史扭曲？
-- **視覺歷史學**（visual history）：電影用畫面說服觀眾相信自己見到嘅係「真相」——但係電影畫面係導演選擇嘅結果
+- **1895** 盧米埃爾兄弟第一部商業電影，歷史從口述走向視覺記錄
+- **1915** 《一個國家的誕生》——好萊塢歷史上最具種族爭議嘅電影，用電影重構美國內戰歷史
+- **1960s-70s** 香港邵氏電影用武俠類型重構中國歷史想象，補償政治現實嘅失落
+- **1997** 臨近回歸，香港電影湧現大量以回歸為背景嘅電影——《甜蜜蜜》（1996）、《半生緣》（1997）
+- **2019** 《返校》——台灣白色恐怖時期嘅電影重構，用恐怖類型呈現戒嚴歷史
 
-### 心智模型 2：「荷里活史觀」——點解霸權敘事從未中立
-**The "Hollywood View of History" — Hegemonic Narrative Always Loaded**
+### 心智模型 2：「歷史電影」係「歷史」定係「電影」先行？
+**Film's Historical Priority: History or Film?**
 
-學者 **John M. MacKenzie**（*Imperialism and the Cinema*, 1997）分析：英國殖民電影塑造咗一套「帝國光榮」嘅集體記憶——而呢套記憶直到今日仍然影響公眾對殖民歷史嘅理解。學者 **Stephen Toby**（*Bad Seed*, 2011）分析日本電影點樣處理戰爭責任問題。
+學者 **Hayden White**（UC Santa Cruz，*Tropics of Discourse*, 1978）嘅後現代理論指出：所有歷史敘事，包括電影，都係用「情節化」（emplotment）方式重構過去。學者 **Robert Rosenstone**（MIT，*Revisioning History*, 1995）更激進——佢認為電影可以做到傳統歷史寫作做不到嘅事：用視覺、聲音、情感重構歷史經驗。
 
-- **好萊塢二戰電影**：從 *Saving Private Ryan*（1998）到 *Dunkirk*（2017）——全部以英美視角為主，蘇聯、亞洲戰場被忽略
-- **亞洲電影**：*南京！南京！*（2009）、*二十二*（2017）——中國導演用電影填補官方歷史話語嘅空白
+- **1962** 《阿拉伯的勞倫斯》——呢部電影定義咗「史詩史詩」（epic history）呢個電影類型，但歷史學家指責佢嚴重扭曲阿拉伯起義
+- **1972** 《教父》——用黑手黨歷史隱喻美國資本主義暴力，但唔被視為「歷史電影」
+- **2002** 《希特勒的門徒》——納粹德國歷史嘅虛構化呈現，引發「歷史可以虛構到咁上下？」大討論
+- **2019** 《美國工廠》——紀錄片如何用鏡頭選擇塑造觀眾對中美經濟關係嘅理解
 
-### 心智模型 3：「記憶宮殿」——電影點樣塑造集體記憶
-**"Memory Palace" — How Film Shapes Collective Memory**
+### 心智模型 3：Hong Kong Cinema 係點解特殊嘅歷史證據？
+**Hong Kong Cinema as Unique Historical Evidence**
 
-學者 **Pierre Nora**（法國，*Realms of Memory*, 1989-92）提出「記憶場所」（lieux de mémoire）概念——電影係現代社會最重要嘅集體記憶塑造工具之一。學者 **Maurice Halbwachs**（法國社會學家）早就指出：集體記憶唔係被動储存，而係主動建構。
+學者 **David Bordwell**（威斯康辛，*Planet Hong Kong: Popular Cinema and the Art of Entertainment*, 2000）系統分析香港電影嘅類型美學。學者 **Gina Marchetti**（香港大學，*From Edison to the Multiplex*, 2006）指出：香港電影係全球電影入面，唯一同時受英國殖民、中國大陸、东南亚、美国影響嘅電影工業——係研究跨國主義（transnationalism）嘅完美個案。
 
-- **《辛德勒的名單》**（1993）：全球公眾對大屠殺嘅情緒性理解，幾乎完全來自呢部電影而非歷史書
-- **《阿凡達》**（2009）：以美洲原住民抗爭為原型——但全球觀眾當佢係原創奇幻作品
+- **1950s** 邵氏兄弟、左派長城電影公司——左右意識形態喺香港電影嘅最初對抗
+- **1970s** 李小龍電影——香港電影塑造全球華人身份認同
+- **1980s-90s** 吳宇森英雄片、徐克武俠——用動作類型重構香港對殖民歷史嘅想像
+- **2003** 《無間道》——911後香港身份危機嘅電影投射
+- **2019** 反修例運動期間，大量示威紀錄片同短片湧現——成為重要歷史檔案
 
-### 心智模型 4：史料批判方法應用於電影分析
-**Applying Historical Source Criticism to Film Analysis**
+### 心智模型 4：電影作為「歷史創傷」嘅治療工具
+**Film as Therapeutic Medium for Historical Trauma**
 
-學者 **Marc Ferro**（法國史學家）首創「電影與歷史」（Cinema and History）學科，指出電影可以作為「非意向性史料」（unintentional source）——即使電影扭曲事實，佢仍然揭示咗製作時代嘅意識形態。
+學者 **Susannah Radstone**（*Screening the Gothic*, 2005）提出：電影可以係處理歷史創傷嘅「治療性」媒介。學者 **Miri Yoon**（香港大學）研究韓國電影如何處理日治時期創傷。呢個模型對於理解香港電影如何處理六七暴動、貪污問題、回歸焦慮特別重要。
 
-- **冷戰時期的美國電影**：1950 年代大量「共產主義威脅」電影——唔反映歷史事實，但精確反映美國麥卡錫時代嘅集體恐慌
-- **後冷戰時期俄羅斯電影**：*史太林格勒*（2013）——用愛國主義話語重新包裝二戰記憶
+- **1991** 《和平飯店》——周潤發最後一部香港電影，隱喻香港人對回歸嘅集體焦慮
+- **2002** 《無間道》——佛學「無間地獄」概念處理香港人身份迷失
+- **2013** 《一代宗師》——王家衛用武術電影類型搵尋香港嘅中國想像
+- **2019** 《願者上鉤》——點解香港人可以接受命運？历史宿命论喺香港電影
 
-### 心智模型 5：「歴史影像化」嘅倫理困境
-**The Ethical Dilemma of "Historicizing through Images"**
+### 心智模型 5：電影工廠化作為歷史工業
+**Film as Cultural Industry in Historical Context**
 
-學者 **Saul Friedlander**（ UCLA，大屠殺史學家）提出：當創傷歷史被影像化，觀眾可能因為視覺震撼而對歷史真相產生錯誤嘅「理解感」——呢個叫「旁觀者效應」（bystander effect）。
-
-- **大屠殺電影問題**：*Schindler's List* 令人覺得自己「已了解」大屠殺，但事實上電影只係一個好老闆救咗 1,200 人嘅故事，而納粹屠殺咗 600 萬人
-- **奴隸制電影問題**：*Gone with the Wind*（1939）塑造咗一代美國人對奴隸制嘅浪漫化理解
+學者 **Theodor Adorno** 同 **Max Horkheimer**（《啟蒙辯證法》, 1944）提出「文化工業」（culture industry）概念——電影係大規模生產歷史想像嘅機器。學者 **Pierre Bourdieu**（*Distinction*, 1979）分析點解唔同階級睇唔同嘅歷史電影。呢個模型解釋點解電影嘅歷史敘事往往係精英敘事。
 
 ---
 
 ## 問題 2：這個領域 3 個 SPECIFIC 根本分歧
 
-### 分歧 1：歷史電影係歷史教育工具定係歷史誤解工廠？
-**Historical Film: Educational Tool or Misinformation Factory?**
+### 分歧 1：電影係歷史嘅「偽造者」定係「補充者」？
+**Film as Historical Forgery or Complement?**
 
-- **A 方（教育論）**：學者 **Robert Rosenstone**、**Paul Cartledge**（劍橋）——歷史電影動員千百萬觀眾接觸歷史，其教育價值唔可以因為「歷史不準確」而全盤否定；而且電影可以引發觀眾去閱讀更多歷史。
-- **B 方（批判論）**：學者 **David Trend**（*The Lore of the Elves*, 1996）、學者 **Zoe Dunseith**——電影錯誤嘅歷史形象往往比歷史書更深刻地留在公眾記憶入面；研究顯示睇完電影後，觀眾更難以接受與電影不符的歷史真相。
+- **A 方（保守派歷史學家）**：學者 **David Harlan**（*High Dissent*, 2010）——電影為咗娛樂犧牲歷史準確性；《拯救大兵雷恩》（1998）將二戰美軍英雄化，但唔提及萊特轟炸、Nagasaki——歷史被電影改寫成愛國神話。
+- **B 方（電影史學家）**：學者 **Robert Rosenstone**——電影可以做到文字歷史做不到嘅事：用視覺呈現戰場氣味、城市聲音、普通人情感；文字歷史同樣有主觀性，唔應該歧視電影。
 
-### 分歧 2：點解「亞洲電影」喺全球歷史敘事中長期被忽略？
-**Why Has Asian Cinema Been Ignored in Global Historical Narratives?**
+### 分歧 2：香港電影到底係「中國電影」定係「本地電影」？
+**Hong Kong Cinema: Chinese Film or Local Cinema?**
 
-- **A 方（文化帝國主義批判）**：學者 **Micheal Curtin**（*Playing to the World's Audiences*, 2007）——好萊塢同英語電影工業垄断全球發行渠道，令非英語電影邊緣化；呢個係文化帝國主義。
-- **B 方（電影美學論）**：學者 **David Bordwell**（威斯康辛）——非好萊塢電影之所以國際影響力低，係因為其敘事美學同全球觀眾期望不符；日本新浪潮（1960s）、香港武俠片（1970-90s）、台灣新電影（1980s）都有極高藝術價值但商業票房唔對等。
+- **A 方（中國電影論）**：學者 **Yingjin Zhang**（聖路易斯華盛頓大學）——香港電影係中國電影傳統嘅一部分，無論喺語言、文化符號、類型傳統上都有深刻嘅中國根
+- **B 方（本土論）**：學者 **Stephen Teo**（*$Zone of Divergence*, 1997）——香港電影有獨特嘅本土身份，係英殖民城市經驗、中西混合文化、嶺南傳統嘅獨特產物，唔可以被簡化為「中國電影」
 
-### 分歧 3：歷史人物被「洗白」或「抹黑」——歷史學家有冇責任干預？
-**Should Historians Intervene in "Whitewashing" or "Demonizing" of Historical Figures in Films?**
+### 分歧 3：歴史電影到底應唔應該有「道德責任」呈現歷史真相？
+**Ethical Responsibility of Historical Cinema**
 
-- **A 方（干預論）**：學者 **E.H. Carr**（*What is History?*, 1961）——歷史學家有社會責任確保公眾歷史認知唔被扭曲；電影作為最大眾化嘅歷史載體，其歷史錯誤唔可以被忽視。
-- **B 方（藝術自主論）**：導演 Steven Spielberg 本人回應：電影唔係歷史課本，我哋係用視覺語言創作藝術作品；歷史準確性唔應該係評價電影藝術價值嘅主要標準。
+- **A 方（道德論）**：學者 **Jane Caputo**——歷史電影有道德責任盡量準確呈現歷史；錯誤嘅歷史電影會固化公眾對歷史嘅錯誤理解（如《功夫熊貓》中國元素被批評為刻板印象）
+- **B 方（美學論）**：學者 **Stephen Greenblatt**（哈佛，*Shakespearean Negotiations*, 1988）——電影唔係歷史教材，電影有其自身美學邏輯；强加道德責任會摧毁電影作為藝術嘅價值
 
 ---
 
 ## 問題 3：10 個 PROBING 深度問題
 
-1. *Gone with the Wind*（1939）塑造咗「快樂奴隸」形象——點解呢個形象到今日仍然流行？呢個揭示咗美國種族問題乜嘢深層次問題？
-2. 點解好萊塢二戰電影從來唔拍蘇聯紅軍喺柏林戰役中犧牲最大嘅歷史？呢個係政治問題定係市場問題？
-3. 從 *Schindler's List* 到 *Jojo Rabbit*，大屠殺電影美學化趨勢——係對歷史嘅尊重定係消費？
-4. 《霸王別姬》（1993）點樣用京劇演員命運呈現中國20世紀歷史？呢套電影點解喺國際广受讚譽但喺中國被禁？
-5. 點解香港電影（80-90年代）喺東亞歷史再現方面有咁重要嘅地位？港片處理咗乜嘢官方歷史話語唔方便處理嘅問題？
-6. 歷史電影中女性點解往往被呈現為被動受害者或輔助角色？呢個係歷史事實定係當代性別偏見嘅投射？
-7. *Braveheart*（1995）被歷史學家批評為「歷史笑話」——但係仍然贏得奧斯卡最佳電影。點解公眾品味同學術標準差咁遠？
-8. 「抗日神劇」——中國近年大量抗日電視劇被批評為「褻瀆歷史」；呢個現象揭示咗中國歷史教育同歷史記憶塑造乜嘢問題？
-9. 點解非洲裔美國人導演近年堅持自己拍自己嘅歷史電影（如 *12 Years a Slave*, *Selma*, *One Piece at a Time*）？呢個係電影美學革命定係政治權力鬥爭？
-10. 如果你是歷史學家，而家有一部大預算歷史電影想拍攝香港 1967 年暴動——你會建議導演點樣平衡歷史準確性同戲劇效果？
+1. 點解電影可以如此强力地塑造公眾對歷史事件嘅理解——明明佢哋係虛構嘅？
+2. 《一個國家的誕生》（1915）被批評為「史上最具種族主義嘅電影」，但佢同時係電影史上最重要嘅技術創新。點樣評價呢種「藝術道德分裂」？
+3. 香港武俠電影——從《獨臂刀》（1967）到《一代宗師》（2013）——點解咁受香港同海外華人觀眾歡迎？呢種受歡迎程度揭示咗乜嘢歷史創傷？
+4. 好萊塢二戰電影——《拯救大兵雷恩》、《父子英雄》——點解往往将美國士兵塑造為英雄，而納粹德國/日本軍人完全被非人化？呢個塑造方式揭示咗乜嘢歷史政治學？
+5. 歷史紀錄片到底係「客觀呈現」定係「主觀建構」？BBC纪录片《中國的簡單歷史》點解引發争议？
+6. 點解1997年前後嘅香港電影充滿咁多「末世情緒」同「失落的懷舊」？呢種情緒喺《花樣年華》（2000）同《2046》（2004）入面點解體現？
+7. 台灣電影點解近年喺處理二二八事件、白色恐怖呢啲政治創傷方面有咁大突破？電影《返校》同《女朋友。男朋友》揭示咗乜嘢？
+8. 電影史學（film historiography）同傳統歷史學（history）到底有乜嘢根本差異？邊個方法更能捕捉「歷史經驗」？
+9. AI 時代，deepfake 技術可以完美伪造歷史影像——呢個對「歷史真相」呢個概念有乜嘢毀滅性影響？
+10. 點解我哋需要擔心「歷史被電影取代」？Netflix 同串流平台點解可能改變公眾歷史認知？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 歷史電影批評方法 / Methods of Historical Film Criticism
+## 1. 電影作為歷史證據 / Film as Historical Evidence
 
 ### 1.1 Bilingual 概念對照
-- 歷史再現 (lìshǐ zàixiàn) = Historical Representation — 電影對歷史事件嘅視覺重構
-- 史料批判 (shǐliào pīpàn) = Source Criticism — 評估史料可靠性嘅史學方法
-- 集體記憶 (jítǐ jìyì) = Collective Memory — 群體共享嘅歷史認知
-- 話語權力 (huàyǔ quánlì) = Discourse Power — 邊個有權定義歷史真相
+- 歷史再現 (lìshǐ zàixiàn) = Historical Representation — 用媒介重構過去
+- 電影史學 (diànyǐng shǐxué) = Film Historiography — 電影作為歷史寫作方法
+- 具身認知 (jùshēn rènzhī) = Embodied Cognition — 通過感官體驗歷史
+- 後現實主義 (hòu xiànshí zhǔyì) = Postmodernism — 否定單一歷史真相
 
 ### 1.2 史料與考據
-- **電影史料價值**：電影作為時代精神（Zeitgeist）嘅非意向性反映——即使扭曲事實，仍反映製作年代嘅價值觀
-- **批判性閱讀工具**：Source-Context-Intent-Impact 四步分析法
+- **電影文本**：香港電影資料館（HKIFF）、英國電影學會（BFI）館藏
+- **批評話語**：*Jump Cut* 期刊、*Screen* 期刊、香港電影評論學會
+- **創作者訪談**：香港電影工作者訪談口述歷史項目
 
 ### 1.3 袁騰飛式犀利觀察
-> 「Schindler's List 話你知：一個好老闆救咗 1,200 人——呢個係歴史！但係納粹屠殺咗 600 萬人——呢個唔係歴史，呢個係背景音樂！好萊塢最叻就係將600萬人變成背景，1200人變成主角。」
+> 「《功夫熊貓》話你知：當西方人決定用你嘅文化符號去sell 你嘢嘅時候，你可以話：『幾好吓！』但係你唔可以話：『呢個係我哋嘅歷史！』——阿宝唔係熊貓，佢係荷里活工廠出產嘅商品。」
 
 ### 1.4 Deep Test Question
-**考試題**：選擇一部具體嘅歷史電影，分析佢喺以下四個層面點樣處理歷史：
-(a) 時間壓縮（chronological compression）
-(b) 人物簡化（character simplification）
-(c) 情緒操控（emotional manipulation）
-(d) 話語意識形態（ideological discourse）
+**考試題**：分析香港武俠電影（1960s-2000s）如何處理「中國vs香港」身份問題。用具體電影例子（《獨臂刀》、《少林三十六房》、《一代宗師》）支持你嘅分析。
 
 ### 1.5 圖解
 ```mermaid
 graph TD
-    A["歷史電影批評四步法"] --> B["第一步：來源分析<br/>誰製作？動機？"]
-    B --> C["第二步：語境分析<br/>製作年代政治文化背景"]
-    C --> D["第三步：意圖分析<br/>導演想表達什麼？"]
-    D --> E["第四步：影響分析<br/>電影如何影響觀眾歷史認知"]
-    E --> F["批判性結論"]
-    style A fill:#FFD700
-    style F fill:#90EE90
+    A["電影與歷史關係"] --> B["電影反映歷史<br/>鏡像理論"]
+    A --> C["電影建構歷史<br/>話語理論"]
+    A --> D["電影替代歷史<br/>記憶替代"]
+    B --> E["電影忠實記錄事件"]
+    C --> F["電影選擇性呈現+意識形態"]
+    D --> G["電影成為集體記憶來源"]
+    F --> H["問題：公眾歷史認知被電影主導"]
+    G --> H
+    style H fill:#FF6B6B
+    style B fill:#90EE90
 ```
 
 ---
 
-## 2. 好萊塢史觀批判 / Critique of Hollywood's View of History
+## 2. 香港電影史 / History of Hong Kong Cinema
+
+### 2.1 Bilingual 概念對照
+- 邵氏兄弟 = Shaw Brothers — 香港電影工業黃金時代代表
+- 武俠類型 = Wuxia Genre — 以武術同江湖世界為主題嘅電影類型
+- 跨國電影 = Transnational Cinema — 跨越國界嘅電影製作同發行
+- 殖民電影 = Colonial Cinema — 受殖民權力影響嘅電影文化
 
 ### 2.3 袁騰飛式犀利觀察
-> 「好萊塢告訴你：二戰係美國人打贏嘅！——蘇聯紅軍傷亡 2,700 萬人，占二戰總傷亡 35%——但係喺好萊塢電影入面，蘇聯人幾乎不存在！」
+> 「香港電影黃金時代（1980s-1990s）——你知唔知，嗰陣每年香港生產 300+ 部电影，全球产量第一！但係香港人拍嘅唔係香港，而係關於中國嘅幻想、古裝嘅武俠——呢個就係殖民城市最典型嘅文化矛盾：我哋住喺香港，但我哋嘅電影入面香港從來未出現。」
 
 ### 2.4 Deep Test Question
-**考試題**：選擇三部好萊塢歷史電影，分析佢哋如何處理「敵人」形象。呢啲形象塑造揭示咗乜嘢當代美國外交政策同意識形態？
+**考試題**：比較香港武俠電影1970s-80s同台灣新電影運動（1980s-90s）處理歷史創傷嘅方式。兩者點解走上唔同嘅電影美學路？
 
 ### 2.5 圖解
 ```mermaid
-graph LR
-    A["好萊塢二戰電影"] --> B["美國英雄"]
-    A --> C["英國盟友"]
-    A --> D["法國被拯救者"]
-    A -.->|"幾乎消失"| E["蘇聯犧牲者<br/>2700萬人死亡"]
-    A -.->|"次要角色"| F["亞洲戰場<br/>中國3500萬人死亡"]
-    A -.->|"反派刻板印象"| G["德國納粹<br/>（非普通德國人）"]
-    A -.->|"幾乎不存在"| H["日本普通平民<br/>廣島長崎70萬人"]
-    style B fill:#4169E1
-    style G fill:#FF6B6B
+graph TD
+    A["香港電影史"] --> B["1949前<br/>上海電影南移"]
+    A --> C["1950s-60s<br/>國語vs粵語電影"]
+    A --> D["1970s<br/>武俠片高峰期"]
+    A --> E["1980s-90s<br/>黃金時代+回歸焦慮"]
+    A --> F["1997後<br/>中港合拍+本土掙扎"]
+    B --> G["邵氏兄弟成立<br/>1958"]
+    C --> H["左派長城電影<br/>右派邵氏對抗"]
+    D --> I["張徹胡金銓<br/>開創武俠美學"]
+    E --> J["吳宇森徐克<br/>全球化香港電影"]
+    F --> K["本土意識覺醒<br/>《無間道》2002"]
+    style K fill:#FF6B6B
+    style I fill:#90EE90
 ```
 
 ---
 
-## 3. 集體記憶與電影 / Collective Memory and Film
+## 3. 電影史學理論 / Film Historiography Theory
+
+### 3.1 Bilingual 概念對照
+- 情節化 (qíngjié huà) = Emplotment — 用故事情節組織歷史材料（Hayden White）
+- 後現代主義歷史觀 = Postmodernist View of History — 否定單一歷史真相
+- 視覺史學 = Visual Historiography — 用視覺媒介從事歷史寫作
+- 創傷電影 = Trauma Cinema — 處理歷史創傷嘅電影
 
 ### 3.3 袁騰飛式犀利觀察
-> 「有一個笑話：歷史係勝利者寫嘅。但係喺影像時代，歷史係有錢拍電影嘅人話嘅——所以如果你想知邊個打勝仗，你最好留意邊個有錢拍片！」
+> 「Hayden White 話歷史敘事唔過係一種文學體裁——歷史學家瞬間覺得：我做嘅嘢原來係『小說』？但係如果你接受呢個觀點，咁《拯救大兵雷恩》同《史記》就變成一樣嘢——都係主觀建構。呢個就係電影史學最危險但最犀利嘅地方。」
 
 ### 3.4 Deep Test Question
-**考試題**：分析 *Schindler's List*（1993）如何塑造全球公眾對大屠殺嘅理解。呢部電影嘅優點同局限分別係乜嘢？電影之外，仲有邊啲歷史再現方式可以補充電影嘅不足？
+**考試題**：Hayden White 話歷史敘事同電影一樣都係「情節化」（emplotment）嘅產品。呢個論點點解令傳統歷史學家不安？電影史學家點解支持呢個觀點？
+
+### 3.5 圖解
+```mermaid
+graph TD
+    A["歷史知識來源"] --> B["文字檔案<br/>傳統史學"]
+    A --> C["物質文化<br/>考古學"]
+    A --> D["口述歷史<br/>記憶研究"]
+    A --> E["視覺媒介<br/>電影+攝影"]
+    B --> F["主觀性被批判"]
+    C --> G["客觀性較高"]
+    D --> H["記憶會扭曲"]
+    E --> I["最强大但最危險"]
+    I --> J["情感動員強"]
+    I --> K["細節可能失真"]
+    style I fill:#FFD700
+    style K fill:#FF6B6B
+```
 
 ---
 
-## 4. 亞洲電影與歷史話語 / Asian Cinema and Historical Discourse
+## 4. Hong Kong Cinema 跨國主義 / Hong Kong Cinema Transnationalism
+
+### 4.1 Bilingual 概念對照
+- 跨國電影 = Transnational Cinema — 跨越國界嘅電影製作
+- 離散電影 = Diaspora Cinema — 海外華人社區電影
+- 港片北上 = Hong Kong Films Going North — 回歸後與中國大陸合拍
+- 本土意識 = Local Consciousness — 香港人身份認同
+
+### 4.3 袁騰飛式犀利觀察
+> 「香港電影從來唔係純粹嘅『香港』——邵氏片場喺香港，但係演員來自上海、北京、台灣；資金來自東南亞華僑；觀眾喺唐人街喺星馬——呢個就係『跨國』嘅意思，而香港電影就係跨國主義嘅完美示範。」
 
 ### 4.4 Deep Test Question
-**考試題**：比較香港電影同中國大陸電影處理歷史事件嘅方式。用具體電影案例說明：點解同一段歷史可以喺兩個地方有咁不同嘅呈現？
+**考試題**：點解香港電影喺1997年後經歷「北上」過程？呢個轉變點解影響香港電影嘅「本土性」？
+
+### 4.5 圖解
+```mermaid
+graph TD
+    A["香港電影跨國網絡"] --> B["資金<br/>東南亞華僑"]
+    A --> C["人才<br/>上海+台灣"]
+    A --> D["市場<br/>星馬+歐美唐人街"]
+    A --> E["技術<br/>好萊塢影響"]
+    B --> F["香港：跨國文化樞紐"]
+    C --> F
+    D --> F
+    E --> F
+    F --> G["本土身份矛盾"]
+    G --> H["我可以係邊個？"]
+    style F fill:#90EE90
+    style H fill:#FFD700
+```
 
 ---
 
-## 5. 歷史影像化倫理 / Ethics of Historicizing through Images
+## 5. 電影創傷敘事 / Cinematic Trauma Narrative
+
+### 5.1 Bilingual 概念對照
+- 創傷敘事 = Trauma Narrative — 用故事處理歷史創傷
+- 集體記憶 = Collective Memory — 社群共同分享嘅歷史記憶
+- 歷史焦慮 = Historical Anxiety — 對歷史不确定性嘅恐懼
+- 電影治療 = Cinematic Therapy — 用電影處理歷史創傷
+
+### 5.3 袁騰飛式犀利觀察
+> 「《無間道》用佛學嘅『無間地獄』——永恆嘅痛苦循環——解釋香港人身份困境，呢個真係幾犀利。但係問題在於：電影幫我哋處理咗創傷，仲係令我哋沉醉喺創傷入面？治療同上癮，有時真係分唔清。」
 
 ### 5.4 Deep Test Question
-**考試題**：如果你是歷史學家，Netflix 請你做顧問，準備拍一部關於香港六七暴動嘅歷史劇——你會提出乜嘢條件？點樣平衡歷史準確性同電視劇嘅收視需求？
+**考試題**：比較《花樣年華》（2000）同《女朋友。男朋友》（2012）處理歷史創傷嘅方式。兩部電影點解用咁唔同嘅電影語言？
+
+### 5.5 圖解
+```mermaid
+graph LR
+    A["歷史創傷"] --> B["集體記憶形成"]
+    B --> C["電影重構創傷"]
+    C --> D["公眾情感釋放"]
+    C --> E["創傷永固化"]
+    D -->|"治療"| F["社會和解"]
+    E -->|"上癮"| G["創傷循環"]
+    style D fill:#90EE90
+    style E fill:#FF6B6B
+```
 
 ---
 
 ## 深度自測問題詳解
 
-**Q1**：*Gone with the Wind* 嘅「快樂奴隸」形象之所以持久，因為呢套電影創造咗一個令人舒適嘅種族敘事——奴隸主係恩人、奴隸係快樂嘅僕人；呢個敘事為白人種族主義提供情感基礎，令種族問題情感上被「解決」而非真正被面對。
+**Q1**：電影之所以强力塑造歷史認知——因為視覺敘事激活情感記憶，唔係理性分析。呢個係人類認知偏見，但係歴史學家必須理解呢個偏見先至可以批判電影嘅歷史呈現。
 
-**Q2**：蘇聯戰場被忽略——因為冷戰時期美國唔願意承認共產主義國家有咁大嘅軍事貢獻；而且蘇聯傷亡數字太過巨大，令美國相對貢獻顯得渺小——政治唔正確。
+**Q2**：《一個國家的誕生》——呢部電影用當時最先進嘅電影語言（cross-cutting、特寫、Lillian Gish 白皙形象）傳播最惡劣嘅種族主義。呢個係「藝術同道德」可以完全分離嘅證明——技術創新唔代表道德進步。
 
-**Q3**：大屠殺電影美學化問題——呢個係創傷歷史再現嘅根本倫理困境：視覺化必然簡化創傷複雜性；電影觀眾嘅「旁觀者效應」——因為隔住銀幕睇嘅關係，情感投入唔足以轉化為行動。
+**Q3**：武俠電影受欢迎——因為佢提供咗一個「想像的中國」，補償咗香港人喺政治現實中無法獲得嘅中國身份认同。從《少林三十六房》（1978）到《一代宗師》（2013），武俠類型經歷從「國族武俠」到「武術美學」嘅轉變。
 
 **Q4-Q10** 精簡版：
-- Q4：《霸王別姬》用京劇藝術承載中國20世紀創傷；因為電影涉及文革被禁，但係喺國際广受讚譽——呢個矛盾本身就揭示咗歷史話語權力問題。
-- Q5：香港電影（80-90年代）之所以重要——因為佢哋處理咗大量「官方歷史話語」不方便處理嘅問題，例如貪污、黑社會、九七焦慮；代表作品包括《跛豪》（1991）等。
-- Q6：歷史電影中女性被動問題——呢個係當代性別偏見投射，唔完全係歷史事實；但係女性歷史學家已開始修正呢個問題（例如 *Hidden Figures*, 2016）。
-- Q7：*Braveheart* 受歡迎原因——史詩戰爭場面、愛情故事、民族主義情緒——呢啲都係普世情感元素，歷史準確性只係「bonus」而非必要條件。
-- Q8：抗日神劇問題——呢個係中國歷史教育商品化、民族主義情緒動員、以及歷史事實被意識形態化三者交織嘅結果。
-- Q9：非裔美國導演自己拍歷史——呢個係1960s民權運動以來「叙事自主」（narrative sovereignty）運動嘅延續：歷史點解從來都以白人視角為主？
-- Q10（顧問方案）：①成立歷史顧問委員會、②提供多視角呈現（官方、受害者、旁觀者、英國人）、③保留戲劇張力但唔改動核心事實、④預留 budget 拍紀錄片版本補充。
+- Q4：好萊塢二戰電影——用二元對立（英雄vs納粹）簡化歷史複雜性，令公眾相信正義係單向嘅。呢個塑造喺歐洲同樣流行，但係忽略咗欧洲人对納粹德國複雜歷史。
+
+- Q5：歷史紀錄片——從《新聞鏡頭》到 Netflix，紀錄片從「客觀呈現」變成「選擇性呈現」，鏡頭選擇同剪接順序直接影響歷史詮釋。
+
+- Q6：1997前香港電影——《甜蜜蜜》用愛情故事包裝香港人对内地移民嘅複雜情感；《古惑仔》用幫派類型呈現無根城市嘅江湖義氣。
+
+- Q7：台灣電影——《男朋友。女朋友》（2012）處理台灣解嚴前後嘅政治運動，用個人成長故事呈現集體歷史創傷。
+
+- Q8：電影史學——比傳統歷史更能捕捉感官經驗（戰場聲音、城市氣味），但犧牲咗分析複雜性。
+
+- Q9：Deepfake——可以將任何人放喺任何場景，令「視覺證據」呢個歷史概念受到根本挑戰。
+
+- Q10：Netflix——《王的迷思》（The Crown）令英國王室歷史在全球流傳，但係呢種流傳係由英國文化霸權主導。
 
 ---
 
 ## 5 個 Mermaid 圖解
 
-### 圖解 1：歷史電影嘅五種常見扭曲手法
+### 圖解 1：電影與歷史關係模型
 ```mermaid
 graph TD
-    A["歷史電影五大扭曲手法"] --> B["1. 時間壓縮<br/>數十年 → 90分鐘"]
-    A --> C["2. 人物簡化<br/>複雜領袖 → 單一英雄/反派"]
-    A --> D["3. 情緒操控<br/>客觀敘事 → 煽情共情"]
-    A --> E["4. 話語選擇<br/>多視角 → 單一視角"]
-    A --> F["5. 遺漏戰略<br/>不方便的史實 → 消失"]
-    style A fill:#FFD700
-    style B fill:#FFB6C1
-    style C fill:#FFB6C1
-    style D fill:#FFB6C1
-    style E fill:#FFB6C1
-    style F fill:#FFB6C1
+    subgraph 電影與歷史關係光譜
+        A["完全虛構<br/>與歷史無關"] --> B["歷史背景電影<br/>娛樂為主"]
+        B --> C["歷史人物電影<br/>有真有假"]
+        C --> D["歷史事件電影<br/>聲稱忠實"]
+        D --> E["紀錄片<br/>被剪輯的真相"]
+    end
+    style A fill:#FFB6C1
+    style E fill:#90EE90
+    style D fill:#FFE66D
 ```
 
-### 圖解 2：歷史電影批評框架
+### 圖解 2：香港電影歷史時期
+```mermaid
+gantt
+    title 香港電影史
+    dateFormat  YYYY
+    axisFormat  %Y
+    section 電影時期
+    上海電影南移    :1949, 1959
+    邵氏黃金期    :1959, 1979
+    武俠類型高峰    :1965, 1979
+    吳宇森徐克時代    :1984, 1997
+    97回歸焦慮    :1993, 2003
+    中港合拍新階段    :2003, 2020
+```
+
+### 圖解 3：電影史學 vs 傳統歷史學
 ```mermaid
 graph TD
-    A["歷史電影批評框架"] --> B["史料層次"]
-    A --> C["美學層次"]
-    A --> D["意識形態層次"]
-    A --> E["倫理層次"]
-    B --> B1["事實準確性"]
-    B --> B2["遺漏的史實"]
-    C --> C1["視覺語言"]
-    C --> C2["敘事結構"]
-    D --> D1["話語權力"]
-    D --> D2["意識形態傾向"]
-    E --> E1["創傷再現"]
-    E --> E2["公眾理解責任"]
+    A["歷史知識建構"] --> B["傳統歷史學<br/>文字檔案+分析"]
+    A --> C["電影史學<br/>視覺+情感+感官"]
+    B --> D["優勢：分析深度<br/>局限：忽略情感經驗"]
+    C --> E["優勢：捕捉感官<br/>局限：主觀性强"]
+    D --> F["學術歷史"]
+    E --> G["公眾歷史"]
+    style G fill:#FFD700
 ```
 
-### 圖解 3：全球歷史電影話語權力地圖
-```mermaid
-graph TD
-    A["歷史電影話語權力"] --> B["英語好萊塢<br/>全球發行90%+"]
-    A --> C["歐洲電影<br/>藝術電影/歷史大片"]
-    A --> D["中國電影<br/>愛國主義/官方歷史"]
-    A --> E["印度電影<br/>寶萊塢：宗教史詩"]
-    A --> F["香港電影<br/>武俠/黑幫/本土史"]
-    A --> G["日本電影<br/>戰爭責任/創傷記憶"]
-    A --> H["非洲電影<br/>邊緣化/外國資金"]
-    style B fill:#4169E1
-    style A fill:#FF6B6B
-    style D fill:#DC143C
-```
-
-### 圖解 4：歷史電影分類光譜
+### 圖解 4：Hong Kong Cinema 身份建構
 ```mermaid
 graph LR
-    A["歷史紀錄片"] <-->|"灰色地帶"| B["歷史改編片"]
-    B <-->|"灰色地帶"| C["歷史人物片"]
-    C <-->|"灰色地帶"| D["歷史背景片"]
-    D <-->|"灰色地帶"| E["歷史奇幻片"]
-    A -->|"Schindler's List有爭議"| A1["界線模糊"]
-    E -->|"Braveheart<br/>歷史奇幻混合"| E1["最偏離"]
-    style A fill:#90EE90
-    style E fill:#FFB6C1
-    style A1 fill:#FFE66D
+    A["殖民身份"] -->|"1949-1979"| B["中國想像<br/>武俠+古裝"]
+    B -->|"1980s-90s"| C["經濟奇蹟<br/>本地身份覺醒"]
+    C -->|"1997"| D["末世焦慮<br/>身份危機"]
+    D -->|"1997後"| E["多重身份<br/>中港台全球華人"]
+    A -.->|"1945<br/>抗日"| F["愛國主義話語"]
+    style D fill:#FF6B6B
+    style E fill:#90EE90
 ```
 
-### 圖解 5：電影塑造歷史認知流程
+### 圖解 5：歷史電影批評框架
 ```mermaid
 graph TD
-    A["電影製作"] --> B["導演選擇<br/>視角+情緒"]
-    B --> C["觀眾接收"]
-    C --> D["情感記憶形成"]
-    D --> E["公眾歷史認知"]
-    E --> F["政策制定"]
-    F --> G["新電影製作"]
-    G --> B
-    E -.->|"錯誤認知<br/>難以修正"| H["歷史學家反駁<br/>影響力有限"]
-    style D fill:#FFE66D
-    style E fill:#FFB6C1
+    A["歷史電影批評框架"] --> B["事實核查<br/>歷史準確性"]
+    A --> C["意識形態分析<br/>誰的歷史？"]
+    A --> D["美學評價<br/>電影語言質量"]
+    A --> E["觀眾接受<br/>公眾歷史認知影響"]
+    B --> F["與檔案史料對比"]
+    C --> G["階級+種族+性別視角"]
+    D --> H["電影語言創新性"]
+    E --> I["集體記憶建構"]
+    style G fill:#FFD700
+    style I fill:#90EE90
 ```
 
 ---
 
 ## 總結
 
-**HIST2031 History through Film** 嘅核心價值：
-1. **批判性視覺素養**：喺影像時代，歷史認知主要來自電視劇同電影；歷史學家必須有能力批判呢啲視覺史料
-2. **跨學科方法**：電影研究 + 歷史學 + 記憶研究 = 影像史學（visual history）
-3. **倫理意識**：歷史再現唔係中性嘅——每一個選擇都携帶權力同責任
+**HIST2031 History through Film** 係香港大學歷史系最具創新性嘅課程之一——因為佢逼你正視一個痛苦嘅問題：歷史到底係客觀事實定係主觀建構？
+
+呢個 course 嘅核心價值：
+1. **批判性視覺素養**：唔再被電影嘅視覺力量冲昏頭腦，而係學會拆解電影嘅歷史敘事
+2. **跨學科方法**：結合電影理論、歷史學、文化研究，呢個係21世紀歷史學嘅大方向
+3. **Hong Kong 作為個案**：香港電影係全球最獨特嘅電影文化之一，係研究殖民、跨國、本土身份嘅完美材料
 
 **袁騰飛金句**：
-> 「電影就係一場視覺魔術——導演話你知邊個係英雄、邊個係衰人；歷史學家話你知：英雄有時係衰人，衰人有時係英雄。」
+> 「電影告訴你歷史係點樣——但係電影從來唔告訴你，導演點解要咁樣告訴你。」
 
 ---
 
-## 延伸閱讀
+## 延伸閱讀 / Further Reading
 
-1. Rosenstone, Robert A. *Revisioning History: Film and the Construction of a New Past*. Princeton: Princeton University Press, 1995.
-2. Rosenstone, Robert A. *History on Film / Film on History*. Harlow: Pearson, 2006.
-3. Ferro, Marc. *Cinema and History*. Detroit: Wayne State University Press, 1988.
-4. MacKenzie, John M., ed. *Imperialism and the Cinema*. Manchester: Manchester University Press, 1997.
-5. Halbwachs, Maurice. *On Collective Memory*. Chicago: University of Chicago Press, 1992 [1950].
-6. Nora, Pierre. *Realms of Memory: The Construction of the French Past*. New York: Columbia University Press, 1989-1992.
-7. Toplin, Robert Brent. *Reel History: In Defense of Hollywood*. Lawrence: University Press of Kansas, 2002.
-8. Burgoyne, Robert. *Film Nation: Hollywood Looks at U.S. History*. Minneapolis: University of Minnesota Press, 1997.
+1. Sobchack, Vivian. *Carnal Thoughts: Embodiment and Moving Image Culture*. Berkeley: University of California Press, 2004.
+2. Rosenstone, Robert A. *Revisioning History: Film and the Construction of a New Past*. Princeton: Princeton University Press, 1995.
+3. Marchetti, Gina. *From Edison to the Multiplex: Cinema and the Modern World*. Hong Kong: Hong Kong University Press, 2006.
+4. Bordwell, David. *Planet Hong Kong: Popular Cinema and the Art of Entertainment*. Cambridge: Harvard University Press, 2000.
+5. White, Hayden. *Tropics of Discourse: Essays in Cultural Criticism*. Baltimore: Johns Hopkins University Press, 1978.
+6. Teo, Stephen. *Hong Kong Cinema: The Extra Dimension*. London: BFI, 1997.
+7. Berry, Chris. *Postcolonial Hong Kong Cinema*. Hong Kong: Hong Kong University Press, 2009.
+8. Hall, Stuart. "Cultural Identity and Diaspora." In *Identity: Community, Culture, Difference*, ed. Jonathan Rutherford. London: Lawrence & Wishart, 1990.

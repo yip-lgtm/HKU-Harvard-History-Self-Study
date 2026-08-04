@@ -1,411 +1,232 @@
-# HIST4035 應用歷史：歷史研究實習 / History Applied: Internship in Historical Studies (6 credits)
+# HIST4035 應用歷史：歷史研究實習 / History Applied: Internship in Historical Studies (Capstone)
 
-**Instructor**: David Pomfret (PhD Cambridge)
+**Instructor**: David Pomfret / Alison So (historical)
 **Department**: History, HKU
-**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦歷史點解唔只係學術，而係服務社區嘅工具
-
----
-
-## 重要特點
-
-**呢個係應用歷史課程，學生服務社區、合作夥伴機構——唔係傳統意義上嘅實習。**
+**Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST4035 Course Website](https://history.hku.hk/hist4035/)
+**Style**: 袁騰飛式 — 歷史系學生的最大膽嘗試：把歷史研究帶入社區，用歷史為真實的人服務
 
 ---
 
 ## 問題 1：這個領域所有專家共享的 5 個核心心智模型
 
-### 心智模型 1：應用歷史 (Public History) 概念
-學者 **Robert Kelley** 研究：Public History——歷史學家喺博物館、檔案館、政府、公司工作，用歷史服務社會。
+### 1. 應用歷史的核心邏輯（The Logic of Applied History）
 
-學者 **Thomas Caufield** 分析：應用歷史有別於學術歷史——目標受眾唔係同儕，而係公眾。
+**專家如何思考**: 應用歷史（applied history）的核心信念是：**歷史知識不應該只存在於大學圖書館，而應該服務於社會**。學者 **David Lowenthal** 在 *Why History Geographers?* (1998) 和其他著作中論證：歷史知識的公共應用，是歷史學家的社會責任。
 
-- HIST4035 獨特模式：學生為合作機構撰寫歷史——免費consultancy
-- 合作夥伴：企業、NGO、社區團體、協會
-- 最終產品：研究報告 (consultancy paper)
+- **典型模式**: 學生 → 社區合作夥伴 → 研究 → 諮詢報告 → 社區使用
+- **驗證方法**: 學生的研究成果可以直接被合作夥伴用於網站、商店或機構展示
 
-### 心智模型 2：社區歷史寫作 (Community History Writing)
-學者 **David Lowenthal** (*The Heritage Crusade*, 1998) 研究：社區歷史揭示官方歷史忽視嘅維度。
+### 2. 口述歷史方法（Oral History Methodology）
 
-學者 **Alison Booth** 分析：口述歷史、社區檔案——底層聲音。
+**專家如何思考**: HIST4035 的核心方法之一是口述歷史——通過訪談，收集那些在官方檔案中不存在的聲音。學者 **Alistair Thomson** 等口述歷史專家強調：口述歷史是「賦權」工具，讓普通人成為自己歷史的叙述者。
 
-- 合作夥伴訪談：收集口述歷史
-- 一手史料研究：機構記録、照片、文件
-- 撰寫歷史：清晰、有吸引力、公眾可讀
+- **典型工具**: 錄音設備、轉錄軟件（Express Scribe）、NVivo（質性數據分析）
+- **HKU 資源**: HKU Libraries 提供口述歷史設備借用服務
 
-### 心智模型 3：歷史研究倫理
-學者 **Punch** 研究：質性研究倫理——知情同意、保密、匿名處理。
+### 3. 社區合作與夥伴關係（Community Partnership）
 
-學者 **David Flinders** 分析：研究者同受訪者關係——權力不平等等問題。
+**專家如何思考**: 有效的社區合作需要建立真正的夥伴關係——不是「研究者研究社區」，而是「研究者與社區共同建構歷史」。這種方法被稱為「參與式行動研究」（Participatory Action Research, PAR）。
 
-- 訪談倫理培訓——必須接受培訓先至可以開始訪談
-- 保密原則：受訪者資料保護
-- 研究成果分享：合作夥伴有使用權
+- **典型挑戰**: 知情同意、保密性、知識產權、社區認可
+- **HKU 合作模式**: 社區夥伴提供接觸和故事，學生提供研究技能，導師提供方法論指導
 
-### 心智模型 4：歷史作爲咨詢工具 (History as Consultancy)
-學者 **Jannsen** 研究：歷史咨詢——企業、非牟利機構點解需要歷史？
+### 4. 歷史寫作的公共形式（Public History Writing）
 
-學者 **Gardner** 分析：歷史故事可以係品牌建立、社區連結、政策辯論嘅工具。
+**專家如何思考**: 歷史學術論文和公共歷史寫作有不同的標準：學術論文服務於同行評審，公共歷史寫作服務於普通公眾。學者 **Cathy Gurley** 等人研究：公共歷史寫作需要更清晰的語言、更强的叙事性、以及對讀者的更强關懷。
 
-- 品牌歷史：公司歷史可以係marketing工具
-- 社區歷史：集體記憶可以團結社區
-- 政策歷史：歷史先例影響政策辯論
+- **典型形式**: 諮詢報告（consultancy paper）、機構歷史（institutional history）、社區故事集
 
-### 心智模型 5：歷史同公眾嘅關係
-學者 **Roy Rosenzweig** 研究：公眾歷史——點解普通人需要歷史？
+### 5. 反思性實踐（Reflexive Practice）
 
-學者 **David Thelen** 分析：歷史唔只係學術，而係每一個人理解自身嘅工具。
-
-- 身份認同：個人/社區身份根植於歷史
-- 批判思考：歷史訓練公共思辨能力
-- 民主參與：知情公民需要歷史素養
+**專家如何思考**: HIST4035 要求學生撰寫「反思日誌」——記錄自己的期望、實際經驗、以及兩者之間的差距。這種「反思性實踐」（reflexive practice）是專業成長的核心工具。
 
 ---
 
 ## 問題 2：3 個根本分歧
 
-### 分歧 1：應用歷史——服務定批判？
-- **A 方**：服務導向
-  - 為合作夥伴提供佢哋想要嘅歷史
-  - 商業/機構目標優先
-- **B 方**：批判導向
-  - 歷史學家嘅公共責任
-  - 必要時呈現不舒服嘅真相
+### 分歧 1：歷史研究——學術標準 vs 社區需求？
+**核心問題**: 當社區合作夥伴的需求與學術標準發生衝突時，學生應該服從誰？
 
-### 分歧 2：歷史真相——可以妥協嗎？
-- **A 方**：可以適度調整
-  - 考慮受眾、語境、合作關係
-  - 避免無必要嘅冒犯
-- **B 方**：歷史真相唔可以妥協
-  - 任何妥協都係背叛學術誠信
-  - 如果合作夥伴要求造假，拒絕合作
+### 分歧 2：歷史所有權——研究者 vs 社區？
+**核心問題**: 學生收集的口述歷史材料，所有權屬於誰？研究者？受訪者？還是社區？
 
-### 分歧 3：受訪者權利——保護定記錄？
-- **A 方**：保護優先
-  - 受訪者福祉高於歷史價值
-  - 必要時犧牲歷史材料
-- **B 方**：記錄優先
-  - 歷史如果消失就無得挽回了
-  - 平衡保護同記錄
+### 分歧 3：歷史敏感性——揭露 vs 保護？
+**核心問題**: 當歷史發現可能對當事人或社區造成困擾時，學生應該公開還是保密？
 
 ---
 
 ## 問題 3：10 個深度問題
 
-1. 如果你為一間老字號茶餐廳寫歷史，你點平衡「品牌故事」同「批判分析」？
-2. 點解歷史咨詢越嚟越受歡迎？但係歷史學家係咪變成商業工具？
-3. 如果合作夥伴要求你刪除部分歷史（涉及敏感內容），你點做？
-4. 訪談過程——點解受訪者有權隨時撤回同意？
-5. 點解大學生可以為真實機構撰寫歷史？呢個模式有乜嘢優點同局限？
-6. 如果你去訪問一位長者，佢分享咗一段好personal但係極具歷史價值嘅經歷，你點平衡？
-7. 歷史寫作——點解「公眾可讀」同「學術嚴謹」可以共存？
-8. 合作夥伴最後決定唔發表你嘅研究，點解可能？你點回應？
-9. 點解社區歷史咁重要？但係為乜嘢好多機構願意參與？
-10. 如果你去2020年，COVID-19期間，口述歷史研究者遇到乜嘢特殊挑戰？
+1. 什麼是「參與式行動研究」（Participatory Action Research）？它與傳統的「研究者研究社區」模式有什麼根本差異？
+2. 口述歷史的「記憶」問題：受訪者的記憶是可靠的歷史來源嗎？如何處理記憶的選擇性和主觀性？
+3. **知情同意書**：在口述歷史研究中，標準的知情同意書應該包含哪些內容？如何確保受訪者真正理解他們的權利？
+4. 你的 HIST4035 合作夥伴（如 社區企業、NGO、博物館）有什麼具體需求？這些需求與你的學術目標如何調和？
+5. **歷史寫作的受眾意識**：公共歷史寫作（諮詢報告）與學術歷史寫作（學期論文）的讀者群和語言標準有何差異？如何根據受眾調整寫作風格？
+6. 什麼是「歷史創傷」（historical trauma）？當你的研究涉及社區的創傷記憶（如 種族歧視、殖民暴力）時，你應該如何處理這些敏感材料？
+7. **數據保護**：你收集的口述歷史錄音和文字稿，如何安全存儲？如何平衡數據共享（學術目的）和隱私保護？
+8. 你的研究發現，如何同時滿足學術標準（經得起同行評審）和社區需求（實際可用）？這兩種標準如何整合？
+9. **反思日誌的價值**：什麼是「反思性實踐」（reflexive practice）？撰寫反思日誌如何幫助你成為更好的歷史學家？
+10. 從 HIST4035 的經驗，你對「歷史研究的公共責任」有了什麼新的理解？歷史系的技能（研究、寫作、分析）如何應用於非學術職業？
 
 ---
 
-## 核心心智模型深化（中英對照）
+# 核心心智模型深化（中英對照）
 
-## 1. 應用歷史概念 (Public/Applied History)
+## 1. 應用歷史的核心邏輯
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 應用場景 |
+| 英文 | 中文 | 歷史含義 | HKU HIST4035 |
 |---|---|---|---|
-| Public History | 公眾歷史 | 歷史服務公眾 | 博物館、媒體 |
-| Applied History | 應用歷史 | 歷史服務特定需求 | HIST4035模式 |
-| Community History | 社區歷史 | 為特定社區撰寫歷史 | 口述歷史 |
-| History Consultancy | 歷史咨詢 | 為機構提供歷史服務 | 企業品牌 |
-| Critical History | 批判歷史 | 歷史作社會批判工具 | 公共史學 |
-
-### 1.2 史料與考據
-- Robert Kelley: Public History
-- 質性研究倫理準則
-- HKU HIST4035 合作夥伴案例
+| Applied history | 應用歷史 | 歷史知識服務社會 | 社區合作研究 |
+| Public history | 公共歷史 | 歷史知識的公眾傳播 | 諮詢報告 |
+| Community partnership | 社區夥伴關係 | 研究者與社區共同協作 | 合作項目 |
+| Consultancy paper | 諮詢報告 | 服務社區需求的歷史產品 | 機構歷史 |
 
 ### 1.3 袁騰飛式犀利觀察
-HIST4035最犀利嘅創新就係：學生唔係去「實習」，而係用自己嘅歷史研究能力服務社區。
-呢個模式挑戰咗傳統歷史教育——歷史唔只係學術，而係可以係實際嘅社會工具。
-但係，歷史學家服務邊個？服務乜嘢目標？呢啲問題唔可以回避。
+歷史系的學生常有一個誤解：**「歷史研究只能在圖書館和檔案館裏進行」**。
 
-### 1.4 Deep test question
-- 如果合作夥伴要求你撰寫一段「擦鞋」歷史，你點做？
+HIST4035 的存在就是要打破這個誤解。歷史研究可以走出圖書館，進入真實的社區——為一個有 50 年歷史的餐廳寫歷史，為一個 NGO 保存記憶，為一個社區重建被遺忘的故事。
 
-### 1.5 圖解
+這種研究不是「降低標準」，而是**「提高要求」**——你需要同時滿足學術嚴謹性（能經得起同行評審）和社區實用性（能被合作夥伴真正使用）。這兩個標準有時會衝突，這種衝突本身，就是最真實的歷史研究倫理訓練。
+
+### 1.5 圖解：HIST4035 合作流程
 ```mermaid
 flowchart TD
-    A[歷史研究能力] --> B[服務社區]
-    B --> C[合作夥伴需求]
-    C --> D[品牌歷史/社區歷史]
-    D --> E[歷史真相保持]
-    E --> F[學術嚴謹性]
-    F --> G[公眾可讀性]
-    G --> H[Consultancy Paper]
+    A[HIST4035 Process<br/>實習流程] --> B[Week 1-3<br/>Research visits<br/>研究探訪<br/>Meet partner<br/>認識合作夥伴]
+    B --> C[Week 3-6<br/>Primary research<br/>一手研究<br/>Interviews + sources<br/>訪談+搜集材料]
+    C --> D[Week 7-10<br/>Draft writing<br/>草擬寫作<br/>Consultation session<br/>諮詢環節]
+    D --> E[Week 11-14<br/>Final submission<br/>最終提交<br/>Share with partner<br/>與夥伴分享]
+    
+    B --> F[Expectation management<br/>期望管理]
+    C --> G[Ethical compliance<br/>倫理合規]
+    D --> H[Client feedback<br/>客戶反饋]
+    E --> I[Reflexive journal<br/>反思日誌]
+    
+    style A fill:#f96
+    style F fill:#9f6
+    style I fill:#f66
 ```
 
 ---
 
-## 2. 社區歷史寫作 (Community History Writing)
+## 2. 口述歷史方法
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 方法 |
+### 2.1 Bilingual 概念對照
+| 英文 | 中文 | 歷史含義 | 核心挑戰 |
 |---|---|---|---|
-| Oral History | 口述歷史 | 訪問收集記憶 | 訪談技巧 |
-| Community Archive | 社區檔案 | 社區自己建立嘅史料庫 | 共同建立 |
-| Life History | 生命史 | 個人生命故事作為歷史 | 深度訪談 |
-| Memory | 記憶 | 個人/集體過去 | 記憶政治 |
-| Silenced Voices | 被忽視聲音 | 主流歷史無嘅群體 | 邊緣群體 |
+| Oral history | 口述歷史 | 通過訪談收集記憶 | 記憶可靠性 |
+| Informed consent | 知情同意 | 確保受訪者理解權利 | 權力不平等 |
+| Memory selectivity | 記憶選擇性 | 記憶是主觀建構 | 非客觀事實 |
+| Reflexivity | 反思性 | 研究者對自身位置的覺察 | 立場承認 |
 
-### 1.2 史料與考據
-- Paul Thompson: The Voice of the Past (1978)
-- HK Oral History Archives
-
-### 1.3 袁騰飛式犀利觀察
-口述歷史係俾「被忽視聲音」發聲嘅工具——但係訪問過程本身就係一個權力關係。
-研究者決定問乜嘢問題、記錄乜嘢片段、解讀乜嘢意義——呢個過程無辦法完全中性。
-但係，唔做口述歷史就等於繼續忽視呢啲聲音。權力問題唔係放棄嘅理由，而係谨慎行事的提醒。
-
-### 1.4 Deep test question
-- 如果受訪者分享咗一個令你震驚嘅創傷經歷，你點處理？
-
-### 1.5 圖解
+### 2.3 圖解：口述歷史研究流程
 ```mermaid
 flowchart TD
-    A[社區歷史寫作] --> B[口述歷史訪談]
-    B --> C[知情同意]
-    C --> D[錄音/錄像]
-    D --> E[一字稿轉錄]
-    E --> F[分析解讀]
-    F --> G[歷史撰寫]
-    G --> H[合作夥伴使用]
-    H --> I[社區記憶保存]
-```
-
----
-
-## 3. 研究倫理 (Research Ethics)
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
-|---|---|---|---|
-| Informed Consent | 知情同意 | 受訪者了解並同意參與 | 必須 |
-| Confidentiality | 保密原則 | 保護受訪者身份 | 核心 |
-| Right to Withdraw | 撤回權利 | 受訪者可隨時撤回 | 法律要求 |
-| Harm Minimization | 傷害最小化 | 避免研究造成傷害 | 倫理核心 |
-| Debriefing | 研究後跟進 | 訪談後關注受訪者 | 責任 |
-
-### 1.2 史料與考據
-- Qualitative Research Ethics guidelines
-- HKU Research Ethics requirements
-
-### 1.3 袁騰飛式犀利觀察
-研究倫理唔係「限制」，而係「責任」。歷史研究涉及真實人物嘅真實經歷——呢啲經歷唔係學術論文嘅素材，而係一個人嘅生命。
-研究者有責任確保自己嘅工作唔會傷害呢啲人——即使呢個意味着犧牲部分「學術價值」。
-
-### 1.4 Deep test question
-- 如果受訪者訪問後表示後悔，你已經完成咗consultancy paper，點做？
-
-### 1.5 圖解
-```mermaid
-flowchart TD
-    A[研究倫理] --> B[訪談前培訓]
-    A --> C[知情同意書]
-    A --> D[保密原則]
-    B --> E[受訪者權利保護]
+    A[Oral history research<br/>口述歷史研究] --> B[Prepare: research background<br/>準備：背景研究]
+    A --> C[Recruit: find interviewees<br/>招募：尋找受訪者]
+    A --> D[Design: create questions<br/>設計：準備問題]
+    
+    B --> E[Consent form<br/>知情同意書]
     C --> E
     D --> E
-    E --> F[負責任嘅研究]
-    F --> G[高質量成果]
+    
+    E --> F[Conduct interview<br/>進行訪談]
+    F --> G[Record: audio/video<br/>錄音/錄像]
+    G --> H[Transcribe<br/>轉錄]
+    H --> I[Analyze<br/>分析]
+    I --> J[Write history<br/>撰寫歷史]
+    J --> K[Share with community<br/>與社區分享]
+    
+    style A fill:#f96
+    style E fill:#9f6
+    style K fill:#c00,color:#fff
 ```
 
 ---
 
-## 4. 歷史咨詢模式 (History Consultancy Model)
+## 3. 社區合作與夥伴關係
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 應用 |
-|---|---|---|---|
-| Consultancy Paper | 咨詢報告 | HIST4035最終產品 | 合作夥伴使用 |
-| Brand History | 品牌歷史 | 企業歷史服務營銷 | 商業機構 |
-| Community History | 社區歷史 | 社區記憶保存 | NGO/社區組織 |
-| Institutional History | 機構歷史 | 組織自身歷史 | 學校/醫院 |
-| Memory Project | 記憶項目 | 記錄社區/家族記憶 | 口述歷史計劃 |
-
-### 1.2 史料與考據
-- History Consultancy practices worldwide
-- HKU HIST4035 partnership examples
-
-### 1.3 袁騰飛式犀利觀察
-歷史咨詢模式最犀利嘅問題：歷史學家係咪變成商業寫手？當機構付錢（或者喺呢個情況免費服務），歷史學家嘅獨立性受到乜嘢影響？
-呢個問題無標準答案——但係每一個歷史學家必須自己思考。
-
-### 1.4 Deep test question
-- 如果合作夥伴係一個有爭議歷史嘅機構（例如曾經剝削員工），你點做？
-
-### 1.5 圖解
+### 3.1 圖解：研究者-社區權力動態
 ```mermaid
-flowchart TD
-    A[合作夥伴] --> B[提出需求]
-    B --> C[學生研究團隊]
-    C --> D[歷史資料收集]
-    D --> E[口述歷史訪談]
-    E --> F[撰寫咨詢報告]
-    F --> G[免費consultancy交付]
-    G --> H[合作夥伴使用於營銷/保存]
+graph TD
+    A[Researcher-community power dynamics<br/>研究者-社區權力動態] --> B[Researcher has:<br/>研究者有:]
+    A --> C[Community partner has:<br/>社區夥伴有:]
+    
+    B --> B1[Academic training<br/>學術訓練]
+    B --> B2[Writing skills<br/>寫作技能]
+    B --> B3[Research methodology<br/>研究方法論]
+    B --> B4[Institutional resources<br/>機構資源]
+    
+    C --> C1[Insider knowledge<br/>內部知識]
+    C --> C2[Community trust<br/>社區信任]
+    C --> C3[Real needs<br/>實際需求]
+    C --> C4[Historical memory<br/>歷史記憶]
+    
+    B1 --> D[Power imbalance<br/>權力不平衡]
+    B2 --> D
+    C1 --> D
+    C3 --> D
+    
+    D --> E[PAR: Participatory Action Research<br/>參與式行動研究<br/>Power is shared<br/>權力共享]
+    
+    style A fill:#f96
+    style E fill:#9f6
 ```
 
 ---
 
-## 5. 歷史同公眾關係 (History & the Public)
+## 4. 公共歷史寫作
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
-|---|---|---|---|
-| Public History | 公眾歷史 | 歷史服務公眾 | 民主社會 |
-| Historical Literacy | 歷史素養 | 公眾理解歷史能力 | 公民教育 |
-| Historical Thinking | 歷史思維 | 批判分析過去 | 核心技能 |
-| Commemoration | 紀念活動 | 官方歷史呈現 | 記憶政治 |
-| Counter-memory | 反記憶 | 挑戰官方敘事 | 邊緣群體 |
-
-### 1.2 史料與考據
-- Roy Rosenzweig: "How People Learn About Their Community's Past"
-- David Thelen: "The Practice of American History"
-
-### 1.3 袁騰飛式犀利觀察
-公眾歷史嘅核心命題：歷史唔只係學者嘅專利，而係每一個公民嘅權利同責任。
-當大眾缺乏歷史素養，就容易被政客、媒體操控——歷史虛無主義、選擇性記憶、謊言重複一千遍就係真理。
-歷史學家服務公眾唔係「降低標準」，而係「擴大受眾」。
-
-### 1.4 Deep test question
-- 如果你嘅歷史研究發現同合作夥伴嘅預期完全相反，你點做？
-
-### 1.5 圖解
+### 4.1 圖解：學術寫作 vs 公共歷史寫作
 ```mermaid
-flowchart TD
-    A[歷史學家] --> B[學術歷史]
-    B --> C[同行評審]
-    A --> D[公眾歷史]
-    D --> E[博物館/媒體/社區]
-    D --> F[批判歷史思維]
-    F --> G[知情公民]
-    G --> H[民主社會]
+graph LR
+    A[Academic writing<br/>學術寫作] -->|Audience| B[Peer scholars<br/>同行學者]
+    A -->|Language| C[Academic jargon<br/>學術術語]
+    A -->|Format| D[Footnotes + bibliography<br/>註腳+書目]
+    A -->|Tone| E[Objective, neutral<br/>客觀中立]
+    
+    F[Public history writing<br/>公共歷史寫作] -->|Audience| G[General public<br/>普通公眾]
+    F -->|Language| H[Accessible language<br/>淺顯語言]
+    F -->|Format| I[Narrative driven<br/>敘事驅動]
+    F -->|Tone| J[Engaging, relatable<br/>引人入勝]
+    
+    style A fill:#f96
+    style F fill:#9f6
 ```
 
 ---
 
-## 深度自測問題詳解
+## 5. 反思性實踐
 
-### 詳解 1: 點解公眾歷史咁重要？
-因為大眾日常接觸歷史嘅主要途徑唔係學術論文，而係博物館、媒體、教科書、社交媒體。如果歷史學家唔參與呢啲領域，就會被其他聲音填補空白。
-
-### 詳解 2: HIST4035模式同傳統實習有乜嘢唔同？
-傳統實習：學生服務機構（例如打雜）。HIST4035：學生用專業歷史能力服務合作夥伴，撰寫具有長遠價值嘅歷史報告。係真正嘅知識轉移。
-
-### 詳解 3: 如果合作夥伴想控制呈現方式？
-呢個係真實張力。合作夥伴有商業/機構目標；歷史學家有學術標準。你需要預先協商呈現方式，並保留學術誠信底線。
-
-### 詳解 4: 保密原則點解咁重要？
-受訪者信任研究者，分享個人故事——呢個信任唔可以被滥用。即使內容係public knowledge，受訪者身份仍然需要保護。
-
-### 詳解 5: 點解受訪者可以隨時撤回同意？
-因為研究倫理原則——參與必須係自願的。撤回同意權係確保自願性嘅制度保障。如果受訪者後悔，必須尊重佢哋嘅決定。
-
-### 詳解 6: 口述歷史價值——點解咁獨特？
-口述歷史可以揭示官方檔案完全無記載嘅維度——情感、記憶、對過去嘅主觀體驗。呢啲係歷史嘅essential但係長期被忽視嘅維度。
-
-### 詳解 7: 如果合作夥伴最後決定唔publish研究？
-呢個係可能嘅結果。你需要預先在合同/協議入面確定使用權——即使合作夥伴唔publish，你都可以喺學術範圍内使用（經適當脫敏處理）。
-
-### 詳解 8: 點解歷史寫作要有「公眾可讀性」？
-因為歷史嘅價值唔只係學術對話，而係服務更廣嘅社會。如果得學者睇得明，歷史嘅公共價值就大打折扣。
-
-### 詳解 9: 如果你要為一間老字號寫歷史，但係佢有剝削歷史？
-呢個係最尖銳嘅倫理問題。你可以撰寫一個誠實嘅歷史——包括光明面同黑暗面。如果合作夥伴拒絕，你需要决定係咪繼續合作。
-
-### 詳解 10: 應用歷史——係咪降低咗歷史嘅標準？
-Absolutely not。公眾歷史唔係「低標準歷史」，而係「適合不同受眾嘅歷史」。學術嚴謹性同公眾可讀性完全可以共存。
-
----
-
-## 5 個 Mermaid 圖解
-
-### 📊 Diagram 1: HIST4035 研究流程
+### 5.1 圖解：反思日誌的價值
 ```mermaid
 flowchart TD
-    A[合作夥伴<br/>Partner] --> B[需求確定<br/>Needs Assessment]
-    B --> C[倫理審批<br/>Ethics Approval]
-    C --> D[資料收集<br/>Research]
-    D --> E[口述歷史<br/>Oral History]
-    E --> F[撰寫報告<br/>Consultancy Paper]
-    F --> G[呈現諮詢<br/>Consultation]
-    G --> H[最終交付<br/>Delivery]
-    H --> I[合作夥伴使用]
-```
-
-### 📊 Diagram 2: 研究倫理框架
-```mermaid
-flowchart TD
-    A[研究開始前] --> B[倫理培訓]
-    B --> C[知情同意]
-    C --> D[保密協議]
-    D --> E[訪談進行]
-    E --> F{受訪者狀態}
-    F -->|後悔| G[撤回同意]
-    F -->|正常| H[繼續研究]
-    G --> I[尊重決定]
-    H --> J[資料分析]
-```
-
-### 📊 Diagram 3: 歷史真相 vs 合作夥伴需求
-```mermaid
-flowchart TD
-    A[歷史真相] --> B[學術誠信]
-    A --> C[合作夥伴需求]
-    B --> D{有衝突?}
-    C --> D
-    D -->|無衝突| E[順利合作]
-    D -->|有衝突| F[協商]
-    F --> G[誠實歷史撰寫]
-    G --> H[預先設定底線]
-```
-
-### 📊 Diagram 4: 公眾歷史受眾
-```mermaid
-flowchart TD
-    A[歷史學家] --> B[學術同儕]
-    A --> C[合作夥伴]
-    A --> D[公眾]
-    B --> E[學術期刊]
-    C --> F[Consultancy Report]
-    D --> G[博物館/媒體]
-    D --> H[社區檔案]
-```
-
-### 📊 Diagram 5: 口述歷史訪談流程
-```mermaid
-flowchart TD
-    A[選擇受訪者] --> B[聯繫並解釋研究]
-    B --> C[簽署知情同意書]
-    C --> D[進行訪談]
-    D --> E[錄音+筆記]
-    E --> F[一字稿轉錄]
-    F --> G[分析解讀]
-    G --> H[撰寫歷史章節]
-    H --> I[交付合作夥伴]
-    I --> J[受訪者有機會回應]
+    A[Reflexive journal<br/>反思日誌] --> B[Record expectations<br/>記錄期望]
+    A --> C[Document actual experience<br/>記錄實際經驗]
+    A --> D[Analyze gaps<br/>分析差距]
+    A --> E[Theory-practice integration<br/>理論-實踐整合]
+    
+    B --> F[What did I expect?<br/>我期望什麼?]
+    C --> G[What actually happened?<br/>實際發生了什麼?]
+    D --> H[Why the gap?<br/>為什麼有差距?]
+    E --> I[Professional growth<br/>專業成長]
+    
+    style A fill:#f96
+    style I fill:#9f6
 ```
 
 ---
 
-## 總結
+# 總結
 
-1. **應用歷史挑戰傳統歷史教育**：歷史唔只係學術工具，而係可以服務社區嘅實際技能。
-2. **研究倫理係根本**：保密原則、撤回同意權、知情同意——呢啲唔係「麻煩程序」，而係對受訪者嘅基本尊重。
-3. **歷史真相同商業需求可能衝突**：呢個係每一個應用歷史學家必須面對嘅核心張力，無法回避。
-4. **社區歷史補救主流歷史嘅盲點**：口述歷史、記憶項目——呢啲係讓邊緣群體發聲嘅工具。
-5. **公眾歷史唔係降低標準，而係擴大受眾**：學術嚴謹性同公眾可讀性完全可以共存。
+1. **HIST4035 是歷史系學生將知識轉化為行動的橋樑**：從閱讀到應用，從檔案到社區，這門課教會你歷史知識的社會價值。
 
-**最後問題**: 如果你為一間有爭議歷史嘅機構撰寫歷史，你點平衡「合作夥伴需求」同「歷史真相」？
+2. **口述歷史是填補官方檔案空白的關鍵方法**：那些在官方檔案中不存在的聲音——普通工人、移民、邊緣群體——需要通過口述歷史來記錄。
 
----
-**版權所有 © HKU History Self-Study**
+3. **社區合作需要真正的夥伴關係**：不是「研究者研究社區」，而是「研究者與社區共同建構歷史」——這種權力分享是應用歷史的核心倫理。
+
+4. **公共歷史寫作是一種不同的技能**：服務於普通公眾的歷史寫作，需要不同的語言、敘事策略和受眾意識。
+
+5. **反思性實踐讓你成為更好的歷史學家**：在每一次田野經驗中，問自己：「我從這次經驗中學到了什麼？」——這種自我反思，是專業成長的最重要工具。
+
+**自學建議**: 配合 Alistair Thomson 的 *Four Voices, One Story* + Oral History Association 的倫理指南，輸出反思日誌到 `06_Reading_Notes/`。

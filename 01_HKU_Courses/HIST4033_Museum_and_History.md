@@ -1,414 +1,236 @@
-# HIST4033 博物館與歷史 / Museum and History (6 credits)
+# HIST4033 博物館與歷史 / Museums and History
 
-**Instructor**: John M. Carroll (PhD Harvard)
+**Instructor**: John Carroll
 **Department**: History, HKU
-**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦博物館點解唔係中性嘅知識殿堂，而係權力話語嘅競技場
+**Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利、聚焦博物館作為政治工具——香港的博物館如何塑造你的歷史認知？
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型
+## 問題 1：5 個核心心智模型
 
-### 心智模型 1：博物館作爲「記憶場所」(Sites of Memory)
-學者 **Pierre Nora** (*Realms of Memory*, 1989-1992) 研究：「記憶場所」——博物館係官方集體記憶嘅物質化呈現，但係記憶場所唔等於記憶本身。
+### 1. 博物館作為政治工具（The Museum as Political Tool）
 
-學者 **David Lowenthal** (*The Heritage Crusade*, 1998) 分析：博物館揭示我哋點解保存、點解忽視。
+**專家如何思考**: 博物館從來不是「中性的知識空間」——它們是政治權力的空間化。學者 **Tony Bennett** 在 *The Birth of the Museum* (1995) 中分析：19 世紀博物館的創建，是歐洲資產階級國家向大眾展示「文明標準」的權力裝置——誰的文化被展示、誰的故事被記住，是由博物館背後的政治權力決定的。
 
-- 香港歷史博物館 (1998)——點解展示「香港故事」？
-- 香港太空館——點解展示中國航天成就？
-- M+ 博物館——點解當代藝術成為身份政治？
+- **典型學者**: **Tony Bennett** — *The Birth of the Museum* (1995); **Sharon Macdonald** — *The Politics of Display* (1998); **Eilean Hooper-Greenhill** — *Museums and the Interpretation of Visual Culture* (2000)
+- **驗證案例**: 香港歷史博物館（香港科學館側）的「香港故事」展覽——這是一個關於香港華人日常生活的展覽，但它的組織方式强烈暗示了香港作為「英帝國與中國文化交匯點」的官方話語
 
-### 心智模型 2：博物館作爲權力工具
-學者 **Tony Bennett** (*The Birth of the Museum*, 1995) 研究：博物館係現代治理技術——展示知識等於規範行為。
+### 2. 遺產保存的選擇性（The Selectivity of Heritage Preservation）
 
-學者 **Sharon Macdonald** (*Memory Practices*, 2003) 分析：博物館選擇性展示塑造公眾認知。
+**專家如何思考**: 什麼被保存、什麼被拆除——這不是歷史保護的決定，是政治選擇。學者 **David Lowenthal** 在 *The Past is a Foreign Country* (1985) 中指出：我們對「遺產」的選擇，揭示的是**當下的政治需要**，而非過去的客觀價值。
 
-- 1889 年大英博覽會——帝國權力嘅視覺化
-- 1949 年後內地博物館——共產主義宣傳工具
-- 1997 後香港博物館——點解愛國主義教育？
+- **典型學者**: **David Lowenthal** — *The Past is a Foreign Country* (1985); **Kirshenblatt-Gimblett** — *Destination Culture* (1998)
+- **驗證案例**: 香港的殖民建築保護 vs 華人社區拆遷——天星碼頭（1912年建成，2006年拆卸）和皇后碼頭（1875年建成，2007年拆卸）的保育爭議，揭示了誰的「集體記憶」被香港特區政府優先考慮
 
-### 心智模型 3：博物館話語與政治
-學者 **Eilean Hooper-Greenhill** (*Museums and the Interpretation of Visual Culture*, 2000) 研究：博物館敘事方式影響解讀——物件本身唔會說話，係策展人俾佢哋話語。
+### 3. 觀眾的能動性（Audience Agency）
 
-學者 **Steven Conn** 分析：博物館是否促進歷史理解，定強化刻板印象？
+**專家如何思考**: 博物館觀眾不是被動的接收者——他們在解讀博物館敘事時會進行能動的協商。學者 **Sharon Macdonald** 研究：不同背景的觀眾，對同一個博物館展覽的解讀差異巨大。
 
-- 殖民地時期香港博物館——展示英帝國文明
-- 後殖民時期香港——重新審視帝國遺產
-- 當代香港——國家安全話語入博物館
+- **典型學者**: **Sharon Macdonald** — *The Politics of Display* (1998); **Vivian L. Cameron** — *The Museum Effect* (2014)
+- **驗證案例**: 對「香港抗戰」的展覽，內地遊客、香港本地人和外國遊客的解讀差異——內地遊客看到的是「抗日民族統一戰線的勝利」，香港本地人看到的是「英帝國的殖民失敗」，外國遊客看到的是「二戰亞洲戰場的一部分」
 
-### 心智模型 4：去殖民化博物館運動
-學者 **Amy Lonetree** (*Decolonizing Museums*, 2012) 研究：美洲原住民博物館點解必須重新present歷史？
+### 4. 博物館類型學（Museum Typology）
 
-學者 **Chip Colwell** (*Plundered Skulls*, 2018) 分析：文物歸還爭議——邊個有權擁有過去？
+**專家如何思考**: 不同類型的博物館有不同的意識形態功能。學者 **Francesco de Captitiis** 等人分類：①**國家博物館**（nation-building）；②**地方博物館**（local identity）；③**戰爭博物館**（martial memory）；④**企業博物館**（corporate heritage）；⑤**數位博物館**（digital memory）。
 
-- 大英博物館——點解唔歸還帕特農神殿雕塑？
-- 香港歷史博物館——點解無原住民聲音？
-- 中國文物——點解海外博物館成為外交工具？
+- **典型案例**: 香港歷史博物館（地方）、香港海防博物館（戰爭）、香港太空館（科學）、香港文化博物館（綜合）
+- **驗證**: 香港太空館（1972年建成）的展覽重點是中國古代天文成就 vs 西方現代天文學的對比——這種敘事暗示了中國科學對世界的貢獻 vs 落後於西方的當代現實
 
-### 心智模型 5：參觀者體驗與歷史理解
-學者 **Graham Black** (*The Engaging Museum*, 2005) 研究：點解參觀者解讀同策展人預期完全唔同？
+### 5. 策展話語分析（Curatorial Discourse Analysis）
 
-學者 **John Falk** 分析：參觀者帶住自己嘅身份、經驗、期望進入博物館。
+**專家如何思考**: 博物館展覽的策展話語（curatorial discourse）——什麼被展示、什麼被隠藏、什麼被組織成「故事」——本身是一種意識形態表達。學者 **Eilean Hooper-Greenhill** 建議使用「話語分析」（discourse analysis）方法解讀博物館敘事。
 
-- 香港歷史博物館——參觀者係遊客定本地人？
-- 故宮博物院——愛國教育定文化旅遊？
-- M+ 博物館——點解引起咁大爭議？
+- **典型方法**: ① 什麼被展示？什麼被隠藏？② 什麼順序展示？③ 使用什麼語言？④ 觀眾被引導到什麼結論？
 
 ---
 
 ## 問題 2：3 個根本分歧
 
-### 分歧 1：博物館——教育場所定政治工具？
-- **A 方**：教育場所
-  - 博物館提供客觀知識
-  - 促進跨文化理解
-- **B 方**：政治工具
-  - 所有博物館展示都帶視角
-  - 愛國主義教育、身份政治
+### 分歧 1：博物館——保存者 vs 操控者？
+**核心問題**: 博物館是歷史記憶的「保存者」，還是當權者操控歷史敘事的工具？
 
-### 分歧 2：文物歸還——原屬國定 universal heritage？
-- **A 方**：原屬國權利
-  - 文物被帝國主義掠奪
-  - 應該歸還
-- **B 方**：Universal heritage
-  - 大英博物館保存條件最好
-  - 全球人類共同遺產
+### 分歧 2：香港博物館——殖民記憶 vs 中國記憶？
+**核心問題**: 香港的博物館如何處理殖民歷史和中國歷史之間的張力？
 
-### 分歧 3：去殖民化——點解咁難？
-- **A 方**：制度阻力
-  - 大機構難以改變
-  - 資源分配問題
-- **B 方**：根本問題
-  - 去殖民化需要承認過去罪行
-  - 涉及身份政治
+### 分歧 3：戰爭紀念館——教育和宣傳的界線？
+**核心問題**: 戰爭紀念館應該是教育性的還是政治宣傳性的？這個界線在哪裡？
 
 ---
 
 ## 問題 3：10 個深度問題
 
-1. 如果你去香港歷史博物館，你會發現邊個歷史被展示？邊個被忽視？
-2. 點解香港歷史博物館1998年建立？呢個時間點揭示咗乜嘢政治背景？
-3. 如果你去大英博物館，你點評價「universal heritage」嘅論述？點解呢個論述有爭議？
-4. 點解M+博物館引起咁大爭議？展品選擇背後揭示咗乜嘢價值觀？
-5. 如果你去北京故宮博物院，點解佢同時係博物館、旅遊景點、愛國教育場所？
-6. 博物館話語——點解「策展」唔係中性選擇，而係權力決定？
-7. 如果你去參觀一個關於戰爭嘅展覽，你點區分「歷史教育」定「政治宣傳」？
-8. 點解英國殖民時期嘅香港博物館無華人聲音？呢個係史料問題定權力問題？
-9. 博物館與數位時代——VR博物館會改變歷史教育嗎？
-10. 如果你要設計一個「真正去殖民化」嘅香港歷史博物館，你會點做？
+1. **香港歷史博物館的話語分析**：以香港歷史博物館的「香港故事」展覽為例，運用策展話語分析方法，識別展覽中的「官方敘事」和「隠藏敘事」。
+2. 為什麼殖民時期的香港建築（如 舊最高法院大樓，現在終審法院）被列為「法定古蹟」，而很多華人社區（如 灣仔、筲箕灣的戰前建築）被拆除？這種選擇背後反映了什麼樣的歷史記憶政治？
+3. **戰爭紀念館的跨代記憶傳遞**：香港的抗日戰爭紀念設施（如 西貢抗日英烈紀念碑）如何在沒有正式歷史教育的情况下，向年輕一代傳遞戰爭記憶？這種「非正式記憶傳遞」的有效性和局限性是什麼？
+4. 比較香港歷史博物館和北京中國國家博物館的策展話語。這兩個博物館對「中國歷史」的敘事框架有什麼根本差異？這些差異如何反映了各自的國家話語需要？
+5. **企業博物館的意識形態**：香港的中資企業（如 中銀香港、招商局）和英資企業（如 匯豐）的企業博物館如何呈現自己的歷史？這些歷史敘事與公司現在的政治立場有什麼關係？
+6. **香港故宫文化博物館**：2022 年開放的香港故宫文化博物館（西九文化區），對北京故宫文物和香港本地文化遺產的展覽話語有什麼特點？這種「故宮文物」在香港的展示，如何服務於香港作為「中外文化交流中心」的國家定位？
+7. **數位博物館的認識論**：當博物館展品從實物變成數位圖像，觀眾的博物館體驗發生了什麼變化？香港博物館的數位化程度落後於哪些國家？
+8. 從「博物館疲勞」（museum fatigue）的角度，分析香港博物館如何設計觀眾的動線和停留時間——什麼樣的展覽設計能讓觀眾更深度參與？
+9. **口述歷史與博物館**：博物館如何將口述歷史融入展覽？這種方法在處理「爭議歷史」（如 六七暴動）時有什麼倫理和敘事挑戰？
+10. 從 **David Lowenthal** 的「過去是外國」框架，分析香港年輕一代（1997 年後出生）如何理解「殖民記憶」——對他們來說，殖民時期是「外國的過去」還是「我們的歷史」？
 
 ---
 
-## 核心心智模型深化（中英對照）
+# 核心心智模型深化（中英對照）
 
-## 1. 記憶場所與博物館 (Sites of Memory & Museums)
+## 1. 博物館作為政治工具
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 香港案例 |
+| 英文 | 中文 | 歷史含義 | 香港案例 |
 |---|---|---|---|
-| Lieu de Mémoire | 記憶場所 | 物質化嘅記憶 | 香港歷史博物館 |
-| Memory vs History | 記憶vs歷史 | Nora經典區分 | 官方vs個人記憶 |
-| Heritage | 遺產 | 被選擇保存嘅過去 | 文物保育 |
-| Commemoration | 紀念 | 官方記憶政治 | 和平紀念館 |
-| Contested Memory | 爭議記憶 | 不同群體對過去有不同記憶 | 六年零八個月 |
-
-### 1.2 史料與考據
-- Pierre Nora: Realms of Memory (1989-1992)
-- David Lowenthal: The Heritage Crusade (1998)
-- 香港歷史博物館展覽分析
+| Nation-building museum | 民族建構博物館 | 展示國家統一話語 | 中國國家博物館 |
+| Colonial museum | 殖民博物館 | 展示帝國文明話語 | 香港歷史博物館 |
+| Heritage politics | 遺產政治 | 選擇性保存的權力 | 天星碼頭保育 |
+| Museum effect | 博物館效應 | 博物館對觀眾的影響 | 參觀後態度的改變 |
 
 ### 1.3 袁騰飛式犀利觀察
-Pierre Nora最犀利嘅區分：記憶係活着嘅過去——存在於社群實踐入面；歷史係對過去嘅制度化解釋——存在於檔案、博物館、教科書。
-但係，當記憶被物質化、博物館化——佢就死亡咗。博物館唔係保存記憶，而係保存記憶嘅「木乃伊」。
+博物館最厲害的地方不是展示東西，是**讓你相信它展示的版本就是歷史的全部**。
 
-### 1.4 Deep test question
-- 香港歷史博物館保存咗邊個嘅記憶？邊個嘅記憶被忽視？
+香港歷史博物館的「香港故事」展覽——它告訴你香港是「中西文化交匯的國際都會」，讓你看到美麗的傳統工藝品和街市模型。但它不告訴你的是：這個「中西文化交匯」是在殖民剝削、種族隔離和華人二等公民地位的基礎上實現的。
 
-### 1.5 圖解
+**博物館不是呈現歷史——博物館是選擇性地呈現歷史的某些部分，讓這些部分看起來就是歷史的全部。**
+
+### 1.5 圖解：博物館話語分析框架
 ```mermaid
 flowchart TD
-    A[記憶 Memory] --> B[活着嘅過去<br/>存在於實踐]
-    B --> C[社群生活]
-    C --> D[文化傳承]
-    A --> E[物質化 Materialization]
-    E --> F[博物館 Museum]
-    F --> G[記憶死亡?| Memory dies?]
-    G --> H[官方歷史凝固]
-    H --> I[但係權力話語固化]
-```
-
----
-
-## 2. 博物館作爲權力工具 (Museums as Instruments of Power)
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 案例 |
-|---|---|---|---|
-| Exhibitionary Complex | 展示複合體 | Bennett理論：博物館治理技術 | 大英博物館 |
-| Curatorial Power | 策展權力 | 邊個決定展示乜嘢 | M+ 爭議 |
-| National Identity | 國家身份 | 博物館塑造公民想像 | 故宮博物院 |
-| Civic Hygiene | 公民衛生 | Bennett: 博物館規範公眾 | 維多利亞博物館 |
-| Propaganda | 宣傳 | 政治工具化 | 內地革命博物館 |
-
-### 1.2 史料與考據
-- Tony Bennett: The Birth of the Museum (1995)
-- Sharon Macdonald: Memory Practices (2003)
-
-### 1.3 袁騰飛式犀利觀察
-Tony Bennett最犀利嘅發現：博物館唔係單純嘅教育機構，而係現代治理技術。通過展示「文明」標凖，博物館規範公眾行為——你要成為「文明人」就必須知道呢啲野。
-香港歷史博物館就係最佳例子：佢展示「香港故事」——呢個故事係邊個寫嘅？為邊個服務？
-
-### 1.4 Deep test question
-- 香港歷史博物館點解無展示六年零八個月日佔時期嘅細節？
-
-### 1.5 圖解
-```mermaid
-flowchart TD
-    A[博物館 Exhibition] --> B[展示知識]
-    B --> C[定義文明標準]
-    C --> D[規範公眾行為]
-    D --> E[現代治理技術]
-    E --> F[權力運作]
-    F --> G[話語主導者勝利]
-```
-
----
-
-## 3. 去殖民化博物館運動 (Decolonizing Museums Movement)
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 爭議 |
-|---|---|---|---|
-| Decolonization | 去殖民化 | 重新審視帝國遺產 | 全球運動 |
-| Repatriation | 文物歸還 | 被掠奪文物回歸原屬國 | 大英博物館 |
-| Indigenous Voice | 原住民聲音 | 少數族裔自己present自己 | 加拿大原住民博物館 |
-| Critical Museology | 批判博物館學 | 質疑博物館意識形態 | 學術領域 |
-| Community Consultation | 社區諮詢 | 被present社群參與策展 | 新展覽方法 |
-
-### 1.2 史料與考據
-- Amy Lonetree: Decolonizing Museums (2012)
-- Chip Colwell: Plundered Skulls and Stolen Spirits (2018)
-- 「南亞裔香港人」計劃
-
-### 1.3 袁騰飛式犀利觀察
-去殖民化博物館運動最核心嘅問題：你有無權利去present一個唔屬於你嘅社群嘅歷史？
-過去200年，西方博物館展示「他者」——原住民、亞洲人、非洲人——但係呢啲展示從來都係由外來者主導。原住民自己嘅聲音被忽視。
-香港嘅「南亞裔香港人社區」項目——就係由學生同南亞裔社群共同建立屬於佢哋嘅檔案。
-
-### 1.4 Deep test question
-- 如果你要去殖民化香港歷史博物館，你會刪除乜嘢？添加乜嘢？
-
-### 1.5 圖解
-```mermaid
-flowchart TD
-    A[帝國主義博物館] --> B[外來者展示"他者"]
-    B --> C[原住民/少數族裔聲音缺席]
-    C --> D[去殖民化運動]
-    D --> E[文物歸還]
-    D --> F[原住民策展]
-    D --> G[社區共同建立]
-    E --> H[權力再分配]
-    F --> H
-    G --> H
-```
-
----
-
-## 4. 策展話語與政治 (Curatorial Discourse & Politics)
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 案例 |
-|---|---|---|---|
-| Curatorial Voice | 策展話語 | 策展人賦予物件意義 | M+ 爭議 |
-| Objects Don't Speak | 物件不說話 | 意義係被建構嘅 | 所有展覽 |
-| Narrative Construction | 敘事建構 | 展覽係一個故事 | 故宮展覽 |
-| Visitor Interpretation | 參觀者解讀 | 參觀者帶住自己視角 | Black研究 |
-| Contested Narrative | 爭議敘事 | 不同群體對同一歷史有不同理解 | 抗戰史 |
-
-### 1.2 史料與考據
-- Eilean Hooper-Greenhill: Museums and the Interpretation of Visual Culture (2000)
-- Steven Conn: Do Museums Still Need Objects? (2010)
-
-### 1.3 袁騰飛式犀利觀察
-Eilean Hooper-Greenhill最犀利嘅觀點：「物件唔會說話——係策展人俾佢哋說話。」每一個展覽都係一個敘事選擇——展示乜嘢、點解排列、標籤寫乜嘢——全部都係權力決定。
-M+ 博物館事件——一幅可能「冒犯」某些政治群體嘅作品被刪除——就係策展政治化嘅最佳例證。
-
-### 1.4 Deep test question
-- 如果你去香港故宮文化博物館，你點解「故宮」同「香港」呢兩個元素點樣結合？
-
-### 1.5 圖解
-```mermaid
-flowchart TD
-    A[策展決定] --> B[選擇展品]
-    A --> C[排列方式]
-    A --> D[撰寫標籤]
-    A --> E[設定參觀路線]
-    B --> F[權力話語]
-    C --> F
-    D --> F
-    E --> F
-    F --> G[參觀者解讀]
-    G --> H[歷史理解形成]
-    H --> I[但係符合策展人預期？]
-```
-
----
-
-## 5. 數位時代與博物館未來 (Digital Age & Museum Futures)
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 應用 |
-|---|---|---|---|
-| Virtual Museum | 虛擬博物館 | 網上展示空間 | Google Arts & Culture |
-| Augmented Reality | 增強現實 | AR應用於展覽 | 故宮AR展覽 |
-| Crowdsourced History | 眾包歷史 | 公眾參與建立博物館 | 群眾檔案 |
-| Digital Preservation | 數位保存 | 文物數位化 | 故宮文物數據庫 |
-| Online Controversy | 網上爭議 | 社交媒體影響策展 | M+ 事件 |
-
-### 1.2 史料與考據
-- Digital museum projects worldwide
-- Google Arts & Culture platform
-- 故宮博物院數位化項目
-
-### 1.3 袁騰飛式犀利觀察
-數位化可能係博物館最大嘅革命——但係亦有最大嘅風險。
-一方面，虛擬博物館俾全世界任何人接觸到珍藏；另一方面，數位化嘅「香港」可能同真實物理空間嘅香港完全脫節。
-而且，數位檔案可以被刪除、被修改——呢個係物理文物從來無面對過嘅問題。
-
-### 1.4 Deep test question
-- 如果你去過故宮博物院嘅虛擬展覽，你認為呢個體驗等同於親身去嗎？
-
-### 1.5 圖解
-```mermaid
-flowchart TD
-    A[數位博物館] --> B[全球可及性]
-    A --> C[互動體驗]
-    A --> D[數據永久保存]
-    B --> E[民主化知識]
-    C --> F[教育意義]
-    D --> G[但係可被修改/刪除}
-    E --> H[數位博物館革命]
-    F --> H
-    G --> I[數位風險]
-    I --> H
-```
-
----
-
-## 深度自測問題詳解
-
-### 詳解 1: 點解博物館唔係中性知識殿堂？
-因為所有展示都涉及選擇——選擇展示乜嘢、忽視乜嘢、點解present。呢啲選擇從來唔係中性，而係反映當時權力結構。
-
-### 詳解 2: Pierre Nora「記憶場所」理論點解重要？
-Nora指出：記憶被物質化就係記憶死亡嘅開始。博物館保存嘅唔係記憶，而係記憶嘅替代品——標本化嘅過去。
-
-### 詳解 3: Tony Bennett「博物館治理技術」理論點解犀利？
-Bennett揭示：博物館唔只係教育場所，而係現代國家治理嘅工具。通過展示「文明標準」，博物館規範公眾行為，塑造理想公民。
-
-### 詳解 4: 去殖民化運動點解咁難？
-因為涉及權力再分配。大英博物館放棄帕特農神殿雕塑，就係承認英帝國主義罪行——呢個係政治決定，唔係純粹學術問題。
-
-### 詳解 5: M+ 博物館爭議揭示咗乜嘢？
-揭示咗博物館喺當代香港政治環境入面嘅特殊位置——策展唔再只係美學問題，而係政治話語問題。
-
-### 詳解 6: 香港歷史博物館點解無展示原住民歷史？
-因為「原住民」呢個範疇喺香港歷史上極少被官方記録。呢個本身就係歷史問題——邊個被記録、邊個被忽視？
-
-### 詳解 7: 如果你要設計去殖民化展覽？
-邀請被present社群參與策展；呈現多元視角；展示權力關係；容許爭議存在。
-
-### 詳解 8: 虛擬博物館會取代實體博物館？
-不會。實體博物館有不可替代嘅維度：空間感、觸感、社交體驗。但係虛擬博物館可以補充擴大接觸面。
-
-### 詳解 9: 博物館點解重要？
-因為佢係大多數人接觸歷史嘅主要途徑。博物館塑造公眾對過去嘅理解，呢個係非常大嘅權力。
-
-### 詳解 10: 如果你去參觀一個爭議展覽？
-帶住批判性眼光：呢個展覽服務邊個？展示咗邊個視角？忽視咗邊個聲音？
-
----
-
-## 5 個 Mermaid 圖解
-
-### 📊 Diagram 1: 博物館話語建構過程
-```mermaid
-flowchart TD
-    A[歷史事件 Historical Event] --> B[策展人選擇 Select]
-    B --> C[物件排列 Arrange]
-    C --> D[撰寫標籤 Label]
-    D --> E[設定路線 Route]
-    E --> F[參觀者解讀 Visitor Interpretation]
-    F --> G[歷史理解形成]
-    G --> H[但係符合策展意圖？]
-```
-
-### 📊 Diagram 2: 去殖民化運動層次
-```mermaid
-flowchart TD
-    A[帝國主義博物館] --> B[承認過去]
-    A --> C[文物歸還]
-    A --> D[原住民策展]
-    B --> E[話語權力再分配]
-    C --> E
-    D --> E
-    E --> F[真正去殖民化]
-```
-
-### 📊 Diagram 3: 香港博物館歷史分期
-```mermaid
-timeline
-    title 香港博物館史
-    1860 : 香港博物院<br/>服務英國殖民者
-    1962 : 香港藝術館<br/>文化精英
-    1975 : 香港太空館<br/>科普/愛國
-    1998 : 香港歷史博物館<br/>香港身份建構
-    2017 : 故宮文化博物館<br/>中港融合/軟實力
-    2021 : M+ 博物館<br/>當代藝術/政治敏感
-```
-
-### 📊 Diagram 4: 博物館話語與政治
-```mermaid
-flowchart TD
-    A[博物館展覽] --> B[官方歷史]
-    A --> C[身份政治]
-    A --> D[經濟利益]
-    B --> E[塑造公民想像]
-    C --> F[權力話語競爭]
-    D --> G[旅遊業]
-    E --> H[博物館話語]
-    F --> H
-    G --> H
-```
-
-### 📊 Diagram 5: 參觀者解讀差異
-```mermaid
-flowchart TD
-    A[同一展覽] --> B[香港本地人]
-    A --> C[內地旅客]
-    A --> D[外國遊客]
-    A --> E[歷史學家]
-    B --> F[身份共鳴?]
-    C --> G[旅遊體驗]
-    D --> H[異文化好奇]
-    E --> I[批判分析]
-    F --> J[不同理解形成]
-    G --> J
+    A[Curatorial discourse analysis<br/>策展話語分析] --> B[What's shown?<br/>展示了什麼?]
+    A --> C[What's hidden?<br/>隠藏了什麼?]
+    A --> D[In what order?<br/>什麼順序?]
+    A --> E[What language?<br/>什麼語言?]
+    A --> F[What conclusion?<br/>引導什麼結論?]
+    
+    B --> G[Whose perspective?<br/>誰的視角?]
+    C --> H[Whose silence?<br/>誰的沉默?]
+    D --> I[What's the narrative arc?<br/>敘事弧線是什麼?]
+    
+    G --> J[Power analysis<br/>權力分析]
     H --> J
     I --> J
+    J --> K[Museum as political tool<br/>博物館作為政治工具]
+    
+    style A fill:#f96
+    style K fill:#f66
 ```
 
 ---
 
-## 總結
+## 2. 遺產保存的選擇性
 
-1. **博物館唔係中性知識殿堂**：所有展示都係權力選擇，揭示邊個歷史被保存、邊個被忽視。
-2. **策展話語塑造歷史理解**：物件唔會說話——係策展人俾佢哋話語。呢個權力唔可以忽視。
-3. **去殖民化係漫長過程**：涉及承認過去罪行、文物歸還、社群參與——唔係一蹴而就。
-4. **香港博物館史揭示香港身份政治**：從服務英國殖民者到服務中港融合——博物館永遠服務當時權力話語。
-5. **數位化改變但唔取代實體博物館**：虛擬博物館擴大接觸面，但係物理空間體驗有不可替代嘅價值。
-
-**最後問題**: 如果你去香港歷史博物館，你最想發現邊個被忽視咗嘅歷史？
+### 2.3 圖解：香港殖民建築 vs 華人社區保存
+```mermaid
+graph TD
+    A[Heritage preservation in Hong Kong<br/>香港遺產保護] --> B[Saved: Colonial heritage<br/>被保存：殖民遺產]
+    A --> C[Destroyed: Chinese community<br/>被拆除：華人社區]
+    A --> D[Contested<br/>爭議中]
+    
+    B --> B1[Old Supreme Court 1912<br/>舊最高法院大樓]
+    B --> B2[Former Police Station<br/>前中区警署]
+    B --> B3[Dr. Sun Yat-sen Museum<br/>孫中山博物館]
+    
+    C --> C1[Star Ferry Pier 1912<br/>天星碼頭2006拆]
+    C --> C2[Queen's Pier 1875<br/>皇后碼頭2007拆]
+    C --> C3[Wan Chai pre-war buildings<br/>灣仔戰前建築群]
+    
+    D --> D1[Former Kai Tak runway<br/>舊啟德機場跑道]
+    D --> D2[Kowloon Walled City<br/>九龍寨城公園爭議]
+    
+    B1 -.->|Why?| E1[Colonial identity tourism<br/>殖民身份旅遊]
+    C1 -.->|Why?| E2[Development priority<br/>發展優先於保育]
+    
+    style A fill:#f96
+    style C1 fill:#c00,color:#fff
+    style B1 fill:#9f6
+```
 
 ---
-**版權所有 © HKU History Self-Study**
+
+## 3. 觀眾的能動性
+
+### 3.1 圖解：觀眾解讀差異
+```mermaid
+graph LR
+    A[Same museum exhibit<br/>同一博物館展覽] --> B[Mainland visitor<br/>內地遊客]
+    A --> C[Hong Kong local<br/>香港本地人]
+    A --> D[Foreign tourist<br/>外國遊客]
+    
+    B --> B1["This is Chinese history"<br/>這是中國歷史]
+    C --> C1["This is OUR history"<br/>這是我們的歷史]
+    D --> D1["Interesting colonial encounter"<br/>有趣的殖民接觸]
+    
+    style A fill:#f96
+    style B1 fill:#f66
+    style C1 fill:#9f6
+```
+
+---
+
+## 4. 博物館類型學
+
+### 4.1 圖解：香港主要博物館分類
+```mermaid
+graph TD
+    A[Hong Kong museums<br/>香港主要博物館] --> B[History museum<br/>歷史博物館<br/>香港故事展覽]
+    A --> C[Art museum<br/>藝術博物館<br/>香港藝術館]
+    A --> D[Science museum<br/>科學博物館<br/>太空館]
+    A --> E[Military museum<br/>軍事博物館<br/>香港海防博物館]
+    A --> F[New Palace Museum<br/>故宮博物館<br/>2022 西九文化區]
+    A --> G[Cultural museum<br/>文化博物館<br/>沙田文化博物館]
+    
+    B --> H[Official narrative:<br/>中西交匯的國際都會]
+    C --> I[Focus: Chinese art vs Western art<br/>中國藝術 vs 西方藝術]
+    E --> J[Focus: WWII Hong Kong defense<br/>二戰香港保衛戰]
+    F --> K[Focus: Chinese civilization<br/>中華文明]
+    
+    style A fill:#f96
+    style F fill:#c00,color:#fff
+```
+
+---
+
+## 5. 策展話語分析
+
+### 5.1 圖解：博物館敘事建構
+```mermaid
+flowchart TD
+    A[Exhibition design<br/>展覽設計] --> B[Select objects<br/>選擇展品]
+    A --> C[Write labels<br/>撰寫說明牌]
+    A --> D[Design layout<br/>設計動線]
+    A --> E[Curate narrative<br/>策劃敘事]
+    
+    B --> B1[Inclusion = validation<br/>入選=肯定]
+    B --> B2[Exclusion = erasure<br/>排除=抹除]
+    
+    C --> C1[Academic language<br/>學術語言]
+    C --> C2[Popular language<br/>大眾語言]
+    C --> C3[Political language<br/>政治語言]
+    
+    D --> D1[Chronological<br/>按時間順序]
+    D --> D2[Thematic<br/>按主題]
+    D --> D3[Emotional arc<br/>情感弧線設計]
+    
+    E --> E1[National narrative<br/>國家敘事]
+    E --> E2[Local narrative<br/>地方敘事]
+    E --> E3[Contested narrative<br/>爭議敘事]
+    
+    style A fill:#f96
+    style E1 fill:#f66
+    style E3 fill:#c00,color:#fff
+```
+
+---
+
+# 總結
+
+1. **博物館是權力的空間化**：每一個博物館展覽的設計——什麼被展示、什麼被隠藏、什麼語言被使用——都是政治選擇，不是中性的知識傳播。
+
+2. **香港的博物館話語正在經歷根本轉變**：從殖民時期的「帝國文明展示」到回歸後的「中華文化弘揚」，博物館敘事的政治功能在持續調整。
+
+3. **天星碼頭和皇后碼頭的保育爭議，揭示了香港遺產政治的核心矛盾**：誰的記憶被優先保護？殖民時期的「現代化成就」vs 華人社區的「傳統生活」。
+
+4. **觀眾不是被動接收者**：同一個博物館展覽，內地遊客、香港本地人和外國遊客會看到完全不同的歷史。
+
+5. **博物館的數位化既是機遇也是挑戰**：數位博物館可以觸及更廣泛的觀眾，但也可能削弱博物館作為「物質體驗空間」的獨特價值。
+
+**自學建議**: 配合 Tony Bennett 的 *The Birth of the Museum* + Sharon Macdonald 的 *The Politics of Display* + 香港歷史博物館的展覽觀察，輸出博物館分析報告到 `06_Reading_Notes/`。
