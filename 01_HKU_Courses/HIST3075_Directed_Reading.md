@@ -1,401 +1,226 @@
-# HIST3075 獨立閱讀 / Directed Reading (6 credits)
+# HIST3075 獨立閱讀 / Directed Reading
 
-**Instructor**: History Staff (自行聯繫導師)
+**Instructor**: History Staff (individual faculty supervisor)
 **Department**: History, HKU
-**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
-**Style**: 袁騰飛式 — 犀利、聚焦獨立閱讀點解係研究生最重要但係最被低估嘅能力
+**Official source**: [HKU History Course Description](https://history.hku.hk/ug_cd/), [HIST-2425.pdf](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 這是一個「方法論課程」——教你如何獨立做歷史研究，如何閱讀、如何思考、如何寫作
 
 ---
 
-## 重要說明
+## 重要說明：這不是一個有固定內容的課程
 
-**呢個課程唔可以喺第五學期前報讀，需經導師批准，並需自行聯繫願意監督嘅導師。**
+HIST3075 的本質是：**一個由學生自主設計研究項目、在導師指導下進行的獨立閱讀課程**。根據 HKU 的官方描述：
+- 這是一個「密集閱讀課程」（intensive reading course）
+- 學生與導師共同協商研究方向和閱讀書單
+- 每學期需完成不超過 5,000 字的論文
+- 通常在第五學期或之後才能修讀，需提前獲得導師同意
 
-**論文上限：5,000字（單篇或數篇）**
-
----
-
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型
-
-### 心智模型 1：批判閱讀係歷史研究基本功
-學者 **Howard Sklar** 研究：批判閱讀——識別作者立場、論點假設、史料選擇背後嘅意識形態。
-
-學者 **Paul Ricoeur** 分析：文本詮釋學——理解唔係被動接收，而係主動建構意義。
-
-- 主動閱讀 vs 被動接收
-- 識別論點結構：thesis + evidence + reasoning
-- 史料批判閱讀：邊個寫？為邊個？隱藏咗乜嘢？
-
-### 心智模型 2：學術寫作與引用規範
-學者 **Joseph Gibaldi** (*MLA Handbook*, 2016) 研究：學術引用唔只係避免抄襲，而係展示知識對話。
-
-學者 **Wayne Booth** (*The Rhetoric of Rhetoric*, 2004) 分析：論點建構——點樣說服讀者。
-
-- Chicago (notes and bibliography) ——歷史學標準
-- 引用功能：展示學術脈絡、識別貢獻、避免抄襲
-- 腳註系統——Anthony Grafton (*The Footnote*, 1997) 研究：腳註係西方知識累積嘅底層基礎設施
-
-### 心智模型 3：文獻回顧方法
-學者 **Hartman** 研究：系統性文獻回顧——識別研究空白、建立學術位置。
-
-學者 **Cooper** 分析：文獻回顧四種類型——統合分析、批判分析、歷史敘述、理論建構。
-
-- 搜尋策略：JSTOR, Google Scholar, WorldCat
-- 評估標準：學術可信度、方法論嚴謹性、理論貢獻
-- 識別空白 (gap identification)：現有研究忽略咗乜嘢？
-
-### 心智模型 4：獨立研究能力
-學者 **Anthony Grafton** (*The Footnote*, 1997) 研究：歷史學研究方法——點樣建立知識累積。
-
-學者 **Umberto Eco** 分析：點樣閱讀一本書——主動批判、被動休閒。
-
-- 獨立識別研究問題
-- 獨立設計研究方法
-- 獨立管理研究時間
-
-### 心智模型 5：研究倫理
-學者 **Ruth Katzenellen** 研究：研究倫理——原創性、抄襲問題。
-
-學者 **John Smith** 分析：歷史研究倫理——呈現多元視角、避免選擇性使用史料。
-
-- 原創性聲明
-- 抄襲檢測 Turnitin
-- 利益衝突披露
+因此，這個課程沒有「標準內容」——它的內容完全取決於你的研究興趣和導師的專業領域。
 
 ---
 
-## 問題 2：3 個根本分歧
+## 問題 1：5 個核心心智模型（獨立研究的元技能）
 
-### 分歧 1：廣泛閱讀 vs 深度經典
-- **A 方**：廣泛閱讀
-  - 了解研究前沿
-  - 識別研究空白
-- **B 方**：深度經典
-  - 真正理解大師思想
-  - 建立批判框架
+### 1. 歷史研究是對話，不是複製
+**專家如何思考**: 做歷史研究不是「讀完書再寫論文」，而是與不同學者的觀點進行持續對話。好的研究者在閱讀時不斷問：「這個學者在回答什麼問題？他的證據是否充分？他的假設是什麼？」
 
-### 分歧 2：文本中心 vs 作者意圖
-- **A 方**：文本中心
-  - "The text says what it says"
-  - 讀者詮釋主導
-- **B 方**：作者意圖
-  - 理解歷史作者背景
-  - 重建作者原意
+- **典型導師**: 任何歷史學家都會教你這個——從 Edward Gibbon 的 *Decline and Fall of the Roman Empire* (1776-1789) 到 Joan Scott 的 *Gender and the Politics of History* (1988)
+- **驗證方法**: 每讀一本書，嘗試用 200 字總結作者的核心論點，並找出至少一個你不同意的觀點
 
-### 分歧 3：批判閱讀 vs 欣賞閱讀
-- **A 方**：批判為主
-  - 識別偏見、假設、漏洞
-  - 為自己研究服務
-- **B 方**：欣賞為主
-  - 先理解再批判
-  - 建立同情性理解
+### 2. 史料批判是歷史研究的核心技能
+**專家如何思考**: 歷史學家區分「一手史料」（primary sources，親歷者的記錄）和「二手史料」（secondary sources，後世學者的分析）。但更關鍵的是：任何史料都需要批判性閱讀——誰寫的？為什麼寫？給誰看？有什麼遺漏？
 
----
+- **典型學者**: **Natalie Zemon Davis** — *The Return of Martin Guerre* (1983) 是史料批判的典範——她從一份 16 世紀法庭案件記錄中重建了一個驚人的歷史真相
+- **驗證方法**: 找到一個史料片段，嘗試問 10 個關於其作者、背景、目的的問題
 
-## 問題 3：10 個深度問題
+### 3. 建構研究問題比找答案更重要
+**專家如何思考**: 好的歷史研究始於一個好的問題，而不是一個現成的答案。學者 **David Hackett Fischer** 在 *Historians' Fallacies* (1970) 中指出：最常見的研究錯誤是「先有答案再找證據」。
 
-1. 如果你要寫研究計劃，點樣識別研究空白？呢個係獨立研究最關鍵技能。
-2. 點解引用規範咁重要？抄襲嘅底線喺邊度？
-3. 如果你要批判一篇被引用1,000次嘅重要論文，你會點樣開始？
-4. 點解跨學科閱讀咁難但又咁重要？歷史學家為乜嘢要讀人類學、社會學？
-5. 如果你要做文獻回顧，點樣避免確認偏誤 (confirmation bias)？
-6. 點解有些文本值得重複閱讀？經典同流行讀物有乜嘢本質上唔同？
-7. 如果你要獨立研究，點樣建立時間表？呢個係研究生最常用錯嘅技能。
-8. 點解批判性思考咁重要？但係批判唔等於否定——點解要先理解再批判？
-9. 如果你要申請研究所，點樣展示獨立研究能力？HIST3075可以點幫到你？
-10. 如果你去2050年，歷史研究方法會點樣？AI會改變獨立閱讀方式嗎？
+- **典型學者**: **Joan Scott** — *Gender and the Politics of History* (1988) 的核心貢獻不是發現了新史料，而是提出了一個更好的問題：「性別（gender）為什麼應該被視為歷史分析的工具？」
+- **驗證方法**: 在開始研究之前，用 100 字寫下你的研究問題，並不斷問自己：「這個問題有歷史意義嗎？」
+
+### 4. 歷史書寫是政治行為
+**專家如何思考**: 歷史書寫從來不是「中性的」——誰的歷史被記住、誰的歷史被遺忘，是權力決定的。學者 **Michel-Rolph Trouillot** 在 *Silencing the Past* (1995) 中區分了「創造史料」（creation of sources）、「彙編史料」（assembly of sources）、「引導史料」（retrieval of sources）、「事後史料」（最后 sources after the fact）四個層次的「沉默」（silencing）。
+
+- **典型學者**: **Michel-Rolph Trouillot** — *Silencing the Past: Power and the Production of History* (1995)
+- **驗證方法**: 選擇一個你認為「被歷史遺忘」的群體，嘗試找出：他們為什麼被遺忘？誰的沉默創造了他們的缺席？
+
+### 5. 寫作是思考的最後形式
+**專家如何思考**: 你沒有真正理解一個歷史問題，直到你能用清晰的文字表達它。學者 **Peter Laslett** 說：「歷史是書面記錄的過去——沒有書面記錄就沒有歷史，而書面記錄不會自己說話。」
+
+- **典型學者**: **E.H. Carr** — *What is History?* (1961) — 關於歷史寫作的經典之作
+- **驗證方法**: 每週寫 500 字的讀書筆記，逼自己用清晰的語言表達複雜的歷史問題
 
 ---
 
-## 核心心智模型深化（中英對照）
+## 問題 2：3 個根本分歧（歷史研究的認識論張力）
 
-## 1. 批判閱讀技巧 (Critical Reading Skills)
+### 分歧 1：歷史的客觀性——可能嗎？
+**核心問題**: 歷史學家能夠「客觀地」重構過去嗎？
+
+- **學派A（實證主義）**: 歷史研究可以通過嚴格的史料批判和多重證據驗證，無限接近歷史真相
+- **學派B（後現代主義）**: 所有歷史敘事都是主觀建構——歷史學家的性別、階級、國籍和意識形態都會影響他們對史料的選擇和解釋
+- **學者代表**: **E.H. Carr** — *What is History?* (1961) vs **Hayden White** — *Metahistory* (1973)
+- **驗證**: 同一個歷史事件（法國大革命、美國內戰、南京大屠殺）可以被不同歷史學家敘述為完全不同的故事
+
+### 分歧 2：結構 vs 能動性——誰推動歷史？
+**核心問題**: 歷史是「結構」（帝國主義、資本主義、氣候變化）決定的，還是個人選擇決定的？
+
+- **學派A（結構主義）**: 馬克思主義者、全球史學家傾向於認為，歷史的主要驅動力是深層結構（階級、帝國、經濟體系）
+- **學派B（能動性論）**: 微觀史學家、傳記史學家傾向於認為，個人選擇和行動可以改變歷史進程
+- **學者代表**: **Fernand Braudel** — *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949) vs **Carlo Ginzburg** — *The Cheese and the Worms* (1976)
+
+### 分歧 3：歷史的當代相关性——歷史研究服務於誰？
+**核心問題**: 歷史研究應該服務於當代政治目標，還是應該追求「為歷史而歷史」？
+
+- **學派A（公共史學）**: 歷史研究應該有當代相關性——幫助我們理解當代問題、服務於社會正義
+- **學派B（學院派）**: 歷史研究的首要目標是準確重建過去，而不是服務當代政治
+
+---
+
+## 問題 3：10 個深度問題（獨立研究的實踐指南）
+
+1. 你如何識別一個「好」的歷史研究問題？好問題和壞問題的標準是什麼？請用一個具體例子說明。
+2. 史料批判的基本步驟是什麼？「一手史料」和「二手史料」的區別在實踐中為什麼比看起來更複雜？
+3. 歷史研究中的「意識形態介入」是什麼？你如何在保持批判性的同時避免讓自己的研究淪為宣傳？
+4. **導師對話策略**：你如何與導師建立有效的學術對話？如何利用導師的專業知識來深化你的研究？
+5. 歷史寫作的基本原則是什麼？什麼是「歷史敘事」（narrative）和「歷史分析」（analysis）的區別？你如何在兩者之間找到平衡？
+6. **文獻檢索**：在 HKU 圖書館和數據庫中，歷史研究的關鍵檢索工具是什麼？你如何識別某個研究領域的「核心文獻」？
+7. 「歷史記憶政治」是什麼？歷史記憶（memory）和歷史（history）之間的區別是什麼？請用一個具體例子說明。
+8. **跨學科方法**：歷史研究如何從人類學（ethnography）、社會學（sociology）、文學批評（literary criticism）等學科中吸取營養？
+9. 歷史寫作中的「反事實推理」（counterfactual reasoning）是什麼？什麼情況下它是合法的分析工具，什麼情況下它是偽裝成歷史的小說？
+10. **學術誠信**：什麼是歷史研究中的抄襲？如何區分「借鑒」（building on others' work）和「抄襲」（taking credit for others' ideas）？
+
+---
+
+# 核心心智模型深化（中英對照）
+
+## 1. 歷史研究是對話，不是複製
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 應用 |
+| 英文 | 中文 | 歷史含義 | 實踐方法 |
 |---|---|---|---|
-| Active Reading | 主動閱讀 | 主動思考文本 | 批判分析 |
-| Passive Reading | 被動閱讀 | 接收式理解 | 娛樂休閒 |
-| Source Criticism | 史料批判 | 評估可靠性 | 歷史研究 |
-| Argument Analysis | 論點分析 | 識別核心主張 | 學術論文 |
-| Bias Identification | 偏見識別 | 發現作者立場 | 所有文本 |
+| Historical dialogue | 歷史對話 | 與過去學者的持續對話 | 批評性閱讀 |
+| Historiographical tradition | 史學傳統 | 學術界對過去的持續爭論 | 了解脈絡 |
+| Scholarly conversation | 學術對話 | 在前人基礎上的建構 | 引用和回應 |
+| Critical reading | 批判性閱讀 | 不接受任何未經驗證的聲稱 | 提問和懷疑 |
 
-### 1.2 史料與考據
-- Howard Sklar: 批判閱讀理論
-- Umberto Eco: How to Read a Book
-- Howard Becker: Writing for Social Scientists
+### 1.2 袁騰飛式犀利觀察
+獨立閱讀課程最大的陷阱是：**你把「讀了很多書」當成「做了很多研究」**。
 
-### 1.3 袁騰飛式犀利觀察
-批判閱讀唔係話「我唔同意」，而係話「佢嘅論點基於邊個假設？使用咗邊個史料？隐藏咗邊個視角？」
-批判閱讀最終目標係為你自己嘅研究服務——識別現有研究嘅强項同局限，係建立你自己研究基礎嘅前提。
+真正的歷史研究不是「讀完老師指定的書單再寫論文」——而是與書本的持續對話。你讀到一個學者的觀點，你立刻要問：他的證據從哪來？他的假設是什麼？他的結論會被其他學者接受嗎？這個問題在未來可能被什麼新的史料挑戰？
 
-### 1.4 Deep test question
-- 如果你讀一篇歷史論文，點評估佢嘅thesis statement係咪够strong？
+**歷史研究是登山，不是逛超市**——你需要不斷往上爬，與前面的研究者對話，才能看到新的風景。
 
-### 1.5 圖解
+### 1.3 圖解
 ```mermaid
-flowchart TD
-    A[批判閱讀步驟] --> B[1. 識別核心論點]
-    B --> C[2. 分析支撐證據]
-    C --> D[3. 評估史料使用]
-    D --> E[4. 識別作者假設]
-    E --> F[5. 定位學術位置]
-    F --> G[服務自己研究]
+graph LR
+    A[Directed Reading Process<br/>獨立閱讀過程] --> B[Identify question<br/>識別研究問題]
+    B --> C[Read primary sources<br/>閱讀一手史料]
+    C --> D[Read secondary literature<br/>閱讀二手文獻]
+    D --> E[Critique arguments<br/>批判論點]
+    E --> F[Find gaps<br/>找出研究空白]
+    F --> G[Form your argument<br/>形成你的論點]
+    G --> H[Write clearly<br/>清晰寫作]
+    H --> I[Submit to supervisor<br/>提交導師]
+    I --> B
+    
+    style A fill:#f96
+    style F fill:#f66
+    style G fill:#9f6
 ```
 
 ---
 
-## 2. 學術引用規範 (Academic Citation)
+## 2. 史料批判是歷史研究的核心技能
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 格式 |
+### 2.1 Bilingual 概念對照
+| 英文 | 中文 | 歷史含義 | 實踐問題 |
 |---|---|---|---|
-| Chicago Style | 芝加哥格式 | 歷史學標準 | Notes & Bibliography |
-| Footnote | 腳註 | 知識累積基礎 | Grafton研究 |
-| Parenthetical | 括號引用 | 簡化引用 | APA/MLA |
-| Bibliography | 書目 | 所有引用文獻 | 必備 |
-| Plagiarism | 抄襲 | 學術死亡 | 零容忍 |
+| Primary source | 一手史料 | 親歷者的記錄 | 誰寫的？何時？為什麼？ |
+| Secondary source | 二手史料 | 後世學者的分析 | 他的假設是什麼？ |
+| Source criticism | 史料批判 | 系統性評估史料 | 偏見在哪？空白在哪？ |
+| Bias detection | 偏見識別 | 找出作者的主觀傾向 | 他的立場是什麼？ |
 
-### 1.2 史料與考據
-- Kate Turabian: A Manual for Writers
-- Anthony Grafton: The Footnote (1997)
-
-### 1.3 袁騰飛式犀利觀察
-Anthony Grafton揭示：腳註唔只係避免抄襲嘅工具，而係西方知識傳統嘅底層基礎設施——每一個腳註都係將你嘅研究接入人類知識共同體嘅橋樑。
-引用唔係負擔，而係學術對話——你在回應邊個、同意邊個、反駁邊個。
-
-### 1.4 Deep test question
-- 如果你引用一段史料，但係你唔同意史料作者嘅解讀，你點做？
-
-### 1.5 圖解
+### 2.2 圖解
 ```mermaid
 flowchart TD
-    A[學術引用] --> B[展示對話]
-    B --> C[識別前人貢獻]
-    C --> D[建立學術脈絡]
-    D --> E[避免抄襲]
-    E --> F[服務讀者核查]
-    F --> G[知識共同體累積]
+    A[Source criticism process<br/>史料批判流程] --> Q1{What type of source?<br/>什麼類型的史料?}
+    Q1 -->|Official document<br/>官方文件| B1[State interest?<br/>國家利益?]
+    Q1 -->|Letter<br/>書信| B2[Private or public?<br/>私密或公開?]
+    Q1 -->|Newspaper<br/>報紙| B3[Which paper?<br/>哪份報紙?]
+    Q1 -->|Oral testimony<br/>口述| B4[When recorded?<br/>何時記錄?]
+    
+    B1 --> C[Who created?<br/>誰創造了它?]
+    B2 --> C
+    B3 --> C
+    B4 --> C
+    
+    C --> D[For whom?<br/>為誰而寫?]
+    D --> E[What is missing?<br/>什麼被遺漏了?]
+    E --> F[Cross-check<br/>交叉驗證]
+    F --> G[Historical argument<br/>歷史論證]
+    
+    style A fill:#f96
+    style E fill:#f66
 ```
 
 ---
 
-## 3. 文獻回顧方法 (Literature Review Methods)
+## 3-5. 額外元技能
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 方法 |
-|---|---|---|---|
-| Systematic Review | 系統性回顧 | 全面搜尋文獻 | 數據庫搜尋 |
-| Narrative Review | 敘述性回顧 | 批判性綜合 | 主題分析 |
-| Gap Identification | 研究空白識別 | 現有研究未覆蓋 | 創新起點 |
-| Thematic Analysis | 主題分析 | 識別研究主題 | 分類綜合 |
-| Historiographical Position | 史學史位置 | 你喺文獻入面位置 | 必須明確 |
-
-### 1.2 史料與考據
-- Systematic literature review methodology
-- HKU Library research guides
-
-### 1.3 袁騰飛式犀利觀察
-文獻回顧最常見錯誤：羅列文獻而非批判分析。
-文獻回顧唔係「A話...B話...C話...」，而係「A基於呢個假設提出呢個結論；B用呢個方法挑戰咗A；但係C指出B忽略咗某啲關鍵因素。」
-
-### 1.4 Deep test question
-- 如果你嘅研究課題現有文獻已經有大量研究，你仲可以點創新？
-
-### 1.5 圖解
+### 5.1 圖解：歷史寫作的藝術
 ```mermaid
-flowchart TD
-    A[文獻搜尋] --> B[識別相關文獻]
-    B --> C[批判分析]
-    C --> D[識別研究空白]
-    D --> E[建立自己位置]
-    E --> F[服務thesis建立]
+graph TD
+    A[Good history writing<br/>好的歷史寫作] --> B[Clear argument<br/>清晰的論點]
+    A --> C[Strong evidence<br/>有力的證據]
+    A --> D[Narrative flow<br/>敘事流暢]
+    A --> E[Self-critical<br/>自我批判]
+    
+    B --> F[One central thesis<br/>一個核心論點]
+    B --> G[Support each claim<br/>每個聲稱都有支撐]
+    
+    C --> H[Primary sources<br/>一手史料]
+    C --> I[Secondary literature<br/>二手文獻]
+    C --> J[Statistical data<br/>統計數據]
+    
+    D --> K[Chronological coherence<br/>時間順序清晰]
+    D --> L[Thematic organization<br/>主題組織清晰]
+    
+    E --> M[Address counterarguments<br/>回應反論]
+    E --> N[Acknowledge limitations<br/>承認局限性]
+    
+    style A fill:#f96
+    style F fill:#9f6
 ```
 
 ---
 
-## 4. 獨立研究能力 (Independent Research Capability)
+# 深度自測問題詳解
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 應用 |
-|---|---|---|---|
-| Time Management | 時間管理 | 研究進度控制 | 每週目標 |
-| Problem Formulation | 問題形成 | 將興趣轉化為問題 | 核心技能 |
-| Research Design | 研究設計 | 方法論選擇 | 史學方法 |
-| Self-directed Learning | 自導學習 | 獨立推進研究 | 研究生基本功 |
-| Supervisor Relationship | 導師關係 | 指導而非督導 | 合作而非從屬 |
+## Q1 詳解：什麼是「好」的歷史研究問題
+**核心答案**: 一個「好」的歷史研究問題需要滿足以下標準：① **有歷史意義**：這個問題涉及的過去，與我們理解現在有某種相關性；② **有研究空間**：現有文獻對這個問題沒有完整答案，或者存在明顯的分歧；③ **可以用現有史料回答**：不是純粹的猜測；④ **足够精確**：不是「法國大革命是什麼？」這種大而無當的問題，而是「法國革命期間女性的政治動員策略如何受到雅各賓派政策的影響？」
 
-### 1.2 史料與考據
-- Howard Becker: Writing for Social Scientists
-- PhD supervision best practices
+**壞問題的典型**: 「工業革命為什麼在英國發生？」——這個問題被問了幾百年，沒有單一答案，但也催生了大量精彩研究
 
-### 1.3 袁騰飛式犀利觀察
-獨立研究能力唔係天生，而係培養嚟嘅。HIST3075就係最佳訓練場——你同導師係合作關係，但係研究係你嘅責任。
-最成功嘅獨立研究者從來唔係最聰明嘅，而係最識得管理不確定性嘅——當你發現方向錯誤，你要敢於承認並調整。
-
-### 1.4 Deep test question
-- 如果你研究過程中發現原本thesis完全不可行，你會點做？
-
-### 1.5 圖解
-```mermaid
-flowchart LR
-    A[選題<br/>Topic] --> B[文獻回顧<br/>Lit Review]
-    B --> C[問題形成<br/>Question]
-    C --> D[檔案/材料收集<br/>Research]
-    D --> E[初稿<br/>Draft]
-    E --> F[修改<br/>Revision]
-    F --> G[定稿<br/>Final]
-    G -.->|發現問題| D
-```
+## Q4 詳解：導師對話策略
+與導師建立有效學術對話的關鍵：
+- **在見導師之前**：準備好你的具體問題，列出你閱讀中遇到的困難和發現
+- **見導師時**：不要只說「我讀了什麼」，要說「我對什麼有疑問」「我認為什麼是對的、什麼可能是錯的」
+- **見導師後**：立即整理對話紀錄，並根據導師建議調整你的閱讀計劃
 
 ---
 
-## 5. 研究倫理 (Research Ethics)
+# 總結 / Closing 5-Point Deep Insights
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 重要性 |
-|---|---|---|---|
-| Originality | 原創性 | 知識共同體底線 | 學術生命線 |
-| Plagiarism | 抄襲 | 知識竊盜 | 零容忍 |
-| Turnitin | 抄襲檢測 | 技術把關 | 必經 |
-| Acknowledgment | 鳴謝 | 識別他人貢獻 | 基本禮貌 |
-| Conflict of Interest | 利益衝突 | 需要披露 | 誠信要求 |
+1. **獨立閱讀是一種思維方式的訓練，不是知識的堆積**：讀多少書不重要，重要的是你能不能批判性地運用你所讀的書來回答你自己提出的問題。
 
-### 1.2 史料與考據
-- HKU Academic Honesty Policy
-- Turnitin similarity report
+2. **史料批判是歷史學區別於其他所有人文學科的根本技能**：每個學科都有文本，但只有歷史學發展出了系統性的史料批判方法。
 
-### 1.3 袁騰飛式犀利觀察
-研究倫理唔只係「避免抄襲」——抄襲只係冰山一角。
-真正嘅研究倫理包括：選擇性使用有利自己嘅史料、完全忽視不利自己嘅證據、使用他人思想而唔標注——
-呢啲全部都係學術誠信問題，但係好多學生未意識到。
+3. **好的歷史研究問題是「問題」不是「主題」**：「我想研究香港歷史」不是研究問題；「香港的女性工廠工人如何在 1960 年代應對童工問題？」才是研究問題。
 
-### 1.4 Deep test question
-- 如果你引用一段史料，但係佢可以支持兩個完全相反嘅結論，你點做？
+4. **寫作是思考的最後形式**：如果你不能用清晰的文字表達你的歷史論點，你的思考就不够清晰。
 
-### 1.5 圖解
-```mermaid
-flowchart TD
-    A[學術誠信] --> B[原創性]
-    A --> C[正確引用]
-    A --> D[完整呈現證據]
-    A --> E[研究者立場透明]
-    B --> F[知識共同體信任]
-    C --> F
-    D --> F
-    E --> F
-    F --> G[學術聲譽]
-```
+5. **獨立研究是歷史學家最重要的能力**：歷史系的職業訓練目標不是「記住很多歷史事實」，而是「獨立建構歷史論點的能力」——這種能力適用於任何需要分析和寫作的職業。
 
----
-
-## 深度自測問題詳解
-
-### 詳解 1: 點解識別研究空白咁重要？
-因為研究空白就係你研究嘅價值所在。每一個研究必須回答：「呢個研究點解重要？」答案喺現有文獻嘅空白入面。
-
-### 詳解 2: 如何識別高質量學術論文？
-Authority（作者係邊個？）、Accuracy（結論基於乜嘢證據？）、Coverage（範圍係咪全面？）、Currency（幾時發表？）、Objectivity（立場透明嗎？）
-
-### 詳解 3: 點解跨學科閱讀咁重要？
-歷史學家要讀人類學（田野方法）、社會學（理論框架）、哲學（認識論）、文學批評（文本分析）——因為歷史係跨學科嘅。
-
-### 詳解 4: 如果導師方向同你方向衝突？
-呢個係常見問題。與導師坦誠溝通，識別衝突根源——係研究問題定方法論？但係記住：最終研究係你嘅，導師係資源提供者。
-
-### 詳解 5: 點解先理解再批判？
-因為你必須知道你在批判乜嘢。不理解就批判係無知傲慢。Gadamer嘅「視域融合」：你先expand你的視域去理解對方，再建立你自己的視域。
-
-### 詳解 6: 如何建立史學史位置？
-在Introduction入面，你要展示：你嘅研究接住邊個傳統、回應邊個爭論、填補邊個空白。三個問題，缺一不可。
-
-### 詳解 7: 如果研究過程中方向要調整？
-呢個係完全正常嘅——研究就係探索過程。調整方向唔係失敗，而係研究嘅自然進化。關鍵係要及時調整，而非死撐到底。
-
-### 詳解 8: 如何確保引用唔犯規？
-Turnitin係最後把關，但係你自己要确保：所有借鑒（文字、思想和數據）都有標注。即使係common knowledge，如果唔sure，標注。
-
-### 詳解 9: 如何向非專家解釋你嘅研究？
-練習「電梯演說」——喺60秒內用非術語解釋你研究嘅問題、重要性和主要發現。呢個能力喺申請獎學金、研究所面試時極其重要。
-
-### 詳解 10: AI工具如何使用？
-AI可以幫你brainstorm、structure、甚至draft——但係分析、論點、批判必須你自己做。記住：Turnitin會檢測AI生成內容，學術誠信底線唔可以通過AI绕过。
-
----
-
-## 5 個 Mermaid 圖解
-
-### 📊 Diagram 1: 批判閱讀層次
-```mermaid
-flowchart TD
-    A[閱讀層次] --> B[表層：理解內容]
-    B --> C[中層：識別結構]
-    C --> D[深層：評估論點]
-    D --> E[批判：識別偏見]
-    E --> F[建構：服務自己研究]
-```
-
-### 📊 Diagram 2: 文獻回顧流程
-```mermaid
-flowchart TD
-    A[搜尋關鍵詞] --> B[JSTOR/Google Scholar]
-    B --> C[篩選相關文獻]
-    C --> D[批判分析]
-    D --> E[識別空白]
-    E --> F[建立位置]
-    F --> G[服務thesis]
-```
-
-### 📊 Diagram 3: 獨立研究進度管理
-```mermaid
-gantt
-    title HIST3075 研究進度
-    dateFormat X
-    axisFormat %W
-    section 學期
-    選題確定 :done, 0, 2w
-    導師聯繫 :done, 2, 3w
-    文獻回顧 :active, 3, 7w
-    獨立研究 :active, 7, 12w
-    初稿 :future, 12, 14w
-    修改 :future, 14, 15w
-```
-
-### 📊 Diagram 4: 學術引用層次
-```mermaid
-flowchart TD
-    A[引用功能] --> B[識別前人貢獻]
-    A --> C[建立學術脈絡]
-    A --> D[支持自己論點]
-    A --> E[避免抄襲]
-    B --> F[知識共同體]
-    C --> F
-    D --> F
-    E --> F
-```
-
-### 📊 Diagram 5: 研究倫理決策
-```mermaid
-flowchart TD
-    A[倫理決策] --> B[原創性問題]
-    A --> C[引用問題]
-    A --> D[利益衝突]
-    B --> E[Turnitin檢測]
-    C --> F[標注所有借鑒]
-    D --> G[披露聲明]
-```
-
----
-
-## 總結
-
-1. **批判閱讀係歷史研究基本功**——識別論點結構、史料選擇、作者假設，係建立自己研究嘅前提。
-2. **引用規範係學術對話嘅語言**——唔只係避免抄襲，而係展示你喺邊個學術傳統入面、回應邊個爭論。
-3. **文獻回顧唔係羅列，而係批判分析**——識別研究空白，建立你自己嘅史學史位置。
-4. **獨立研究能力係研究生核心**——導師係資源提供者，但係研究係你嘅責任。
-5. **研究倫理係學術生命線**——原創性、完整呈現證據、立場透明——呢啲係歷史學家嘅基本誠信。
-
-**最後問題**: 如果你去申請歷史學博士，面試官問：「點解你要讀歷史？」——你點答？
-
----
-**版權所有 © HKU History Self-Study**
+**自學建議**: 配合 E.H. Carr 的 *What is History?* + Natalie Zemon Davis 的 *The Return of Martin Guerre* + Michel-Rolph Trouillot 的 *Silencing the Past*，輸出讀書筆記到 `06_Reading_Notes/`。
