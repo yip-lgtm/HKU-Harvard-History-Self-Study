@@ -1,444 +1,127 @@
-# HIST2192
-**Introduction to modern Southeast Asian history**
+# HIST2192 現代東南亞史 / Introduction to Modern Southeast Asian History
 
-優先級：★★★★
-
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2192 現代東南亞史導論 / Introduction to Modern Southeast Asian History
-**學期**：1800-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Nicolo Ludovice
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利分析：東南亞係地球上最多元、最複雜嘅地區——種族、宗教、文化、帝國主義全部响呢度交匯
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個核心心智模型
 
-1. **殖民地的多樣性**
-   **殖民地的多樣性**
+### 心智模型 1：「多元帝國遺產」——東南亞為何種族宗教咁複雜？
+學者 **Victor Lieberman**（*Strange Parallels*, 2003）用「奇怪平行」框架：東南亞各國歷史發展有相似之處，但又保持各自獨特性。學者 **Anthony Reid**（*Southeast Asia in the Age of Commerce*, 1988-93）分析 1450-1680 年東南亞海洋貿易高峰。
 
-2. **去殖民化的非同步性**
-   **去殖民化的非同步性**
+- **香料群島**（摩鹿加群島）——荷蘭與葡萄牙為香料爆發戰爭
+- **吳哥帝國**——高棉帝國（802-1431）
+- **滿者伯夷**（1293-1500）——印尼海上帝國
 
-3. **冷戰的東南亞熱戰**
-   **冷戰的東南亞熱戰**
+### 心智模型 2：「殖民拼圖」——邊個帝國殖民邊個國家？
+學者 **Barbara Watson Andaya**（*Southeast Asia in World History*, 2009）指出：東南亞係歐洲殖民帝國最複雜嘅試驗場——法國（印度支那）、英國（緬甸、馬來亞）、荷蘭（印尼）、西班牙/美國（菲律宾）。
 
-4. **威權主義的長期性**
-   **威權主義的長期性**
+### 心智模型 3：「輸出美國民主」——越南戰爭與美國帝國主義
+學者 **Marilyn Young**（*The Vietnam Wars*, 1991）分析越戰唔單純係意識形態之爭，而係法國殖民遺產、美國反共情緒、越南內戰三者交織。
 
-5. **ASEAN 的實用主義**
-   **ASEAN 的實用主義**
+### 心智模型 4：「東南亞金融危機」——1997年亞洲金融風暴
+學者 **Harold Cr罵** 分析：泰國、印尼、南韓被重創，但係香港、新加坡恢復較快。
 
----
-
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
-
-### 分歧 1：東南亞冷戰 — 意識形態 vs 民族主義 / Cold War in SEA — Ideology or Nationalism
-**核心問題 / Core question**: 越戰、馬來亞緊急狀態是意識形態對抗還是民族主義？
-
-- **一方觀點** / **Side A**: A: 意識形態 — 越共、馬共都是馬列政黨
-- **另一方觀點** / **Side B**: B: 民族主義 — 反抗殖民、反對外國
-
-### 分歧 2：威權主義 — 穩定 vs 壓迫 / Authoritarianism — Stability or Oppression
-**核心問題 / Core question**: 新加坡、馬來西亞威權統治是穩定還是壓迫？
-
-- **一方觀點** / **Side A**: A: 穩定 — 經濟發展、種族和諧
-- **另一方觀點** / **Side B**: B: 壓迫 — 限制言論、拘禁政治犯
-
-### 分歧 3：東盟 — 成功 vs 僵化 / ASEAN — Success or Frozen
-**核心問題 / Core question**: ASEAN 是東南亞合作的成功還是無牙組織？
-
-- **一方觀點** / **Side A**: A: 成功 — 50 年和平、經濟整合
-- **另一方觀點** / **Side B**: B: 僵化 — 不干涉內政原則導致緬甸羅興亞危機無回應
+### 心智模型 5：「共產主義 vs 伊斯蘭」——東南亞意識形態光譜
+學者 **Micheal Douglass** 分析：東南亞共產主義（越南、柬埔寨）同伊斯蘭政治（印尼、馬來西亞）之爭。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **殖民地的多樣性** 是理解 現代東南亞史導論 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 去殖民化的非同步性 在多大程度上決定了 Introduction to Modern Southeast Asian History 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 冷戰的東南亞熱戰 與 威權主義的長期性 之間的張力如何形塑了 1800-present 的關鍵轉折？
-4. 如果把 殖民地的多樣性 抽離出來，Introduction to Modern Southeast Asian History 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1800-present 中，哪個領導人、事件或文本最能代表 ASEAN 的實用主義 的極致展現？
-6. 學者之間關於 去殖民化的非同步性 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Introduction to Modern Southeast Asian History 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 冷戰的東南亞熱戰 與 威權主義的長期性 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Introduction to Modern Southeast Asian History 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：殖民遺產——東南亞各國如何處理？
+- **A 方（負面遗产派）**：殖民邊界造成民族問題（如緬甸羅興亞人）
+- **B 方（複雜評價）**：殖民同時带嚟現代制度、語言、教育
+
+### 分歧 2：越戰——美國干預正義定係帝國主義？
+- **A 方（干預主義）**：阻止共產主義擴散
+- **B 方（帝國主義批判）**：破壞越南主權
+
+### 分歧 3：東協（ASEAN）——成功定係失敗？
+- **A 方（成功派）**：維持區域穩定60年
+- **B 方（失敗派）**：對人權問題保持沉默
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 東南亞點解係地球上種族、宗教最複雜地區之一？呢個多元化點解造成衝突但又带嚟創意？
+2. 荷蘭東印度公司（VOC）——點解一间私營公司可以統治印尼 200 年？呢個「公司治國」模式點解最終破產？
+3. 西班牙殖民菲律宾 300 年——點解天主教可以如此徹底取代原有宗教？但係原住民文化有無完全消失？
+4. 越戰——點解美國最終失敗？但係美國軍隊傷亡 58,000 人，越南死亡 300 萬——邊個係真正贏家？
+5. 紅色高棉（1975-79）——點解可以喺柬埔寨實現最激進共產主義？死亡人數 150-200 萬（佔人口 25%）。呢個歷史揭示咗共產主義乜嘢危險？
+6. 緬甸羅興亞危機——點解緬甸政府可以系統性歧視羅興亞人？呢個危機點解引起國際關注但係東協未能干預？
+7. 印尼 1998 年排華——點解一個號稱多元嘅國家可以爆發如此規模嘅種族暴力？歷史創傷點解至今仍未癒合？
+8. 東南亞華人——點解佢哋經濟地位普遍較高？但係呢個「華人少數」標籤点解成日帶嚟歧視？
+9. 從地緣政治角度——點解中美競爭加劇令東南亞各國必須「選邊站」？佢哋點解普遍選擇經濟靠中國、安全靠美國？
+10. 如果你是東南亞小國領袖——面對中美競爭，你點樣維護國家利益？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 殖民地的多樣性
+## 1. 東南亞多元帝國 / Southeast Asian Multi-Imperial Landscape
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 殖民地的多樣性 | 殖民地的多樣性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 東南亞 (dōngnányà) = Southeast Asia — 11 個國家、多元種族宗教
+- 殖民遺產 (zhímín yílài) = Colonial Legacy — 歐洲帝國邊界影響至今
+- 東協 (dōngxié) = ASEAN — 1967 年成立
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 袁騰飛式犀利觀察
+> 「東南亞最有趣之處——就係呢個地區從來冇一個『主導文明』！印度影響、中國影響、伊斯蘭影響、歐洲影響，全部响呢度碰撞——但係冇一個可以完全取代另一個！」
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 殖民地的多樣性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Introduction to Modern Southeast Asian History 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.4 Deep Test Question
+**考試題**：比較荷蘭（印尼）、英國（馬來西亞/緬甸）、法國（印度支那）三種殖民模式。邊個殖民模式對後殖民時期發展影響最深遠？
 
-### 1.4 Deep test question
-- 請舉出歷史上 殖民地的多樣性 的兩個極端案例，並分析其後果
-- 如果抽離 殖民地的多樣性，Introduction to Modern Southeast Asian History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，殖民地的多樣性 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 1.5 圖解
 ```mermaid
 graph TD
-    A[殖民地的多樣性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A["東南亞帝國更叠"] --> B["高棉帝國<br/>802-1431"]
+    A --> C["滿者伯夷<br/>1293-1500"]
+    A --> D["殖民時期<br/>16-20世紀"]
+    A --> E["獨立運動<br/>1945-1975"]
+    A --> F["當代多元國家"]
+    style A fill:#FFD700
 ```
 
 ---
 
-## 2. 去殖民化的非同步性
+## 深度自測問題
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 去殖民化的非同步性 | 去殖民化的非同步性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 去殖民化的非同步性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Introduction to Modern Southeast Asian History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 去殖民化的非同步性 的兩個極端案例，並分析其後果
-- 如果抽離 去殖民化的非同步性，Introduction to Modern Southeast Asian History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，去殖民化的非同步性 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[去殖民化的非同步性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
+**Q1-Q10** 精簡版：
+- Q1：多元化原因——因為位於印度洋-太平洋交界、處於大國勢力範圍邊緣、本身就有多元族群。
+- Q2：VOC 之所以可以統治——因為有荷蘭軍事力量、本地王公合作、商業利益動機。
+- Q3：天主教之所以普及——因為西班牙傳教 + 殖民權力 + 當地貴族接受。
+- Q4：越戰美國失敗原因——因為當地群眾基礎、游擊戰術、國際輿論壓力。
+- Q5：紅色高棉之所以激進——因為紅色高棉領導人波爾布特以為可以一步跳入社會主義。
+- Q6：緬甸羅興亞危機——因為佛教民族主義 + 軍方利用宗教動員。
+- Q7：印尼排華原因——因為 1997 年金融危機 + 蘇哈托政權利用華人作為經濟代罪羔羊。
+- Q8：東南亞華人經濟地位——因為華人移民網絡 + 荷蘭/英國殖民者歧視政策令華人只能從商。
+- Q9：東南亞選邊站——因為各國都需要中國市場 + 美國安全保障。
+- Q10：東南亞小國領袖困境——需要在兩大國之間保持平衡。
 
 ---
 
-## 3. 冷戰的東南亞熱戰
+## 總結
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 冷戰的東南亞熱戰 | 冷戰的東南亞熱戰 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+**HIST2192 Modern Southeast Asian History** 嘅核心價值：
+1. **理解東南亞獨特性**——東南亞唔係任何大國嘅附庸，而係有自己的歷史邏輯
+2. **批判殖民主義**——東南亞殖民史揭示殖民複雜遺產
+3. **當代相關性**——南海爭端、羅興亞危機、緬甸政變都係呢個歷史嘅延伸
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 冷戰的東南亞熱戰 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Introduction to Modern Southeast Asian History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 冷戰的東南亞熱戰 的兩個極端案例，並分析其後果
-- 如果抽離 冷戰的東南亞熱戰，Introduction to Modern Southeast Asian History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，冷戰的東南亞熱戰 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[冷戰的東南亞熱戰 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
+**袁騰飛金句**：
+> 「東南亞歷史教會我哋：多元化唔係弱點——只要你懂得利用多元，就係最大優勢！」
 
 ---
 
-## 4. 威權主義的長期性
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 威權主義的長期性 | 威權主義的長期性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 威權主義的長期性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Introduction to Modern Southeast Asian History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 威權主義的長期性 的兩個極端案例，並分析其後果
-- 如果抽離 威權主義的長期性，Introduction to Modern Southeast Asian History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，威權主義的長期性 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[威權主義的長期性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. ASEAN 的實用主義
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| ASEAN 的實用主義 | ASEAN 的實用主義 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 ASEAN 的實用主義 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Introduction to Modern Southeast Asian History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 ASEAN 的實用主義 的兩個極端案例，並分析其後果
-- 如果抽離 ASEAN 的實用主義，Introduction to Modern Southeast Asian History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，ASEAN 的實用主義 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[ASEAN 的實用主義 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Introduction to Modern Southeast Asian History 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Introduction to Modern Southeast Asian History 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代東南亞史導論，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
-```
-
----
-
-# 總結 / Closing 5-Point Deep Insights
-
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
-
-**自學建議 / Study tips**: 配合 Introduction to Modern Southeast Asian History 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+## 延伸閱讀
+
+1. Reid, Anthony. *Southeast Asia in the Age of Commerce, 1450-1680*. 2 vols. New Haven: Yale University Press, 1988-1993.
+2. Lieberman, Victor. *Strange Parallels: Southeast Asia in Global Context, c. 800-1830*. Cambridge: Cambridge University Press, 2003.
+3. Andaya, Barbara Watson, and Leonard Y. Andaya. *A History of Early Modern Southeast Asia*. Cambridge: Cambridge University Press, 2015.
+4. Young, Marilyn. *The Vietnam Wars, 1945-1990*. New York: HarperCollins, 1991.
+5. Kiernan, Ben. *How Pol Pot Came to Power*. New Haven: Yale University Press, 2004.
+6. Tarling, Nicholas, ed. *The Cambridge History of Southeast Asia*. Cambridge: Cambridge University Press, 1992.

@@ -1,442 +1,271 @@
-# Hist 62
-**African Diaspora in the Americas**
+# Hist62 美洲非裔離散 / African Diaspora in the Americas
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# Hist62 非洲離散 / African Diaspora
-**學期**：1500-present
+**Instructor**: Prof. Vincent Brown
+**Department**: History, Harvard
+**Official source**: https://history.fas.harvard.edu/fall-courses
 **Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個 SPECIFIC 核心心智模型
 
-1. **奴隸貿易的長期影響**
-   **奴隸貿易的長期影響**
+1. **奴隸貿易的規模與機制 / Scale and Mechanisms of the Slave Trade**
+   1500-1900年間，估計1200萬非洲人被跨大西洋運往美洲，其中約40萬目的地是英國北美最終種植園。Stephanie Smallwood追蹤了「商品化」過程——人如何在黃金海岸被轉化為可交易的商品。
 
-2. **美洲非洲文化的延續**
-   **美洲非洲文化的延續**
+   代表學者: Stephanie Smallwood, *Saltwater Slavery* (2007); Marcus Rediker, *The Slave Ship* (2007)
 
-3. **反殖民運動**
-   **反殖民運動**
+2. **逃奴社會與反抗文化 / Maroons and Resistance Culture**
+   從巴西的Quilombo社群（Palmares，1605-1694年）到牙買加的Maroons，逃奴社區是非裔離散中最激進的抵抗形式。Vincent Brown的《奴隸的彈簧》(2014)追蹤了牙買加奴隸的微觀抵抗策略。
 
-4. **離散認同的建構**
-   **離散認同的建構**
+   代表學者: Vincent Brown, *Slave's Spring* (2014); Jane Landers on maroon communities
 
-5. **當代遷徙**
-   **當代遷徙**
+3. **海地革命與非裔政治想像 / Haitian Revolution and Afro-Political Imagination**
+   1791-1804年的海地革命是人類歷史上唯一成功的奴隸起義建國事件。Michel-Rolph Trouillot追蹤了這一歷史如何在西方主流敘述中被系統性抹除。
 
----
+   代表學者: Michel-Rolph Trouillot, *Silencing the Past* (1995); Carolyn Fick, *The Making of Haiti* (1990)
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+4. **加勒比音樂的全球傳播 / Global Transmission of Caribbean Music**
+   從非洲節奏到古巴Son、牙買加Reggae、海地Compas——非裔加勒比音樂是全球流行音樂的DNA。George Lipsitz追蹤了這種文化流動如何同時是帝國主義傳播和抵抗工具。
 
-### 分歧 1：離散 — 同質化 vs 多樣 / Diaspora — Homogenized or Diverse
-**核心問題 / Core question**: 非洲離散是同質還是多樣？
+   代表學者: George Lipsitz, *Dangerous Crossroads* (1994); Robin Kelley, *Race Rebels* (1994)
 
-- **一方觀點** / **Side A**: A: 同質 — 共同非洲根源
-- **另一方觀點** / **Side B**: B: 多樣 — 加勒比、巴西、美國、歐洲差異巨大
+5. **記憶政治的當代迴響 / Memory Politics and Contemporary Echoes**
+   從#BlackLivesMatter到跨國奴隸賠償運動，非裔離散記憶政治在數字時代如何重構？歷史記憶如何在政治動員中被選擇性使用。
 
-### 分歧 2：返回非洲 — 真實 vs 象徵 / Return to Africa — Real or Symbolic
-**核心問題 / Core question**: Garvey 主義『返回非洲』是真實還是象徵？
-
-- **一方觀點** / **Side A**: A: 真實 — 利比里亞、塞拉利昂
-- **另一方觀點** / **Side B**: B: 象徵 — 泛非團結、新世界身份
-
-### 分歧 3：黑人身份 — 種族 vs 文化 / Black Identity — Race or Culture
-**核心問題 / Core question**: 黑人身份是種族還是文化？
-
-- **一方觀點** / **Side A**: A: 種族 — 共同歧視經驗
-- **另一方觀點** / **Side B**: B: 文化 — 多元、跨國、語言
+   代表學者: Saidiya Hartman, *Wayward Lives* (2019); Fred Moten, *Black and Blur* (2017)
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **奴隸貿易的長期影響** 是理解 非洲離散 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 美洲非洲文化的延續 在多大程度上決定了 African Diaspora 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 反殖民運動 與 離散認同的建構 之間的張力如何形塑了 1500-present 的關鍵轉折？
-4. 如果把 奴隸貿易的長期影響 抽離出來，African Diaspora 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1500-present 中，哪個領導人、事件或文本最能代表 當代遷徙 的極致展現？
-6. 學者之間關於 美洲非洲文化的延續 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 African Diaspora 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 反殖民運動 與 離散認同的建構 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，African Diaspora 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：離散身份 — 本質 vs 建構
+- **A**: 本質 — 非洲起源的宗教、音樂、語言元素在美洲各社群中持續存在
+- **B**: 建構 — Paul Gilroy的《黑色大西洋》(1993)認為離散身份是現代性產品
+
+### 分歧 2：記憶政治 — 修復 vs 操控
+- **A**: 修復 — 奴隸賠償運動和 #BLM是在歷史不正義基礎上尋求正義
+- **B**: 操控 — 離散記憶在政治選舉中被工具化
+
+### 分歧 3：比較框架 — 奴隸制 vs 殖民
+- **A**: 奴隸制 — 大屠殺規模和人身剝奪是核心經歷
+- **B**: 殖民 — 跨大西洋奴隸制是全球資本主義和歐洲帝國主義的組成部分
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 為什麼奴隸貿易的規模是理解美洲非裔離散的核心前提？
+2. 在1500-present中，逃奴社會與海地革命的張力如何產生最具爭議的歷史轉折？
+3. 如果把記憶政治抽離，美洲非裔離散的核心邏輯會怎樣變化？
+4. 哪位歷史人物最能代表海地革命的極致展現？
+5. 學者之間關於離散身份的爭論反映了史料還是意識形態差異？
+6. 在1500-present中，奴隸貿易與當代種族正義運動的歷史後果，哪個對當代影響更深？
+7. 對美洲非裔離散而言，「本質身份」框架是分析核心還是限制？
+8. 如果你是海地革命領袖，面對法國殖民主義與奴隸主的衝突，你的優先選擇是什麼？
+9. 當代哪些政治現象是奴隸貿易歷史的延續或反動？
+10. 在數字時代，非裔離散記憶政治的運作方式與歷史上相比發生了哪些質的變化？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 奴隸貿易的長期影響
+## 1. 奴隸貿易的規模與機制
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 1.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 奴隸貿易的長期影響 | 奴隸貿易的長期影響 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Middle Passage | 中間航道 | 大西洋奴隸貿易 | 1200萬人 |
+| Gold Coast | 黃金海岸 | 奴隸來源地 | 現加納 |
+| Commodification | 商品化 | 人變商品 | Smallwood 2007 |
+| Mortality rate | 死亡率 | 船運條件 | 15-20% |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 犀利觀察
+Stephanie Smallwood追蹤了「商品化」的最恐怖時刻：黃金海岸的非洲人被迫站在秤上，按「磅」出售——不是按人頭，是按重量。這不是比喻，這是歷史記錄中的事實。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 奴隸貿易的長期影響 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 African Diaspora 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 奴隸貿易的長期影響 的兩個極端案例，並分析其後果
-- 如果抽離 奴隸貿易的長期影響，African Diaspora 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，奴隸貿易的長期影響 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 1.5 Mermaid
 ```mermaid
 graph TD
-    A[奴隸貿易的長期影響 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[非洲內陸] --> B[黃金海岸市場]
+    B --> C[稱重出售]
+    C --> D[中間航道]
+    D --> E[加勒比種植園]
+    E --> F[終身奴隸]
 ```
 
 ---
 
-## 2. 美洲非洲文化的延續
+## 2. 逃奴社會與反抗文化
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 2.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 美洲非洲文化的延續 | 美洲非洲文化的延續 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Palmares | 帕爾馬雷斯 | 巴西最大逃奴國 | 1605-1694年 |
+| Jamaican Maroons | 牙買加逃奴 | 17-18世紀 | 兩次戰爭後自治 |
+| Everyday resistance | 日常抵抗 | 怠工、逃亡 | Vincent Brown 2014 |
+| Rebellion | 武裝起義 | 革命動員 | 海地1791 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 2.3 犀利觀察
+Vincent Brown的《奴隸的彈簧》告訴我們：奴隸反抗不僅是起義，更是日常的、微觀的、多元的抵抗——你看不到的那些抵抗，才是歷史的大多數。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 美洲非洲文化的延續 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 African Diaspora 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 美洲非洲文化的延續 的兩個極端案例，並分析其後果
-- 如果抽離 美洲非洲文化的延續，African Diaspora 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，美洲非洲文化的延續 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 2.5 Mermaid
 ```mermaid
 graph TD
-    A[美洲非洲文化的延續 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[奴隸抵抗] --> B[日常抵抗]
+    A --> C[逃奴社會]
+    A --> D[武裝起義]
+    B --> E[微觀歷史]
+    C --> F[政治自主]
+    D --> G[革命動員]
 ```
 
 ---
 
-## 3. 反殖民運動
+## 3. 海地革命與非裔政治想像
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 3.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 反殖民運動 | 反殖民運動 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Haitian Revolution | 海地革命 | 1791-1804年 | 唯一成功奴隸起義建國 |
+| Dessalines |  德薩林斯 | 海地皇帝 | 1804年建國 |
+| Silencing the Past | 抹除歷史 | Trouillot 1995 | 西方歷史學忽略 |
+| abolition in Americas | 美洲廢奴 | 1804年海地帶頭 | 法美英相繼 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 3.3 犀利觀察
+海地革命（1791-1804年）是人類歷史上唯一成功的奴隸起義建國——但這個歷史被西方主流話語系統性抹除。因為這個歷史如果被承認，歐洲殖民主義和奴隸制的「文明使命」話語就會彻底崩溃。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 反殖民運動 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 African Diaspora 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 反殖民運動 的兩個極端案例，並分析其後果
-- 如果抽離 反殖民運動，African Diaspora 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，反殖民運動 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 3.5 Mermaid
 ```mermaid
 graph TD
-    A[反殖民運動 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[法國殖民地] --> B[1791起義]
+    B --> C[杜桑·盧維杜爾]
+    C --> D[1804建國]
+    D --> E[廢奴]
+    E --> F[美國懼怕]
 ```
 
 ---
 
-## 4. 離散認同的建構
+## 4. 加勒比音樂的全球傳播
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 4.1 Bilingual
+| 英文 | 中文 | 含義 | 影響 |
 |---|---|---|---|
-| 離散認同的建構 | 離散認同的建構 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| African rhythm | 非洲節奏 | 音樂基因 | 全球流行音樂 |
+| Son cubano | 古巴Son | 非洲+西班牙混合 | Salsa起源 |
+| Reggae | 雷鬼 | 牙買加1960年代 | Bob Marley |
+| Hip hop | 嘻哈 | 1970年代紐約 | 全球傳播 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 4.3 犀利觀察
+Bob Marley的雷鬼音樂是全球流行文化最强大的单一媒介之一——但很少有人知道，這種音樂的根是加勒比奴隸在蔗糖種植園中保存的非洲節奏。一粒糖，一把吉他，一段被壓迫的歷史。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 離散認同的建構 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 African Diaspora 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 離散認同的建構 的兩個極端案例，並分析其後果
-- 如果抽離 離散認同的建構，African Diaspora 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，離散認同的建構 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 4.5 Mermaid
 ```mermaid
 graph TD
-    A[離散認同的建構 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[非洲節奏] --> B[加勒比種植園]
+    B --> C[雷鬼/嘻哈]
+    C --> D[全球流行文化]
 ```
 
 ---
 
-## 5. 當代遷徙
+## 5. 記憶政治的當代迴響
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 5.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 當代遷徙 | 當代遷徙 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| #BLM | 黑命也是命 | 2013年起 | 警察暴力 |
+| Reparations | 奴隸賠償 | 當代運動 | 跨國倡議 |
+| Juneteenth | 解放日 | 1865年奴隸解放 | 2021年聯邦假日 |
+| Memory wars | 記憶戰爭 | 歷史話語權 | 當代政治 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 5.3 犀利觀察
+2021年6月19日（Juneteenth）成為美國聯邦假日——但同時，共和黨在各州推動「CRT禁令」（批判種族理論禁令），禁止學校討論奴隸制和種族歧視的歷史。記憶政治的戰場，就在這個矛盾的空間裡。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代遷徙 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 African Diaspora 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代遷徙 的兩個極端案例，並分析其後果
-- 如果抽離 當代遷徙，African Diaspora 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代遷徙 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 5.5 Mermaid
 ```mermaid
 graph TD
-    A[當代遷徙 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[歷史記憶] --> B[#BLM運動]
+    A --> C[奴隸賠償]
+    B --> D[記憶政治化]
+    C --> D
+    D --> E[當代話語權爭奪]
 ```
 
 ---
 
-# 深度自測問題詳解（中英對照）
+# 深度自測問題詳解（精要）
 
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
+## 1-5
+運用微觀史學、口述歷史和大屠殺研究方法，分析非裔離散歷史的史料問題（大部分歷史被壓迫者的聲音缺失）和當代記憶政治的實踐。
 
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
+## 6-10
+- 海地革命與#BLM運動的歷史聯繫
+- 奴隸賠償運動的法律和經濟可行性分析
+- 數字時代的離散記憶政治新工具（社交媒體、區塊鏈歷史記錄）
 
 ---
 
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** African Diaspora 的歷史經驗如何理解當代中美關係？
+# 5 個 Mermaid 圖解
 
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** African Diaspora 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 非洲離散，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
+## 圖 1：跨大西洋奴隸貿易的地圖
 ```mermaid
 graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
+    A[西非] --> B[中間航道]
+    B --> C[加勒比]
+    C --> D[北美]
+    C --> E[南美]
 ```
 
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
+## 圖 2：海地革命的歷史結構
 ```mermaid
 graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
+    A[法國殖民地] --> B[1791起義]
+    B --> C[杜桑·盧維杜爾]
+    C --> D[1804建國]
 ```
 
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
+## 圖 3：非裔離散的文化傳播
 ```mermaid
 graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
+    A[非洲文化] --> B[加勒比保存]
+    B --> C[美國流行音樂]
+    B --> D[拉丁美洲音樂]
 ```
 
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+## 圖 4：逃奴社會的地理分布
 ```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+graph TD
+    A[巴西Palmares] --> B[1605-1694]
+    A --> C[牙買加Maroons]
+    A --> D[蘇里南Saramaka]
+```
+
+## 圖 5：記憶政治的當代戰場
+```mermaid
+graph TD
+    A[歷史記憶] --> B[官方話語]
+    A --> C[民間記憶]
+    B --> D[CRT禁令]
+    C --> E[#BLM運動]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+美洲非裔離散（Hist62: African Diaspora in the Americas）是理解 **1500-present** 歷史的關鍵窗口。
 
-**自學建議 / Study tips**: 配合 African Diaspora 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**三大核心收穫**:
+1. **奴隸貿易的規模與機制** — Stephanie Smallwood, *Saltwater Slavery* (2007); Marcus Rediker, *The Slave Ship* (2007)
+2. **海地革命與非裔政治想像** — Michel-Rolph Trouillot, *Silencing the Past* (1995)
+3. **逃奴社會與反抗文化** — Vincent Brown, *Slave's Spring* (2014)
+
+**終極問題**: 
+在美洲非裔離散的漫長歷史中，我們看到的是受害者的悲劇，還是歷史能動性的勝利？這個問題的答案，決定了我們如何理解當代的種族正義運動。
+
+**推薦閱讀**:
+- Stephanie Smallwood, *Saltwater Slavery* (2007)
+- Marcus Rediker, *The Slave Ship* (2007)
+- Michel-Rolph Trouillot, *Silencing the Past* (1995)
+- Vincent Brown, *Slave's Spring* (2014)
+- Saidiya Hartman, *Wayward Lives* (2019)

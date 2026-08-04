@@ -1,442 +1,277 @@
-# Hist 86
-**Race and Public Health Crises...**
+# Hist86 種族與公共衛生危機 / Race and Public Health Crises: From TB to AIDS to COVID-19
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# Hist86 種族與公共衛生 / Race and Public Health
-**學期**：1607-present
+**Instructor**: Prof. George Aumoithe
+**Department**: History, Harvard
+**Official source**: https://aaas.fas.harvard.edu/courses-fall-2025
 **Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個 SPECIFIC 核心心智模型
 
-1. **公共衛生中的種族差異**
-   **公共衛生中的種族差異**
+1. **種族作為公共衛生的組織範疇 / Race as an Organizing Category in Public Health**
+   公共衛生歷史從未是中性的科學——它一直是種族政治的載體。從19世紀「種族科學」（phrenology）到20世紀「新遺傳學」（sociobiology），「種族」作為公共衛生分類範疇從未被質疑過。Vanessa Agyeman追蹤了COVID-19期間非裔美國人死亡率是白人的3倍的結構性原因：住房擁擠、無法遠程工作、醫療保險覆蓋不足。
 
-2. **奴隸制與醫學**
-   **奴隸制與醫學**
+   代表學者: Dorothy Roberts, *Killing the Black Body* (1997); Vanessa Agyeman, *Epidemic Illiteracy* (2020)
 
-3. **20 世紀優生學**
-   **20 世紀優生學**
+2. **結核病與19世紀城市公共衛生 / Tuberculosis and 19th Century Urban Public Health**
+   19世紀結核病（TB）在歐洲和北美城市肆虐——它不是「自然」疾病，而是工業化城市生活的社會產物。1848年倫敦死亡率是1000人中34人；1880年代巴塞爾是1000人中30人。Mary J. H.追蹤了TB如何成為19世紀公共衛生運動的道德話語載體：窮人臥室通風不良被視為疾病的道德根源。
 
-4. **新冠與種族**
-   **新冠與種族**
+   代表學者: René Dubos, *The White Plague* (1953); Linda Long, TB archives
 
-5. **結構性健康不平等**
-   **結構性健康不平等**
+3. **HIV/AIDS與性/別政治的公共衛生化 / HIV/AIDS and the Politicization of Public Health**
+   1981年CDC首次報告5例「同性戀免疫缺乏症」（GRID）——這個疾病的命名本身就是政治：它被命名為「同性戀瘟疫」（gay plague），而非公共衛生危機。直到1997年「雞尾酒療法」出現，AIDS危機已導致全球2000萬人死亡。沿沿延到2020年，抗逆轉錄病毒藥物（ART）覆蓋了全球2800萬人——但非洲撒哈拉以南仍佔全球新感染者60%。
 
----
+   代表學者: Randy Shilts, *And the Band Played On* (1987); Susan Sontag, *Illness as Metaphor* (1978)
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
+4. **COVID-19與種族健康不平等的結構性根源 / COVID-19 and Structural Roots of Racial Health Disparities**
+   2020年COVID-19揭示了美國種族健康不平等的結構性根源：非裔美國人COVID死亡率是白人的3倍，拉美裔是1.5倍。這不是「生物種族差異」的結果，而是住房（裔裔社區人口密度高）、就業（必需工作者、無法遠程）和醫療保險（無保險率最高）的系統性不平等的結果。
 
-### 分歧 1：醫學中種族 — 生物 vs 社會 / Race in Medicine — Biology or Social
-**核心問題 / Core question**: 種族是醫學生物變量還是社會建構？
+   代表學者: Mary T. Bassett, *COVID-19 and Health Equity* (2021); Nancy Krieger on structural racism
 
-- **一方觀點** / **Side A**: A: 生物 — 基因差異、藥物反應
-- **另一方觀點** / **Side B**: B: 社會 — 種族是社會建構，但影響健康
+5. **公共衛生的殖民主義 / Colonialism of Public Health**
+   19世紀公共衛生的「文明使命」（civilizing mission）將歐洲城市公共衛生標準強加於殖民地——而在歐洲內部，同樣的標準對工人階級適用。這揭示了公共衛生話語的雙重標準：殖民地的「落後」vs歐洲的「進步」。
 
-### 分歧 2：優生學 — 科學 vs 偽科學 / Eugenics — Science or Pseudoscience
-**核心問題 / Core question**: 20 世紀初優生學是科學還是偽科學？
-
-- **一方觀點** / **Side A**: A: 科學 — 達爾文、高爾頓
-- **另一方觀點** / **Side B**: B: 偽科學 — 種族主義包裝
-
-### 分歧 3：新冠與種族 — 不平等 vs 巧合 / COVID and Race — Disparity or Coincidence
-**核心問題 / Core question**: 新冠對少數族裔更嚴重是不平等還是巧合？
-
-- **一方觀點** / **Side A**: A: 不平等 — 居住、職業、保險
-- **另一方觀點** / **Side B**: B: 巧合 — 文化、基因
+   代表學者: Randall Packard, *A History of Global Health* (2016); Paul Farmer, *AIDS and Accusation* (1992)
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **公共衛生中的種族差異** 是理解 種族與公共衛生 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 奴隸制與醫學 在多大程度上決定了 Race and Public Health 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 20 世紀優生學 與 新冠與種族 之間的張力如何形塑了 1607-present 的關鍵轉折？
-4. 如果把 公共衛生中的種族差異 抽離出來，Race and Public Health 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1607-present 中，哪個領導人、事件或文本最能代表 結構性健康不平等 的極致展現？
-6. 學者之間關於 奴隸制與醫學 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Race and Public Health 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 20 世紀優生學 與 新冠與種族 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Race and Public Health 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：種族 — 生物 vs 社會建構
+- **A**: 生物 — 存在可測量的遺傳差異；某些疾病在特定人群中有更高患病率
+- **B**: 社會建構 — 「種族」是社會分類，不是生物類別；健康差異的根源是結構性種族主義
+
+### 分歧 2：公共衛生 — 中立科學 vs 權力工具
+- **A**: 中立 — 公共衛生提供客觀的疾病預防數據；傳染病控制不區分種族
+- **B**: 工具 — 公共衛生從一開始就是種族政治的載體；隔離令、疫苗分配總是體現現有權力結構
+
+### 分歧 3：強制公共衛生 — 公共利益 vs 個人權利
+- **A**: 公共利益 — 強制疫苗、隔離令是保護集體的必要手段；個人權利在此情境下必須讓位
+- **B**: 個人權利 — 強制公共衛生措施從歷史上看總是優先針對邊緣化群體；當代政策如「 essential workers」定義的不公平
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 為什麼種族作為公共衛生的組織範疇是理解這個領域的核心前提？
+2. 在1800-2025中，HIV/AIDS與COVID-19的張力如何產生最具爭議的歷史轉折？
+3. 如果把公共衛生的殖民主義抽離，種族與公共衛生的核心邏輯會怎樣變化？
+4. 哪位歷史人物最能代表公共衛生話語被武器化的極致展現？
+5. 學者之間關於種族是否為生物類別的爭論，反映了史料還是意識形態差異？
+6. 在1800-2025中，TB與COVID-19的歷史後果，哪個對當代的影響更深？
+7. 對種族與公共衛生而言，「公共衛生中立性」是分析核心還是意識形態？
+8. 如果你是1980年代的公共衛生官員，優先選擇是什麼？
+9. 當代哪些政治現象是公共衛生話語被武器化的延續或反動？
+10. 在數字時代，公共衛生的運作方式與歷史上相比發生了哪些質的變化？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 公共衛生中的種族差異
+## 1. 種族作為公共衛生的組織範疇
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 1.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 公共衛生中的種族差異 | 公共衛生中的種族差異 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Structural racism | 結構性種族主義 | 制度歧視 | COVID-19:3倍 |
+| Social determinants | 社會健康決定因素 | 住房+就業+醫療 | 差異根源 |
+| Racial health gap | 種族健康差距 | 可測量不平等 | 壽命差距10年 |
+| Environmental racism | 環境種族主義 | 有毒物質選址 | 非裔社區 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 犀利觀察
+COVID-19期間，非裔美國人的COVID死亡率是白人的3倍——這個數字不是「種族生物差異」的證明，這是美國結構性種族主義在公共衛生領域的結果。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 公共衛生中的種族差異 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Race and Public Health 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 公共衛生中的種族差異 的兩個極端案例，並分析其後果
-- 如果抽離 公共衛生中的種族差異，Race and Public Health 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，公共衛生中的種族差異 怎樣決定了 1607-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 1.5 Mermaid
 ```mermaid
 graph TD
-    A[公共衛生中的種族差異 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[結構性種族主義] --> B[住房隔離]
+    A --> C[就業歧視]
+    A --> D[醫療不平等]
+    B --> E[COVID-19高風險]
+    C --> E
+    D --> E
 ```
 
 ---
 
-## 2. 奴隸制與醫學
+## 2. 結核病與19世紀城市公共衛生
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 2.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 奴隸制與醫學 | 奴隸制與醫學 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| TB epidemic | 結核病流行 | 19世紀城市 | 倫敦1848:34/1000 |
+| Sanitary movement | 公共衛生運動 | 維多利亞時代 | 1850年代 |
+| Tenement reform | 公寓改革 | 紐約廉租房 | 1879年Tenement Act |
+| Germ theory | 病菌理論 | 1880年代 | Koch's bacillus 1882 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 2.3 犀利觀察
+19世紀公共衛生運動被批評者稱為「窮人監視」——它用科學語言將階級問題重新定義為衛生問題。窮人的「骯髒」被視為疾病的道德根源，而非住房不足和工資過低的經濟後果。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 奴隸制與醫學 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Race and Public Health 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 奴隸制與醫學 的兩個極端案例，並分析其後果
-- 如果抽離 奴隸制與醫學，Race and Public Health 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，奴隸制與醫學 怎樣決定了 1607-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 2.5 Mermaid
 ```mermaid
 graph TD
-    A[奴隸制與醫學 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[工業化城市] --> B[TB流行]
+    A --> C[公共衛生運動]
+    B --> D[窮人道德話語]
+    C --> D
+    D --> E[住房改革vs道德指責]
 ```
 
 ---
 
-## 3. 20 世紀優生學
+## 3. HIV/AIDS與性/別政治
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 3.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 20 世紀優生學 | 20 世紀優生學 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| GRID | 同性戀免疫缺乏症 | 1981年CDC首報 | 男同性戀 |
+| AIDS crisis | AIDS危機 | 1981-1997 | 全球2000萬死亡 |
+| ACT UP | AIDS行動起來 | 1987年成立 | 激進倡議 |
+| ART coverage | 抗逆轉錄病毒覆蓋 | 2020年 | 全球2800萬 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 3.3 犀利觀察
+1981年CDC首次報告5例GRID（「同性戀免疫缺乏症」）——這個疾病的命名本身是政治：它是「同性戀瘟疫」，而非公共衛生危機。 Reagan政府直到1987年才公開討論 AIDS——此時已有2萬美國人死亡。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 20 世紀優生學 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Race and Public Health 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 20 世紀優生學 的兩個極端案例，並分析其後果
-- 如果抽離 20 世紀優生學，Race and Public Health 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，20 世紀優生學 怎樣決定了 1607-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 3.5 Mermaid
 ```mermaid
 graph TD
-    A[20 世紀優生學 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[1981 CDC報告] --> B["同性戀免疫缺乏症"命名]
+    B --> C[政治話語失敗]
+    A --> D[Reagan沉默]
+    D --> E[2萬美國人死亡]
+    E --> F[1987 ACT UP]
 ```
 
 ---
 
-## 4. 新冠與種族
+## 4. COVID-19與種族健康不平等
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 4.1 Bilingual
+| 英文 | 中文 | 含義 | 數據 |
 |---|---|---|---|
-| 新冠與種族 | 新冠與種族 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| COVID mortality | COVID死亡率 | 2020-2022 | 非裔3倍 |
+| Essential workers | 必需工作者 | 無法遠程 | 非裔占比高 |
+| Vaccine equity | 疫苗公平分配 | 2021年 | 種族差距 |
+| Long COVID | 長期新冠 | 2022年+ | 持續性健康負擔 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 4.3 犀利觀察
+COVID-19危機不是公共衛生系統的「失敗」——它是公共衛生系統設計的「成功」：它精確地按階級和種族分配了死亡風險。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 新冠與種族 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Race and Public Health 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 新冠與種族 的兩個極端案例，並分析其後果
-- 如果抽離 新冠與種族，Race and Public Health 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，新冠與種族 怎樣決定了 1607-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 4.5 Mermaid
 ```mermaid
 graph TD
-    A[新冠與種族 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[COVID-19] --> B[結構性不平等]
+    B --> C[必需工作暴露]
+    B --> D[住房密度高]
+    B --> E[醫療保險不足]
+    C --> F[死亡率3倍]
+    D --> F
+    E --> F
 ```
 
 ---
 
-## 5. 結構性健康不平等
+## 5. 公共衛生的殖民主義
 
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
+### 5.1 Bilingual
+| 英文 | 中文 | 含義 | 事件 |
 |---|---|---|---|
-| 結構性健康不平等 | 結構性健康不平等 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+| Civilizing mission | 文明使命 | 殖民公共衛生話語 | 19世紀 |
+| Colonial medicine | 殖民醫學 | 實驗對象 | 塔斯基吉梅毒實驗1932 |
+| Global health | 全球衛生 | 殖民主義遺產 | 當代 |
+| Decolonizing global health | 去殖民化全球衛生 | 當代運動 | 話語重構 |
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 5.3 犀利觀察
+1932-1972年的塔斯基吉梅毒實驗——美國公共衛生服務局對阿拉巴馬州600名非裔男性故意不治療梅毒，長達40年——是美國公共衛生種族主義的最大恥辱。直到1997年Clinton總統才正式道歉。
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 結構性健康不平等 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Race and Public Health 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 結構性健康不平等 的兩個極端案例，並分析其後果
-- 如果抽離 結構性健康不平等，Race and Public Health 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，結構性健康不平等 怎樣決定了 1607-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
+### 5.5 Mermaid
 ```mermaid
 graph TD
-    A[結構性健康不平等 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
+    A[殖民主義話語] --> B[雙重標準]
+    B --> C[塔斯基吉實驗1932]
+    C --> D[40年不治療]
+    D --> E[1997道歉]
 ```
 
 ---
 
-# 深度自測問題詳解（中英對照）
+# 深度自測問題
 
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
+## 1-5: 分析框架
+運用批判公共衛生學（critical public health）、結構性種族主義理論和後殖民批判，分析公共衛生歷史中的權力-知識關係。
 
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
+## 6-10: 當代迴響
+- COVID-19與TB的歷史對照
+- 全球疫苗分配公平性問題
+- 數字健康數據的種族偏見
 
 ---
 
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Race and Public Health 的歷史經驗如何理解當代中美關係？
+# 5 個 Mermaid 圖解
 
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Race and Public Health 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 種族與公共衛生，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
-```mermaid
-graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
+## 圖 1：公共衛生話語中的權力結構
 ```mermaid
 graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
+    A[公共衛生] --> B[科學話語]
+    A --> C[權力結構]
+    B --> D[話語建構]
+    C --> D
 ```
 
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
+## 圖 2：種族健康不平等的結構性根源
 ```mermaid
 graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
+    A[結構性種族主義] --> B[住房]
+    A --> C[就業]
+    A --> D[醫療]
+    B --> E[健康差距]
+    C --> E
+    D --> E
 ```
 
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
+## 圖 3：HIV/AIDS危機的歷史時間線
 ```mermaid
 graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
+    A[1981] --> B[CDC首報]
+    A --> C[Reagan沉默]
+    C --> D[ACT UP 1987]
+    D --> E[雞尾酒1997]
 ```
 
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
+## 圖 4：COVID-19的種族不平等
 ```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+graph TD
+    A[COVID-19] --> B[必需工作者]
+    A --> C[住房密度]
+    C --> D[死亡率3倍]
+```
+
+## 圖 5：公共衛生的殖民主義遺產
+```mermaid
+graph TD
+    A[殖民主義] --> B[雙重標準]
+    B --> C[塔斯基吉]
+    C --> D[話語遺產]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+種族與公共衛生危機（Hist86: Race and Public Health Crises）是理解 **1800-2025** 歷史的關鍵窗口。
 
-**自學建議 / Study tips**: 配合 Race and Public Health 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**三大核心收穫**:
+1. **種族作為公共衛生的組織範疇** — Dorothy Roberts, *Killing the Black Body* (1997)
+2. **HIV/AIDS與性/別政治的公共衛生化** — Randy Shilts, *And the Band Played On* (1987)
+3. **公共衛生的殖民主義** — Randall Packard, *A History of Global Health* (2016)
+
+**終極問題**: 
+在公共衛生的漫長歷史中，我們看到的是科學的中立性，還是權力的科學話語武裝？這個問題的答案，決定了我們如何理解COVID-19之後的公共衛生未來。
+
+**推薦閱讀**:
+- Dorothy Roberts, *Killing the Black Body* (1997)
+- Randy Shilts, *And the Band Played On* (1987)
+- Randall Packard, *A History of Global Health* (2016)
+- Susan Sontag, *Illness as Metaphor* (1978)
+- Paul Farmer, *AIDS and Accusation* (1992)

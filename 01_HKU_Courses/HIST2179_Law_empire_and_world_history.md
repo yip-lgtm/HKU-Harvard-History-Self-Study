@@ -1,444 +1,112 @@
-# HIST2179
-**Law, empire and world history: From pirates to human rights?**
+# HIST2179 法律、帝國與世界史 / Law, Empire and World History: From Pirates to Human Rights?
 
-優先級：★★★★
-
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2179 法律、帝國與世界史 / Law, Empire and World History
-**學期**：1500-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Alastair McClure
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利揭穿：所謂「法治」——究竟係正義工具定係帝國主義借口？
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個核心心智模型
 
-1. **國際法的歐洲中心性**
-   **國際法的歐洲中心性**
+### 心智模型 1：「法治」話語——帝國主義點樣用法律正當化征服
+學者 **Lauren Benton**（*Law and Colonialism*, 2001）指出：英帝國用「法治」（rule of law）將殖民剝削合法化。學者 **McClure**（HKU）分析香港案例：普通法制度從英國移植到香港，形成獨特法律文化。
 
-2. **海盜作為國際法催化劑**
-   **海盜作為國際法催化劑**
+- **1815-1914** 英帝國擴張到印度、緬甸、馬來亞、香港
+- **1842-1997** 香港普通法體系延續至回歸後
+- **案例**：香港法院點樣處理殖民時期華人與歐洲人不平等法律地位
 
-3. **人權的帝國起源**
-   **人權的帝國起源**
+### 心智模型 2：「海盜」形象——點解有些人被稱為海盜，而其他人被稱為海軍？
+學者 **Marcus Rediker**（*Villains of All Nations*, 2004）分析：18世紀加勒比海盜其實係逃跑奴隸、水手、邊緣人——海盜形象係英帝國宣傳機器製造。
 
-4. **主權概念的演變**
-   **主權概念的演變**
+### 心智模型 3：「國際法」誕生——歐洲點樣建立有利自己嘅國際法規則
+學者 **Martti Koskenniemi**（*The Gentle Civilizer of Nations*, 2001）指出：國際法從一開始就係歐洲列強利益嘅法律表達。
 
-5. **當代國際刑事司法**
-   **當代國際刑事司法**
+### 心智模型 4：帝國主義法律遺產——後殖民國家點樣處理殖民法律遺產？
+學者 **Sally Engle Merry**（*Human Rights and Gender Violence*, 2006）分析人權話語點樣成為新帝國主義工具。
 
----
-
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
-
-### 分歧 1：國際法 — 普世 vs 西方 / International Law — Universal or Western
-**核心問題 / Core question**: 國際法是普世價值還是西方產物？
-
-- **一方觀點** / **Side A**: A: 普世 — 自然法超越文化
-- **另一方觀點** / **Side B**: B: 西方 — 格勞秀斯以降歐洲概念，帝國擴張工具
-
-### 分歧 2：海盜 — 犯罪 vs 自由 / Piracy — Crime or Freedom
-**核心問題 / Core question**: 海盜是犯罪還是對帝國壟斷的反抗？
-
-- **一方觀點** / **Side A**: A: 犯罪 — 搶劫殺人，無論動機
-- **另一方觀點** / **Side B**: B: 自由 — 反對國家海洋壟斷、追求自由
-
-### 分歧 3：國際刑事法院 — 正義 vs 虛偽 / ICC — Justice or Hypocrisy
-**核心問題 / Core question**: 國際刑事法院是真實正義還是西方選擇性執法？
-
-- **一方觀點** / **Side A**: A: 正義 — 起訴米洛舍維奇、種族滅絕罪
-- **另一方觀點** / **Side B**: B: 虛偽 — 美國不批准條約、只起訴非洲領導人
+### 心智模型 5：「法治 vs 人治」——點解香港「法治」至今仍係核心價值？
+學者 **Simon Leys**（*The Burning Forest*, 1988）分析中國傳統法律觀念同西方法治觀念嘅根本差異。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **國際法的歐洲中心性** 是理解 法律、帝國與世界史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 海盜作為國際法催化劑 在多大程度上決定了 Law, Empire and World History 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 人權的帝國起源 與 主權概念的演變 之間的張力如何形塑了 1500-present 的關鍵轉折？
-4. 如果把 國際法的歐洲中心性 抽離出來，Law, Empire and World History 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1500-present 中，哪個領導人、事件或文本最能代表 當代國際刑事司法 的極致展現？
-6. 學者之間關於 海盜作為國際法催化劑 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Law, Empire and World History 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 人權的帝國起源 與 主權概念的演變 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Law, Empire and World History 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：英帝國法律——傳播文明定係壓迫工具？
+- **A 方（正面的Legacy派）**：普通法制度引入法治、司法獨立
+- **B 方（批判派）**：**Lauren Benton**——法律從來都係帝國控制工具
+
+### 分歧 2：人權——普世價值定係西方霸權話語？
+- **A 方（普世派）**：人權係人類共同追求
+- **B 方（文化相對派）**：**Koskenniemi**——人權話語係西方價值觀輸出
+
+### 分歧 3：香港普通法——回歸後命運如何？
+- **A 方（樂觀派）**：普通法制度成功運行至2047
+- **B 方（懷疑派）**：司法獨立受壓令法治受損
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 1815 年「爪哇海盜」——點解英國海軍可以去東南亞消滅「海盜」？呢啲「海盜」究竟係海盜定係當地漁民/商人？
+2. 香港普通法制度——點解可以喺一個華人社會成功運行？但係回歸後呢個制度能走多遠？
+3. 從歷史角度——點解英帝國要建立「法治」形象？呢個形象同實際殖民統治有乜嘢差距？
+4. 「帝國法律」遺產——印度普通法體系至今仍然運行，但係呢個體系點樣同時服務殖民者同被殖民者？
+5. 人權話語——點解西方國家可以指責其他國家人權問題，但係對自己殖民歷史閉口不言？呢個雙重標準揭示咗乜嘢？
+6. 從國際法角度——點解 1945 年之後「主權平等」原則可以確立，但係美國可以繞過聯合國出兵伊拉克？
+7. 法律史點樣揭示階級、種族、性別不平等？殖民法律點樣特別打壓邊緣群體？
+8. 從中國法律傳統——點解傳統中國以「禮」治國，而西方強調「法」？呢個差異點樣影響兩種文明法律觀念？
+9. 「歷史終結論」破產之後——自由主義國際秩序前景如何？點解西方開始懷疑自己建立嘅國際法體系？
+10. 如果你是法官（香港/新加坡/馬來西亞）——普通法制度點樣同時服務當地文化同國際標準？呢個矛盾點樣解決？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 國際法的歐洲中心性
+## 1. 法治帝國主義 / Rule of Law Imperialism
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 國際法的歐洲中心性 | 國際法的歐洲中心性 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 法治 (fǎzhì) = Rule of Law — 法律面前人人平等
+- 普通法 (pǔtōng fǎ) = Common Law — 英國法律傳統
+- 人權 (rénquán) = Human Rights — 普世道德標準
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 袁騰飛式犀利觀察
+> 「英帝國最犀利嘅發明——就係用『法治』嚟解釋『掠奪』！英國人建法庭、請法官、培訓律師——然後話你知：『我哋係嚟傳播文明！』——但係法庭上坐緊的全部都係英國人！」
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 國際法的歐洲中心性 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Law, Empire and World History 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.4 Deep Test Question
+**考試題**：選擇一個具體案例（印度/香港/肯尼亞），分析英帝國法律制度點樣同時服務殖民者利益同被殖民者需求。呢個「雙重功能」揭示咗法律乜嘢本質特性？
 
-### 1.4 Deep test question
-- 請舉出歷史上 國際法的歐洲中心性 的兩個極端案例，並分析其後果
-- 如果抽離 國際法的歐洲中心性，Law, Empire and World History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，國際法的歐洲中心性 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[國際法的歐洲中心性 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 海盜作為國際法催化劑
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 海盜作為國際法催化劑 | 海盜作為國際法催化劑 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 海盜作為國際法催化劑 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Law, Empire and World History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 海盜作為國際法催化劑 的兩個極端案例，並分析其後果
-- 如果抽離 海盜作為國際法催化劑，Law, Empire and World History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，海盜作為國際法催化劑 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[海盜作為國際法催化劑 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 人權的帝國起源
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 人權的帝國起源 | 人權的帝國起源 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 人權的帝國起源 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Law, Empire and World History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 人權的帝國起源 的兩個極端案例，並分析其後果
-- 如果抽離 人權的帝國起源，Law, Empire and World History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，人權的帝國起源 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[人權的帝國起源 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 主權概念的演變
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 主權概念的演變 | 主權概念的演變 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 主權概念的演變 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Law, Empire and World History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 主權概念的演變 的兩個極端案例，並分析其後果
-- 如果抽離 主權概念的演變，Law, Empire and World History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，主權概念的演變 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[主權概念的演變 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代國際刑事司法
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代國際刑事司法 | 當代國際刑事司法 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代國際刑事司法 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Law, Empire and World History 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代國際刑事司法 的兩個極端案例，並分析其後果
-- 如果抽離 當代國際刑事司法，Law, Empire and World History 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代國際刑事司法 怎樣決定了 1500-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代國際刑事司法 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Law, Empire and World History 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Law, Empire and World History 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 法律、帝國與世界史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
+### 1.5 圖解
 ```mermaid
 graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A["帝國法律雙重功能"] --> B["對殖民者<br/>合法化統治"]
+    A --> C["對被殖民者<br/>提供有限正義"]
+    B --> D["財產權保障<br/>吸引外國投資"]
+    C --> E["本地法律人才<br/>建立合作精英"]
+    B --> F["司法獨立假象<br/>但實質權力喺行政"]
+    style B fill:#4169E1
+    style C fill:#90EE90
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 總結
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+**HIST2179 Law, Empire and World History** 嘅核心價值：
+1. **批判法律史**——法律從來唔係中性工具，而係權力關係嘅表達
+2. **全球視角**——帝國法律遺產影響遍及印度、非洲、香港
+3. **當代相關性**——香港法治争論係呢個歷史嘅延續
 
-**自學建議 / Study tips**: 配合 Law, Empire and World History 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**袁騰飛金句**：
+> 「法律最有趣之處——就係佢永遠話你知：『我哋係公平嘅！』但係當你研究法律歷史，你會發現：法律從來都係為某啲人服務，而非所有人。」
+
+---
+
+## 延伸閱讀
+
+1. Benton, Lauren. *Law and Colonialism*. Princeton: Princeton University Press, 2001.
+2. Koskenniemi, Martti. *The Gentle Civilizer of Nations: The Rise and Fall of International Law 1870-1960*. Cambridge: Cambridge University Press, 2001.
+3. Merry, Sally Engle. *Human Rights and Gender Violence: Translating International Law into Local Justice*. Chicago: University of Chicago Press, 2006.
+4. Rediker, Marcus. *Villains of All Nations: Atlantic Pirates in the Golden Age*. London: Verso, 2004.
+5. McClure, Alastair. [HKU Law and Empire Research].
+6. Leys, Simon. *The Burning Forest*. London: Minerva, 1988.

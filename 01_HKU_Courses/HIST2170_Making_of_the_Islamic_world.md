@@ -1,442 +1,131 @@
-# HIST2170
-**The making of the Islamic world: The Middle East, 500-1500**
+# HIST2170 伊斯蘭世界形成 / The Making of the Islamic World: The Middle East, 500-1500
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2170 伊斯蘭世界的形成 / Making of the Islamic World, 500-1500
-**學期**：500-1500
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Nargis Nurulla
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利分析：伊斯蘭文明曾經係人類史上最先進文明，但係點解近 500 年落後西方？
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個核心心智模型
 
-1. **伊斯蘭的早期擴張**
-   **伊斯蘭的早期擴張**
+### 心智模型 1：「伊斯蘭黃金時代」——中世紀伊斯蘭文明嘅輝煌
+學者 **Hugh Kennedy**（*The Court of the Caliphs*, 2004）記述阿拔斯王朝（750-1258）係人類歷史上文化最繁榮時期之一。學者 **Joel Kraemer**（*Humanism in the Renaissance of Islam*, 1986）分析伊斯蘭黃金時代（8-14 世紀）點樣融合希臘、波斯、印度知識傳統。
 
-2. **阿拔斯黃金時代**
-   **阿拔斯黃金時代**
+- **750-1258** 阿拔斯王朝——伊斯蘭黃金時代
+- **830** 智慧之城（Bait al-Hikma）成立——翻譯運動
+- **1050-1258** 塞爾柱帝國——突厥-伊斯蘭融合
 
-3. **宗教與政治的伊斯蘭觀**
-   **宗教與政治的伊斯蘭觀**
+### 心智模型 2：「伊斯蘭黃金時代終結」——蒙古入侵
+學者 **Timothy May**（*The Mongol Conquest in the Islamic World*, 2012）分析：1258 年蒙古攻陷巴格達，屠殺數十萬平民——呢個係伊斯蘭文明史上最大創傷。學者 **Peter Jackson**（*The Delhi Sultanate*, 2003）分析伊斯兰文明向東南亞擴張。
 
-4. **蒙古征服的雙重影響**
-   **蒙古征服的雙重影響**
+### 心智模型 3：「絲綢之路」——伊斯蘭商人嘅全球網絡
+學者 **Richard Bulliet**（*The Case for Islamo-Christian Civilization*, 2004）指出：伊斯蘭商人由摩洛哥延伸至印尼，構成人類最大規模跨文明商業網絡。
 
-5. **鄂圖曼帝國的遺產**
-   **鄂圖曼帝國的遺產**
+### 心智模型 4：「伊斯蘭科學」——點解伊斯蘭黃金時代產生咁多科學創新？
+學者 **George Saliba**（*Islamic Science and the Making of the European Renaissance*, 2007）指出：哥白尼天文學其實係改編自伊斯蘭天文學家模型。
 
----
-
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
-
-### 分歧 1：伊斯蘭擴張 — 刀劍 vs 皈依 / Islamic Expansion — Sword or Conversion
-**核心問題 / Core question**: 早期伊斯蘭擴張是軍事征服還是和平皈依？
-
-- **一方觀點** / **Side A**: A: 刀劍 — 阿拉伯征服、奧斯曼
-- **另一方觀點** / **Side B**: B: 皈依 — 商人傳播、蘇菲神秘主義
-
-### 分歧 2：阿拔斯黃金時代 — 包容 vs 神話 / Abbasid Golden Age — Tolerance or Myth
-**核心問題 / Core question**: 阿拔斯王朝翻譯運動是伊斯蘭包容還是後人神話？
-
-- **一方觀點** / **Side A**: A: 包容 — 智慧宮、希臘哲學翻譯
-- **另一方觀點** / **Side B**: B: 神話 — 當代建構，誇大伊斯蘭黃金時代
-
-### 分歧 3：蒙古征服 — 毀滅 vs 催化劑 / Mongol Invasion — Destruction or Catalyst
-**核心問題 / Core question**: 1258 巴格達陷落是毀滅還是伊斯蘭世界重構？
-
-- **一方觀點** / **Side A**: A: 毀滅 — 數十萬人喪生
-- **另一方觀點** / **Side B**: B: 催化劑 — 馬穆魯克、鄂圖曼崛起
+### 心智模型 5：「伊斯蘭法學」——沙里亞法點樣塑造穆斯林社會
+學者 **John Esposito** 指出：伊斯蘭法學（fiqh）唔單純係宗教法律，而係一套完整嘅社會生活規範。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **伊斯蘭的早期擴張** 是理解 伊斯蘭世界的形成 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 阿拔斯黃金時代 在多大程度上決定了 Making of the Islamic World, 500-1500 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 宗教與政治的伊斯蘭觀 與 蒙古征服的雙重影響 之間的張力如何形塑了 500-1500 的關鍵轉折？
-4. 如果把 伊斯蘭的早期擴張 抽離出來，Making of the Islamic World, 500-1500 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 500-1500 中，哪個領導人、事件或文本最能代表 鄂圖曼帝國的遺產 的極致展現？
-6. 學者之間關於 阿拔斯黃金時代 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Making of the Islamic World, 500-1500 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 宗教與政治的伊斯蘭觀 與 蒙古征服的雙重影響 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Making of the Islamic World, 500-1500 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：伊斯蘭黃金時代衰落——蒙古入侵定係內部腐敗？
+- **A 方（外部論）**：1258 年蒙古入侵係決定性打擊，令伊斯蘭文明元气大傷
+- **B 方（內部論）**：阿拔斯王朝晚期已經腐敗，蒙古入侵只係加速衰落
+
+### 分歧 2：伊斯蘭科學——西方文藝復興受益幾多？
+- **A 方（大量借用派）**：**George Saliba**——西歐文藝復興大量借鑑伊斯蘭科學
+- **B 方（獨立發展派）**：學者認爲西歐文藝復興主要係獨立發展
+
+### 分歧 3：伊斯蘭黃金時代——真實定係神話？
+- **A 方（輝煌派）**：伊斯蘭黃金時代確實係人類文明高峰
+- **B 方（批判派）**：呢個「黃金時代」神話忽略奴隸制、性別不平等
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 穆罕默德從麥加商人變成宗教領袖——呢個轉變揭示咗乜嘢關於宗教領袖點樣動員群眾？
+2. 伊斯蘭黃金時代——巴格達圖書館（智慧之城）點解可以成為世界知識中心？佢哋點解咁願意翻譯其他文明嘅作品？
+3. 十字軍東征——點解持續 200 年但係最終失敗？呢個對伊斯蘭世界對西方看法有乜嘢長遠影響？
+4. 蒙古入侵巴格達（1258）——人類歷史最殘酷城市屠殺之一。呢個創傷點解塑造伊斯蘭世界對「外部敵人」嘅記憶？
+5. 塞爾柱帝國同奥斯曼帝國——點解突厥-伊斯蘭文明可以持續咁耐？而且點解最終又衰落？
+6. 伊斯蘭黃金時代科學——伊本·西拿（Avicenna）、伊本·路世德（Ibn Rushd/Averroes）——呢啲人究竟有幾犀利？佢哋嘅作品點解可以流傳到歐洲？
+7. 伊斯蘭商人的絲綢之路網絡——點解可以涵蓋範圍咁廣？呢個商業網絡同而家全球化有乜嘢相似？
+8. 伊斯蘭法學——點解沙里亞法可以持續演變？而且點解伊斯蘭世界內部對法學解釈差異咁大（遜尼 vs 什葉）？
+9. 從歷史角度——點解伊斯蘭世界近 500 年（1500-2000）落後西方？係內因定係外因？
+10. 如果你是阿拔斯王朝哈里發——你有世界上最大帝國，但係你知道 300 年後蒙古人會摧毁你的一切。你會點做？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 伊斯蘭的早期擴張
+## 1. 伊斯蘭黃金時代 / Islamic Golden Age
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 伊斯蘭的早期擴張 | 伊斯蘭的早期擴張 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 伊斯蘭黃金時代 (yīsīlán huángjīn shídài) = Islamic Golden Age — 750-1258 年
+- 智慧之城 (zhìhuì zhī chéng) = House of Wisdom / Bait al-Hikma — 阿拔斯王朝翻譯中心
+- 沙里亞法 (shālǐyàfǎ) = Sharia — 伊斯蘭教法
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 袁騰飛式犀利觀察
+> 「伊斯蘭黃金時代最犀利嘅地方——就係佢哋懂得向所有文明學習！阿拉伯人翻譯希臘哲學、波斯文學、印度數學——然後再創新！但係當佢哋開始覺得自己係最好、最正確，拒絕向外學習，黃金時代就結束了。」
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 伊斯蘭的早期擴張 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of the Islamic World, 500-1500 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.4 Deep Test Question
+**考試題**：比較阿拔斯王朝同同時期西歐文明（加洛林文藝復興）。兩者點解發展方向差異咁大？呢個差異對之後 500 年世界歷史有乜嘢長遠影響？
 
-### 1.4 Deep test question
-- 請舉出歷史上 伊斯蘭的早期擴張 的兩個極端案例，並分析其後果
-- 如果抽離 伊斯蘭的早期擴張，Making of the Islamic World, 500-1500 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，伊斯蘭的早期擴張 怎樣決定了 500-1500 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[伊斯蘭的早期擴張 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 阿拔斯黃金時代
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 阿拔斯黃金時代 | 阿拔斯黃金時代 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 阿拔斯黃金時代 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of the Islamic World, 500-1500 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 阿拔斯黃金時代 的兩個極端案例，並分析其後果
-- 如果抽離 阿拔斯黃金時代，Making of the Islamic World, 500-1500 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，阿拔斯黃金時代 怎樣決定了 500-1500 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[阿拔斯黃金時代 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 宗教與政治的伊斯蘭觀
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 宗教與政治的伊斯蘭觀 | 宗教與政治的伊斯蘭觀 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 宗教與政治的伊斯蘭觀 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of the Islamic World, 500-1500 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 宗教與政治的伊斯蘭觀 的兩個極端案例，並分析其後果
-- 如果抽離 宗教與政治的伊斯蘭觀，Making of the Islamic World, 500-1500 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，宗教與政治的伊斯蘭觀 怎樣決定了 500-1500 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[宗教與政治的伊斯蘭觀 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 蒙古征服的雙重影響
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 蒙古征服的雙重影響 | 蒙古征服的雙重影響 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 蒙古征服的雙重影響 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of the Islamic World, 500-1500 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 蒙古征服的雙重影響 的兩個極端案例，並分析其後果
-- 如果抽離 蒙古征服的雙重影響，Making of the Islamic World, 500-1500 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，蒙古征服的雙重影響 怎樣決定了 500-1500 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[蒙古征服的雙重影響 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 鄂圖曼帝國的遺產
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 鄂圖曼帝國的遺產 | 鄂圖曼帝國的遺產 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 鄂圖曼帝國的遺產 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of the Islamic World, 500-1500 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 鄂圖曼帝國的遺產 的兩個極端案例，並分析其後果
-- 如果抽離 鄂圖曼帝國的遺產，Making of the Islamic World, 500-1500 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，鄂圖曼帝國的遺產 怎樣決定了 500-1500 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[鄂圖曼帝國的遺產 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Making of the Islamic World, 500-1500 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Making of the Islamic World, 500-1500 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 伊斯蘭世界的形成，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
+### 1.5 圖解
 ```mermaid
 graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A["伊斯蘭黃金時代知識傳播"] --> B["希臘哲學<br/>亞里士多德、柏拉圖"]
+    A --> C["波斯文學<br/>詩歌、宮廷文化"]
+    A --> D["印度數學<br/>代數學、零的概念"]
+    A --> E["中國造紙術<br/>知識普及基礎"]
+    B --> F["巴格達翻譯運動"]
+    C --> F
+    D --> F
+    E --> F
+    F --> G["伊斯蘭創新<br/>天文學、醫學、光學"]
+    G --> H["西歐文藝復興<br/>拉丁翻譯"]
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 深度自測問題
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+**Q1-Q10** 精簡版：
+- Q1：穆罕默德動員能力——因為佢提供一個超越部落忠誠嘅身份認同（ umma）；呢個方法同現代民族主義動員有相似之處。
+- Q2：智慧之城之所以成功——因為阿拔斯王朝需要一個「知識合法性」來鞏固統治；而且當時伊斯蘭帝國係最大嘅跨文明貿易網絡，商人帶嚟多元知識。
+- Q3：十字軍失敗——因為伊斯蘭世界有强大抵扰能力；而且十字軍只係外來力量，無法建立持久管治。
+- Q4：蒙古創傷——呢個記憶塑造伊斯蘭世界「外部威脅」心理；塞爾柱帝國抵抗蒙古、奥斯曼帝國抵抗西方——持續幾百年外患心理。
+- Q5：突厥-伊斯蘭文明——能夠融合突厥武力 + 伊斯蘭宗教 + 波斯文化，三者缺一不可。
+- Q6：Avicenna（伊本·西拿）——《Canon of Medicine》成為歐洲醫學標準教材直到 18 世紀；呢個例子說明伊斯蘭科學傳播西方嘅規模。
+- Q7：伊斯蘭商業網絡——呢個網絡同而家跨國公司有相似之處：商人跨文化做生意，但係唔需要政治統一。
+- Q8：沙里亞法之所以持續演變——因為伊斯蘭法學傳統有「ijtihad」（獨立判斷）原則，允許學者根據變化條件重新解釈法律。
+- Q9：衰落原因——多因素：蒙古入侵 + 缺乏持續創新 + 奥斯曼帝國僵化 + 歐洲商業崛起；內外因素缺一不可。
+- Q10：歷史假設題——哈里發困境：點解無法預見蒙古威脅？因為蒙古崛起太快、資訊傳遞有限。
 
-**自學建議 / Study tips**: 配合 Making of the Islamic World, 500-1500 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+---
+
+## 總結
+
+**HIST2170 The Making of the Islamic World** 嘅核心價值：
+1. **理解伊斯蘭文明複雜性**——伊斯蘭世界唔係單一整體，而係多元文化、宗教、政治傳統交織
+2. **批判性分析**——挑戰「伊斯蘭 vs 西方」呢個錯誤二元對立
+3. **全球史視角**——伊斯蘭文明係連接歐亞非嘅橋樑
+
+**袁騰飛金句**：
+> 「歷史教會我哋：任何文明都有高峰同衰落——問題唔係邊個文明高峰，而係當你處於高峰之時，你會唔會開始觉得自己唔需要向任何人學習。」
+
+---
+
+## 延伸閱讀
+
+1. Kennedy, Hugh. *The Court of the Caliphs: The Rise and Fall of Islam's Greatest Dynasty*. London: Weidenfeld & Nicolson, 2004.
+2. Saliba, George. *Islamic Science and the Making of the European Renaissance*. Cambridge: MIT Press, 2007.
+3. Bulliet, Richard W. *The Case for Islamo-Christian Civilization*. New York: Columbia University Press, 2004.
+4. May, Timothy. *The Mongol Conquest in the Islamic World*. Cambridge: Cambridge University Press, 2012.
+5. Esposito, John L. *The Oxford History of Islam*. Oxford: Oxford University Press, 1999.
+6. Hodgson, Marshall G.S. *The Venture of Islam*. 3 vols. Chicago: University of Chicago Press, 1974.

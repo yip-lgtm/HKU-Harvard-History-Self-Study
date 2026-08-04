@@ -1,442 +1,126 @@
-# HIST2188
-**The making of modern South Asia**
+# HIST2188 現代南亞史 / The Making of Modern South Asia
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2188 現代南亞史 / Making of Modern South Asia
-**學期**：1757-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: Devika Shankar
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利分析：印度次大陸從莫臥兒帝國到英國殖民到獨立——點解分裂成印度同巴基斯坦？
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個核心心智模型
 
-1. **英屬印度的分而治之**
-   **英屬印度的分而治之**
+### 心智模型 1：「莫臥兒帝國」——印度點解被外族征服？
+學者 **John F. Richards**（*The Mughal Empire*, 1993）指出：莫臥兒帝國（1526-1857）係印度歷史最大嘅「外族」帝國，但係呢個帝國成功融合印度教同伊斯蘭文化。學者 **Catherine B. Asher** 分析莫臥兒建築：泰姬陵代表印度-伊斯蘭文化融合頂峰。
 
-2. **甘地非暴力抵抗的遺產**
-   **甘地非暴力抵抗的遺產**
+### 心智模型 2：「英帝國殖民」——印度點解成為「皇冠上的明珠」？
+學者 **Bernstein**（*The Martand and the Maurya*, 2000s）分析：英帝國之所以重視印度，因為印度係最大、人口最多、資源最豐富嘅殖民地。學者 **Nicholas Dirks**（*The Scandal of Empire*, 2006）揭露英帝國點樣通過經濟掠奪剥削印度。
 
-3. **印巴分治的暴力**
-   **印巴分治的暴力**
+### 心智模型 3：「印度起義1857」——獨立運動起點
+學者 **Ranajit Guha**（*Elementary Aspects of Peasant Insurgency*, 1983）首創「從下而上」歷史研究——農民起義視角挑戰精英主義歷史敘事。
 
-4. **核武國家的對抗**
-   **核武國家的對抗**
+### 心智模型 4：「聖雄甘地」——非暴力抵抗可能性
+學者 **Judith Brown**（*Gandhi: Prisoner of Hope*, 1989）分析甘地如何將印度多元宗教、民族背景融合為統一獨立運動。學者 **Lelyveld**（*Great Soul*, 2011）指出甘地思想複雜性——唔係簡單「非暴力」標籤可以概括。
 
-5. **當代印度教民族主義**
-   **當代印度教民族主義**
-
----
-
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
-
-### 分歧 1：印巴分治 — 必然 vs 人為 / Partition — Inevitable or Made
-**核心問題 / Core question**: 1947 印巴分治是歷史必然還是英國決策？
-
-- **一方觀點** / **Side A**: A: 必然 — 印度教與穆斯林社會已分化百年
-- **另一方觀點** / **Side B**: B: 人為 — 1946 大選後英國匆忙撤離，未準備過渡
-
-### 分歧 2：甘地 — 聖人 vs 政客 / Gandhi — Saint or Politician
-**核心問題 / Core question**: 甘地是真正的聖人還是精明政客？
-
-- **一方觀點** / **Side A**: A: 聖人 — 非暴力、不合作、簡樸生活
-- **另一方觀點** / **Side B**: B: 政客 — 巧妙利用媒體、與國大黨政治派系合作
-
-### 分歧 3：印度教民族主義 — 本土 vs 仇恨 / Hindu Nationalism — Authentic or Hate
-**核心問題 / Core question**: 印度教民族主義是文化復振還是仇恨政治？
-
-- **一方觀點** / **Side A**: A: 本土 — 印度教文明 3000 年延續
-- **另一方觀點** / **Side B**: B: 仇恨 — 針對穆斯林、基督徒，2002 古吉拉特邦暴動
+### 心智模型 5：「分裂」——印巴分治點解必然？
+學者 **Gyanendra Pandey**（*Remembering Partition*, 2001）分析：印巴分治（1947）唔係歷史必然，而係政治領袖選擇嘅結果；呢個選擇導致 100 萬人死亡、1400 萬人流離失所。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **英屬印度的分而治之** 是理解 現代南亞史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 甘地非暴力抵抗的遺產 在多大程度上決定了 Making of Modern South Asia 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 印巴分治的暴力 與 核武國家的對抗 之間的張力如何形塑了 1757-present 的關鍵轉折？
-4. 如果把 英屬印度的分而治之 抽離出來，Making of Modern South Asia 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1757-present 中，哪個領導人、事件或文本最能代表 當代印度教民族主義 的極致展現？
-6. 學者之間關於 甘地非暴力抵抗的遺產 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Making of Modern South Asia 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 印巴分治的暴力 與 核武國家的對抗 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Making of Modern South Asia 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：英帝國殖民——建設性遗产定係毁滅性影響？
+- **A 方（正面遗产派）**：鐵路、法院、教育制度現代化
+- **B 方（毁滅派）**：學者 **Utsa Patnaik**——英帝國從印度轉移財富 45 萬億美元
+
+### 分歧 2：甘地非暴力——現實主義定係理想主義？
+- **A 方（理想主義）**：非暴力係道德最高點
+- **B 方（批評派）**：非暴力之所以成功，因為英國已決定撤離
+
+### 分歧 3：印巴分治——宗教衝突定係政治選擇？
+- **A 方（宗教論）**：印度教-伊斯蘭衝突係歷史問題
+- **B 方（政治論）**：分治係政治領袖（真納、蒙巴頓）選擇
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 莫臥兒帝國點解可以統治印度 300 年？但係又點解最終被英國取代？
+2. 英帝國點解可以靠少數軍隊（最多 4 萬人）統治 3 億印度人？靠暴力、定係靠合作？
+3. 印度起義 1857 年——究竟係「士兵叛變」定係「農民起義」？呢個區分點解重要？
+4. 甘地點解可以團結印度所有宗教、民族？佢用乜嘢策略？呢啲策略點解有爭議？
+5. 真納——從希望留在印度聯邦到要求巴基斯坦獨立，佢點解改變立場？呢個改變點解不可逆轉？
+6. 印巴分治——點解宗教領袖未能阻止屠殺？群眾暴力背後驅使力量係乜嘢？
+7. 印度獨立後——點解可以建立民主制度？民主制度點解可以持續？
+8. 巴基斯坦——從「穆斯林家園」到軍政府與民主交替，呢個國家實驗失敗了嗎？
+9. 孟加拉（東巴基斯坦）獨立——點解巴基斯坦內部可以分裂？但係印度干預角色點解關鍵？
+10. 如果你是英國統治者（1946）——你會點處理印度獨立問題？延遲、加速、仲係分裂？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. 英屬印度的分而治之
+## 1. 南亞帝國更迭 / South Asian Imperial History
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 英屬印度的分而治之 | 英屬印度的分而治之 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 莫臥兒帝國 (mòwò'ér dìguó) = Mughal Empire — 1526-1857
+- 殖民統治 (zhímín tǒngzhì) = Colonial Rule — 英帝國印度殖民 1858-1947
+- 分治 (fēnzhì) = Partition — 1947 年印巴分裂
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 袁騰飛式犀利觀察
+> 「印度獨立最諷刺嘅地方——就係英國人走咗之後，印度人自己就開始分裂！1947 年分治造成 100 萬人死亡——呢個死亡人數比英帝國統治 190 年期間任何單一事件都多！」
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 英屬印度的分而治之 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of Modern South Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.4 Deep Test Question
+**考試題**：分析英帝國殖民對印度經濟影響。用 Utsa Patnaik 量化研究同英帝國官方統計比較，說明殖民收益同發展收益之爭。
 
-### 1.4 Deep test question
-- 請舉出歷史上 英屬印度的分而治之 的兩個極端案例，並分析其後果
-- 如果抽離 英屬印度的分而治之，Making of Modern South Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，英屬印度的分而治之 怎樣決定了 1757-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[英屬印度的分而治之 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 甘地非暴力抵抗的遺產
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 甘地非暴力抵抗的遺產 | 甘地非暴力抵抗的遺產 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 甘地非暴力抵抗的遺產 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of Modern South Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 甘地非暴力抵抗的遺產 的兩個極端案例，並分析其後果
-- 如果抽離 甘地非暴力抵抗的遺產，Making of Modern South Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，甘地非暴力抵抗的遺產 怎樣決定了 1757-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[甘地非暴力抵抗的遺產 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 印巴分治的暴力
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 印巴分治的暴力 | 印巴分治的暴力 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 印巴分治的暴力 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of Modern South Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 印巴分治的暴力 的兩個極端案例，並分析其後果
-- 如果抽離 印巴分治的暴力，Making of Modern South Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，印巴分治的暴力 怎樣決定了 1757-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[印巴分治的暴力 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 核武國家的對抗
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 核武國家的對抗 | 核武國家的對抗 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 核武國家的對抗 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of Modern South Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 核武國家的對抗 的兩個極端案例，並分析其後果
-- 如果抽離 核武國家的對抗，Making of Modern South Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，核武國家的對抗 怎樣決定了 1757-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[核武國家的對抗 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 當代印度教民族主義
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 當代印度教民族主義 | 當代印度教民族主義 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 當代印度教民族主義 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Making of Modern South Asia 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 當代印度教民族主義 的兩個極端案例，並分析其後果
-- 如果抽離 當代印度教民族主義，Making of Modern South Asia 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，當代印度教民族主義 怎樣決定了 1757-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[當代印度教民族主義 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Making of Modern South Asia 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Making of Modern South Asia 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 現代南亞史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
+### 1.5 圖解
 ```mermaid
 graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A["南亞歷史階段"] --> B["莫臥兒帝國<br/>1526-1857"]
+    B --> C["英國殖民<br/>1858-1947"]
+    C --> D["印度獨立<br/>1947"]
+    C --> E["巴基斯坦獨立<br/>1947"]
+    D --> F["印度民主<br/>持續至今"]
+    E --> G["巴基斯坦動盪<br/>軍政府+民主交替"]
+    style B fill:#FFD700
+    style C fill:#FF6B6B
+    style F fill:#90EE90
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 深度自測問題
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+**Q1-Q10** 精簡版：
+- Q1：莫臥兒之所以成功——因為融合印度教-伊斯蘭文化、軍事力量、宗教容忍；衰落因為继承危機、農民起義、歐洲商人的衝擊。
+- Q2：英國之所以靠少數統治——因為利用印度本土精英（地主、王公）作為中介；建立鐵路、通訊、軍事基礎設施；基督教傳教士提供文化合法性。
+- Q3：1857 年起義性質——係士兵叛變，但農民、工人参與；呢個區分揭示起義群眾基礎。
+- Q4：甘地團結策略——堅持印度教-伊斯蘭聯盟、反對「以暴力還暴力」、用絕食動員群眾；策略爭議包括對達利特（賤民）態度。
+- Q5：真納轉變——因為佢認為穆斯林少數地位印度內無法保障；呢個信念被國大黨拒絕少數權利保障强化。
+- Q6：分治暴力——宗教領袖未能預見暴力規模；群眾暴力由失業農民、政治組織動員、傳聞恐懼驅使。
+- Q7：印度民主之所以成功——因為有英國留下嘅制度遺產、民主文化基礎、獨立媒體、多元社會需要協商。
+- Q8：巴基斯坦之所以動盪——因為建國意識形態（伊斯蘭國家）同現實治理之間鴻溝、軍方權力巨大、中央-地方權力不平衡。
+- Q9：孟加拉獨立——因為東巴（孟加拉人）被西巴（旁遮普人）軍事統治歧視；印度干預係因為擔心東巴难民潮。
+- Q10：英國選擇困境——任何選擇都會導致大規模暴力；历史顯示：沒有完美解決方案。
 
-**自學建議 / Study tips**: 配合 Making of Modern South Asia 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+---
+
+## 總結
+
+**HIST2188 The Making of Modern South Asia** 嘅核心價值：
+1. **理解殖民遺產**——南亞殖民史揭示殖民主義複雜影響
+2. **宗教與政治**——印巴分治案例分析宗教衝突點解可以政治化
+3. **民主與穩定**——印度民主成功模式值得研究
+
+**袁騰飛金句**：
+> 「印度歷史教會我哋：一個帝國可以靠少數人維持，但係一旦被殖民者團結起來——帝國就準備撤離了。」
+
+---
+
+## 延伸閱讀
+
+1. Richards, John F. *The Mughal Empire*. Cambridge: Cambridge University Press, 1993.
+2. Dirks, Nicholas. *The Scandal of Empire: India and the Creation of Imperial Britain*. Cambridge: Harvard University Press, 2006.
+3. Guha, Ranajit. *Elementary Aspects of Peasant Insurgency in Colonial India*. Delhi: Oxford University Press, 1983.
+4. Brown, Judith. *Gandhi: Prisoner of Hope*. New Haven: Yale University Press, 1989.
+5. Pandey, Gyanendra. *Remembering Partition: Violence, Nationalism and History in India*. Cambridge: Cambridge University Press, 2001.
+6. Talbot, Ian. *Pakistan: A New History*. London: Hurst, 2012.

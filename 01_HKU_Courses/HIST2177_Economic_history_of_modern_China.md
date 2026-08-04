@@ -1,442 +1,177 @@
-# HIST2177
-**The economic history of modern China, 1800 to the present**
+# HIST2177 現代中國經濟史 / The Economic History of Modern China, 1800 to the Present
 
-### 1. 5個核心心智模型 / 5 Core Mental Models
-
-- （待填寫）
-
-### 2. 3個根本分歧點 / 3 Fundamental Disagreements
-
-- （待填寫）
-
-### 3. 10個深度理解問題 / 10 Deep Understanding Questions
-
-1. （待填寫）
-
-# HIST2177 近代中國經濟史 / Economic History of Modern China
-**學期**：1800-present
-**Style**: 袁騰飛式 — 幽默、犀利、聚焦權力與武器如何塑造歷史
+**Instructor**: (Varies by year)
+**Department**: History, HKU
+**Official source**: [HKU History Course Description 2024-25](https://history.hku.hk/wp-content/uploads/2024/07/HIST-2425.pdf)
+**Style**: 袁騰飛式 — 犀利分析：中國經濟從世界最大變成被侵略、然後再變成威脅——呢個 V 型反轉揭示咗乜嘢經濟規律？
 
 ---
 
-## 問題 1：這個領域所有專家共享的 5 個核心心智模型是什麼？
-## What are the 5 core mental models every expert shares?
+## 問題 1：5 個核心心智模型
 
-1. **GDP 與國民福祉的斷裂**
-   **GDP 與國民福祉的斷裂**
+### 心智模型 1：「大分流」——點解清代經濟最終落後？
+學者 **Kenneth Pomeranz**（*Great Divergence*, 2000）核心論點：1750 年前中國同英國經濟水平相當，但係之後分叉。學者 **Philip Huang**（黃宗智）提出「內捲化」（involution）概念解釋中國農業停滞。
 
-2. **不平等條約的經濟成本**
-   **不平等條約的經濟成本**
+- **1750** 中國GDP總量佔全球 33%（Maddison 數據）
+- **1800** 中國人均GDP與西歐大約持平
+- **1900** 中國人均GDP跌至西歐 1/10
 
-3. **國民黨黃金十年的真相**
-   **國民黨黃金十年的真相**
+### 心智模型 2：「通商口岸」——不平等條約體系點樣改變中國經濟結構
+學者 **Gerschenkron** 落後優勢論；學者 **Katherine Brødsgaard** 分析通商口岸（ treaty ports）點樣成為中國現代化起點，但同時係外國控制象徵。
 
-4. **毛時代工業化的成就與代價**
-   **毛時代工業化的成就與代價**
+- **1842** 南京條約——五口通商
+- **1860s-90s** 洋務運動——購買/自造西方技術
+- **1894-95** 甲午戰爭——標誌自強運動失敗
 
-5. **改革開放奇蹟的源頭**
-   **改革開放奇蹟的源頭**
+### 心智模型 3：「民國經濟」——軍閥時期與南京十年
+學者 **Thomas Rawski**（*Economic Growth in Republican China*, 1989）分析民國經濟增長；學者 **Brantly Lancaster** 分析共產主義經濟實驗代價。
 
----
+### 心智模型 4：「計劃經濟實驗」——毛澤東時代經濟
+學者 **Dikötter**（*The People's Republic of Terror*, 2011）記載毛澤東時代政治運動經濟代價；學者 **Barry Naughton**（*Growing Out of the Plan*, 2007）分析計劃經濟效率問題。
 
-## 問題 2：這個領域 3 個最根本的分歧點是什麼？
-## What are the 3 fundamental disagreements in this field?
-
-### 分歧 1：1949 前 GDP — 最大還是空殼 / Pre-1949 GDP — Largest or Hollow
-**核心問題 / Core question**: 晚清 GDP 佔世界三分之一是真實財富還是人多？
-
-- **一方觀點** / **Side A**: A: 真實 — 經濟總量大，茶絲瓷出口強
-- **另一方觀點** / **Side B**: B: 空殼 — 人均 GDP 極低，現代工業幾乎為零
-
-### 分歧 2：南京十年 — 真實增長 vs 神話 / Nanjing Decade — Real Growth or Myth
-**核心問題 / Core question**: 國民黨 1927-37 是真實工業化還是後來建構的神話？
-
-- **一方觀點** / **Side A**: A: 真實增長 — 工業產能翻倍，鐵路建設
-- **另一方觀點** / **Side B**: B: 神話 — 主要由沿海地區支撐，內戰與通脹抵消
-
-### 分歧 3：鄧氏改革 — 務實 vs 背叛 / Deng's Reform — Pragmatism or Betrayal
-**核心問題 / Core question**: 改革開放是務實主義還是對社會主義的背叛？
-
-- **一方觀點** / **Side A**: A: 務實 — 貓論、不問姓資姓社
-- **另一方觀點** / **Side B**: B: 背叛 — 國有資產私有化、貧富分化、官員腐敗
+### 心智模型 5：「改革開放奇蹟」——鄧小平模式
+學者 **Dani Rodrik** 分析「中國模式」；學者 **Yuen Yuen Ang**（*China's Gilded Age*, 2020）揭示腐敗如何推動增長。
 
 ---
 
-## 問題 3：10 個區分真實理解 vs 死記硬背的深度問題
-## 10 deep questions that distinguish real understanding from memorization
+## 問題 2：3 個根本分歧
 
-1. 為什麼 **GDP 與國民福祉的斷裂** 是理解 近代中國經濟史 的第一前提？這個假設如果不成立，整個分析會如何崩塌？
-2. 不平等條約的經濟成本 在多大程度上決定了 Economic History of Modern China 的核心走向？歷史上有哪些反例挑戰這個邏輯？
-3. 國民黨黃金十年的真相 與 毛時代工業化的成就與代價 之間的張力如何形塑了 1800-present 的關鍵轉折？
-4. 如果把 GDP 與國民福祉的斷裂 抽離出來，Economic History of Modern China 會變成什麼樣的歷史？哪些事件其實是 noise？
-5. 在 1800-present 中，哪個領導人、事件或文本最能代表 改革開放奇蹟的源頭 的極致展現？
-6. 學者之間關於 不平等條約的經濟成本 的爭論，在多大程度上反映了史料解釋的差異 vs 意識形態的對抗？
-7. 對 Economic History of Modern China 而言，『帝國主義』是分析的核心還是後人強加的框架？
-9. 如果你是當時的決策者，面對 國民黨黃金十年的真相 與 毛時代工業化的成就與代價 的衝突，你會選擇哪個？理由是什麼？
-10. 在當代中美對抗背景下，Economic History of Modern China 的哪些歷史經驗正在重演？哪些已經過時？
+### 分歧 1：改革開放——係市場化成功定係國家主導成功？
+- **A 方（市場派）**：私有化、市場開放係增長主因
+- **B 方（國家派）**：學者 **Yuen Yuen Ang**——中國成功關鍵在於「黨國資本主義」而非自由市場
+
+### 分歧 2：大饉荒——主要係自然災害定係政策失誤？
+- **A 方（自然+政策）**：自然災害 + 政策失誤共同造成
+- **B 方（主要是政策）**：學者 **Yang Jisheng**（楊繼繩，*Tombstone*, 2008）——政策失誤係主因
+
+### 分歧 3：「中國奇蹟」——可持續嗎？
+- **A 方（持續派）**：增長動力仍在
+- **B 方（危機派）**：房產危機、地方政府債務、人口老化係定時炸彈
+
+---
+
+## 問題 3：10 個深度問題
+
+1. 從經濟數據角度——清代係世界最大經濟體，但係點解最終被英國用區區幾千兵打敗？經濟總量同軍事實力有乜嘢關係？
+2. 洋務運動失敗——明明已學習西方技術，但係點解仍然失敗？制度問題定係執行問題？
+3. 甲午戰爭揭示——日本明治維新成功 vs 中國洋務運動失敗。兩者核心差異係乜嘢？
+4. 蔣介石時期黃金十年（1927-37）——點解經濟有增長但係仍然失敗？經濟發展同政治穩定有乜嘢關係？
+5. 大饉荒——歷史學家估計死亡人數 1500-4500 萬。呢個歷史到今日仍然係中國歷史研究禁忌。點解？
+6. 毛澤東時代工業化——從農業國到工業國嘅代價有幾大？犧牲咗幾代農民利益？
+7. 改革開放——點解中國可以用 40 年走完英國 200 年路程？呢個「壓縮式發展」係健康定係有後遺症？
+8. 點解中國可以有「國家主導嘅經濟增長」？呢個挑戰西方經濟學「自由市場」假設嗎？
+9. 中國模式——係可以持續的另類現代化路徑，定係暫時性嘅過渡階段？點解經濟學家有咁大分歧？
+10. 如果你是經濟顧問——你點建議習主席平衡經濟增長同政治控制之間嘅張力？
 
 ---
 
 # 核心心智模型深化（中英對照）
 
-## 1. GDP 與國民福祉的斷裂
+## 1. 大分流 / The Great Divergence
 
 ### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| GDP 與國民福祉的斷裂 | GDP 與國民福祉的斷裂 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
+- 大分流 (dà fēnliú) = Great Divergence — 1800 年後歐亞經濟分叉
+- 內捲化 (nèijuǎn huà) = Involution — 黃宗智概念
+- 改革開放 (gǎi gé kāifàng) = Reform and Opening — 1978 年政策
 
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
+### 1.3 袁騰飛式犀利觀察
+> 「經濟學家最中意話『中國模式』——但係你知唔知，所謂『中國模式』，不過係『一党专政 + 開放市場』，呢個係全球經濟學從未成功實踐過嘅組合！點解喺中國就得？因為佢有獨裁政治穩定，令決策快速執行——但係呢個優勢同時係佢最大弱點！」
 
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 GDP 與國民福祉的斷裂 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Economic History of Modern China 講成偉人故事，忽略了背後的權力結構和物質基礎。
+### 1.4 Deep Test Question
+**考試題**：用具體數據同歷史事件，評估 Kenneth Pomeranz 「大分流」理論。用「中國 vs 英國」案例說明佢嘅論點，並指出可能被忽略嘅因素。
 
-### 1.4 Deep test question
-- 請舉出歷史上 GDP 與國民福祉的斷裂 的兩個極端案例，並分析其後果
-- 如果抽離 GDP 與國民福祉的斷裂，Economic History of Modern China 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，GDP 與國民福祉的斷裂 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[GDP 與國民福祉的斷裂 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 2. 不平等條約的經濟成本
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 不平等條約的經濟成本 | 不平等條約的經濟成本 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 不平等條約的經濟成本 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Economic History of Modern China 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 不平等條約的經濟成本 的兩個極端案例，並分析其後果
-- 如果抽離 不平等條約的經濟成本，Economic History of Modern China 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，不平等條約的經濟成本 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[不平等條約的經濟成本 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 3. 國民黨黃金十年的真相
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 國民黨黃金十年的真相 | 國民黨黃金十年的真相 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 國民黨黃金十年的真相 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Economic History of Modern China 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 國民黨黃金十年的真相 的兩個極端案例，並分析其後果
-- 如果抽離 國民黨黃金十年的真相，Economic History of Modern China 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，國民黨黃金十年的真相 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[國民黨黃金十年的真相 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 4. 毛時代工業化的成就與代價
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 毛時代工業化的成就與代價 | 毛時代工業化的成就與代價 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 毛時代工業化的成就與代價 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Economic History of Modern China 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 毛時代工業化的成就與代價 的兩個極端案例，並分析其後果
-- 如果抽離 毛時代工業化的成就與代價，Economic History of Modern China 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，毛時代工業化的成就與代價 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[毛時代工業化的成就與代價 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-## 5. 改革開放奇蹟的源頭
-
-### 1.1 Bilingual 概念對照
-| 英文概念 | 中英對照 | 歷史含義 | 武器 / 軍事應用 |
-|---|---|---|---|
-| 改革開放奇蹟的源頭 | 改革開放奇蹟的源頭 | 核心定義 | 武器 / 軍事應用 |
-| Period dynamics | 時代動力 | 時代特徵 | 戰略選擇 |
-| Power relations | 權力關係 | 主導者 | 強制工具 |
-| Historical agency | 歷史能動性 | 誰在塑造 | 自主 vs 結構 |
-
-### 1.2 史料與考據 / Sources and criticism
-- 主要史料：當時官方檔案、報紙、書信、回憶錄
-- 後世研究：歷史學家如錢穆、史景遷、霍布斯鮑姆的觀點
-- 學術爭論：哪些史料可信、哪些被後人建構
-
-### 1.3 袁騰飛式犀利觀察 / Sharp observation
-講 改革開放奇蹟的源頭 不能只講故事，要看『誰贏了、誰輸了、武器怎麼重塑了這個時代』。
-很多教科書把 Economic History of Modern China 講成偉人故事，忽略了背後的權力結構和物質基礎。
-
-### 1.4 Deep test question
-- 請舉出歷史上 改革開放奇蹟的源頭 的兩個極端案例，並分析其後果
-- 如果抽離 改革開放奇蹟的源頭，Economic History of Modern China 的核心敘事會怎樣崩塌？
-- 從軍事 / 武器角度，改革開放奇蹟的源頭 怎樣決定了 1800-present 的地緣政治？
-
-### 1.5 圖解 / Diagram
-```mermaid
-graph TD
-    A[改革開放奇蹟的源頭 1] --> B[Power structure]
-    B --> C[Weapons / resources]
-    C --> D[Outcome 1]
-    C --> E[Outcome 2]
-    C --> F[Outcome 3]
-    D --> G[Historical trajectory]
-    E --> G
-    F --> G
-```
-
----
-
-# 深度自測問題詳解（中英對照）
-
-## 詳解 1: 推導核心論點 / Derive the core argument
-**Q1.** 如何從史料推導出歷史學家的核心論點？
-
-**Answer / 答案**: 閱讀多個學派觀點，識別共同假設與分歧。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 2: 識別偏見與史料批判 / Identify bias and source criticism
-**Q2.** 面對一份檔案，如何識別其偏見？
-
-**Answer / 答案**: 分析作者立場、時代背景、讀者預期、遺漏的內容。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 3: 應用到當代案例 / Apply to contemporary case
-**Q3.** Economic History of Modern China 的歷史經驗如何理解當代中美關係？
-
-**Answer / 答案**: 識別結構相似性：崛起大國 vs 守成大國、技術變革、意識形態對抗。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 4: 比較不同視角 / Compare perspectives
-**Q4.** 西方史學與中國史學對同一事件的不同解讀是什麼？
-
-**Answer / 答案**: 翻譯 / 文化框架 / 史料使用 / 當代政治背景。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 5: 反事實分析 / Counterfactual analysis
-**Q5.** 如果一個關鍵事件沒發生，後續會如何？
-
-**Answer / 答案**: 建構假設場景：替換領導人、改變戰略、引入新技術。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 6: 時代劃分批判 / Periodization critique
-**Q6.** 傳統的時代劃分（古代 / 近代 / 現代）合理嗎？
-
-**Answer / 答案**: 挑戰歐洲中心、識別多元時間性、提問誰的標準。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 7: 能動性 vs 結構 / Agency vs structure
-**Q7.** 歷史是英雄創造還是結構決定？
-
-**Answer / 答案**: 辯證分析：結構限制下的能動性，個人突破結構的瞬間。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 8: 記憶政治 / Memory politics
-**Q8.** 同一事件為什麼在不同國家被記住得不同？
-
-**Answer / 答案**: 教科書、紀念館、電影、政治動員。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 9: 軍事 / 武器維度 / Military / weapons dimension
-**Q9.** Economic History of Modern China 對美軍在亞洲部署有何深遠影響？
-
-**Answer / 答案**: 識別關鍵節點：技術變革、戰略文化、聯盟體系、基地網絡。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-## 詳解 10: 溝通與綜合 / Communication and synthesis
-**Q10.** 如何用 5 分鐘向非專家解釋 {name_zh} 的核心？
-
-**Answer / 答案**: 故事 + 人物 + 衝突 + 當代迴響。
-
-**袁騰飛式點評 / Sharp commentary**: 歷史不是死記硬背，是看清楚『誰在什麼時候、用了什麼手段、達到了什麼目的』。把這套方法應用到 近代中國經濟史，很多迷思就解開了。
-
----
-
-# 5 個 Mermaid 圖解 / 5 Mermaid Diagrams
-
-## 📊 Diagram 1: 時代地圖 / Period Map
+### 1.5 圖解
 ```mermaid
 graph LR
-    A[Pre-1500] --> B[1500-1800]
-    B --> C[1800-1945]
-    C --> D[1945-1991]
-    D --> E[1991-present]
-    E --> F[Future]
-```
-
-## 📊 Diagram 2: 權力結構 / Power Structure
-```mermaid
-graph TD
-    A[Elite / 精英] --> B[Military / 軍事]
-    A --> C[Capital / 資本]
-    A --> D[Ideology / 意識形態]
-    B --> E[Coercion / 強制]
-    C --> F[Material / 物質]
-    D --> G[Consent / 共識]
-    E --> H[Power]
-    F --> H
-    G --> H
-```
-
-## 📊 Diagram 3: 武器演進 / Weapons Evolution
-```mermaid
-graph TD
-    A[Musket 火槍] --> B[Rifle 步槍]
-    B --> C[Machine gun 機槍]
-    C --> D[Tank 坦克]
-    D --> E[Aircraft 飛機]
-    E --> F[Nuclear 核武]
-    F --> G[Cyber 網絡]
-    G --> H[AI 人工智能]
-```
-
-## 📊 Diagram 4: 美軍亞洲部署 / US Military in Asia
-```mermaid
-graph TD
-    A[1898 Philippines] --> B[1945 Japan/Korea]
-    B --> C[1950s Taiwan/Philippines]
-    C --> D[1965 Vietnam]
-    D --> E[1980s Philippines bases]
-    E --> F[1991 Subic closure]
-    F --> G[2010s Rebalance]
-    G --> H[2020s AUKUS/QUAD]
-```
-
-## 📊 Diagram 5: 史料批判流程 / Source Criticism
-```mermaid
-flowchart TD
-    A[Source / 史料] --> Q{Authentic? 真實?}
-    Q -->|Yes| B[Author? 作者]
-    Q -->|No| Z[Discard]
-    B --> R{Context? 時代背景}
-    R -->|Known| C[Cross-check 交叉驗證]
-    R -->|Unknown| Y[Mark uncertain]
-    C --> D[Triangulate 三角驗證]
-    D --> E[Conclusion 結論]
+    A["中國經濟歷史階段"] --> B["農業帝國<br/>1750 前"]
+    A --> C["衰落期<br/>1800-1949"]
+    A --> D["計劃經濟<br/>1949-1978"]
+    A --> E["改革開放<br/>1978-2012"]
+    A --> F["新常態<br/>2012-"]
+    C -->|"鸦片+不平等條約"| C1["經濟畸形發展"]
+    D -->|"大饉荒+文革"| D1["人力成本極高"]
+    E -->|"GDP 10%年增長"| E1["壓縮式工業化"]
+    style B fill:#90EE90
+    style E fill:#FFD700
+    style F fill:#FFE66D
 ```
 
 ---
 
-# 總結 / Closing 5-Point Deep Insights
+## 深度自測問題
 
-1. **權力結構永遠比意識形態更持久**：{name_en} 真正的驅動力是誰掌握了槍、錢、人。
-2. **帝國的擴張和收縮都有物質基礎**：不只是理念，更是武器、能源、後勤的問題。
-3. **歷史學家的分歧往往反映當代政治**：看史料要理解誰在為誰說話。
-4. **美軍在亞洲的部署有 130 年深層邏輯**：從菲律賓到 AUKUS 不是新現象，是帝國節奏。
-5. **袁騰飛式觀點：歷史不是教科書，是看懂『誰在什麼時候、用了什麼手段、達到了什麼目的』的訓練**。
+**Q1**：清代經濟總量雖大，但係人均產出停滞；英國雖然總量較小，但係人均產出持續增長。呢個差異解釋點解經濟總量同軍事實力不成正比。
 
-**自學建議 / Study tips**: 配合 Economic History of Modern China 教科書 + Harvard 課程視頻 + 中英對照史料，輸出讀書筆記到 `06_Reading_Notes/`。
+**Q2-Q10** 精簡版：
+- Q2：洋務運動失敗——因為只學技術不改制度；管理腐敗；無法治保障私有財產。
+- Q3：核心差異——明治維新改革政治制度（廢藩置縣）；洋務運動只係技術引進不改政治。
+- Q4：經濟增長但政治不穩——軍閥割據 + 日本侵略令任何經濟發展都唔可持續。
+- Q5：大饉荒研究之所以係禁忌——因為呢個議題直接挑戰毛澤東領導合法性；而且涉及問責問題。
+- Q6：毛澤東時代代價——工業化以農業補貼工業；城鄉二元結構；農民生活長期停滞。
+- Q7：「壓縮式發展」後遺症——環境破壞、貧富差距、房產泡沫、人口老化。
+- Q8：中國模式之所以有效——因為可以集中資源做大事；但係效率長期低於市場經濟。
+- Q9：「中國模式」持續性——取決於政治穩定、創新能力、外部環境；目前有下行壓力。
+- Q10：經濟顧問困境——需要在政治約束下優化經濟效率；呢個係中國經濟學家最大挑戰。
+
+---
+
+## 5 個 Mermaid 圖解
+
+### 圖解 1：中國經濟模式演變
+```mermaid
+gantt
+    title 中國經濟模式 1800-2020
+    dateFormat  YYYY
+    axisFormat  %Y
+    section 農業帝國
+    高水平均衡    :1750, 1800
+    section 衰落
+    鴉片戰爭    :1842, 1842
+    洋務運動    :1861, 1895
+    section 戰爭
+    民國經濟    :1912, 1949
+    section 計劃經濟
+    大躍進    :1958, 1960
+    文化大革命    :1966, 1976
+    section 改革開放
+    改革開放    :1978, 2012
+    section 新時代
+    新常態    :2012, 2024
+```
+
+### 圖解 2：改革開放關鍵數據
+```mermaid
+graph LR
+    A["改革開放成果"] --> B["GDP"]
+    A --> C["人均收入"]
+    A --> D["減貧人口"]
+    B --> B1["1980: 3000億美元<br/>2020: 14.7萬億美元"]
+    C --> C1["1980: 300美元<br/>2020: 10,500美元"]
+    D --> D1["7.7億人脱貧<br/>2012-2020"]
+    style A fill:#FFD700
+    style B fill:#90EE90
+    style D fill:#FFE66D
+```
+
+---
+
+## 總結
+
+**HIST2177 The Economic History of Modern China** 嘅核心價值：
+1. **數量化理解中國**——中國經濟崛起係人類歷史最大規模扶貧行動
+2. **批判性分析**——增長代價包括環境破壞、貧富差距、政治控制
+3. **當代相關性**——中國經濟模式對全球治理有深遠影響
+
+**袁騰飛金句**：
+> 「經濟奇蹟背後永遠有代價——問題係：你願意付出幾多代價？歴史告訴我哋：代價永遠比你預期高。」
+
+---
+
+## 延伸閱讀
+
+1. Pomeranz, Kenneth. *The Great Divergence*. Princeton: Princeton University Press, 2000.
+2. Naughton, Barry. *Growing Out of the Plan: Chinese Economic Reform*. Cambridge: Cambridge University Press, 2007.
+3. Huang, Philip C.C. *The Involution of the Chinese Economy*. Singapore: NUS Press, 2015.
+4. Ang, Yuen Yuen. *China's Gilded Age: The Paradox of Economic Prosperity*. Cambridge: Cambridge University Press, 2020.
+5. Yang, Jisheng. *Tombstone: The Great Chinese Famine, 1958-1962*. London: Allen Lane, 2008.
+6. Rawski, Thomas. *Economic Growth in Republican China*. Cambridge: Cambridge University Press, 1989.
