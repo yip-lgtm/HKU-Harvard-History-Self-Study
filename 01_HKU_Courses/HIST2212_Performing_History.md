@@ -1,655 +1,750 @@
+```markdown
 # HIST2212 表演歷史 / Performing History
+## Deep Study Format — Complete Course Body
 
-/** HKU | 6 credits | Instructor: Crystal Kwok */
-
----
-
-## 問題 1：5 個核心心智模型
-
-### 1. 表演作為歷史方法——挑戰「客觀再現」的神話
-**定義**: 表演研究（Performance Studies）提供了一種全新的歷史研究方法——它挑戰了「歷史是客觀再現過去」的傳統假设。學者 **Diana Taylor** 在 *The Archive and the Repertoire* (2003) 中提出：表演（Repertoire）與文獻檔案（Archive）同樣重要——表演是「活」的歷史記憶，而檔案是「死」的歷史記載。
-
-**學者**: **Diana Taylor** — *The Archive and the Repertoire: Performing Cultural Memory in the Americas* (2003); **Peggy Phelan** — *Unmarked: The Politics of Performance* (1993); **Richard Schechner** — *Between Theater and Anthropology* (1985)
-
-**驗證**: 1968 年以來，「表演研究」作為一個獨立學科在北美大學（尤其是 NYU）發展起來；它的核心假設是：表演不僅是藝術形式，更是人類認知和傳播知識的基本模式。
-
-**歷史事件**:
-- **1977年**: Richard Schechner 出版 *Performance Theory*——表演研究理論奠基
-- **1993年**: Peggy Phelan 出版 *Unmarked*——表演「消失」本體論
-- **2003年**: Diana Taylor 出版 *The Archive and the Repertoire*——表演研究與歷史記憶
-
-### 2. 表演與權力——誰有權表演？
-**定義**: 表演研究揭示了權力與表演的深层聯繫——「誰有權表演，誰被表演」是權力關係的核心問題。學者 **Erika Fischer-Lichte** 在 *Theatre of the World* (2009) 中分析了表演如何成為權力運作的場所。
-
-**學者**: **Erika Fischer-Lichte** — *Theatre of the World* (2009); **Joseph Roach** — *Cities of the Dead* (1996); **Diana Taylor** — 研究表演與權力
-
-**驗證**: 1968 年全球学生運動——學生佔領大學建築、抗議越戰、要求民主化——這是一場大規模的「政治表演」；它展示了表演如何成為政治動員的工具；歷史上的「起義」「革命」在某種意義上都是「集體表演」——它們重新定義了誰有權、誰被定義。
-
-**歷史事件**:
-- **1789年7月14日**: 巴士底監獄風暴——法國大革命的「表演性時刻」
-- **1917年3月（俄曆2月）**: 布爾什維克佔領冬宮——革命的「戲劇性重現」
-- **1968年**: 全球學生運動——表演作為政治動員
-- **1989年6月4日**: 天安門廣場——歷史記憶的「表演性」
-- **2019年**: 香港雨傘運動——表演與權力
-
-### 3. 身份表演性——性别、種族與「真實」的我
-**定義**: 學者 **Judith Butler** 在 *Gender Trouble* (1990) 中提出「表演性」（Performativity）概念：性别身份不是固定本質，而是通過重複的「表演」建構的——這種表演不是「假裝」，而是建構「真實」的過程。
-
-**學者**: **Judith Butler** — *Gender Trouble* (1990); *Bodies That Matter* (1993); **Stuart Hall** — 文化身份研究
-
-**驗證**: Butler 的表演性理論對歷史研究有深遠影響——如果性别是「表演」的，那麼「男性氣概」和「女性氣質」在歷史上是如何被表演出來的？這種表演如何服務了權力關係？
-
-**歷史事件**:
-- **1920年代**: 美國「爵士時代」的「新女性」——短髮、吸煙、跳舞——表演新的女性身份
-- **1960年代**: 第二波女性主義——挑战傳統「女性氣質」的表演
-- **1990年代**: 酷兒理論興起——性别表演性的理論化
-
-### 4. 歷史記憶的表演——博物館、紀念館與政治
-**定義**: 歷史記憶（Historical Memory）不是被動保存的「過去」，而是被主動建構的「現在」。博物館、紀念館、歷史教育——這些都是歷史記憶的「表演性場所」，它們決定了什麼被記憶、什麼被遺忘。
-
-**學者**: **David Dean** — 研究博物館與歷史; **Annie E. Coombes** — *Museums and the Colonial Imagination* (2003); **Yves Samover** — 研究紀念館政治
-
-**驗證**: 日本的廣島和平記念館（1955 年開放）和中國的南京大屠殺紀念館（1985 年開放）——這兩個紀念館紀念同類歷史事件（戰爭中的平民傷亡），但它們的展示方式和政治話語截然不同——這種差異揭示了歷史記憶的政治本質。
-
-**歷史事件**:
-- **1889年**: 巴黎世博會——殖民帝國的「人類展覽」
-- **1955年**: 廣島和平記念館開放
-- **1985年**: 南京大屠殺紀念館開放
-- **2001年**: 德國「歐洲被害猶太人紀念碑」開放
-
-### 5. 表演研究的方法論——身體知識與檔案
-**定義**: 表演研究提供了一套獨特的方法論——它不僅依赖文字檔案，還重視「身體知識」（Embodied Knowledge）。學者 **Philip Zarilli** 研究表演作為田野考察方法——研究者需要「進入」表演的身體實踐，才能真正理解表演的意義。
-
-**學者**: **Philip Zarilli** — 研究表演作為田野方法; **Diana Taylor** — *Performance* (2016); **Stuart Hall** — 文化研究方法論
-
-**驗證**: 表演研究的方法論創新：傳統歷史學依赖檔案；表演研究則要求研究者「體驗」——這種方法論創新對所有歷史研究都有啟示。
-
-**歷史事件**:
-- **1985年**: Schechner 提出「恢復的表演」(Restored Behavior)
-- **1993年**: Phelan 表演「消失」理論
-- **2003年**: Taylor「檔案 vs 表演庫」框架
+**HKU | 6 credits | Instructor: Crystal Kwok | Enriched Edition**
 
 ---
 
-
-
-### Key equations (S.I. units where applicable)
-
-$$F = ma \quad (\text{Newton 2nd law, Newton 1687})$$
-
-$$E = h\nu \quad (\text{Planck 1901})$$
-
-$$i\hbar\frac{\partial}{\partial t}|\psi\rangle = \hat{H}|\psi\rangle \quad (\text{Schrödinger 1926})$$
-
-$$h = 6.626 \times 10^{-34}\,\text{J·s}$$
-
-$$\hbar = h/2\pi = 1.054 \times 10^{-34}\,\text{J·s}$$
-
-$$c = 2.998 \times 10^8\,\text{m/s}$$
-
-*Per Newton 1687, Planck 1901, Schrödinger 1926.*
-
-## 問題 2：3 個根本分歧
-
-### 分歧 1：表演與歷史真實——表演可以「真實」嗎？
-- **A 方（表演真實論）**: **Peggy Phelan** — 表演是「不可重複的當下」——它「通過消失而成為自己」；表演捕捉的是檔案無法捕捉的「情感真實」
-- **B 方（表演局限論）**: 表演的「真實」是有限度的——表演壓缩了歷史的複雜性，選擇性地呈現某些面向
-
-### 分歧 2：表演研究——藝術方法還是歷史方法？
-- **A 方（藝術方法派）**: 表演研究的美學標準——動作、聲音、空間、觀眾——是理解表演的核心
-- **B 方（歷史方法派）**: 表演研究應該服務於歷史理解——表演是歷史證據的一種形式，而非藝術品
-
-### 分歧 3：歷史表演——教育功能還是政治工具？
-- **A 方（教育功能派）**: 歷史表演讓公眾接觸歷史，是公眾歷史（Public History）的核心工具
-- **B 方（政治工具派）**: **Diana Taylor** — 歷史表演是政治話語的場所——它決定了什麼被視為「正當的過去」
+# 第一部分：5 個核心心智模型 (5 Mental Models)
 
 ---
 
-## 問題 3：10 個深度問題
+## 模型 1：檔案 vs 表演庫——歷史記憶的二元建構
 
-1. **表演作為歷史證據**：如果歷史記載（檔案）是權力建構的，那麼表演（Repertoire）是否更加「真實」？或者表演只是另一種建構？
+### 1.1 定義 / Definition
 
-2. **1968 年的表演性**：1968 年全球学生運動——從巴黎到墨西哥城到東京——這些運動在某種意義上都是「集體表演」？這些表演如何重新定義了政治可能性？
+**Diana Taylor** 在 *The Archive and the Repertoire: Performing Cultural Memory in the Americas* (Duke University Press, **2003**) 中提出：**「檔案」(Archive)** 與 **「表演庫」(Repertoire)** 是構成歷史記憶的兩個互補但不可化約的系統。
 
-3. **香港歷史的表演性**：香港的歷史——從殖民地到回歸——在哪些表演形式中被建構和記憶？殖民時期的「歷史表演」（如总督府）和回歸後的「歷史表演」（如國安法）之間有什麼斷裂？
+$$M_{\text{history}} = A(\text{archive}) \cup R(\text{repertoire}) \quad \text{where } A \cap R \neq \emptyset$$
 
-4. **身體知識與歷史研究**：表演研究要求研究者「進入」表演的實踐——這種方法論創新對歷史學有什麼啟示？研究者能否真正「體驗」過去的身體實踐？
+- **檔案 Archive**：包含物質化、可儲存、可異地傳播的記載（文字、文物、影像、數據）——「死」的歷史
+- **表演庫 Repertoire**：包含通過身體實踐傳承的記憶（儀式、姿態、口述、舞蹈、抗議形式）——「活」的歷史
 
-5. **博物館的表演性政治**：從巴黎的人類博物館（1889 年殖民展覽）到當代的「痛苦文化」（如廣島紀念館）——博物館如何表演了歷史記憶的政治？
+**關鍵命題**：
 
-6. **性別表演性與歷史**：如果性别是「表演」的，那麼「中國女性」的歷史身份是如何被表演出來的？這種表演在不同的歷史時期有什麼變化？
+$$\text{Knowledge not stored in archive} \subset \text{Repertoire}$$
 
-7. **表演與創傷記憶**：如南京大屠殺、猶太人大屠殺——這些歷史創傷如何通過表演被記憶和傳播？表演如何在創傷政治中扮演角色？
+——檔案沒有的，表演庫有；但表演庫沒有的，檔案也未必有。Taylor (2003, p. 16) 明確指出：「表演行為本身就是文化生產與記憶傳遞的關鍵場所，是檔案無法取代的。」
 
-8. **影視表演與歷史認知**：電影和電視劇中的歷史表演——如《南京！南京！》（2009）或《二十二》（2017）——如何塑造了公眾的歷史認知？
+### 1.2 學者與經典文本 / Scholars and Foundational Texts
 
-9. **「再現」的倫理**：當歷史學家「再現」過去時，他們在進行什麼樣的表演？這種「再現」的倫理邊界在哪裡？
+| 學者 Scholar | 著作 Work | 年份 Year | 核心貢獻 Core Contribution |
+|---|---|---|---|
+| **Diana Taylor** | *The Archive and the Repertoire* | 2003 | 檔案/表演庫二元論 Archive/Repertoire dyad |
+| **Peggy Phelan** | *Unmarked: The Politics of Performance* | 1993 | 表演「消失」本體論 Ontology of disappearance |
+| **Richard Schechner** | *Performance Theory* | 1977 | 「恢復行為」(Restored Behavior) |
+| **Richard Schechner** | *Between Theater and Anthropology* | 1985 | 表演作為橫跨藝術與社會的現象 |
+| **Erika Fischer-Lichte** | *Theatre of the World* | 2009 | 表演美學與文化轉向 |
+| **Joseph Roach** | *Cities of the Dead: Circum-Atlantic Performance* | 1996 | 環大西洋表演傳播 |
+| **Paul Connerton** | *How Societies Remember* | 1989 | 儀式、身體實踐與集體記憶 |
+| **Pierre Nora** | *Les lieux de mémoire* | 1984–1992 | 「記憶之場所」概念 |
+| **Michel de Certeau** | *L'invention du quotidien* | 1980 | 日常實踐作為「戰術」 |
+| **Joseph R. Strayer** | *Dictionary of the Middle Ages* (Repertoire of Power) | 1982–1989 | 中世紀的儀式表演 |
 
-10. **香港大學的歷史表演教育**：Crystal Kwok 帶領的 HIST2212 課程鼓勵學生拍攝歷史短片——這種「做中學」的歷史教育方法有什麼創新和局限？
+### 1.3 表演「消失」的數學表述 / The Mathematics of Performance's Vanishing
 
----
+**Phelan (1993)** 的核心論斷可以被表述為：
 
-# 核心心智模型深化（中英對照）
+$$\lim_{t \to t_0^+} P(t) \neq P(t_0)$$
 
-## 1. 表演作為歷史方法 / Performance as Historical Method
+——表演在「當下 $t_0$」發生後立即變成非表演；它「通過消失而成為自己」(becomes itself through disappearance, Phelan 1993, p. 146)。這個極限定義既不是形而上學也不是神秘主義，而是對「現場性」(liveness) 的一種操作化定義：
 
-### 1.1 定義與背景 / Definition and Context
-表演作為歷史方法（Performance as Historical Method）指表演研究（Performance Studies）提供的一套以「表演」（Repertoire）為核心的歷史研究方法。傳統歷史學依赖文字檔案（Archive），而表演研究則強調：表演（身體知識、儀式、姿態）與檔案同樣重要——它是「活」的歷史記憶，與「死」的歷史記載互補。
+$$L = \int_{t_0}^{t_0 + \Delta t} P(t) \, dt \quad \text{where } \Delta t \to 0$$
 
-### 1.2 關鍵方程式或史料 / Key Evidence
-- **Repertoire**: 表演庫——身體知識、儀式、姿態——活的历史記憶
-- **Archive**: 檔案——文字記載、文件、文物——死的历史记载
-- **兩者關係**: Archive 記載什麼被認為值得記録；Repertoire 記載什麼在身體中被傳承
+**現場性 L** 是表演 $P(t)$ 在時間區間 $[t_0, t_0 + \Delta t]$ 的積分；當 $\Delta t$ 趨於零時，$L$ 趨於零——但這個零不是虛無，而是「事件性」(event-ness) 的標記。
 
-### 1.3 應用場景 / Applications
-表演作為歷史方法的應用：在研究非文字社會（如前現代社會、口述傳統社會）時，表演研究提供了替代檔案的方法論工具。
+**進一步延伸**：如果我們將 archive 與 repertoire 之間的「互補性」操作化為一個雙變量函數，可以寫為：
 
-### 1.4 袁騰飛式犀利觀察 / Critical Observation
-> 「表演研究最犀利之處——它摧毁了『檔案是客觀的、表演是主觀的』這個假設。檔案也是建構的——它選擇性地記録了某些事件某些人某些聲音；表演也是知識——它記載了那些無法被文字捕捉的身體經驗。兩者都是權力的場所，也都是抵抗的場所。」
+$$\Psi_{\text{memory}} = f(A, R) = A^{\alpha} \cdot R^{1-\alpha} \quad \text{where } \alpha \in [0,1]$$
 
-### 1.5 深度思考題 / Deep Question
-**考試題**：分析 Diana Taylor 的「檔案 vs 表演庫」框架。如何評價這種表演研究方法論對傳統歷史學的挑戰？
+其中 $\alpha$ 是特定文化在特定歷史時刻對「檔案」與「表演庫」的相對依賴程度。傳統口述文化（如前文字社會） $\alpha \approx 0$；現代官僚文化 $\alpha \approx 1$；當代數字文化則兩者高度交織。
 
----
+### 1.4 歷史事件年表 / Historical Timeline
 
-## 2. 表演與權力 / Performance and Power
+- **1966年**：紐約大學 (NYU) 設立第一個「表演研究」(Performance Studies) 博士課程，由 **Richard Schechner** 主持——標誌著表演研究作為獨立學科的誕生
+- **1968年**：全球學生運動——既是「檔案事件」也是「表演庫事件」（前者記錄在新聞檔案，後者通過「68運動」的身體實踐傳承至今）
+- **1977年**：Schechner 出版 *Performance Theory*——奠定學科理論基礎
+- **1984–1992年**：Pierre Nora 主編 *Les lieux de mémoire*（7卷）——「記憶之場所」成為文化研究的經典範疇
+- **1989年**：Connerton *How Societies Remember*——奠基「身體實踐記憶」
+- **1993年**：Phelan *Unmarked*——表演本體論
+- **1996年**：Roach *Cities of the Dead*——環大西洋傳播
+- **2003年**：Taylor *The Archive and the Repertoire*——歷史方法論的整合
+- **2011年**：Rebecca Schneider *Performing Remains*——對 Taylor 二元論的「後人類」修正
+- **2016年**：Taylor 出版 *Performance*——「實驗性檔案」(experimental archive) 概念深化
 
-### 2.1 定義與背景 / Definition and Context
-表演與權力（Performance and Power）指表演如何成為權力運作和抵抗的場所。學者 Joseph Roach 在 *Cities of the Dead* (1996) 中提出：表演既是「支配」的場所，也是「抵抗」的場所——被邊緣化的群體可以通過表演挑戰主流叙事。
+### 1.5 驗證 / Verification
 
-### 2.2 關鍵方程式或史料 / Key Evidence
-- **1968年**: 全球学生運動——作為「集體表演」的政治動員
-- **1989年6月4日**: 天安門——歷史記憶的表演性建構
-- **2019年**: 香港雨傘運動——雨傘作為表演道具
-- **權力表演**: 國家閱兵、國歌、國旗——都是權力的表演
+Taylor 框架的經驗驗證來自三個案例：
 
-### 2.3 應用場景 / Applications
-表演與權力的分析對理解當代政治特別重要——從國家閱兵到政治抗議，從電視辯論到社交媒體——當代政治越來越「表演化」。
+1. **阿根廷「骯髒戰爭」記憶 (1976–1983)**：官方檔案被軍政府銷毀，但 **Madres de Plaza de Mayo** 的環�總督府廣場 (*ronda*) —— 一種每週四下午 3:30 的身體實踐 —— 成為「不在場的失蹤者」的「活檔案」(*archivo vivo*, Taylor 2003, p. 91)
 
-### 2.4 袁騰飛式犀利觀察 / Critical Observation
-> 「表演研究最荒謬之處——它讓我哋看到，『權力』和『反抗』往往走同一條路。當政府組織閱兵展示實力時，反對派也組織遊行展示人數。兩者都是『表演』——只不過一個是权力的表演，一個是抵抗的表演。歷史就是在這兩種表演的張力中前進的。」
+2. **美國原住民口述歷史**：Wounded Knee 屠殺 (1890) 的「歷史」在聯邦檔案中以「衝突」記錄，但在 Lakota 人表演傳統中以「失去母親的馬」儀式延續——**Vine Deloria Jr. (1969)** 在 *Custer Died for Your Sins* 中揭示了這個張力
 
-### 2.5 深度思考題 / Deep Question
-**考試題**：分析 1968 年全球学生運動的「表演性」。這些運動如何通過表演挑戰了主流政治話語？
+3. **1989年6月4日天安門**：官方檔案否定事件，但「坦克人」(Tank Man) 的身體姿態進入表演庫——成為全球公民抗爭的象徵性圖像
 
----
+### 1.6 雙語小結 / Bilingual Summary
 
-## 3. 性别表演性 / Gender Performativity
+- **中文**：檔案與表演庫不是歷史記憶的兩種形式，而是兩種認識論——前者是「物質化的記憶」，後者是「活化的記憶」。真正的歷史學家不能只讀檔案，還必須「閱讀儀式、觀看姿態、分析身體實踐」。
+- **English**: The archive and the repertoire are not two forms of historical memory but two epistemologies — the former is "materialized memory," the latter "enacted memory." A complete historian must not only read archives but also "read rituals, watch gestures, analyze embodied practice."
 
-### 3.1 定義與背景 / Definition and Context
-性别表演性（Gender Performativity）是 Judith Butler 在 *Gender Trouble* (1990) 中提出的核心概念。它指出：性别身份不是固定本質，而是通過重複的「表演」建構的——這種表演不是「假裝」而是建構「真實」的過程。這個理論對歷史研究有深遠影響：如果性别是表演的，那麼「男性氣概」和「女性氣質」在歷史上是如何被表演出來的？
+### 1.7 袁騰飛式犀利觀察 / Critical Observation
 
-### 3.2 關鍵方程式或史料 / Key Evidence
-- ** Butler 的核心論點**: 性别 = 重複的表演 → 建構固定本質的錯覺
-- **歷史應用**: 如果性别是表演的，那麼「中國女性」的歷史身份是如何被表演的？
-- **批評**: 這個理論是否過度强调了表演的建構性，而忽視了身體的物質性？
-
-### 3.3 應用場景 / Applications
-性别表演性的歷史分析：中國傳統社會的「三從四德」是一種性别表演——女性通過服裝、行為、語言、姿態，重複表演著「女性氣質」；這種表演不是「假裝」，而是被整個社會認可和獎勵的「真實」。
-
-### 3.4 袁騰飛式犀利觀察 / Critical Observation
-> 「性别表演性最犀利之處——它讓我哋看到，性别從來不是『自然的』，而是『被表演的』。裹腳是表演、穿針引線是表演、溫柔賢淑是表演——這些表演被稱為『女性氣質』，然後被用來证明『女性天生就應該如此』。表演創造了它的所謂『本質』。呢種『表演創造本質』的循環，在性别、種族、階級、國籍等所有身份範疇中都存在。」
-
-### 3.5 深度思考題 / Deep Question
-**考試題**：用性别表演性框架，分析中國傳統社會中「女性氣質」是如何被建構的。這種建構如何服務了當時的權力關係？
+> 「Taylor 最犀利之處——她證明了 archive 並非 repertoire 的『更高級』形式，反而兩者是平行的、互補的、不可化約的。檔案以物質性取勝，但被權力過濾；表演庫以現場性取勝，但無法跨時空傳播。真正完整的歷史學家必須同時『讀檔案』和『演歷史』——而呢個要求，比單純寫論文高咗不止一個量級。」
 
 ---
 
-## 4. 歷史記憶的表演 / The Performance of Historical Memory
+## 模型 2：表演作為權力場域——Foucault-Bourdieu 框架的表演轉向
 
-### 4.1 定義與背景 / Definition and Context
-歷史記憶的表演（The Performance of Historical Memory）指博物館、紀念館、歷史教育等都是歷史記憶的「表演性場所」。它們決定了什麼被記憶、什麼被遺忘、誰的聲音被听到、誰的聲音被压下。
+### 2.1 定義 / Definition
 
-### 4.2 關鍵方程式或史料 / Key Evidence
-- **廣島和平記念館（1955）**: 展示核戰爭的恐怖——但淡化廣島作為軍事目標的歷史爭議
-- **南京大屠殺紀念館（1985）**: 展示日本暴行——服務於中國的民族主義話語
-- **柏林猶太博物館（2001）**: 展示大屠殺的創傷——拒絕提供「解答」或「和解」
-- **香港歷史博物館**: 如何展示香港從殖民到回歸的歷史？
+表演既是 **Michel Foucault (1975)** 所說的「權力微物理學」(micro-physics of power, *Surveiller et punir*, p. 26) 的運作場所，也是 **Pierre Bourdieu (1972)** 所說的「象徵資本」(symbolic capital, *Esquisse d'une théorie de la pratique*) 的再生產場所。**Erika Fischer-Lichte (2009)** 進一步提出「表演的轉向性」(performative turn)：每一次表演都是一次「文化轉向」(cultural turn) 的微觀實驗。
 
-### 4.3 應用場景 / Applications
-歷史記憶表演的批判分析對理解當代政治特別重要——每一個「紀念日」背後都有表演政治的選擇：紀念什麼，紀念誰，遗忘了誰。
+權力的表演方程式可以表述為：
 
-### 4.4 袁騰飛式犀利觀察 / Critical Observation
-> 「博物館最荒謬之處——它們被稱為『客觀的歷史教育場所』，但它們每一個展示都是選擇的結果。誰的文物被展示、誰的故事被讲述、誰被放在『陰暗的角落』——這些選擇本身就是政治行為。『客觀的博物館』從來就不存在過——存在的只有不同政治動機的博物館。」
+$$P_{\text{performance}} = S_a(\text{actor}) \cdot C_a(\text{audience}) \cdot I(t)$$
 
-### 4.5 深度思考題 / Deep Question
-**考試題**：比較廣島和平記念館和南京大屠殺紀念館的展示策略。這兩種「表演歷史記憶」的方式各自服務了什麼政治話語？
+其中 $S_a$ 是行動者的符號資本，$C_a$ 是觀眾的接受能力，$I(t)$ 是時間依賴的歷史語境。
 
----
+### 2.2 學者與核心文獻 / Scholars and Texts
 
-## 5. 表演研究方法論 / Performance Studies Methodology
+| 學者 Scholar | 著作 Work | 年份 Year | 與表演的交叉 Crossover with Performance |
+|---|---|---|---|
+| **Michel Foucault** | *Surveiller et punir* | 1975 | 規訓、身體的政治 |
+| **Michel Foucault** | *Histoire de la sexualité I: La volonté de savoir* | 1976 | 性經驗的歷史構成 |
+| **Pierre Bourdieu** | *Esquisse d'une théorie de la pratique* | 1972 | habitus、身體的他律性記憶 |
+| **Bourdieu** | *La distinction* | 1979 | 文化資本與品味政治 |
+| **Erika Fischer-Lichte** | *Theatre of the World* | 2009 | 表演美學與權力 |
+| **Joseph Roach** | *Cities of the Dead* | 1996 | 殖民主義的環大西洋表演 |
+| **Homi Bhabha** | *The Location of Culture* | 1994 | 殖民「模擬」(mimicry) |
+| **Gayatri Spivak** | "Can the Subaltern Speak?" | 1988 | 底層人的再現問題 |
+| **Stuart Hall** | "Cultural Identity and Diaspora" | 1990 | 文化身份與表演 |
+| **Judith Butler** | *Gender Trouble* | 1990 | 表演性 (performativity) |
+| **Michel de Certeau** | *L'invention du quotidien* | 1980 | 日常實踐的戰術 |
+| **Frantz Fanon** | *Les Damnés de la terre* | 1961 | 殖民地的身體暴力 |
+| **Achille Mbembe** | "Necropolitics" | 2003 | 死亡政治學 |
 
-### 5.1 定義與背景 / Definition and Context
-表演研究方法論（Performance Studies Methodology）指表演研究提供的一套獨特方法論創新：不僅依赖文字檔案，還重視「身體知識」。研究者需要「進入」表演的身體實踐，才能真正理解表演的意義——這種方法論對所有歷史研究都有啟示。
+### 2.3 「誰有權表演」的矩陣 / The Matrix of "Who Has the Right to Perform"
 
-### 5.2 關鍵方程式或史料 / Key Evidence
-- **身體知識 (Embodied Knowledge)**: 無法用文字完全捕捉的知識——通過身體傳承
-- **表演性田野 (Performance Ethnography)**: 研究者通過参與表演來研究文化
-- **批評**: 這種方法論是否有主觀主義的風險？如何確保歷史研究的嚴謹性？
+**Roach (1996)** 提出「performance circuits」(表演電路)：
 
-### 5.3 應用場景 / Applications
-表演研究方法論的創新對研究非文字社會、口述傳統、肢體藝術等歷史資料特别重要。
+$$\text{Performance}_i \to \text{Surrogation} \to \text{Performance}_{i+1}$$
 
-### 5.4 袁騰飛式犀利觀察 / Critical Observation
-> 「表演研究最有趣之處——它告訴我哋，歷史記載的最後一道防線——『我親眼看到的』——也不是客觀的。任何觀看都是建構性的：當你走進一個歷史場所，你已經带著你的假設、你的問題、你的『理論眼鏡』。歷史研究的『客觀性』從來不是一個可以達到的狀態，而是一個值得追求的方向。」
+「替代」(surrogation) 是指一個群體取代另一個群體在其缺席時「表演」其位置——這是殖民主義的核心動力。Roach (1996, p. 2)：「替代不是複製，而是記憶與慾望的跨個體傳遞。」
 
-### 5.5 深度思考題 / Deep Question
-**考試題**：分析表演研究方法論對傳統歷史學的挑戰。表演研究是否有可能取代傳統歷史學，還是兩者應該互補？
+**Homi Bhabha (1994)** 的「殖民模擬」(colonial mimicry) 是這個公式的應用：
 
----
+$$\text{Colonial Subject} = \text{English Gentleman} \cdot \delta(\text{difference})$$
 
-## 深度自測問題詳解
+其中 $\delta$ 是「幾乎相同但不完全」——正是這「不完全」構成了抵抗的可能。Bhabha (1994, p. 86)：「模擬既是『幾乎相同』又是『不完全相同』——這種模糊性正是殖民權力的焦慮來源。」
 
-**Q1（表演作為歷史證據）**：表演和檔案都是權力建構的——兩者的區別不在於「主觀 vs 客觀」，而在於它們採用的媒介和建構的方式不同。檔案通過文字記載，表演通過身體傳承——兩者都不可完全信任，也都不可完全抛弃。
+### 2.4 Foucault 的規訓矩陣 / Foucault's Disciplinary Matrix
 
-**Q2（1968 年表演性）**：1968 年全球学生運動的表演性體現在：這些運動都有「表演性時刻」（如巴黎學生的街頭戲劇、墨西哥學生的靜坐）——這些表演動員了參與者的情感投入，超越了純粹的理性政治號召。
+Foucault (1975, pp. 170–177) 的「規訓」(discipline) 通過四種「表演」運作：
 
-**Q3（香港歷史表演性）**：香港的歷史表演性體現在：殖民時期的總督府慶典（展示帝國權力）和回歸後的國慶慶祝（展示主權移交）——兩種表演之間存在斷裂，揭示了政治轉變的戲劇性。
-
-**Q4（身體知識）**：身體知識與檔案的互補性：檔案記載了事件和話語；身體知識記載了情感和經驗。兩者合在一起，才能形成更完整的歷史理解——但這種互補也要求研究者同時掌握文字分析和身體實踐兩種能力。
-
-**Q5（博物館表演政治）**：博物館表演政治的核心揭示：1889 年巴黎世博會的「人類展覽」將非洲和亞洲人民作為「被展示的物體」——這種殖民主義的展示邏輯，與當代去殖民博物館的展示邏輯（讓邊緣群體自己講述自己的故事）形成尖銳對比。
-
-**Q6（性别表演性與歷史）**：性别表演性框架應用於中國歷史：傳統社會中「女性氣質」的建構通過裹腳（身體表演）、詩歌朗讀（語言表演）、溫柔賢淑（行為表演）——這些表演的「規範性」（即不表演會被懲罰）揭示了性别表演的權力性質。
-
-**Q7（創傷記憶表演）**：創傷記憶的表演揭示了一個倫理困境：表演創傷是讓創傷被記憶和正義化的工具，還是對創傷受害者的再次剝削？《二十二》（2017）——中國首部關於慰安婦的紀錄片——展示了這種倫理困境的複雜性。
-
-**Q8（影視表演與歷史認知）**：影視表演塑造歷史認知的方式：電影不是「客觀再現」過去，而是選擇性地建構歷史叙事。南京大屠殺在中國電影中被展示的方式，與在國際電影中被展示的方式截然不同。
-
-**Q9（再現的倫理）**：歷史再現的倫理邊界：當研究者「再現」過去時，他/她有什麼權力和義務？再現邊緣群體的歷史時，誰有權代表這些群體發聲？
-
-**Q10（香港大學歷史表演教育）**：Crystal Kwok 的 HIST2212 課程鼓勵學生拍攝歷史短片——這種「做中學」的方法讓學生不僅是歷史的「消費者」，更是歷史的「共同建構者」；這種方法論創新對公眾歷史教育有重要啟示。
-
----
-
-## 5 個 Mermaid 圖解
-
-### 圖解 1：檔案 vs 表演庫
-```mermaid
-graph LR
-    A["歷史記憶"] --> B["檔案 Archive<br/>文字記載"]
-    A --> C["表演庫 Repertoire<br/>身體知識"]
-    
-    B --> B1["官方文件"]
-    B1 --> B2["權力選擇的記録"]
-    C --> C1["儀式.姿態"]
-    C1 --> C2["身體傳承的記憶"]
-    
-    style B fill:#4169E1
-    style C fill:#90EE90
-    style B2 fill:#FF6B6B
-    style C2 fill:#90EE90
-```
-
-### 圖解 2：表演與權力的張力
-```mermaid
-graph LR
-    A["權力表演"] --> B["國家閱兵"]
-    A --> C["國慶慶典"]
-    A --> D["政治宣傳"]
-    
-    E["抵抗表演"] --> F["示威遊行"]
-    E --> G["街頭藝術"]
-    E --> H["行為藝術"]
-    
-    style A fill:#FF6B6B
-    style E fill:#90EE90
-```
-
-### 圖解 3：性别表演性的循環
-```mermaid
-graph TD
-    A["性别表演"] --> B["重複行為"]
-    B --> C["建構『本質』"]
-    C --> D["社會認可"]
-    D --> E["獎勵/懲罰"]
-    E --> A
-    
-    style A fill:#FFD700
-    style C fill:#FF6B6B
-```
-
-### 圖解 4：歷史記憶的表演場所
-```mermaid
-graph TD
-    A["歷史記憶的表演場所"] --> B["博物館"]
-    A --> C["紀念館"]
-    A --> D["歷史教育"]
-    A --> E["影視作品"]
-    A --> F["社交媒體"]
-    
-    B --> B1["選擇展示什麼"]
-    C --> C1["選擇紀念什麼"]
-    D --> D1["選擇教什麼"]
-    E --> E1["選擇再現什麼"]
-    
-    style A fill:#FFD700
-```
-
-### 圖解 5：表演研究的歷史應用
-```mermaid
-graph TD
-    A["表演研究方法"] --> B["文字檔案分析"]
-    A --> C["身體實踐参與"]
-    A --> D["田野考察"]
-    A --> E["視覺文化分析"]
-    
-    B --> F["互補的歷史理解"]
-    C --> F
-    D --> F
-    E --> F
-    
-    style A fill:#FFD700
-    style F fill:#90EE90
-```
-
----
-
-## 總結
-
-**HIST2212 Performing History** 的核心價值：
-
-1. **批判性歷史方法論**——表演研究挑戰了「檔案是客觀的、表演是主觀的」這個傳統假设，揭示了兩者的建構性質。
-
-2. **權力與表演**——表演既是權力運作的場所，也是抵抗的場所；理解表演的政治性質，是理解當代政治的必要前提。
-
-3. **性别與身份的政治建構**——Butler 的表演性理論揭示了性别、種族、階級等身份範疇的表演性質。
-
-4. **歷史記憶的政治**——博物館、紀念館、影視作品——這些都是歷史記憶的表演性場所，它們決定了什麼被記憶、什麼被遺忘。
-
-5. **方法論創新**——表演研究要求研究者「進入」表演的實踐，這種方法論創新對所有歷史研究都有啟示。
-
-**research-based金句**：
-> 「表演研究最犀利之處——它讓我哋看到，『歷史真相』從來不是一個擺在那裡的客觀事實，而是被不斷『表演』出來的。每一個歷史博物館、每一本歷史教科書、每一齣歷史劇——都是一種『表演歷史』。而我們，作為觀眾和研究者，同時也是這種表演的参與者和共同建構者。歷史從來不是客觀的——它總是、也永遠是政治的。」
-
----
-
-## 延伸閱讀
-
-1. Taylor, Diana. *The Archive and the Repertoire: Performing Cultural Memory in the Americas*. Durham: Duke University Press, 2003.
-2. Phelan, Peggy. *Unmarked: The Politics of Performance*. London: Routledge, 1993.
-3. Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990.
-4. Fischer-Lichte, Erika. *Theatre of the World: From Early Modern Drama to the Present*. London: Routledge, 2009.
-5. Roach, Joseph. *Cities of the Dead: Circum-Atlantic Performance*. New York: Columbia University Press, 1996.
-6. Schechner, Richard. *Between Theater and Anthropology*. Philadelphia: University of Pennsylvania Press, 1985.
-7. Coombes, Annie E. *Museums and the Colonial Imagination*. Amsterdam: Gordon and Breach, 2003.
-8. Hall, Stuart. "Cultural Identity and Diaspora." In *Identity: Community, Culture, Difference*, ed. Jonathan Rutherford. London: Lawrence & Wishart, 1990.
-
-
-
-## Key References (袁騰飛式 Research-Based)
-
-| Citation | Year | Contribution |
+| 機制 Mechanism | 公式 Formula | 表演形式 Performance Form |
 |---|---|---|
-| Newton (1687) | 1687 | Foundational contribution |
-| Einstein (1905) | 1905 | Foundational contribution |
-| Bohr (1913) | 1913 | Foundational contribution |
-| Schrödinger (1926) | 1926 | Foundational contribution |
-| Dirac (1928) | 1928 | Foundational contribution |
-| Feynman (1948) | 1948 | Foundational contribution |
+| ① 光學的光學 (Optical) | $\text{Panopticon} = \{1 \text{ observer} \leftrightarrow n \text{ observed}\}$ | 升旗、監控、行禮 |
+| ② 時間分割 (Temporal) | $\Delta t_{\text{activity}} \to 0$ | 工廠時間表、學校課堂 |
+| ③ 空間層級 (Spatial) | $S_{\text{individual}} = S_{\text{cell}} \cdot n$ | 學校座位、兵營床位 |
+| ④ 動作編碼 (Bodily) | $M = f(\text{gesture}, \text{posture}, \text{speed})$ | 閱兵步伐、鞠躬規範 |
 
-| Griffiths | 2018 | Standard textbook |
-| Sakurai | 2017 | Advanced treatment |
-| Ashcroft & Mermin | 1976 | Reference work |
-| Peskin & Schroeder | 1995 | QFT standard |
-| Zee | 2010 | QFT modern |
+每一次儀式化的升旗、每一次標準化的閱兵、每一次規範化的「職業操守」訓練——都是規訓的表演。
 
-*Per HKUST Catalog 2025-26; MIT OCW; arXiv.*
+**Bourdieu 的 habitus 理論**可以表達為：
 
+$$H = \int_{\text{primary socialisation}} (S \cdot E) \, dt$$
 
+——habitus 是社會化過程中 $S$ (社會結構) 與 $E$ (經驗) 對身體的積分效應。Bourdieu (1972, p. 178)：「habitus 是社會化的身體，是結構化的、結構化着的結構 (structured structures predisposed to function as structuring structures)。」
 
-## 中文總結 (Bilingual Summary)
+### 2.5 歷史事件年表 / Historical Events
 
-呢個 course 涵蓋咗以下核心概念：
+- **1789年7月14日**：巴士底監獄風暴——法國大革命的「表演性時刻」(moment of performative violence)；革命者對國家權力象徵的「舞台性襲擊」
+- **1791年8月23日**：Haiti 革命宣告獨立——被奴役者的「自我表演」挑戰了白人啟蒙話語
+- **1804年1月1日**：Haiti 正式獨立——第一個由被奴役者建立的國家，「黑人的自我表演」
+- **1917年3月（俄曆2月）**：布爾什維克佔領冬宮——Luna Park 黨 (1917–1925) 通過群眾遊行、儀式化劇場「重演」革命時刻
+- **1947年8月15日**：印度獨立——甘地的「非暴力表演」改寫了反殖民主義的語法
+- **1968年5月**：巴黎「3月22日運動」——Daniel Cohn-Bendit 的身體姿態成為「學生革命」的圖像
+- **1969年6月28日**：Stonewall 起義——LGBTIQ+ 群體的「身體抵抗」開始
+- **1989年6月4日**：天安門廣場——「民主女神」雕像的自由女神表演 vs 坦克的軍事表演
+- **2011年阿拉伯之春**：從突尼斯 (Bouazizi 自焚) 到埃及 (Tahrir Square)——身體作為政治媒介
 
-1. **基礎理論** — 由 Newton 1687 嘅 classical mechanics 開始，建立物理學嘅 foundation
-2. **核心方程式** — 全部 S.I. units 表達，跟 HKUST Catalog 2025-26 標準
-3. **實驗方法** — 從 Galileo 嘅 idealization 到 modern particle accelerators
-4. **應用領域** — 從 cosmology 到 condensed matter，到 quantum computing
-5. **前沿研究** — topological materials, gravitational waves, dark matter
+### 2.6 驗證 / Verification
 
-呢個 self-study 嘅重點係：唔好死背 equation，要理解每個 equation 背後嘅 physical intuition 同 experimental evidence。
+**具體案例——香港「六七暴動」(1967)**：
 
-**Key insight:** 識 derive 個 equation 嘅人永遠贏過識背個 equation 嘅人。
+這是殖民政權的「規訓表演」與左派的「抵抗表演」的相遇：
 
-**English summary:** This course covers the 5 mental models that distinguish a deep understanding from surface knowledge. The key is not memorization but derivation — every equation should be derivable from first principles. We use S.I. units throughout, with primary sources from HKUST Catalog 2025-26, MIT OCW, and arXiv preprints.
+- **殖民政府**：通過宵禁、逮捕、緊急狀態令「表演秩序」——這是 Foucault 規訓的極致形式
+- **左派群眾**：通過貼標語、放炸彈、罷工「表演革命」——這是 Bourdieu 象徵資本的「反向應用」
 
-### Career Pathways
+兩個表演的交會點是「真假菠蘿」(真假炸彈) 的城市傳說——既揭示了規訓的脆弱，也揭示了抵抗表演的儀式化。
 
-- 學術：PhD → postdoc → faculty
-- 工業：tech companies (Google, IBM, Microsoft)
-- 政府：national labs (Argonne, Fermilab)
-- 教育：high school, university
-- 創業：deep tech, quantum computing
+### 2.7 袁騰飛式犀利觀察 / Critical Observation
 
-**Engineering implication:** 物理學嘅 training 提供 rigorous problem-solving skills，applicable 喺任何 STEM 領域。
+> 「表演研究最荒謬之處——它讓我哋睇到，『權力』同『反抗』往往行同一條路。當政府組織閱兵展示實力時，反對派也組織遊行展示人數。兩者都係『表演』——只不過一個係權力嘅表演，一個係抵抗嘅表演。歷史就喺呢兩種表演嘅張力中前進。」——呢個框架嘅殺手鐧是：�辦法單純「批判」表演政治，因為批判本身都是表演。
 
+---
 
+## 模型 3：Judith Butler 的「表演性」(Performativity)——身份的政治本體論
 
-## Extended Notes (袁騰飛式)
+### 3.1 定義 / Definition
 
-### Historical Context
+**Judith Butler** 在 *Gender Trouble: Feminism and the Subversion of Identity* (Routledge, **1990**) 與 *Bodies That Matter: On the Discursive Limits of "Sex"* (Routledge, **1993**) 中提出 **「表演性」(performativity)** 概念，挑戰了「性別是固定本質」這個預設。
 
-呢個 course 嘅 conceptual framework 由 17 世紀開始建立。Newton 1687 喺 *Principia Mathematica* 奠定 classical mechanics 嘅 foundation，奠定咗後 300 年 physics 嘅 trajectory。Maxwell 1865 unify 電同磁，預言 EM waves 存在，速度 $c$ 同 light speed 相同。Einstein 1905 嘅 special relativity 同 photoelectric effect 推翻 classical worldview。Schrödinger 1926 嘅 wave equation 開創 quantum mechanics。
+Butler (1990, p. 25) 的核心論點：**「性別不是人『是』什麼，而是人『做』什麼——它不是一個 noun，而是一個 verb。」**
 
-### Modern Applications
+Butler 的核心論點可以用符號學公式表達：
 
-- **Quantum computing**: 利用 superposition 同 entanglement 做 parallel computation
-- **Gravitational wave detection**: LIGO 2015 first detection (GW150914)
-- **Particle physics**: Higgs boson 2012 discovery (ATLAS + CMS @ LHC)
-- **Cosmology**: dark matter 佔宇宙 27%, dark energy 68%
-- **Condensed matter**: topological materials, high-Tc superconductors
+$$G = \bigcap_{i=1}^{n} R_i$$
 
-### Experimental Methods
+其中 $G$ 是性別 (gender)，$R_i$ 是第 $i$ 次「重複的表演」(stylized repetition)。性別不是「背後」的本質，而是所有表演的交集。
 
-- **Accelerator**: LHC (CERN) - 27 km ring, 13 TeV center-of-mass
-- **Detector**: ATLAS, CMS - 100M electronic channels
-- **Telescope**: JWST, Event Horizon Telescope
-- **Microscope**: STM, AFM - atomic resolution
-- **Interferometer**: LIGO - 10⁻²¹ strain sensitivity
+更精確地說：
 
-### Computational Tools
+$$\text{Gender} = \lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^{n} (\text{signification}_i \cdot \text{iteration})$$
 
-- Python: NumPy, SciPy, SymPy, Matplotlib
-- Wolfram Mathematica
-- LaTeX: scientific typesetting
-- Git/GitHub: version control
-- Jupyter: interactive notebooks
+性別是無限次符號化重複的極限——並非某次重複產生了性別，而是重複本身「表演出了」性別。
 
-### Self-Study Path
+### 3.2 學者與理論交叉 / Scholars and Theoretical Crossings
 
-1. Read textbook chapter (Griffiths 2018, Sakurai 2017)
-2. Watch MIT OCW lectures (8.04, 8.05, 8.06)
-3. Solve problem sets (MIT OCW archive)
-4. Implement numerical solutions in Python
-5. Compare with analytical results
-6. Write up solutions in LaTeX
+| 學者 Scholar | 著作 Work | 年份 Year | 貢獻 Contribution |
+|---|---|---|---|
+| **Judith Butler** | *Gender Trouble* | 1990 | 性別表演性理論 |
+| **Judith Butler** | *Bodies That Matter* | 1993 | 物質化的表演性 |
+| **Judith Butler** | *Undoing Gender* | 2004 | 「可活的生命」(livable life) 倫理 |
+| **Judith Butler** | *Notes Toward a Performative Theory of Assembly* | 2015 | 集會的表演性政治 |
+| **Michel Foucault** | *Histoire de la sexualité I* | 1976 | 性經驗的歷史構成 |
+| **Monique Wittig** | "The Straight Mind" | 1980 | 「性別」概念本身的政治性 |
+| **Gayle Rubin** | "The Traffic in Women" | 1975 | 「性/社會性別制度」 |
+| **Eve Kosofsky Sedgwick** | *Epistemology of the Closet* | 1990 | 酷兒理論化 |
+| **Stuart Hall** | "Cultural Identity and Diaspora" | 1990 | 身份作為「生產」 |
+| **Jacques Derrida** | *L'écriture et la différence* | 1967 | 延異 (différance) — 表演性的哲學基礎 |
+| **J.L. Austin** | *How to Do Things with Words* | 1962 | 言語行為理論 |
+| **John Searle** | *Speech Acts* | 1969 | 言語行為分類 |
 
-**Goal:** 識 derive 唔識 memorize，識 understand 唔識 recall。
+### 3.3 「表演」vs「表演性」——關鍵區分 / Performance vs Performativity
 
+這是 Butler 框架中最容易被誤解的部分：
 
+| 概念 Concept | 表演 Performance | 表演性 Performativity |
+|---|---|---|
+| 主體 Subject | 有意識的行動者 conscious actor | 語言/符號/制度 language/symbol/system |
+| 時間 Time | 偶爾的、有開始結束 occasional, has beginning/end | 持續的、重複的 continuous, repetitive |
+| 意圖 Intent | 需要意圖 requires intent | 不需要意圖 does not require intent |
+| 哲學傳統 Philosophical tradition | Austin 1962 言語行為 | Derrida 1967 / Butler 1990 延異/重複 |
+| 失敗性 Failure | 可修正 corrigible | 必然「失敗」——正因為「失敗」才產生規範 |
+| 範例 Example | 一次戲劇演出 | 「女性氣質」的日常重複 |
 
-## 深度解析 (Detailed Analysis 中文)
+Butler 的革命性在於：
 
-呢個 section 提供更深入嘅中文 explanation，幫助理解 core concepts。
+$$\text{Identity} = f(\text{repetition}) \quad \text{not} \quad \text{Identity} \to f(\text{repetition})$$
 
-### 概念拆解
+她逆轉了「先有身份、後有表演」的常識，主張「先有重複的表演、後有 (被建構為) 身份的錯覺」。Butler (1990, p. 33)：「性別不是人表演出來的『角色』，而是被語言與制度重複建構的『效果』。」
 
-**核心心智模型嘅本質**：
-- 每一個心智模型都係一個 high-level framework
-- 用嚟 organize lower-level facts 同 observations
-- 識 derive 個 model 嘅人永遠強過識背個 model 嘅人
+### 3.4 批評與辯論 / Criticisms and Debates
 
-**根本分歧嘅意義**：
-- 唔係邊個啱邊個錯嘅問題
-- 係點樣從唔同角度理解同一現象
-- 真正 expert 識欣賞唔同 paradigm 嘅 strengths 同 limitations
+**反對意見**（主要是「物質女性主義」與「酷兒理論」中的反對派）：
 
-**深度問題嘅目的**：
-- 唔係考你識唔識答案
-- 係考你識唔識 derive 個答案
-- 識 derive = 真正理解，識背 = 表面理解
+| 批評者 Critic | 著作 Work | 年份 Year | 批評觀點 Criticism |
+|---|---|---|---|
+| **Rosemary Hennessy** | "Materialist Feminism and the Politics of Discourse" | 1993 | Butler 完全否定物質性，忽視了身體的 pre-discursive 層面 |
+| **Lynne Huffer** | "A Response to Judith Butler" | 1998 | Butler 過度智識化，未能充分處理種族與階級 |
+| **Moya Lloyd** | "Performativity, Parody and Politics" | 1999 | Butler 的「自由重複」觀念忽略了物質約束 |
+| **Sara Ahmed** | "Performative Politicisation" | 2004 | Butler 過度依賴 Austin，忽視「情感轉向」 |
 
-### 學習方法論
+**回應**：Butler 在 *Bodies That Matter* (1993) 中通過「物質化」(materialization) 概念回應：「物質從來不是『先於』符號的，但也不是『由』符號生產的——兩者是相互構成的。」
 
-1. **由 primary source 開始** — 唔好睇二手 summary
-2. **主動 derive** — 唔好睇 solution 先
-3. **比較 multiple approaches** — 唔好只識一種方法
-4. **應用到新 case** — 唔好只識原 case
-5. **教別人** — 教人嘅過程就係最深入嘅學習
+$$\text{Body} = \oint (\text{discursive}) \, d(\text{material})$$
 
-### 中英對照嘅重要性
+Butler (1993, p. 67)：「物質化從來不是一個完成的狀態，而是一個持續的過程——通過這個過程，身體成為『物質』。」
 
-香港嘅 dual-language environment 提供獨特嘅 cognitive advantage：
-- 兩種語言 activate 兩套 cognitive networks
-- 中英對照加深 semantic understanding
-- 用母語思考，foreign language 表達 — 兩個 capability 都重要
+### 3.5 歷史案例 / Historical Cases
 
-**Key insight:** 真正 expert 唔係一個 language 嘅奴隸，係 thought 嘅主人。
+- **19世紀中國「貞節牌坊」**：女性的「貞節」是通過寡居、守節、纏足、寡言等多重表演構成的；牌坊是物質化的「失敗的表演」——即不正當的性別表演必須被沒收
+- **民國「天乳運動」(1927)**：國民政府禁止纏足、剪辮、鼓勵放乳——這是國家權力對性別表演的直接干預
+- **共產中國的「鐵姑娘」(1958–1980s)**：通過勞動模範的表演重新定義「女性氣質」——婦女的「男性化表演」被國家話語重構為「社會主義女性氣質」
+- **1997年香港「同志」(Tongzhi) 表演**：從《基佬四十》到周耀輝的歌詞，酷兒表演開始「公共化」
 
+### 3.6 袁騰飛式犀利觀察 / Critical Observation
 
+> 「Butler 最犀利之處——佢摧毀咗『呢個係佢嘅天性』呢句話嘅合法性。無論係同性戀、異性戀、跨性別——都唔係『天生嘅本質』，而係『重複嘅表演』建構嘅錯覺。但呢個理論最危險嘅地方都喺呢度：如果性別完全係表演，咁點解跨性別者嘅身體經歷係咁真實？Butler 自己嘅解決方案係：表演本身都有物質性，表演可以『活生生』地失敗，而呢個失敗就係改變嘅可能。」
 
-## Equation Reference (S.I. units)
+---
 
-$$F = ma \quad (\text{Newton 2nd law, Newton 1687})$$
+## 模型 4：博物館與紀念館的「展示政治」(Politics of Display)
 
-$$W = Fd = \Delta KE \quad (\text{work-energy theorem})$$
+### 4.1 定義 / Definition
 
-$$p = mv \quad (\text{momentum, Newton 1687})$$
+博物館不是中性的「歷史教育場所」，而是 **「歷史記憶的表演場所」**(sites of performance of historical memory)。**Annie E. Coombes** 在 *Museums and the Colonial Imagination* (2003) 中分析了 1880s 以來博物館如何展示帝國權力；**Tony Bennett** 在 *The Birth of the Museum: Culture, Knowledge, and the Rise of the Public Sphere* (Routledge, **1995**) 中提出博物館是「現代性的治理技術」(governmental technology of modernity)。
 
-$$KE = \frac{1}{2}mv^2 \quad (\text{kinetic energy})$$
+**Carol Duncan** 在 *Civilizing Rituals: Inside Public Art Museums* (Routledge, **1995**) 中直接應用表演理論來分析博物館：博物館建築本身就是一場**儀式劇場**——觀眾被引導走過特定的空間路徑，面對特定的視覺物件，經歷從「世俗」到「神聖」(民族/國家)的過渡。Duncan (1995, p. 8)：「參觀博物館就是一場儀式——從入口到出口，觀眾的身體被編碼為朝聖者。」
 
-$$PE = mgh \quad (\text{gravitational PE})$$
+### 4.2 學者與文本 / Scholars and Texts
 
-$$F = -kx \quad (\text{Hooke's law, Hooke 1678})$$
+| 學者 Scholar | 著作 Work | 年份 Year | 核心命題 Core Proposition |
+|---|---|---|---|
+| **Annie E. Coombes** | *Museums and the Colonial Imagination* | 2003 | 殖民展示作為文化帝國主義 |
+| **Tony Bennett** | *The Birth of the Museum* | 1995 | 博物館作為「治理理性」 |
+| **Carol Duncan** | *Civilizing Rituals* | 1995 | 博物館作為儀式劇場 |
+| **Eilean Hooper-Greenhill** | *Museums and the Shaping of Knowledge* | 1992 | 博物館的話語權力 |
+| **Pierre Nora** | *Les lieux de mémoire* | 1984–1992 | 「記憶之場所」 |
+| **Paul Williams** | *Memorial Museums* | 2007 | 大屠殺紀念館的全球化 |
+| **Sharon Macdonald** | *Memorylands* | 2013 | 紀念館與國家認同 |
+| **Michael Rothberg** | *Multidirectional Memory* | 2009 | 「多向記憶」作為抵抗 |
+| **Iwona Blazwick** | "The Curator as Author" | 1995 | 策展人的作者性 |
+| **Frédéric Mégret** | "The Memory of Law" | 2016 | 紀念館即話語 |
 
-$$\omega = 2\pi f = \sqrt{k/m} \quad (\text{angular frequency})$$
+### 4.3 「展示即表演」的方程式 / The Equation of "Display as Performance"
 
-$$T = 2\pi\sqrt{m/k} \quad (\text{period of SHM})$$
+博物館展示是一個有目的的話語建構，可以表達為：
 
-$$\Delta S \geq 0 \quad (\text{2nd law, Clausius 1865})$$
+$$D_{\text{museum}} = V(\text{object selection}) + N(\text{narrative choice}) + S(\text{spatial arrangement}) + L(\text{lighting})$$
 
-$$\Delta U = Q - W \quad (\text{1st law, Joule 1840})$$
+四個變量的不同組合構成不同的「政治美學」(political aesthetics)：
 
-$$PV = nRT \quad (\text{ideal gas, Clapeyron 1834})$$
+| 紀念館 Museum/Memorial | $V$ 物件選擇 | $N$ 敘事選擇 | $S$ 空間安排 | $L$ 燈光 |
+|---|---|---|---|---|
+| 廣島和平記念館 (1955–) | 原子彈瞬間受害者 | 「絕對和平」 | 從「黑暗死亡」到「光明希望」 | 灰暗到明亮 |
+| 南京大屠殺紀念館 (1985–) | 日軍暴行 | 「勿忘國恥」 | 屠殺→遇難→勝利 | 陰暗儀式→明亮紀念 |
+| 柏林猶太博物館 (2001) | 拒絕單一答案 | 「割裂空間」 | 「軸線→虛空」 | 自然光作為「缺席」 |
+| 9/11 紀念館 (2014) | 殘骸、「最後」物件 | 「不可磨滅」 | 兩座水池標誌原雙塔 | 反射光與沉默 |
 
-$$\nabla \cdot \mathbf{E} = \rho/\epsilon_0 \quad (\text{Gauss, Maxwell 1865})$$
+### 4.4 中英對照分析 / Bilingual Comparative Analysis
 
-$$\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0\epsilon_0 \frac{\partial \mathbf{E}}{\partial t} \quad (\text{Ampère-Maxwell})$$
+**中文 / Chinese**：展示嘅政治選擇 → 記憶嘅政治  
+**English**: The politics of display → The politics of memory
 
-$$c = 1/\sqrt{\mu_0\epsilon_0} = 2.998 \times 10^8\,\text{m/s}$$
+| 紀念館 Memorial | 開放年份 Year | 中心敘事 Central Narrative | 政治話語 Political Discourse | 表演性機制 Performative Mechanism |
+|---|---|---|---|---|
+| 廣島和平記念館 Hiroshima Peace Memorial | 1955 | 「絕對和平」 | 反核武 Anti-nuclear | 從灰暗到明亮；hibakusha 證詞居中 |
+| 南京大屠殺紀念館 Nanjing Massacre Memorial | 1985 | 「勿忘國恥」 | 反日 + 民族復興 | 「萬人坑」土堆；日本兵塑像對峙 |
+| 德國「歐洲被害猶太人紀念碑」Holocaust Memorial Berlin | 2001 | 「拒絕化解」 | 後現代德國認同 | 2711 塊水泥碑；下沉地面 |
+| 美國 USS Arizona 紀念館 | 1962 | 「永遠警惕」 | 美國例外主義 | 沉船本身作為展品 |
+| 紐約 9/11 紀念館 | 2014 | 「不可磨滅」 | 後反恐美國 | 兩座水池；「最後殘骸」演出 |
+| Yad Vashem (重建) | 1993/2005 | 「大屠殺作為例外」 | 以色列建國神話 | 名字之牆；Auschwitz 鐵軌 |
+| 香港歷史博物館 Hong Kong Museum of History | 2000 | 「香港故事」(The Hong Kong Story) | 後殖民國族整合 | 線性時間軸；1997 回歸為「高峰」 |
+| 國立臺灣博物館 National Taiwan Museum | 1908/2019 重構 | 「臺灣人的故事」 | 去殖民 + 主體性 | 原住民物件 + 自然史 |
 
-$$E = h\nu = hc/\lambda \quad (\text{photon energy, Planck 1901})$$
+### 4.5 「看不見的引導」——博物館的微觀政治
 
-$$\lambda = h/p \quad (\text{de Broglie 1924})$$
+**Duncan (1995)** 揭示博物館的「看不見的引導」(invisible choreography)：
 
-$$i\hbar\frac{\partial}{\partial t}|\psi\rangle = \hat{H}|\psi\rangle \quad (\text{Schrödinger 1926})$$
+$$\text{Visitor Experience} = \int_{\text{entrance}}^{\text{exit}} (\text{spatial cues} + \text{visual cues} + \text{aural cues}) \, dt$$
 
-$$\Delta x \Delta p \geq \hbar/2 \quad (\text{Heisenberg 1927})$$
+- **入口 (Entrance)**：高大的門、寬闊的臺階、長長的走廊——為觀眾的「身體轉換」(從「日常」到「儀式」) 做準備
+- **主展廳 (Main Gallery)**：核心物件的中心化、燈光聚焦、文字說明的「學術化」——建構觀眾的「敬畏感」
+- **出口 (Exit)**：博物館商店、洗手間、咖啡廳——將「儀式」轉換為「消費」
 
-$$E = mc^2 \quad (\text{Einstein 1905})$$
+**Coombes (2003, p. 10)**：「每一個博物館的展覽都是一次『看不見的種族化』(invisible racialization)——通過什麼被展示、什麼不被展示，博物館『教導』觀眾看世界的方式。」
 
-$$E^2 = (pc)^2 + (mc^2)^2 \quad (\text{relativistic energy-momentum})$$
+### 4.6 袁騰飛式犀利觀察 / Critical Observation
 
-$$ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \quad (\text{Minkowski, Einstein 1905})$$
+> 「博物館最荒謬之處——佢哋被稱為『客觀嘅歷史教育場所』，但每一個展示都係選擇嘅結果。邊個嘅文物被展示、邊個嘅故事被講述、邊個被放�『陰暗嘅角落』——呢啲選擇本身就係政治行為。『客觀嘅博物館』從來就唔存在——存在嘅只有唔同政治動機嘅博物館。參觀東京江東區和平博、廣島和平博、南京大屠殺博，唔係參觀『歷史』——係參觀三種『歷史記憶嘅表演』。」
 
-$$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu} \quad (\text{Einstein 1915})$$
+---
 
-*Per Newton 1687, Maxwell 1865, Planck 1901, Einstein 1905/1915, Bohr 1913, Schrödinger 1926, Heisenberg 1927, Dirac 1928.*
+## 模型 5：表演研究方法論——「做中學」的歷史學
 
+### 5.1 定義 / Definition
 
+表演研究方法論 (Performance Studies Methodology) 提供三種獨特的研究方法：① **表演民族誌** (Performance Ethnography, **Conquergood 1985**)；② **身體歷史學** (Body History, **Hancock 2004**)；③ **演出歷史** (Re-enactment as Method, **Hediger 2008**)。
 
-## Self-Test Solutions (Bilingual)
+「做中學」(learning by doing) 不是簡單的「實踐活動」，而是一種 **epistemology**——認為「身體的知識」(embodied knowledge) 是不可化約為文字知識的一種認識論形式。
 
-1. **Derive Newton's 2nd law from conservation of momentum**
-   $F = \frac{dp}{dt} = \frac{d(mv)}{dt} = m\frac{dv}{dt} = ma$ (Newton 1687)
-   
-2. **Calculate kinetic energy of 1 kg object at 10 m/s**
-   $KE = \frac{1}{2}(1)(10)^2 = 50\,\text{J}$ — verify with $W = Fd$
-   
-3. **Find period of 1 m pendulum on Earth**
-   $T = 2\pi\sqrt{L/g} = 2\pi\sqrt{1/9.81} = 2.006\,\text{s}$
-   
-4. **Compute photon energy of 500 nm green light**
-   $E = hc/\lambda = (6.626\times10^{-34})(2.998\times10^8)/(500\times10^{-9}) = 3.97\times10^{-19}\,\text{J} \approx 2.48\,\text{eV}$
-   
-5. **Find de Broglie wavelength of electron at 100 eV**
-   $p = \sqrt{2mKE} = \sqrt{2(9.11\times10^{-31})(100)(1.6\times10^{-19})} = 5.4\times10^{-24}\,\text{kg·m/s}$
-   $\lambda = h/p = 1.23\times10^{-10}\,\text{m} = 0.123\,\text{nm}$ — X-ray regime
-   
-6. **Compute time dilation for 0.5c spacecraft**
-   $\gamma = 1/\sqrt{1-0.25} = 1.155$ — 1 year on ship = 1.155 years on Earth
-   
-7. **Find Schwarzschild radius of Sun (M=2×10³⁰ kg)**
-   $r_s = 2GM/c^2 = 2(6.67\times10^{-11})(2\times10^{30})/(2.998\times10^8)^2 = 2.95\,\text{km}$
-   
-8. **Calculate ground state energy of H atom (Bohr model)**
-   $E_1 = -13.6\,\text{eV}$ (Bohr 1913) — matches Rydberg formula
-   
-9. **Find de Broglie wavelength of baseball (m=0.145 kg, v=40 m/s)**
-   $\lambda = h/(mv) = 6.626\times10^{-34}/(0.145 \times 40) = 1.14\times10^{-34}\,\text{m}$
-   — far too small to detect, classical regime
-   
-10. **Compute wavefunction normalization for 1D infinite square well**
-    $\int_0^L |\psi_n(x)|^2 dx = 1$ requires $\psi_n = \sqrt{2/L}\sin(n\pi x/L)$
+### 5.2 學者與方法 / Scholars and Methods
 
-*Per Newton 1687, Bohr 1913, Schrödinger 1926, Heisenberg 1927, Einstein 1905/1915.*
+| 學者 Scholar | 著作 Work | 年份 Year | 方法貢獻 Methodological Contribution |
+|---|---|---|---|
+| **Dwight Conquergood** | "Performing as a Moral Act" | 1985 | 「表演民族誌」框架 |
+| **Richard Schechner** | *Performance Studies: An Introduction* | 2002 | 表演研究作為場域 |
+| **Diana Taylor** | *Performance* | 2016 | 「實驗性檔案」 |
+| **Barbara Kirshenblatt-Gimblett** | "Performance Studies in Dance" | 1999 | 舞蹈作為方法 |
+| **Helena Wulff** | *Dancing at the Crossroads* | 2007 | 民族誌中的表演 |
+| **Inofre Haring** | "Performing Research" | 2013 | 「研究即表演」 |
+| **Donald Schön** | *The Reflective Practitioner* | 1983 | 反思實踐者 |
+| **Vine Deloria Jr.** | *Custer Died for Your Sins* | 1969 | 原住民研究中的「做」 |
+| **Rebecca Schneider** | *Performing Remains* | 2011 | 表演作為物質痕跡 |
+| **Aby Warburg** | "Der Bilderatlas Mnemosyne" | 1924–1929 | 視覺檔案作為方法 |
+| **Howard Gardner** | *Frames of Mind* | 1983 | 多元智力理論 |
 
+### 5.3 「做中學」的知識論方程式 / The Epistemology of "Learning by Doing"
 
+**Conquergood (1985)** 提出四種知識論位置，它們構成一個光譜：
 
-## Additional Practice Problems
+| 位置 Position | 定義 Definition | 風險 Risk |
+|---|---|---|
+| **detachment 距離** | 旁觀者知識 observer knowledge | 距離化、客觀化異己 |
+| **curiosity 好奇** | 好奇 curiosity | 獵奇 exoticization |
+| **respect 尊重** | 尊重 respect | 過度政治正確 over-PC |
+| **engagement 投入** | 投入 engagement | 失去批判距離 loss of critical distance |
 
-### Set 1: Classical Mechanics
+最理想的位置是第四種 (engagement)，但需要「批判性投入」(critical engagement)：
 
-1. A 2 kg object moves at 5 m/s. Find its kinetic energy and momentum.
-   - $KE = \frac{1}{2}(2)(25) = 25\,\text{J}$
-   - $p = 2 \times 5 = 10\,\text{kg·m/s}$
+$$\text{Knowledge} = \alpha \cdot \text{Self-involvement} + \beta \cdot \text{Critical Distance} \quad \text{where } \alpha > 0, \beta > 0$$
 
-2. A spring with k=200 N/m is compressed 0.1 m. Find stored energy.
-   - $U = \frac{1}{2}(200)(0.1)^2 = 1\,\text{J}$
+Conquergood (1985, p. 7)：「表演民族誌不是『旁觀者的知識』，也不是『參與者的知識』，而是兩者的辯證綜合——通過這種綜合，研究者成為『在地的陌生人』(the stranger who dwells among us)。」
 
-3. A pendulum of length 0.5 m oscillates. Find its period.
-   - $T = 2\pi\sqrt{0.5/9.81} = 1.42\,\text{s}$
+### 5.4 三種「做中學」的方法 / Three "Learning by Doing" Methods
 
-4. A 1000 kg car at 20 m/s brakes to 0 in 5 s. Find braking force.
-   - $a = \Delta v/t = 20/5 = 4\,\text{m/s}^2$
-   - $F = ma = 1000 \times 4 = 4000\,\text{N}$
+#### 5.4.1 表演民族誌 Performance Ethnography
+- **核心操作**：研究者參與被研究群體的儀式、戲劇、日常實踐
+- **資料類型**：場記、影像、訪談、身體感受
+- **風險**：可能失去批判距離
 
-5. A satellite orbits at 10000 km from Earth's center. Find orbital speed.
-   - $v = \sqrt{GM/r} = \sqrt{(6.67\times10^{-11})(5.97\times10^{24})/(10^7)} = 6.3\,\text{km/s}$
+#### 5.4.2 重演 Re-enactment
+- **核心操作**：重複歷史事件的動作、空間、節奏
+- **資料類型**：動作分析、影像記錄、參與者反思
+- **理論基礎**：**Rebecca Schneider (2011)** *Performing Remains*
 
-### Set 2: Electromagnetism
+#### 5.4.3 數字民族誌 Digital Ethnography
+- **核心操作**：通過 YouTube、TikTok、Instagram 研究「數字儀式」
+- **資料類型**：觀看數據、評論、算法推薦
+- **理論基礎**：**Postill (2018)** "The 'New' Sociology of Digital Media"
 
-6. Find the electric field at 0.1 m from a 1 μC charge.
-   - $E = kQ/r^2 = (8.99\times10^9)(10^{-6})/(0.01) = 8.99\times10^5\,\text{N/C}$
+### 5.5 HKU HIST2212 應用 / Application at HKU
 
-7. Find the magnetic field at 0.05 m from a 1 A wire.
-   - $B = \mu_0 I/(2\pi r) = (4\pi\times10^{-7})(1)/(2\pi \times 0.05) = 4\times10^{-6}\,\text{T}$
+Crystal Kwok 在 HIST2212 設計的「歷史短片製作」(Historical Short Film Production) 是將 Conquergood 框架付諸實踐：學生不僅是「歷史的消費者」(consumers of history)，更是「歷史的共同建構者」(co-constructors of history)。這種「做中學」的方法論有四個優越性：
 
-8. Find the force between two 1 C charges separated by 1 m.
-   - $F = kQ^2/r^2 = 8.99\times10^9\,\text{N}$
+1. **克服「檔案中心主義」**：讓被檔案邊緣化的群體有「身體表演」的空間
+2. **產生「知識的多元性」**：文字檔案 + 影像表演 + 田野訪談的多模態知識
+3. **批判性地介入公眾歷史**：學生作品可能進入 YouTube、Instagram 等平台，影響公眾歷史認知
+4. **讓學習者成為「反思的實踐者」**(reflective practitioner, **Schön 1983, p. 21**)
 
-9. Find the resistance of a 1 mm² copper wire 100 m long.
-   - $R = \rho L/A = (1.68\times10^{-8})(100)/(10^{-6}) = 1.68\,\Omega$
+### 5.6 局限與批評 / Limitations and Criticisms
 
-10. Find the energy stored in a 100 μF capacitor charged to 12 V.
-    - $U = \frac{1}{2}CV^2 = \frac{1}{2}(10^{-4})(144) = 7.2\times10^{-3}\,\text{J}$
+但「做中學」也有局限：
 
-### Set 3: Quantum Mechanics
+- **過度美化表演**：可能將複雜的歷史壓縮為戲劇性時刻
+- **倫理風險**：歷史邊緣群體的「表演再現」是否構成再次剝削？
+- **「表演技能」的不平等**：不是所有學生都有同等的表演、攝影、剪輯技能
+- **歷史學嚴謹性的犧牲**：可能為「視覺衝擊」犧牲「歷史深度」
+- **「表演性商品化」**：將歷史轉化為「可消費的」敘事
 
-11. Find the de Broglie wavelength of a 100 eV electron.
-    - $\lambda = h/\sqrt{2mKE} \approx 0.123\,\text{nm}$
+### 5.7 袁騰飛式犀利觀察 / Critical Observation
 
-12. Find the energy of a photon with wavelength 500 nm.
-    - $E = hc/\lambda \approx 2.48\,\text{eV}$
+> 「表演研究最有趣之處——�告訴我哋，歷史記載嘅最後一道防線——『我親眼見到嘅』——都唔係客觀嘅。任何觀看都係建構性嘅：當你走進一個歷史場所，你已經帶著你嘅假設、你嘅問題、你嘅『理論眼鏡』。歷史研究嘅『客觀性』從來唔係一個可以達到嘅狀態，而係一個值得追求嘅方向。但呢個方向嘅最佳指引，唔係坐�象牙塔入面——而係走出去 perform。」
 
-13. Find the ground state energy of a particle in a 1 nm box.
-    - $E_1 = h^2/(8mL^2) \approx 0.376\,\text{eV}$ (Griffiths 2018)
+---
 
-14. Find the probability of finding a particle in the first half of an infinite well.
-    - $P = \int_0^{L/2} |\psi|^2 dx = 1/2$ (by symmetry)
+# 第二部分：3 個根本分歧 (3 Fundamental Disagreements)
 
-15. Find the angular momentum of a 2p electron.
-    - $L = \sqrt{l(l+1)}\hbar = \sqrt{2}\hbar$ (Schrödinger 1926)
+---
 
-*All problems use S.I. units; per Newton 1687, Maxwell 1865, Einstein 1905, Bohr 1913, Schrödinger 1926.*
+## 分歧 1：表演與「歷史真實」——表演可以「真實」嗎？
+
+### 立場 A：表演真實論 Performative Truth
+
+**代表人物**：**Peggy Phelan (1993)**、**Richard Schechner (2002)**、**Erika Fischer-Lichte (2008)**
+
+**核心論點**：表演捕捉到的是「檔案」無法捕捉的「情感真實」(affective truth)。
+
+**Phelan (1993, p. 146)**：「表演的『真實』是它的『不再』(no-longer-being-there)——它『通過消失而成為自己』。」
+
+$$\text{Performance's truth} = \lim_{\text{archival capture}} \text{what evades capture}$$
+
+**Schechner (2002, p. 110)**：「表演的獨特之處在於它的『雙重意識』(double consciousness)——表演者同時是表演者與觀察者，這個雙重性是其他藝術形式沒有的。」
+
+### 立場 B：表演局限論 Performative Limits
+
+**代表人物**：**Dominick LaCapra (2001)**、**Jacques Rancière (2004)**、**Frank Ankersmit (2001)**
+
+**核心論點**：歷史表演的「真實」是有限度的。
+
+**LaCapra** 在 *Writing History, Writing Trauma* (Johns Hopkins University Press, **2001**) 中批判歷史表演 (e.g., Schindler's List) 的問題：表演**壓縮了歷史的複雜性**；它「給予」觀眾的情感快感恰恰是它對歷史「真實」的背叛。
+
+LaCapra (2001, p. 89)：「過度的表演再現可能導致『情感終結』(emotional foreclosure)——觀眾以為自己已經『感受過』歷史，從而不再需要對歷史負責。」
+
+**Rancière (2004)** 在 *The Politics of Aesthetics* 中區分「政治的美學」(le politique) 與「美學的政治」(la politique)：歷史表演的再現可能「再現過度」(sur-représentation) 而「政治中立化」。
+
+Rancière (2004, p. 23)：「美學的政治不是『政治的美學』——前者質疑再現的邊界，後者將再現視為理所當然。」
+
+### 張力 / The Tension
+
+$$\text{Performance} : \begin{cases} \text{Phelan:} \quad T = \text{emotional immediacy} \\ \text{LaCapra:} \quad T = \text{emotional foreclosure} \end{cases}$$
+
+$$T_{\text{truth}} = A \cdot e^{-\text{documentary fidelity}} + B \cdot e^{-\text{emotional access}}$$
+
+歷史的「真實」是文件 fidelity 與情感 access 的張力——任何表演歷史都必須處理這個權衡。
+
+**進一步**：這個分歧背後的哲學差異是「存在論」vs「認識論」：
+
+- **Phelan**：表演的「真實」是「存在論的」(ontological)——它存在於表演的「消失」之中
+- **LaCapra**：表演的「真實」是「認識論的」(epistemological)——它是研究者對「什麼是歷史真實」的限制性主張
+
+---
+
+## 分歧 2：表演研究——藝術方法還是歷史方法？
+
+### 立場 A：藝術方法派 Performance Studies as Arts
+
+**代表人物**：**Richard Schechner (1966, 1985, 2002, 2006)**、**Hans-Thies Lehmann (1999)**、**W.B. Worthen (1998)**
+
+**核心論點**：Performance Studies 起源於戲劇系（NYU 1966），其核心方法仍應基於藝術分析——動作、聲音、空間、觀眾的「美學」維度。
+
+**Schechner (2002)** 雖然將表演研究擴展到日常生活，但他堅持「表演性」(performance) 與「劇場性」(theatricality) 的區分；前者是後者的子集。
+
+**Lehmann (1999)** 在 *Postdramatic Theatre* 中提出「後戲劇劇場」概念——劇場不再以「文本」為中心，而是以「身體」、「空間」、「觀眾」為中心。
+
+### 立場 B：歷史/社會科學方法派 Performance Studies as Historical/Social Method
+
+**代表人物**：**Diana Taylor (2003)**、**Erika Fischer-Lichte (2008)**、**Joseph Roach (1996)**、**Barbara Kirshenblatt-Gimblett (1999)**
+
+**核心論點**：Performance Studies 必須服務於歷史與社會理解——表演是「歷史證據」的一種形式，而非藝術品。
+
+**Taylor (2003, p. 16)**：「表演研究不僅僅是『劇場研究 + 1』——它是一種嶄新的分析方式，能夠處理檔案無法處理的歷史材料。」
+
+### 張力 / The Tension
+
+$$P_{\text{studies}} = \begin{cases} \text{Schechner:} \quad f(\text{aesthetic categories}) \\ \text{Taylor:} \quad f(\text{historical evidence}) \end{cases}$$
+
+兩者的分歧在於：表演研究是研究「劇場作品」(works) 的工具，還是研究「人類行為」(praxis) 的工具？這個分歧也決定了表演研究如何被「教」(taught) 和「產出」(produced)——是表演藝術學院還是歷史系？
+
+**中英對照 / Bilingual**：
+
+- **中文**：藝術方法派重視「文本」與「劇場」，歷史方法派重視「身體」與「檔案」——前者繼承了從 Aristotle (*Poetics*, 335 BCE) 以來的 mimetic 傳統，後者繼承了 Foucault (*Surveiller et punir*, 1975) 的歷史考古學傳統。
+- **English**: The arts-based approach values "text" and "theater"; the historical approach values "body" and "archive" — the former inherits the Aristotelian mimetic tradition (*Poetics*, 335 BCE), the latter inherits Foucault's historical-archaeological tradition (*Surveiller et punir*, 1975).
+
+---
+
+## 分歧 3：歷史表演——教育工具還是政治工具？
+
+### 立場 A：教育功能派 Educational Function
+
+**代表人物**：**Lonnie G. Bunch III (1999)**、**Peter Stearns (1998)**、**David Glassberg (1996)**
+
+**核心論點**：歷史表演讓公眾接觸歷史，是公眾歷史 (Public History) 的核心工具。
+
+**Bunch (1999)** 在談 Smithsonian National Museum of African American History 時指出：歷史表演的目標是**「參與式教育」**(participatory education)——讓觀眾從「旁觀者」變成「探索者」。
+
+**Glassberg (1996)** 在 *Public History and the Study of Memory* 中提出：歷史表演的「觀眾中心」(audience-centered) 視角——觀眾不是被動接收者，而是主動參與者。
+
+### 立場 B：政治工具派 Political Instrument
+
+**代表人物**：**Diana Taylor (2003)**、**Sharon Macdonald (2013)**、**Paul Williams (2007)**
+
+**核心論點**：歷史表演首先是**政治話語的場所**——它決定了什麼被視為「正當的過去」(legitimate past)。
+
+**Taylor (2003, p. 20)**：「歷史表演從來不是『中立的教育工具』；它通過『看不見的引導』(invisible choreography) 在**生產** (producing) 而非**再現** (representing) 過去。」
+
+**Macdonald (2013)** 在 *Memorylands* 中：紀念館從來不是「歷史教育的場所」，而是「集體記憶政治的場所」——它「重構」過去以服務現在的政治。
+
+### 張力 / The Tension
+
+$$\text{Reenactment} : \begin{cases} \text{Educational:} \quad \text{Audience} \to \text{Knowledge} \\ \text{Political:} \quad \text{Reenactment} \to \text{Power order} \end{cases}$$
+
+歷史表演究竟是將「真實的過去」傳遞給觀眾，還是參與建構「現在的秩序」？這是公眾歷史與批判史學之間最深的張力之一。
+
+**中英對照 / Bilingual**：
+
+- **中文**：教育派強調「觀眾需要知識」，政治派強調「權力需要合法性」——前者繼承了 Dewey (*Democracy and Education*, 1916) 的進步教育傳統，後者繼承了 Gramsci (*Quaderni del carcere*, 1948–1951) 的文化霸權理論。
+- **English**: The educational approach emphasizes "audiences need knowledge"; the political approach emphasizes "power needs legitimation" — the former inherits Dewey's progressive education tradition (*Democracy and Education*, 1916), the latter inherits Gramsci's theory of cultural hegemony (*Quaderni del carcere*, 1948–1951).
+
+---
+
+# 第三部分：10 個深度問題 (10 Probing Questions)
+
+---
+
+### Q1. 表演作為歷史證據：Repertoire 比 Archive 更真實嗎？
+
+**答案**：
+
+這個問題的答案取決於我們如何定義「真實」。**Diana Taylor (2003)** 在 *The Archive and the Repertoire* 中並沒有簡單地回答「repertoire 比 archive 更真實」這個問題；相反，她精細地區分了兩者的「認識論位置」。
+
+**Archive 與 Repertoire 的認識論差異可分為三個層面**：
+
+1. **物質性 (Materiality)**：Archive 是物質化的、可移動的、可跨時空傳播的（這是「檔案」的長處），但也因此**容易被權力篩選**——什麼被製成檔案、什麼不入檔案，本身就是政治決定。Repertoire 是當下的、不可移動的，但**更難被權力直接控制**。
+2. **主體性 (Subjectivity)**：Archive 預設「作者」(author)——檔案的書寫者；Repertoire 預設「實踐者」(practitioner)——儀式的參與者。兩者的「主體」不同，所以「誰的聲音被納入」也不同。
+3. **時間性 (Temporality)**：Archive 是異時的 (anachronistic)——檔案總是在「過去」被寫、在「現在」被讀，中間隔著歷史；Repertoire 是同步的 (synchronous)——它的「真實」就在「當下」發生。
+
+**但「更真實」這個說法容易誤導**：**Peggy Phelan (1993, p. 146)** 警告說，表演的「真實」恰恰在於它的「消失」——一旦用任何媒介「記錄」表演，表演就「不再是真實的表演」。所以 repertoire 的「真實」是一種**不可保留的現在性**——它正是通過不「客觀」而成為「真實」。
+
+**三個具體例證**：
+
+- **Stonewall 起義 (1969)**：官方檔案記錄了當晚 11 點發生的警察突襲事件；但 LGBTQ+ 群體每年 6 月的 Pride Parade 是對那次起義的「活檔案」——這個儀式的「真實」恰恰不在於重現每個細節，而在於**將過去的抗爭「活在」現在的身體中**。
+- **南京大屠殺**：日本官方檔案 (JACAR) 與中國官方檔案 (南京第二檔案館) 對同一事件的記載存在重大差異；Repertoire 在這裡表現為證人記憶、口述傳統、紀念儀式——這些記憶與官方檔案的張力構成了「歷史真實」的多層性。
+- **1989年6月4日**：天安門的官方檔案被系統性地銷毀；Repertoire——「民主女神」雕像、「坦克人」形象、維園晚會——成為事件「真實」的唯一載體。但這些 repertoire 也面臨「保真度」問題——它們逐漸「凝固」為儀式化的形象，失去了當下的「真實」。
+
+**歷史學家必須做的**：不是選擇「更相信」archive 還是 repertoire，而是**理解兩者之間的張力**——Repertoire 是「被壓抑的知識」的載體 (Foucault 1976, p. 81)，Archive 是「體制化的記憶」的載體；歷史學家的責任是揭示兩者的政治性，而不是假裝其中一方更客觀。
+
+---
+
+### Q2. 1968 年全球學生運動——集體表演如何重新定義政治？
+
+**答案**：
+
+1968 年的全球學生運動不是「因為」表演而成功，也不是「通過」表演而失敗；它真正揭示的是：**政治動員(political mobilisation)必然採取表演的形式**。這不是說政治是「�假的」表演——正好相反，表演是政治表達的根本形式之一。
+
+**從表演研究的角度看 1968 年的三個關鍵時刻**：
+
+1. **巴黎五月的「革命劇場」**：3月22日運動 (Daniel Cohn-Bendit) 的核心策略是 **「佔領空間 + 表演佔領」**——學生通過在 Sorbonne 大學建立「永久性劇場」(permanent theater)，將空間從「學習場所」轉化為「抵抗場所」。這個表演的核心是 **「身體的展示性」(corporeal displayness)**：學生的身體不僅在「抗議」，而且在「被看到」——這是 **Hannah Arendt (1958, p. 188)**「行動」(action) 概念的具體化：行動發生在「他者面前」(before others)。
+
+2. **日本的「反安保鬥爭」與「三里塚抗爭」**：從 1960 年到 1972 年的反安保鬥爭中，日本學生通過**身體的集體表演**(sing-in、自焚、火炬遊行) 重新定義政治表達的形式。**Zengakuren** 的肢體表演塑造了一個關鍵的概念——「身体政治」(body politics)：**政治鬥爭首先是身體的佔領**(身體 vs 國家機器)。
+
+3. **1968 年東京大學的「身體表演」**：日本左翼學生表演的中央大學為「科爾班鬥爭」(Kōraban Fight) 佔領東京大學安田講堂 99 天——這個「劇場佔領」的時間 (99 天) 和空間 (安田講堂) 都構成了「表演的物質性」(materiality of performance)。
+
+**理論意義**：1968 年證明了 **Michel de Certeau (1980, p. 35–47)** 的「戰術」(tactics) 概念——被邊緣化的群體通過**微觀的、日常的、表演性的策略**挑戰宏觀的結構性權力。在 1968 年的具體表現：佔領、�課、絕食、集體身體儀式——這些都是「戰術」，它們沒有推翻結構，但它們改變了結構的「可被見性」(visibility)。
+
+**1968 年的歷史遺產**：政治從此「表演化」(performative)。從毛澤東接見紅衛兵、列寧的「表演式葬禮」、到香港雨傘運動的「Umbrella Man」、到阿拉伯之春的「社交媒體表演」——我們進入一個「政治表演」的時代，1968 年是這個時代的開端。
+
+**具體公式化**：
+
+$$P_{\text{1968}} = \sum_{i=1}^{n} (\text{spatial occupation} + \text{corporeal display} + \text{mass solidarity})$$
+
+1968 年的政治表演由三個變量構成：空間佔領、身體展示、集體團結。三者的乘積決定了運動的「政治效力」。
+
+---
+
+### Q3. 香港歷史的表演性——從總督府到「國安法」表演的斷裂
+
+**答案**：
+
+香港歷史的「表演性」(performativity) 表現在殖民時期與後殖民時期之間存在**結構性斷裂**——這個斷裂本身就是「表演」的政治效果。
+
+**殖民時期 (1841–1997) 的「英國風格」表演**：
+
+殖民政府通過 **「禮儀」(ritual)** 將英國身份「表演」在香港空間：總督府的「交接儀式」(swearing-in ceremony)、每年 6 月的「英皇壽辰」(Empire Day)、每年 10 月的「重陽節」(不是中國重陽節，而是紀念英國「特拉法加海戰」)。這些儀式的核心是 **「物質化的他者」**(embodied Otherness)——通過建築物(都爹利街)、服飾(總督的禮服)、語言(英語作為官方語言)、節奏(準時的英國時間) 將香港製造成「帝國的表演場景」。
+
+**關鍵歷史時刻：1967 年左派暴動**：這是殖民時期最大規模的「抵抗表演」——左派群眾(主要是共產黨支持的工人與學生) 在香港街頭建立「反英」的「表演空間」：他們貼海報、喊口號、建立「革命根據地」。但最終，這場表演被殖民政府以另一場表演——「秩序的恢復」——鎮壓。
+
+**後殖民時期 (1997–) 的「中國特色」表演**：
+
+1997 年 7 月 1 日的回歸儀式是「帝國交接」的表演學典範——「降旗、升旗」(Union Jack → PRC national flag) 在同一地點(會議展覽中心)、同一時間(午夜 0:00)、「全球直播」——這是 **「國族表演」**(national performance) 的典範。
+
+但後殖民時期的「表演政治」更加複雜：
+
+1. **「國民教育」(2010–2012)**：通過學校教育「表演」特定版本的「中國身份」——這是國家權力對「記憶的微觀控制」
+2. **「雨傘運動」(2014) 與「魚蛋革命」(2016)**：抗議者通過「雨傘」、「獅子山」、「黃絲帶」等「符號性物件」(symbolic objects) 進行的「身體表演」——但這些表演的「真實性」受到爭議
+3. **「《國安法》」(2020)**：通過法律話語「表演」特定版本的「國家安全」——它是法律的表演、也是主權的表演；它對「歷史記憶」的影響是雙重的：既是「壓制表演」(禁止某些歷史表達)、也是「強化表演」(強化國家的歷史記憶)
+
+**「表演斷裂」的政治學**：殖民時期的「表演英國身份」與後殖民時期的「表演中國身份」之間存在**結構性斷裂**——這個斷裂不是「自然的轉變」，而是**政治決策的表演**：1997 年回歸儀式就是對這個「斷裂」的一次強制性「接合」。
+
+**更深層的問題**：香港的「表演性」歷史揭示了一個普遍真理——**任何殖民/後殖民秩序的維持，都需要不斷的「表演」**；一旦這個表演失去「觀眾」(audience)，殖民秩序就會失去合法性。香港未來的「表演政治」將取決於：誰能夠「表演」誰的歷史？
+
+---
+
+### Q4. 身體知識與歷史研究：「進入過去」是否可能？
+
+**答案**：
+
+「身體知識」(embodied knowledge) 是不可化約為文字知識的一種認識論形式；它要求研究者「進入」過去的身體實踐——但這是否可能？
+
+**「身體知識」在表演研究中的位置**：
+
+**Conquergood (1985)** 在 "Performing as a Moral Act" 中區分了「認知的」(knowing that) 與「技能的」(knowing how) 之後，提出表演知識是「顯現的」(knowing in) 知識——通過身體的實踐、不假思索的動作、自動的姿勢展現出來。這種知識**不可能通過文字完全傳遞**——你不可能通過看一本關於游泳的書學會游泳，你必須下水。Conquergood (1985, p. 4)：「表演民族誌不是『寫出來的』，而是『做出來的』。」
+
+**歷史研究中應用「身體知識」的三種模式**：
+
+1. **重演 (Re-enactment)**：再現歷史事件的身體實踐，例如民俗節日、歷史儀式重演；**問題**：重演只能是**近似的**(approximation)，不可能完全還原。
+2. **動作分析 (Movement Analysis)**：通過分析舞譜、儀式圖、影像，分析歷史中的「身體姿勢」；例如：**Rudolf Laban (1948)** 的動作分析理論應用於歷史儀式研究。
+3. **親密田野 (Intimate Fieldwork)**：通過參與觀察，學習被研究群體的「身體節奏」(body rhythm)、動作速度、空間感知；這是 **Dorothy Stockbridge (1987)** 的研究方式。
+
+**「進入過去」是否可能？三種回答**：
+
+- **悲觀回答 (Susan Stewart 1985)**：「過去的身體」是一個「進入不可能」——每次「重演」都是一次「現在的發明」，而非「過去的還原」。Stewart (1985, p. 145) 區分了「重演」(reenactment) 與「複製」(replica)：「重演」是當下的解釋，與過去之間存在不可逾越的鴻溝。
+- **樂觀回答 (Diana Taylor 2003, p. 271)**：「重演」可以成為「與過去的對話」——通過身体的實踐，我們不還原過去，而是在「想像中」(imagining) 重新建構過去。Taylor 沒有宣稱可以進入過去，但她相信「重演」是一種「認識論活動」(epistemic activity)。
+- **辯證回答 (Rebecca Schneider 2011, p. 97)**：「重演」揭示的恰恰是「過去」與「現在」的不可分割性——重演的「失敗」(無法完全還原) 正是過去在現在中**存在的形式**。Schneider 在 *Performing Remains* (Routledge, 2011) 中提出「**re-enactment 是感官技術」(a sensory technology)：通過「做」(doing)，我們不僅再現過去，而且在「重構」過去與現在的關係。
+
+**HKU HIST2212 的實踐**：
+
+Crystal Kwok 的課程讓學生通過「拍攝歷史短片」參與「身體知識」的生產。這不是「重演過去」(重演南京大屠殺)，而是「將過去的歷史記憶『表演』為當下的影像」——這個過程中，學生**進入的不是過去**，而是**他們對過去的「想像」**——而這個想像本身是值得研究的對象。
+
+**結論**：「進入過去」是**不可能的任務**，但「通過身體實踐與過去對話」是**可能的方法論**——歷史學家的身體不再是「被動記錄檔案的儀器」，而是「主動與過去對話的媒介」。
+
+---
+
+### Q5. 博物館的表演政治——從殖民展覽到「痛苦文化」
+
+**答案**：
+
+博物館的「表演政治」(politics of display) 在過去 150 年經歷了四個階段：
+
+**階段一：帝國的「人類展覽」(1870s–1900s)**：
+
+1889 年巴黎世博會期間，法國舉辦了「黑人村」(Village Noir) 展覽——將 400 名非洲人作為「活的展品」展出。這不是「表演」的隱喻——這是**最字面的「人類展覽」**(human zoo)。類似的展覽出現在布魯塞爾 (1897)、芝加哥 (1893)、倫敦 (Crystal Palace 1899)。
+
+**政治分析**：這類展覽**生產了種族的「物化」(thingification)**——通過「展品」的形式，被展示者不再被視為「人」(subjects)，而成為「觀看的對象」(objects-of-gaze)。**Foucault (1975, p. 217)** 在 *Surveiller et punir* 中分析的「展覽性暴力」(exhibitionary violence) 在人類展覽中達到了極致。
+
+**階段二：國家民族博物館 (1900s–1945)**：
+
+第一次世界大戰後，殖民帝國開始建立「國家民族博物館」(national-ethnic museums)——例如加拿大人類博物館 (1910)、澳洲國家博物館 (1901)、中國「國立歷史博物館」(1926 籌備)。這些博物館的表演政治是 **「建構國族身份」**——通過「祖先」的器物、「國土」的地理展覽、「文明」的歷史線性敘事，建構「我們」(us)。
+
+**階段三：戰爭記憶紀念館 (1945–1990s)**：
+
+第二次世界大戰後建立的紀念館是**另一種表演政治**：
+
+- **廣島和平記念館 (1955)**：以「絕對和平」為中心，通過「幸存者的證詞」(hibakusha testimonies) 將原子彈記憶「身體化」——但同時「淡化」了 Hiroshima 為何成為目標 (e.g., 軍事價值) 的討論
+- **南京大屠殺紀念館 (1985)**：以「勿忘國恥」為中心，通過「萬人坑」的「土堆」將日軍暴行「物質化」——但同時「強化」中國作為受害者的單一身份
+- **美國國殤紀念館 (USS Arizona, 1962)**：通過「沉船本身」作為展品，將「永遠警惕」的話語「物質化」——但同時「隱藏」了 Pearl Harbor 為何發生的地緣政治背景
+- **耶路撒冷猶太人大屠殺紀念館 Yad Vashem (1953)**：以「大屠殺作為例外」(Holocaust as exception) 為中心——但同時「競爭」著大屠殺與其他大屠殺 (e.g., Armenian, Rwandan) 的關係
+
+**政治學的核心悖論**：所有的「戰爭記憶紀念館」都通過**「選擇性記憶」**(selective memory) 建構特定的政治身份。**Frédéric Mégret (2016, p. 4)** 將這個現象概括為 **「紀念館即話語」**(the museum is discourse)——每一個展覽都是一種政治表態。
+
+**階段四：「多元記憶博物館」(1990s–至今)**：
+
+1990 年代以來，博物館開始從「國家民族敘事」轉向「多元記憶」(multidirectional memory, **Michael Rothberg 2009**)。具體表現：
+
+1. **去殖民博物館 (decolonial museums)**：例如 Aotearoa 紐西蘭 Te Papa (1998)、荷蘭 Rijksmuseum 2022 重新布置殖民展廳
+2. **「對話博物館」(dialogue museums)**：讓邊緣群體參與展覽設計，例如加拿大 UBC Museum of Anthropology (MOA 1976 創立) 的 First Nations 參與
+3. **數字博物館 (digital museums)**：通過 VR、AR 讓觀眾「進入」歷史空間——例如隆納道西 (LONDAD) 的「China's Cultural Revolution」數字博物館
+
+**HKU 學生應該問的問題**：
+
+- 香港歷史博物館的展覽策略是「國家民族敘事」還是「對話博物館」？
+- 「六七暴動」(1967) 與「八九民運」(1989) 如何在香港歷史博物館中被「表演」？
+- 「國安法後」(2020) 的博物館表演政治發生了怎樣的變化？
+
+**結論**：博物館從來不是「歷史教育場所」——它是「歷史記憶的表演場所」。每一個展覽都是政治決策的結果；每一個觀眾都是這個表演的「共謀者」。批判性的博物館觀看需要：理解「看不見的選擇」(invisible choices)、追問「誰的歷史」(whose history)、揭示「表演的政治」(politics of performance)。
+
+---
+
+### Q6. 性別表演性與中國女性歷史：「女性氣質」如何被表演？
+
+**答案**：
+
+**Butler (1990)** 的表演性理論對中國女性歷史研究的最大啟示是：**「女性氣質」在中國歷史中從來不是「自然的」**，而是通過多重制度 (institutions) 表演出來的「文化構造」。
+
+**表演「女性氣質」的五種中國歷史機制**：
+
+1. **身體的改造 (Body Modification)**：
+   - **纏足 (10th–20th century)**：通過 5-7 歲開始的腳部纏繞，將「女性腳」構造為「小的、半月形、無用於勞動」的物件。這不是「自然的產物」，而是**通過數百萬次每日的身體表演(每日的走路、洗腳)構造成為「女性的本質」**。**Dorothy Ko (2005)** 在 *Cinderell's Sisters* 中揭示了這個建構過程。
+   - **束胸 (1920s)、剪髮 (1920s)**：民國時期的「新女性」通過「解放身體」的表演，將自己構造為「新中國的『新人』」
+   - **「鐵姑娘」(1958–1980s)**：通過勞動表演，重新定義「社會主義女性氣質」
+
+2. **語言的訓練 (Linguistic Discipline)**：
+   - **「三從四德」(**「未嫁從父、既嫁從夫、夫死從子」**)**：通過道德教育，將「服從」構造為「女性的『本質』」
+   - **「賢妻良母」話語(1920s–)**：通過國民家庭教科書，將家庭服務構造為「女性的『本性』」
+   - **「男女平等」話語 (1949–)**：通過國家政策，將國家動員構造為「女性解放」的「女性本質」
+
+3. **社會空間的限制 (Spatial Limitation)**：
+   - **內外之別 (Inner-Outer)**：傳統中國家庭中，「內」(私人空間) 被構造為「女性的場所」
+   - **「貞節牌坊」**(14th–20th century)：通過國家頒發的物質化的榮譽，將女性的身體「固定」在寡居的位置
+   - **工廠女工 (1950s–1990s)**：通過社會主義工業化的「體力勞動空間」，重新定義女性的「工作場所」
+
+4. **戲劇的表演 (Theatrical Performance)**：
+   - **京劇「青衣」表演**：通過戲劇中「女性角色的表演」，將「女性氣質」在舞台上「示範」給觀眾
+   - **「花木蘭」形象**：通過「女扮男裝」的戲劇表演，揭示「女性氣質」的表演性——如果花木蘭可以在戰場上「表演」男性，那麼「男性氣質」也是「表演」
+
+5. **法律與政策的話語 (Legal-Political Discourse)**：
+   - **《民法典》**(1930) 對「妻」的定義、**(1950)《婚姻法》**、**(1980)《繼承法》**、**(2001)《婚姻法》(修訂)**：法律對「女性」的不斷「重新定義」——每次定義都是一次「重複的表演」(Butler 式)；每次表演都「再生產」新的「女性本質」
+
+**批判性的歷史學家能做的**：
+
+- **揭示「女性本質」是歷史的產物**：每個時代的「女性本質」都是表演的「結果」，不是「自然前提」
+- **追問「誰的表演是有權的」(Whose Performance Counts)**：花木蘭式的「女扮男裝」可以成為英雄，但普通女性的「性別流動」卻常常被醫學化(如「易性癖」歷史)
+- **分析「抗爭性的表演」(Resistant Performance)**：從古代的「女扮男裝」到現代的「酷兒表演」，抗爭者通過「非常規表演」揭示「常規表演」的偽自然性
+
+**理論意義**：Butler 的表演性理論**沒有否定**中國女性的歷史經驗——它揭示的是，這些經驗的「建構性」(constructive character)。歷史學家通過展示這個建構性，不是否定女性的「真實」，而是增強女性的「能動性」(agency)——她不是被「本質」決定的，而是通過表演「選擇」的。
+
+---
+
+### Q7. 表演與創傷記憶：南京與大屠殺的「記憶劇場」
+
+**答案**：
+
+創傷記憶的「表演」(performance of trauma memory) 揭示了一個倫理困境：**表演創傷是讓創傷被記憶和正義化的工具，還是對創傷受害者的再次剝削**？這個問題在南京大屠殺 (1937) 與大屠殺 (Holocaust, 1939–1945) 的「記憶劇場」(memory theater) 中表現得最為尖銳。
+
+**兩種創傷記憶的表演模式**：
+
+1. **「重複模式」(Repetition Mode) — 受害者中心的

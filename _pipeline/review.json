@@ -1,0 +1,2792 @@
+[
+  {
+    "file": "./00_大綱/05_全課程列表.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 477
+  },
+  {
+    "file": "./01_HKU_Courses/HIST1016_The_modern_world.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 692
+  },
+  {
+    "file": "./01_HKU_Courses/HIST1017_Modern_Hong_Kong.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 751
+  },
+  {
+    "file": "./01_HKU_Courses/HIST1023_Modern_East_Asia.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 646
+  },
+  {
+    "file": "./01_HKU_Courses/HIST1025_Introduction_to_the_United_States.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 749
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2031_History_through_Film.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 682
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2063_Europe_and_modernity.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 685
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2068_Intellectual_History_Twentieth_Century_China.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 740
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2068_Intellectual_history_of_twentieth_century_China.md",
+    "score": 103,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 578
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2070_Stories_of_Self.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 658
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2076_Germany_Cold_War.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 790
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2076_Germany_and_the_Cold_War.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 676
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2077_Eating_history.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 677
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2079_Early_modern_Europe.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 678
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2103_Russian_State_and_Society.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 795
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2103_Russian_state_and_society.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 672
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2118_Chinese_and_Americans.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 658
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2127_Qing_China_in_the_World.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 829
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2143_Love_and_loyalty.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 665
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2143_Love_and_loyalty_Women_and_gender.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 660
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2152_Late_socialism.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 666
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2152_Late_socialism_and_1989.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 807
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2161_Making_Race.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 675
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2170_Islamic_world.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 662
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2170_Making_of_the_Islamic_world.md",
+    "score": 103,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 611
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2177_Economic_History_Modern_China.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 820
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2177_Economic_history_modern_China.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 906
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2177_Economic_history_of_modern_China.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 670
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2179_Law_empire_and_world_history.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 652
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2179_Law_empire_world_history.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 617
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2188_Making_modern_South_Asia.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 626
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2188_Making_of_modern_South_Asia.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 654
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2192_Modern_Southeast_Asia.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 654
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2192_Modern_Southeast_Asian_history.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 624
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2193_History_of_Energy.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 799
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2202_Christianity_in_Asia.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 655
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2208_The_Silk_Roads.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 654
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2212_Performing_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 655
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2213_Witchcraft_Magic.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 705
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2213_Witchcraft_magic_and_the_devil.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 559
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2215_Global_Environmental_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 656
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2220_History_through_Fiction.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 676
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2220_History_through_fiction.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2222_Persianate_World.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 685
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2225_Global_History_of_Prisons.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 701
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2229_Atlantic_revolutions.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 721
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2229_Global_Atlantic_revolutions.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 850
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2230_Early_modern_Atlantic_Worlds.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 837
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2231_Beauty_Histories.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2232_Womens_Magazines.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 848
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2232_Womens_Magazines_as_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./01_HKU_Courses/HIST2233_Globalizing_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 608
+  },
+  {
+    "file": "./01_HKU_Courses/HIST3075_Directed_Reading.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 686
+  },
+  {
+    "file": "./01_HKU_Courses/HIST3076_Tourism_and_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 583
+  },
+  {
+    "file": "./01_HKU_Courses/HIST3076_Tourism_and_history.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 692
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4017_Dissertation_Elective.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 599
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4023_History_Research_Project.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 736
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4024_Writing_Hong_Kong_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 651
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4024_Writing_Hong_Kong_history.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 701
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4028_History_Without_Borders.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 649
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4028_History_without_Borders.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 715
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4033_Museum_and_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 650
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4035_History_Applied_Internship.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 662
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4038_Migration_and_Archives.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 663
+  },
+  {
+    "file": "./01_HKU_Courses/HIST4039_Technology_Creativity_Music.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 650
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1017.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 528
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1017_Forced_to_Be_Free.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1068.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 521
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1068_United_States_and_China.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1088.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 530
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1088_The_Crusades.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1159.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 501
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1159_American_Capitalism.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 743
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1160.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 497
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1160_Harvard_Gets_Medieval.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1206.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 511
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/GenEd1206_Asian_Americans.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 743
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist12.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 510
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist12_Conspiracy.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist14.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 518
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist14_The_First_World_War.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist21.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 504
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist21_Labor_Liberty_Conflict.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist32A.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 510
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist32A_Ottoman_Empire.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist33.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 537
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist33_The_Holocaust.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist38.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 504
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist38_Modern_China.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist46.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 494
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist46_Life_after_Hitler.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist47.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 485
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist47_The_Cold_War.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist57.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 505
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist57_Empire_Nation_Partition.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist66.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 502
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist66_Coming_of_the_Civil_War.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 743
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist68.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 490
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist68_20th_Century_United_States.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist70.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 506
+  },
+  {
+    "file": "./02_Harvard_Courses/101_Foundations/Hist70_Sub_Saharan_Africa.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS47U.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 495
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS47U_Declarations_of_Independence.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS66K.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 506
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS66K_Philosophy_of_Laughter.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS71M.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 483
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS71M_Global_Capitalism.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS73V.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 508
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYS73V_Antisemitism.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/FYSEMR72C_World_without_Airplanes.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1034.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 505
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1034_Texts_in_Transition.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1136.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 520
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1136_Power_and_Civilization_China.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 741
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1147.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 519
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1147_American_Food.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1203.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 514
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/GENED1203_How_the_Germans_Embraced_Hitler.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist115.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 499
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist115_Amsterdam.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist117.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 510
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist117_Settler_Revolution.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist120.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 498
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist120_Atlantic_Slave_Wars.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist124_Law_and_Order_America.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 770
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist132_Travelers_Byzantine_World.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 762
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist132_Travelers_in_Byzantine_World.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist137_History_of_Love.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 670
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist1942_The_Second_World_War.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 645
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist20A_Western_Intellectual_History.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 647
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist23_Immigration_Law.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 648
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist29_Fall_of_Roman_Empire.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 607
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist29_Fall_of_the_Roman_Empire.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist39_Jews_in_the_Modern_World.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 589
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist44_Germany_1848_1949.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 588
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist55_Early_Modern_Europe.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 573
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist56_Coffee_Nighttime.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 577
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist56_Coffee_and_the_Nighttime.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist62_African_Diaspora.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 568
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist76_History_of_Energy.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 578
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist83_Heidegger.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 572
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist86_Race_and_Public_Health.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 574
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist87_Democracy_Long_View.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 564
+  },
+  {
+    "file": "./02_Harvard_Courses/Fall_Courses/Hist87_Democracy_the_Long_View.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 739
+  },
+  {
+    "file": "./06_Reading_Notes/GenEd1017_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 398
+  },
+  {
+    "file": "./06_Reading_Notes/GenEd1068_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./06_Reading_Notes/HIST1025_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./06_Reading_Notes/Hist14_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./06_Reading_Notes/Hist38_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./06_Reading_Notes/Hist47_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./06_Reading_Notes/Hist68_深度問答.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./06_Reading_Notes/Phase1_深度問答總表.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 897
+  },
+  {
+    "file": "./docs/courses.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 477
+  },
+  {
+    "file": "./docs/index.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 381
+  },
+  {
+    "file": "./docs/phase1-deep-qa.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 897
+  }
+]
